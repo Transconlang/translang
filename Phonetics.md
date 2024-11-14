@@ -1,7 +1,6 @@
 # Phonetics
 
 ## Consonants
-
 | Symbol | IPA Pronunciation | Anglicized |
 ---------|-------------------|------------|
 | 3 | /mi/ | "me" |
@@ -35,7 +34,6 @@
 | Tap         |        |        | ɾ        |              |         |       |         |
 
 ## Vowels
-
 | Symbol | IPA Pronunciation | Anglicized |
 |--------|-------------------|------------|
 | <div style="display: flex; align-items: center; height: 100%;">o</div> | <div align="center">mainly /ɒ/ , /ɔ/ , /ʊ/ <br> also /ə/</div> |	"oh" |
@@ -46,6 +44,6 @@
 
 ## Syllable Structure
 
-CV(N) — consonant + vowel + maybe nasal consonant (n or m)
+* CV(N) — consonant + vowel + maybe nasal consonant (n or m)
 
-Stress should always be placed on the 2nd-to-last syllable.
+* Stress should always be placed on the 2nd-to-last syllable.
