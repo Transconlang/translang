@@ -31,7 +31,6 @@ The — te, used similar to english.
 There is no a/an since it's implied by default.
 
 ## Punctuation
-
 | Symbol | 	Usage/Purpose |
 | ------ | ------------- |
 | ' |		Denotes beginning of a sentence. |
