@@ -24,14 +24,14 @@ Help us out at r/transconlang
 
 ### ni- vs mo- vs -fe
 
-It seems that many don't understand the difference between these three, so let's show it on few examples:
+The difference between the affixes ni- , mo- , and -fe may seem confusing for some people. 
 
-Like if wusita is good, then 
-* *ni*wusita, not good, other than good, is not really good but not necessarily bad;
-* *mo*wusita, contrary to good, is bad; and
-* wusita*fe*, in opposition to good, is evil.
-
-And for the opposite case it's true too, if disita is bad, then:
-* *ni*disita, not good bad, other than bad, is not really bad but not necessarily good;
-* *mo*disita, contrary to bad, is good; and
-* disita*fe*, in opposition to bad, is against bad (i guess there is no good word for that?).
+#### A general definition is:
+* ni- is used for negation, having exactly the same meaning as non- in english, and thus establishes that the word is specifically ***not*** what the rest of it means. It can thus definitively refer to one concrete word (see first example), or be more abstract and refer to a wider array of possible options (see examples two and three). Examples:
+  1. nikumi , literal meaning being non-trans, and since the only possibilities in this case are trans and cis, cis
+  2. ni[positive] (we don't have words for positive, neutral, and negative), which would literally mean non-positive, and could thus mean negative or neutral
+  3. nikase , literal meaning being non-cat, which could mean anything without specific context. **Thus, certain combinations with ni- are impractical and should not be used**.
+* mo- is used for inversion, meaning "the contrary/inverse of", and hence establishes that the word is the ***contrary*** of what the rest of it means. It thus always definitively refers to one concrete word, unless there is ambiguity in the interpretation. Examples:
+  1. mo[positive] (we don't have words for positive, neutral, and negative), which would literally mean the contrary of positive (negative)
+* -fe is used to convey opposition towards something, meaning "opposed to", and thus simply defines opposition towards what the rest of the word means. Examples:
+  1. kumife , literal meaning being "opposed to transness", that being "transphobe"
