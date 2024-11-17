@@ -27,11 +27,11 @@ Help us out at r/transconlang
 The difference between the affixes ni- , mo- , and -fe may seem confusing for some people. 
 
 #### A general definition is:
-* ni- is used for negation, having exactly the same meaning as non- in english, and thus establishes that the word is specifically ***not*** what the rest of it means. It can thus definitively refer to one concrete word (see first example), or be more abstract and refer to a wider array of possible options (see examples two and three). Examples:
+* ni- ***is used for negation***, having exactly the same meaning as non- in english, and thus ***establishes that the word is specifically not what the rest of it means***. It can thus definitively refer to one concrete word (see first example), or be more abstract and refer to a wider array of possible options (see examples two and three). Examples:
   1. nikumi , literal meaning being non-trans, and since the only possibilities in this case are trans and cis, cis
   2. ni[positive] (we don't have words for positive, neutral, and negative), which would literally mean non-positive, and could thus mean negative or neutral
-  3. nikase , literal meaning being non-cat, which could mean anything without specific context. **Thus, certain combinations with ni- are impractical and should not be used**.
-* mo- is used for inversion, meaning "the contrary/inverse of", and hence establishes that the word is the ***contrary*** of what the rest of it means. It thus always definitively refers to one concrete word, unless there is ambiguity in the interpretation. Examples:
+  3. nikase , literal meaning being non-cat, which could mean anything without specific context. Thus, **certain combinations with ni- are impractical and should not be used**.
+* mo- ***is used for inversion***, meaning "the contrary/inverse of", and hence ***establishes that the word is the contrary of what the rest of it means***. It thus always definitively refers to one concrete word, unless there is ambiguity in the interpretation. Examples:
   1. mo[positive] (we don't have words for positive, neutral, and negative), which would literally mean the contrary of positive (negative)
-* -fe is used to ***convey opposition*** towards something, meaning "opposed to", and thus simply defines opposition towards what the rest of the word means. Examples:
+* -fe ***is used to convey opposition*** towards something, meaning "opposed to", and thus simply ***defines opposition towards what the rest of the word means***. Examples:
   1. kumife , literal meaning being "opposed to transness", that being "transphobe"
