@@ -48,3 +48,4 @@
 | jore | need |
 | lonki | field of knowledge/study |
 | tori | kindness, love |
+| toba | word |
