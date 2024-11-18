@@ -22,9 +22,10 @@ for (const file of Files) {
 	const content = await readFile(join(SourceDirectory, file), 'utf-8');
 	const rows = content
 		.split('\n')
+		.map(v => v.trim())
 		.filter(
 			v =>
-				!v.includes('Spelling') &&
+				!v.includes('Spelling | Definition') && !v.includes('Word | Meaning') &&
 				v.replaceAll(/[\|\s\-]/g, '').length > 0 &&
 				/^\| [^|]+ \|( [^|]+ \|)+$/.test(v)
 		);
