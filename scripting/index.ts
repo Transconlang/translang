@@ -1,6 +1,7 @@
 import { readdir, readFile, writeFile } from 'fs/promises';
 import { dirname, join } from 'path';
 import { fileURLToPath } from 'url';
+import { Entry, FullEntry, WordType } from './types';
 
 const SourceDirectory = join(
 	dirname(fileURLToPath(import.meta.url)),
@@ -14,6 +15,8 @@ const TargetDirectory = join(
 );
 
 const Files = await readdir(SourceDirectory);
+
+const CompleteDictionaryStack: FullEntry[] = [];
 
 for (const file of Files) {
 	const content = await readFile(join(SourceDirectory, file), 'utf-8');
@@ -33,7 +36,14 @@ for (const file of Files) {
 			.map(v => v.slice(1, -1))
 	);
 	// console.log(file, map);
-	const data = map.map(([word, meaning]) => ({ word, meaning }));
+	const data: Entry[] = map.map(([word, meaning]) => ({ word, meaning }));
+
+	const wordType = (() => {
+		const asdf = file.toLowerCase().replace(/s\.md$/, '');
+		if (asdf === 'prefixe') return 'prefix';
+		if (asdf === 'suffixe') return 'suffix';
+		else return asdf;
+	})() as WordType;
 
 	const targetFile = join(
 		TargetDirectory,
@@ -41,4 +51,14 @@ for (const file of Files) {
 	);
 
 	await writeFile(targetFile, JSON.stringify(data, null, '	'), 'utf-8');
+
+	CompleteDictionaryStack.push(
+		...data.map(entry => ({ ...entry, type: wordType }) satisfies FullEntry)
+	);
 }
+
+await writeFile(
+	join(TargetDirectory, '0-complete.json'),
+	JSON.stringify(CompleteDictionaryStack, null, '	'),
+	'utf-8'
+);

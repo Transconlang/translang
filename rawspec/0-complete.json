@@ -1,0 +1,1322 @@
+[
+	{
+		"word": "mi",
+		"meaning": "cute",
+		"type": "adjective"
+	},
+	{
+		"word": "wusita",
+		"meaning": "good",
+		"type": "adjective"
+	},
+	{
+		"word": "disita",
+		"meaning": "bad",
+		"type": "adjective"
+	},
+	{
+		"word": "nen",
+		"meaning": "not",
+		"type": "adjective"
+	},
+	{
+		"word": "toransu",
+		"meaning": "different, other",
+		"type": "adjective"
+	},
+	{
+		"word": "somo",
+		"meaning": "sleepy",
+		"type": "adjective"
+	},
+	{
+		"word": "sekiso",
+		"meaning": "sexy, fuckable",
+		"type": "adjective"
+	},
+	{
+		"word": "deja",
+		"meaning": "active",
+		"type": "adjective"
+	},
+	{
+		"word": "gara",
+		"meaning": "all",
+		"type": "adjective"
+	},
+	{
+		"word": "coko",
+		"meaning": "some",
+		"type": "adjective"
+	},
+	{
+		"word": "boro",
+		"meaning": "any",
+		"type": "adjective"
+	},
+	{
+		"word": "gurati",
+		"meaning": "negative freedom, free (price)",
+		"type": "adjective"
+	},
+	{
+		"word": "lifeta",
+		"meaning": "positive freedom, liberated",
+		"type": "adjective"
+	},
+	{
+		"word": "jala",
+		"meaning": "able, capable of",
+		"type": "adjective"
+	},
+	{
+		"word": "mire",
+		"meaning": "mid, average",
+		"type": "adjective"
+	},
+	{
+		"word": "misu",
+		"meaning": "liquid, fluid",
+		"type": "adjective"
+	},
+	{
+		"word": "ten",
+		"meaning": "solid, rigid",
+		"type": "adjective"
+	},
+	{
+		"word": "lufi",
+		"meaning": "gaseous",
+		"type": "adjective"
+	},
+	{
+		"word": "nen",
+		"meaning": "no",
+		"type": "adverb"
+	},
+	{
+		"word": "con",
+		"meaning": "soon",
+		"type": "adverb"
+	},
+	{
+		"word": "huba",
+		"meaning": "overly",
+		"type": "adverb"
+	},
+	{
+		"word": "sun",
+		"meaning": "why",
+		"type": "adverb"
+	},
+	{
+		"word": "saci",
+		"meaning": "how",
+		"type": "adverb"
+	},
+	{
+		"word": "tahi",
+		"meaning": "now",
+		"type": "adverb"
+	},
+	{
+		"word": "kahi",
+		"meaning": "then",
+		"type": "adverb"
+	},
+	{
+		"word": "sohi",
+		"meaning": "when",
+		"type": "adverb"
+	},
+	{
+		"word": "tawa",
+		"meaning": "here",
+		"type": "adverb"
+	},
+	{
+		"word": "kawa",
+		"meaning": "there",
+		"type": "adverb"
+	},
+	{
+		"word": "sowa",
+		"meaning": "where",
+		"type": "adverb"
+	},
+	{
+		"word": "pum",
+		"meaning": "and",
+		"type": "conjunction"
+	},
+	{
+		"word": "ron",
+		"meaning": "or",
+		"type": "conjunction"
+	},
+	{
+		"word": "no",
+		"meaning": "but",
+		"type": "conjunction"
+	},
+	{
+		"word": "nen",
+		"meaning": "no",
+		"type": "interjection"
+	},
+	{
+		"word": "henlo",
+		"meaning": "hello",
+		"type": "interjection"
+	},
+	{
+		"word": "na",
+		"meaning": "hi",
+		"type": "interjection"
+	},
+	{
+		"word": "konba",
+		"meaning": "goodbye",
+		"type": "interjection"
+	},
+	{
+		"word": "3",
+		"meaning": "cute!",
+		"type": "interjection"
+	},
+	{
+		"word": "ke",
+		"meaning": "ok",
+		"type": "interjection"
+	},
+	{
+		"word": "biwe",
+		"meaning": "thanks",
+		"type": "interjection"
+	},
+	{
+		"word": "hihi",
+		"meaning": "laughter",
+		"type": "interjection"
+	},
+	{
+		"word": "kase",
+		"meaning": "cat",
+		"type": "noun"
+	},
+	{
+		"word": "hun",
+		"meaning": "dog",
+		"type": "noun"
+	},
+	{
+		"word": "luma",
+		"meaning": "person",
+		"type": "noun"
+	},
+	{
+		"word": "mawa",
+		"meaning": "kiss",
+		"type": "noun"
+	},
+	{
+		"word": "lanmi",
+		"meaning": "food",
+		"type": "noun"
+	},
+	{
+		"word": "topi",
+		"meaning": "god, deity",
+		"type": "noun"
+	},
+	{
+		"word": "wantu",
+		"meaning": "number",
+		"type": "noun"
+	},
+	{
+		"word": "cosi",
+		"meaning": "choice, vote",
+		"type": "noun"
+	},
+	{
+		"word": "falo",
+		"meaning": "speech, discussion, chat",
+		"type": "noun"
+	},
+	{
+		"word": "linwa",
+		"meaning": "language",
+		"type": "noun"
+	},
+	{
+		"word": "keso",
+		"meaning": "cheese",
+		"type": "noun"
+	},
+	{
+		"word": "sekiso",
+		"meaning": "sex, act of fucking",
+		"type": "noun"
+	},
+	{
+		"word": "lumaba",
+		"meaning": "friend",
+		"type": "noun"
+	},
+	{
+		"word": "deja",
+		"meaning": "action",
+		"type": "noun"
+	},
+	{
+		"word": "gade",
+		"meaning": "guess",
+		"type": "noun"
+	},
+	{
+		"word": "tempu",
+		"meaning": "time",
+		"type": "noun"
+	},
+	{
+		"word": "cikondu",
+		"meaning": "second",
+		"type": "noun"
+	},
+	{
+		"word": "minedu",
+		"meaning": "minute",
+		"type": "noun"
+	},
+	{
+		"word": "haweru",
+		"meaning": "hour",
+		"type": "noun"
+	},
+	{
+		"word": "dawu",
+		"meaning": "day",
+		"type": "noun"
+	},
+	{
+		"word": "natu",
+		"meaning": "night",
+		"type": "noun"
+	},
+	{
+		"word": "murinu",
+		"meaning": "morning",
+		"type": "noun"
+	},
+	{
+		"word": "ebeninku",
+		"meaning": "evening",
+		"type": "noun"
+	},
+	{
+		"word": "monadu",
+		"meaning": "month",
+		"type": "noun"
+	},
+	{
+		"word": "siconu",
+		"meaning": "season",
+		"type": "noun"
+	},
+	{
+		"word": "waru",
+		"meaning": "year",
+		"type": "noun"
+	},
+	{
+		"word": "diwaru",
+		"meaning": "decade",
+		"type": "noun"
+	},
+	{
+		"word": "huwaru",
+		"meaning": "century",
+		"type": "noun"
+	},
+	{
+		"word": "newaru",
+		"meaning": "millenium",
+		"type": "noun"
+	},
+	{
+		"word": "nem",
+		"meaning": "mind",
+		"type": "noun"
+	},
+	{
+		"word": "pen",
+		"meaning": "movement",
+		"type": "noun"
+	},
+	{
+		"word": "nepen",
+		"meaning": "feeling",
+		"type": "noun"
+	},
+	{
+		"word": "gurati",
+		"meaning": "negative freedom",
+		"type": "noun"
+	},
+	{
+		"word": "lifeta",
+		"meaning": "positive freedom",
+		"type": "noun"
+	},
+	{
+		"word": "kumi",
+		"meaning": "trans(gender)ness",
+		"type": "noun"
+	},
+	{
+		"word": "jala",
+		"meaning": "ability",
+		"type": "noun"
+	},
+	{
+		"word": "mire",
+		"meaning": "half, middle",
+		"type": "noun"
+	},
+	{
+		"word": "misu",
+		"meaning": "liquid",
+		"type": "noun"
+	},
+	{
+		"word": "lufi",
+		"meaning": "gas",
+		"type": "noun"
+	},
+	{
+		"word": "ten",
+		"meaning": "solid",
+		"type": "noun"
+	},
+	{
+		"word": "kin",
+		"meaning": "thing",
+		"type": "noun"
+	},
+	{
+		"word": "meta",
+		"meaning": "measurment",
+		"type": "noun"
+	},
+	{
+		"word": "core",
+		"meaning": "desire",
+		"type": "noun"
+	},
+	{
+		"word": "jore",
+		"meaning": "need",
+		"type": "noun"
+	},
+	{
+		"word": "lonki",
+		"meaning": "field of knowledge/study",
+		"type": "noun"
+	},
+	{
+		"word": "tori",
+		"meaning": "kindness, love",
+		"type": "noun"
+	},
+	{
+		"word": "toba",
+		"meaning": "word",
+		"type": "noun"
+	},
+	{
+		"word": "Word",
+		"meaning": "Number",
+		"type": "number"
+	},
+	{
+		"word": "**sero**",
+		"meaning": "0",
+		"type": "number"
+	},
+	{
+		"word": "**wano**",
+		"meaning": "1",
+		"type": "number"
+	},
+	{
+		"word": "**duwo**",
+		"meaning": "2",
+		"type": "number"
+	},
+	{
+		"word": "**tero**",
+		"meaning": "3",
+		"type": "number"
+	},
+	{
+		"word": "**karo**",
+		"meaning": "4",
+		"type": "number"
+	},
+	{
+		"word": "**bimo**",
+		"meaning": "5",
+		"type": "number"
+	},
+	{
+		"word": "**ciko**",
+		"meaning": "6",
+		"type": "number"
+	},
+	{
+		"word": "**sebo**",
+		"meaning": "7",
+		"type": "number"
+	},
+	{
+		"word": "**wonto**",
+		"meaning": "8",
+		"type": "number"
+	},
+	{
+		"word": "**ninto**",
+		"meaning": "9",
+		"type": "number"
+	},
+	{
+		"word": "**dinko**",
+		"meaning": "10",
+		"type": "number"
+	},
+	{
+		"word": "dunko",
+		"meaning": "20",
+		"type": "number"
+	},
+	{
+		"word": "tenko",
+		"meaning": "30",
+		"type": "number"
+	},
+	{
+		"word": "kanko",
+		"meaning": "40",
+		"type": "number"
+	},
+	{
+		"word": "binko",
+		"meaning": "50",
+		"type": "number"
+	},
+	{
+		"word": "cinko",
+		"meaning": "60",
+		"type": "number"
+	},
+	{
+		"word": "senko",
+		"meaning": "70",
+		"type": "number"
+	},
+	{
+		"word": "wonko",
+		"meaning": "80",
+		"type": "number"
+	},
+	{
+		"word": "ninko",
+		"meaning": "90",
+		"type": "number"
+	},
+	{
+		"word": "**hundo**",
+		"meaning": "100",
+		"type": "number"
+	},
+	{
+		"word": "dundo",
+		"meaning": "200",
+		"type": "number"
+	},
+	{
+		"word": "tendo",
+		"meaning": "300",
+		"type": "number"
+	},
+	{
+		"word": "kando",
+		"meaning": "400",
+		"type": "number"
+	},
+	{
+		"word": "bindo",
+		"meaning": "500",
+		"type": "number"
+	},
+	{
+		"word": "cindo",
+		"meaning": "600",
+		"type": "number"
+	},
+	{
+		"word": "sendo",
+		"meaning": "700",
+		"type": "number"
+	},
+	{
+		"word": "wondo",
+		"meaning": "800",
+		"type": "number"
+	},
+	{
+		"word": "nindo",
+		"meaning": "900",
+		"type": "number"
+	},
+	{
+		"word": "**neko**",
+		"meaning": "1000",
+		"type": "number"
+	},
+	{
+		"word": "duko",
+		"meaning": "2000",
+		"type": "number"
+	},
+	{
+		"word": "teko",
+		"meaning": "3000",
+		"type": "number"
+	},
+	{
+		"word": "keko",
+		"meaning": "4000",
+		"type": "number"
+	},
+	{
+		"word": "biko",
+		"meaning": "5000",
+		"type": "number"
+	},
+	{
+		"word": "ciko",
+		"meaning": "6000",
+		"type": "number"
+	},
+	{
+		"word": "seko",
+		"meaning": "7000",
+		"type": "number"
+	},
+	{
+		"word": "woko",
+		"meaning": "8000",
+		"type": "number"
+	},
+	{
+		"word": "niko",
+		"meaning": "9000",
+		"type": "number"
+	},
+	{
+		"word": "diko",
+		"meaning": "10'000",
+		"type": "number"
+	},
+	{
+		"word": "dudiko",
+		"meaning": "20'000",
+		"type": "number"
+	},
+	{
+		"word": "tediko",
+		"meaning": "30'000",
+		"type": "number"
+	},
+	{
+		"word": "kadiko",
+		"meaning": "40'000",
+		"type": "number"
+	},
+	{
+		"word": "bidiko",
+		"meaning": "50'000",
+		"type": "number"
+	},
+	{
+		"word": "cidiko",
+		"meaning": "60'000",
+		"type": "number"
+	},
+	{
+		"word": "sediko",
+		"meaning": "70'000",
+		"type": "number"
+	},
+	{
+		"word": "wodiko",
+		"meaning": "80'000",
+		"type": "number"
+	},
+	{
+		"word": "nidiko",
+		"meaning": "90'000",
+		"type": "number"
+	},
+	{
+		"word": "huko",
+		"meaning": "100'000",
+		"type": "number"
+	},
+	{
+		"word": "duhuko",
+		"meaning": "200'000",
+		"type": "number"
+	},
+	{
+		"word": "tehuko",
+		"meaning": "300'000",
+		"type": "number"
+	},
+	{
+		"word": "kahuko",
+		"meaning": "400'000",
+		"type": "number"
+	},
+	{
+		"word": "bihuko",
+		"meaning": "500'000",
+		"type": "number"
+	},
+	{
+		"word": "cihuko",
+		"meaning": "600'000",
+		"type": "number"
+	},
+	{
+		"word": "sehuko",
+		"meaning": "700'000",
+		"type": "number"
+	},
+	{
+		"word": "wohuko",
+		"meaning": "800'000",
+		"type": "number"
+	},
+	{
+		"word": "nihuko",
+		"meaning": "900'000",
+		"type": "number"
+	},
+	{
+		"word": "**ranolono**",
+		"meaning": "1'000'000",
+		"type": "number"
+	},
+	{
+		"word": "dunolono",
+		"meaning": "2'000'000",
+		"type": "number"
+	},
+	{
+		"word": "tenolono",
+		"meaning": "3'000'000",
+		"type": "number"
+	},
+	{
+		"word": "kenolono",
+		"meaning": "4'000'000",
+		"type": "number"
+	},
+	{
+		"word": "binolono",
+		"meaning": "5'000'000",
+		"type": "number"
+	},
+	{
+		"word": "cinolono",
+		"meaning": "6'000'000",
+		"type": "number"
+	},
+	{
+		"word": "senolono",
+		"meaning": "7'000'000",
+		"type": "number"
+	},
+	{
+		"word": "wonolono",
+		"meaning": "8'000'000",
+		"type": "number"
+	},
+	{
+		"word": "ninolono",
+		"meaning": "9'000'000",
+		"type": "number"
+	},
+	{
+		"word": "dinolono",
+		"meaning": "10'000'000",
+		"type": "number"
+	},
+	{
+		"word": "dudinolono",
+		"meaning": "20'000'000",
+		"type": "number"
+	},
+	{
+		"word": "tedinolono",
+		"meaning": "30'000'000",
+		"type": "number"
+	},
+	{
+		"word": "kadinolono",
+		"meaning": "40'000'000",
+		"type": "number"
+	},
+	{
+		"word": "bidinolono",
+		"meaning": "50'000'000",
+		"type": "number"
+	},
+	{
+		"word": "cidinolono",
+		"meaning": "60'000'000",
+		"type": "number"
+	},
+	{
+		"word": "sedinolono",
+		"meaning": "70'000'000",
+		"type": "number"
+	},
+	{
+		"word": "wodinolono",
+		"meaning": "80'000'000",
+		"type": "number"
+	},
+	{
+		"word": "nidinolono",
+		"meaning": "90'000'000",
+		"type": "number"
+	},
+	{
+		"word": "hunolono",
+		"meaning": "100'000'000",
+		"type": "number"
+	},
+	{
+		"word": "**rawolono**",
+		"meaning": "1'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "diwolono",
+		"meaning": "10'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "huwolono",
+		"meaning": "100'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "**rerolono**",
+		"meaning": "1'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "dirolono",
+		"meaning": "10'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "hurolono",
+		"meaning": "100'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "**ragolono**",
+		"meaning": "1'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "digolono",
+		"meaning": "10'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "hugolono",
+		"meaning": "100'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "**rimolono**",
+		"meaning": "1'000'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "dimolono",
+		"meaning": "10'000'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "humolono",
+		"meaning": "100'000'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "**rikolono**",
+		"meaning": "1'000'000'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "dikolono",
+		"meaning": "10'000'000'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "hukolono",
+		"meaning": "100'000'000'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "**rebolono**",
+		"meaning": "1'000'000'000'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "dibolono",
+		"meaning": "10'000'000'000'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "hubolono",
+		"meaning": "100'000'000'000'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "**rontolono**",
+		"meaning": "1'000'000'000'000'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "dintolono",
+		"meaning": "10'000'000'000'000'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "huntolono",
+		"meaning": "100'000'000'000'000'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "**rinolono**",
+		"meaning": "1'000'000'000'000'000'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "dimpolono",
+		"meaning": "10'000'000'000'000'000'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "humpolono",
+		"meaning": "100'000'000'000'000'000'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "**rinkolono**",
+		"meaning": "1'000'000'000'000'000'000'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "dinkolono",
+		"meaning": "100'000'000'000'000'000'000'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "hunkolono",
+		"meaning": "100'000'000'000'000'000'000'000'000'000'000'000",
+		"type": "number"
+	},
+	{
+		"word": "mire-",
+		"meaning": "half, in the middle of",
+		"type": "prefix"
+	},
+	{
+		"word": "gara-",
+		"meaning": "all/every",
+		"type": "prefix"
+	},
+	{
+		"word": "coko-",
+		"meaning": "some",
+		"type": "prefix"
+	},
+	{
+		"word": "boro-",
+		"meaning": "any",
+		"type": "prefix"
+	},
+	{
+		"word": "ni-",
+		"meaning": "negation, other than",
+		"type": "prefix"
+	},
+	{
+		"word": "mo-",
+		"meaning": "inversion, contrary meaning",
+		"type": "prefix"
+	},
+	{
+		"word": "wu-",
+		"meaning": "denotes positive connotation",
+		"type": "prefix"
+	},
+	{
+		"word": "di-",
+		"meaning": "denotes negative connotation",
+		"type": "prefix"
+	},
+	{
+		"word": "ra",
+		"meaning": "in",
+		"type": "preposition"
+	},
+	{
+		"word": "para",
+		"meaning": "for",
+		"type": "preposition"
+	},
+	{
+		"word": "de",
+		"meaning": "of",
+		"type": "preposition"
+	},
+	{
+		"word": "no",
+		"meaning": "but",
+		"type": "preposition"
+	},
+	{
+		"word": "gon",
+		"meaning": "on",
+		"type": "preposition"
+	},
+	{
+		"word": "huba",
+		"meaning": "over",
+		"type": "preposition"
+	},
+	{
+		"word": "wuba",
+		"meaning": "under",
+		"type": "preposition"
+	},
+	{
+		"word": "faba",
+		"meaning": "in front of",
+		"type": "preposition"
+	},
+	{
+		"word": "caba",
+		"meaning": "behind",
+		"type": "preposition"
+	},
+	{
+		"word": "tamba",
+		"meaning": "next to",
+		"type": "preposition"
+	},
+	{
+		"word": "taba",
+		"meaning": "near",
+		"type": "preposition"
+	},
+	{
+		"word": "kaba",
+		"meaning": "far",
+		"type": "preposition"
+	},
+	{
+		"word": "—",
+		"meaning": "li",
+		"type": "pronoun"
+	},
+	{
+		"word": "mid",
+		"meaning": "mida",
+		"type": "pronoun"
+	},
+	{
+		"word": "—",
+		"meaning": "da",
+		"type": "pronoun"
+	},
+	{
+		"word": "—",
+		"meaning": "dase",
+		"type": "pronoun"
+	},
+	{
+		"word": "—",
+		"meaning": "dake",
+		"type": "pronoun"
+	},
+	{
+		"word": "—",
+		"meaning": "daka",
+		"type": "pronoun"
+	},
+	{
+		"word": "—",
+		"meaning": "daki",
+		"type": "pronoun"
+	},
+	{
+		"word": "—",
+		"meaning": "daci",
+		"type": "pronoun"
+	},
+	{
+		"word": "reda",
+		"meaning": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence",
+		"type": "pronoun"
+	},
+	{
+		"word": "toransu",
+		"meaning": "other",
+		"type": "pronoun"
+	},
+	{
+		"word": "gara",
+		"meaning": "all/every",
+		"type": "pronoun"
+	},
+	{
+		"word": "coko",
+		"meaning": "some",
+		"type": "pronoun"
+	},
+	{
+		"word": "boro",
+		"meaning": "any",
+		"type": "pronoun"
+	},
+	{
+		"word": "mire",
+		"meaning": "half",
+		"type": "pronoun"
+	},
+	{
+		"word": "Prefix for:",
+		"meaning": "—",
+		"type": "pronoun"
+	},
+	{
+		"word": "-lu",
+		"meaning": "defines an agent noun",
+		"type": "suffix"
+	},
+	{
+		"word": "-sa",
+		"meaning": "indicates plurality",
+		"type": "suffix"
+	},
+	{
+		"word": "-ri",
+		"meaning": "establishes a place/event",
+		"type": "suffix"
+	},
+	{
+		"word": "-dufen",
+		"meaning": "refers to an entity or construct that performs a specific action or function",
+		"type": "suffix"
+	},
+	{
+		"word": "-fe",
+		"meaning": "connotes opposition",
+		"type": "suffix"
+	},
+	{
+		"word": "-se",
+		"meaning": "establishes feminine characteristics/gender",
+		"type": "suffix"
+	},
+	{
+		"word": "-ke",
+		"meaning": "establishes androfeminine characteristics/gender",
+		"type": "suffix"
+	},
+	{
+		"word": "-ka",
+		"meaning": "establishes androgynous characteristics/gender",
+		"type": "suffix"
+	},
+	{
+		"word": "-ki",
+		"meaning": "establishes andromasc characteristics/gender",
+		"type": "suffix"
+	},
+	{
+		"word": "-ci",
+		"meaning": "establishes masculine characteristics/gender",
+		"type": "suffix"
+	},
+	{
+		"word": "-pa",
+		"meaning": "marks word as possessive",
+		"type": "suffix"
+	},
+	{
+		"word": "-lonki",
+		"meaning": "refers to a field of knowledge/study",
+		"type": "suffix"
+	},
+	{
+		"word": "-falo",
+		"meaning": "indicates manner or characteristic of speech ",
+		"type": "suffix"
+	},
+	{
+		"word": "-da",
+		"meaning": "refers to the past tense form of a verb",
+		"type": "suffix"
+	},
+	{
+		"word": "-ne",
+		"meaning": "refers to the present tense form of a verb",
+		"type": "suffix"
+	},
+	{
+		"word": "-lo",
+		"meaning": "refers to the future tense form of a verb",
+		"type": "suffix"
+	},
+	{
+		"word": "-ku",
+		"meaning": "establishes verb as uncertain/questioning",
+		"type": "suffix"
+	},
+	{
+		"word": "-do",
+		"meaning": "establishes verb as imperative",
+		"type": "suffix"
+	},
+	{
+		"word": "-jala",
+		"meaning": "denotes ability or capacity",
+		"type": "suffix"
+	},
+	{
+		"word": "mawa",
+		"meaning": "kiss",
+		"type": "verb"
+	},
+	{
+		"word": "binta",
+		"meaning": "eat",
+		"type": "verb"
+	},
+	{
+		"word": "sanu",
+		"meaning": "be",
+		"type": "verb"
+	},
+	{
+		"word": "tenco",
+		"meaning": "have",
+		"type": "verb"
+	},
+	{
+		"word": "somo",
+		"meaning": "sleep",
+		"type": "verb"
+	},
+	{
+		"word": "cosi",
+		"meaning": "choose, vote",
+		"type": "verb"
+	},
+	{
+		"word": "falo",
+		"meaning": "speak, say, tell",
+		"type": "verb"
+	},
+	{
+		"word": "toransu",
+		"meaning": "differ",
+		"type": "verb"
+	},
+	{
+		"word": "mahen",
+		"meaning": "make, create",
+		"type": "verb"
+	},
+	{
+		"word": "sekiso",
+		"meaning": "have sex, fuck",
+		"type": "verb"
+	},
+	{
+		"word": "deja",
+		"meaning": "do, act",
+		"type": "verb"
+	},
+	{
+		"word": "gade",
+		"meaning": "guess",
+		"type": "verb"
+	},
+	{
+		"word": "nem",
+		"meaning": "think",
+		"type": "verb"
+	},
+	{
+		"word": "pen",
+		"meaning": "move",
+		"type": "verb"
+	},
+	{
+		"word": "nepen",
+		"meaning": "feel",
+		"type": "verb"
+	},
+	{
+		"word": "gurati",
+		"meaning": "induce negative freedom, reduce cost to none",
+		"type": "verb"
+	},
+	{
+		"word": "lifeta",
+		"meaning": "induce positive freedom",
+		"type": "verb"
+	},
+	{
+		"word": "jala",
+		"meaning": "can, be able to",
+		"type": "verb"
+	},
+	{
+		"word": "meta",
+		"meaning": "measure",
+		"type": "verb"
+	},
+	{
+		"word": "core",
+		"meaning": "want",
+		"type": "verb"
+	},
+	{
+		"word": "jore",
+		"meaning": "need",
+		"type": "verb"
+	}
+]
