@@ -435,6 +435,31 @@
 		"type": "noun"
 	},
 	{
+		"word": "bencun",
+		"meaning": "book",
+		"type": "noun"
+	},
+	{
+		"word": "gucun",
+		"meaning": "story",
+		"type": "noun"
+	},
+	{
+		"word": "bengu",
+		"meaning": "storybook",
+		"type": "noun"
+	},
+	{
+		"word": "cikaran",
+		"meaning": "physical strength",
+		"type": "noun"
+	},
+	{
+		"word": "cikaranem",
+		"meaning": "mental strength",
+		"type": "noun"
+	},
+	{
 		"word": "Word",
 		"meaning": "Number",
 		"type": "number"
@@ -1317,6 +1342,26 @@
 	{
 		"word": "jore",
 		"meaning": "need",
+		"type": "verb"
+	},
+	{
+		"word": "pora",
+		"meaning": "to add, to increase",
+		"type": "verb"
+	},
+	{
+		"word": "mina",
+		"meaning": "to subtract, to decrease, to remove",
+		"type": "verb"
+	},
+	{
+		"word": "mulipa",
+		"meaning": "to multiply",
+		"type": "verb"
+	},
+	{
+		"word": "cipan",
+		"meaning": "to divide, to split",
 		"type": "verb"
 	}
 ]

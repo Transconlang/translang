@@ -49,3 +49,8 @@
 | lonki | field of knowledge/study |
 | tori | kindness, love |
 | toba | word |
+| bencun | book |
+| gucun | story |
+| bengu | storybook |
+| cikaran | physical strength |
+| cikaranem | mental strength |
