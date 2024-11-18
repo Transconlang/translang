@@ -160,6 +160,11 @@
 		"type": "conjunction"
 	},
 	{
+		"word": "sim",
+		"meaning": "yes",
+		"type": "interjection"
+	},
+	{
 		"word": "nen",
 		"meaning": "no",
 		"type": "interjection"
