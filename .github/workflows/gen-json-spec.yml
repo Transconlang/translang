@@ -16,15 +16,14 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+      with:
+        ref: ${{ github.head_ref }}
     - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
         node-version: node
     - run: cd scripting && npm ci && npm start
     - name: Add & Commit
-      uses: EndBug/add-and-commit@v9.1.4
+      uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        add: rawspec
-        default_author: github_actions
-        fetch: true
-        message: actions—generate JSON langspec
+        commit_message: "Update JSON language specification"
