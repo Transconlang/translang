@@ -23,3 +23,7 @@
 | meta | measure |
 | core | want |
 | jore | need |
+| pora | to add, to increase |
+| mina | to subtract, to decrease, to remove |
+| mulipa | to multiply |
+| cipan | to divide, to split |
