@@ -24,7 +24,7 @@ Help us out at r/transconlang
 
 ### ni- vs mo- vs -fe
 
-The difference between the affixes ni- , mo- , and -fe may seem confusing for some people. 
+The difference between the affixes ni- , mo- , and -fe may seem confusing for some people.
 
 #### A general definition is:
 * ni- ***is used for negation***, having exactly the same meaning as non- in english, and thus ***establishes that the word is specifically not what the rest of it means***. It can thus definitively refer to one concrete word (see first example), or be more abstract and refer to a wider array of possible options (see examples two and three). Examples:
@@ -35,3 +35,7 @@ The difference between the affixes ni- , mo- , and -fe may seem confusing for so
   1. mo[positive] (we don't have words for positive, neutral, and negative), which would literally mean the contrary of positive (negative)
 * -fe ***is used to convey opposition*** towards something, meaning "opposed to", and thus simply ***defines opposition towards what the rest of the word means***. Examples:
   1. kumife , literal meaning being "opposed to transness", that being "transphobe"
+
+## Serialized Language Specification
+
+The language specification lives in the `rawspec/` directory. Each JSON file contains an array consisting of entries from single section of the language specification. The sections are as listed in `Vocabulary/`, and the JSON files are named accordingly. All of them are concatenated into `rawspec/0-complete.json`, which has every single word. For the entry format, see `scripting/types.ts`, which explains the type of entry in each file.
