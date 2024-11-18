@@ -1,0 +1,410 @@
+[
+	{
+		"word": "Word",
+		"meaning": "Number"
+	},
+	{
+		"word": "**sero**",
+		"meaning": "0"
+	},
+	{
+		"word": "**wano**",
+		"meaning": "1"
+	},
+	{
+		"word": "**duwo**",
+		"meaning": "2"
+	},
+	{
+		"word": "**tero**",
+		"meaning": "3"
+	},
+	{
+		"word": "**karo**",
+		"meaning": "4"
+	},
+	{
+		"word": "**bimo**",
+		"meaning": "5"
+	},
+	{
+		"word": "**ciko**",
+		"meaning": "6"
+	},
+	{
+		"word": "**sebo**",
+		"meaning": "7"
+	},
+	{
+		"word": "**wonto**",
+		"meaning": "8"
+	},
+	{
+		"word": "**ninto**",
+		"meaning": "9"
+	},
+	{
+		"word": "**dinko**",
+		"meaning": "10"
+	},
+	{
+		"word": "dunko",
+		"meaning": "20"
+	},
+	{
+		"word": "tenko",
+		"meaning": "30"
+	},
+	{
+		"word": "kanko",
+		"meaning": "40"
+	},
+	{
+		"word": "binko",
+		"meaning": "50"
+	},
+	{
+		"word": "cinko",
+		"meaning": "60"
+	},
+	{
+		"word": "senko",
+		"meaning": "70"
+	},
+	{
+		"word": "wonko",
+		"meaning": "80"
+	},
+	{
+		"word": "ninko",
+		"meaning": "90"
+	},
+	{
+		"word": "**hundo**",
+		"meaning": "100"
+	},
+	{
+		"word": "dundo",
+		"meaning": "200"
+	},
+	{
+		"word": "tendo",
+		"meaning": "300"
+	},
+	{
+		"word": "kando",
+		"meaning": "400"
+	},
+	{
+		"word": "bindo",
+		"meaning": "500"
+	},
+	{
+		"word": "cindo",
+		"meaning": "600"
+	},
+	{
+		"word": "sendo",
+		"meaning": "700"
+	},
+	{
+		"word": "wondo",
+		"meaning": "800"
+	},
+	{
+		"word": "nindo",
+		"meaning": "900"
+	},
+	{
+		"word": "**neko**",
+		"meaning": "1000"
+	},
+	{
+		"word": "duko",
+		"meaning": "2000"
+	},
+	{
+		"word": "teko",
+		"meaning": "3000"
+	},
+	{
+		"word": "keko",
+		"meaning": "4000"
+	},
+	{
+		"word": "biko",
+		"meaning": "5000"
+	},
+	{
+		"word": "ciko",
+		"meaning": "6000"
+	},
+	{
+		"word": "seko",
+		"meaning": "7000"
+	},
+	{
+		"word": "woko",
+		"meaning": "8000"
+	},
+	{
+		"word": "niko",
+		"meaning": "9000"
+	},
+	{
+		"word": "diko",
+		"meaning": "10'000"
+	},
+	{
+		"word": "dudiko",
+		"meaning": "20'000"
+	},
+	{
+		"word": "tediko",
+		"meaning": "30'000"
+	},
+	{
+		"word": "kadiko",
+		"meaning": "40'000"
+	},
+	{
+		"word": "bidiko",
+		"meaning": "50'000"
+	},
+	{
+		"word": "cidiko",
+		"meaning": "60'000"
+	},
+	{
+		"word": "sediko",
+		"meaning": "70'000"
+	},
+	{
+		"word": "wodiko",
+		"meaning": "80'000"
+	},
+	{
+		"word": "nidiko",
+		"meaning": "90'000"
+	},
+	{
+		"word": "huko",
+		"meaning": "100'000"
+	},
+	{
+		"word": "duhuko",
+		"meaning": "200'000"
+	},
+	{
+		"word": "tehuko",
+		"meaning": "300'000"
+	},
+	{
+		"word": "kahuko",
+		"meaning": "400'000"
+	},
+	{
+		"word": "bihuko",
+		"meaning": "500'000"
+	},
+	{
+		"word": "cihuko",
+		"meaning": "600'000"
+	},
+	{
+		"word": "sehuko",
+		"meaning": "700'000"
+	},
+	{
+		"word": "wohuko",
+		"meaning": "800'000"
+	},
+	{
+		"word": "nihuko",
+		"meaning": "900'000"
+	},
+	{
+		"word": "**ranolono**",
+		"meaning": "1'000'000"
+	},
+	{
+		"word": "dunolono",
+		"meaning": "2'000'000"
+	},
+	{
+		"word": "tenolono",
+		"meaning": "3'000'000"
+	},
+	{
+		"word": "kenolono",
+		"meaning": "4'000'000"
+	},
+	{
+		"word": "binolono",
+		"meaning": "5'000'000"
+	},
+	{
+		"word": "cinolono",
+		"meaning": "6'000'000"
+	},
+	{
+		"word": "senolono",
+		"meaning": "7'000'000"
+	},
+	{
+		"word": "wonolono",
+		"meaning": "8'000'000"
+	},
+	{
+		"word": "ninolono",
+		"meaning": "9'000'000"
+	},
+	{
+		"word": "dinolono",
+		"meaning": "10'000'000"
+	},
+	{
+		"word": "dudinolono",
+		"meaning": "20'000'000"
+	},
+	{
+		"word": "tedinolono",
+		"meaning": "30'000'000"
+	},
+	{
+		"word": "kadinolono",
+		"meaning": "40'000'000"
+	},
+	{
+		"word": "bidinolono",
+		"meaning": "50'000'000"
+	},
+	{
+		"word": "cidinolono",
+		"meaning": "60'000'000"
+	},
+	{
+		"word": "sedinolono",
+		"meaning": "70'000'000"
+	},
+	{
+		"word": "wodinolono",
+		"meaning": "80'000'000"
+	},
+	{
+		"word": "nidinolono",
+		"meaning": "90'000'000"
+	},
+	{
+		"word": "hunolono",
+		"meaning": "100'000'000"
+	},
+	{
+		"word": "**rawolono**",
+		"meaning": "1'000'000'000"
+	},
+	{
+		"word": "diwolono",
+		"meaning": "10'000'000'000"
+	},
+	{
+		"word": "huwolono",
+		"meaning": "100'000'000'000"
+	},
+	{
+		"word": "**rerolono**",
+		"meaning": "1'000'000'000'000"
+	},
+	{
+		"word": "dirolono",
+		"meaning": "10'000'000'000'000"
+	},
+	{
+		"word": "hurolono",
+		"meaning": "100'000'000'000'000"
+	},
+	{
+		"word": "**ragolono**",
+		"meaning": "1'000'000'000'000'000"
+	},
+	{
+		"word": "digolono",
+		"meaning": "10'000'000'000'000'000"
+	},
+	{
+		"word": "hugolono",
+		"meaning": "100'000'000'000'000'000"
+	},
+	{
+		"word": "**rimolono**",
+		"meaning": "1'000'000'000'000'000'000"
+	},
+	{
+		"word": "dimolono",
+		"meaning": "10'000'000'000'000'000'000"
+	},
+	{
+		"word": "humolono",
+		"meaning": "100'000'000'000'000'000'000"
+	},
+	{
+		"word": "**rikolono**",
+		"meaning": "1'000'000'000'000'000'000'000"
+	},
+	{
+		"word": "dikolono",
+		"meaning": "10'000'000'000'000'000'000'000"
+	},
+	{
+		"word": "hukolono",
+		"meaning": "100'000'000'000'000'000'000'000"
+	},
+	{
+		"word": "**rebolono**",
+		"meaning": "1'000'000'000'000'000'000'000'000"
+	},
+	{
+		"word": "dibolono",
+		"meaning": "10'000'000'000'000'000'000'000'000"
+	},
+	{
+		"word": "hubolono",
+		"meaning": "100'000'000'000'000'000'000'000'000"
+	},
+	{
+		"word": "**rontolono**",
+		"meaning": "1'000'000'000'000'000'000'000'000'000"
+	},
+	{
+		"word": "dintolono",
+		"meaning": "10'000'000'000'000'000'000'000'000'000"
+	},
+	{
+		"word": "huntolono",
+		"meaning": "100'000'000'000'000'000'000'000'000'000"
+	},
+	{
+		"word": "**rinolono**",
+		"meaning": "1'000'000'000'000'000'000'000'000'000'000"
+	},
+	{
+		"word": "dimpolono",
+		"meaning": "10'000'000'000'000'000'000'000'000'000'000"
+	},
+	{
+		"word": "humpolono",
+		"meaning": "100'000'000'000'000'000'000'000'000'000'000"
+	},
+	{
+		"word": "**rinkolono**",
+		"meaning": "1'000'000'000'000'000'000'000'000'000'000'000"
+	},
+	{
+		"word": "dinkolono",
+		"meaning": "100'000'000'000'000'000'000'000'000'000'000'000"
+	},
+	{
+		"word": "hunkolono",
+		"meaning": "100'000'000'000'000'000'000'000'000'000'000'000"
+	}
+]
