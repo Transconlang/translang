@@ -15,17 +15,17 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: Use Node.js ${{ matrix.node-version }}
+    - name: Setup Node.js
       uses: actions/setup-node@v4
       with:
-        node-version: '22.x'
-        cache: 'npm'
+        node-version: node
+    - run: cd scripting
     - run: npm ci
     - run: npm start
     - name: Add & Commit
       uses: EndBug/add-and-commit@v9.1.4
       with:
-        add: 'rawspec'
+        add: rawspec
         default_author: github_actions
         fetch: true
-        message: 'actions—generate JSON langspec'
+        message: actions—generate JSON langspec
