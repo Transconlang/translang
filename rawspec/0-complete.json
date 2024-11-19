@@ -465,6 +465,21 @@
 		"type": "noun"
 	},
 	{
+		"word": "canwa",
+		"meaning": "result",
+		"type": "noun"
+	},
+	{
+		"word": "wucan",
+		"meaning": "victory",
+		"type": "noun"
+	},
+	{
+		"word": "dican",
+		"meaning": "defeat",
+		"type": "noun"
+	},
+	{
 		"word": "Word",
 		"meaning": "Number",
 		"type": "number"
