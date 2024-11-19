@@ -57,3 +57,4 @@
 | canwa | result |
 | wucan | victory |
 | dican | defeat |
+| bulohaji | comfort, safety, euphoria |
