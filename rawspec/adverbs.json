@@ -1,46 +1,75 @@
 [
 	{
-		"word": "nen",
-		"meaning": "no"
+		"type": "adverb",
+		"title": "Temporal adverbs",
+		"entries": [
+			{
+				"word": "nen",
+				"meaning": "no",
+				"extra": []
+			},
+			{
+				"word": "con",
+				"meaning": "soon",
+				"extra": []
+			},
+			{
+				"word": "huba",
+				"meaning": "overly",
+				"extra": []
+			},
+			{
+				"word": "sun",
+				"meaning": "why",
+				"extra": []
+			},
+			{
+				"word": "saci",
+				"meaning": "how",
+				"extra": []
+			}
+		]
 	},
 	{
-		"word": "con",
-		"meaning": "soon"
+		"type": "adverb",
+		"title": "Demonstrative adverbs",
+		"entries": [
+			{
+				"word": "tahi",
+				"meaning": "now",
+				"extra": []
+			},
+			{
+				"word": "kahi",
+				"meaning": "then",
+				"extra": []
+			},
+			{
+				"word": "sohi",
+				"meaning": "when",
+				"extra": []
+			}
+		]
 	},
 	{
-		"word": "huba",
-		"meaning": "overly"
-	},
-	{
-		"word": "sun",
-		"meaning": "why"
-	},
-	{
-		"word": "saci",
-		"meaning": "how"
-	},
-	{
-		"word": "tahi",
-		"meaning": "now"
-	},
-	{
-		"word": "kahi",
-		"meaning": "then"
-	},
-	{
-		"word": "sohi",
-		"meaning": "when"
-	},
-	{
-		"word": "tawa",
-		"meaning": "here"
-	},
-	{
-		"word": "kawa",
-		"meaning": "there"
-	},
-	{
-		"word": "sowa",
-		"meaning": "where"
+		"type": "adverb",
+		"title": "Demonstrative adverbs",
+		"entries": [
+			{
+				"word": "tawa",
+				"meaning": "here",
+				"extra": []
+			},
+			{
+				"word": "kawa",
+				"meaning": "there",
+				"extra": []
+			},
+			{
+				"word": "sowa",
+				"meaning": "where",
+				"extra": []
+			}
+		]
 	}
 ]

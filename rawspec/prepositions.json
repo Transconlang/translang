@@ -1,50 +1,67 @@
 [
 	{
-		"word": "ra",
-		"meaning": "in"
-	},
-	{
-		"word": "para",
-		"meaning": "for"
-	},
-	{
-		"word": "de",
-		"meaning": "of"
-	},
-	{
-		"word": "no",
-		"meaning": "but"
-	},
-	{
-		"word": "gon",
-		"meaning": "on"
-	},
-	{
-		"word": "huba",
-		"meaning": "over"
-	},
-	{
-		"word": "wuba",
-		"meaning": "under"
-	},
-	{
-		"word": "faba",
-		"meaning": "in front of"
-	},
-	{
-		"word": "caba",
-		"meaning": "behind"
-	},
-	{
-		"word": "tamba",
-		"meaning": "next to"
-	},
-	{
-		"word": "taba",
-		"meaning": "near"
-	},
-	{
-		"word": "kaba",
-		"meaning": "far"
+		"type": "preposition",
+		"entries": [
+			{
+				"word": "ra",
+				"meaning": "in",
+				"extra": []
+			},
+			{
+				"word": "para",
+				"meaning": "for",
+				"extra": []
+			},
+			{
+				"word": "de",
+				"meaning": "of",
+				"extra": []
+			},
+			{
+				"word": "no",
+				"meaning": "but",
+				"extra": []
+			},
+			{
+				"word": "gon",
+				"meaning": "on",
+				"extra": []
+			},
+			{
+				"word": "huba",
+				"meaning": "over",
+				"extra": []
+			},
+			{
+				"word": "wuba",
+				"meaning": "under",
+				"extra": []
+			},
+			{
+				"word": "faba",
+				"meaning": "in front of",
+				"extra": []
+			},
+			{
+				"word": "caba",
+				"meaning": "behind",
+				"extra": []
+			},
+			{
+				"word": "tamba",
+				"meaning": "next to",
+				"extra": []
+			},
+			{
+				"word": "taba",
+				"meaning": "near",
+				"extra": []
+			},
+			{
+				"word": "kaba",
+				"meaning": "far",
+				"extra": []
+			}
+		]
 	}
 ]

@@ -1,34 +1,47 @@
 [
 	{
-		"word": "mire-",
-		"meaning": "half, in the middle of"
-	},
-	{
-		"word": "gara-",
-		"meaning": "all/every"
-	},
-	{
-		"word": "coko-",
-		"meaning": "some"
-	},
-	{
-		"word": "boro-",
-		"meaning": "any"
-	},
-	{
-		"word": "ni-",
-		"meaning": "negation, other than"
-	},
-	{
-		"word": "mo-",
-		"meaning": "inversion, contrary meaning"
-	},
-	{
-		"word": "wu-",
-		"meaning": "denotes positive connotation"
-	},
-	{
-		"word": "di-",
-		"meaning": "denotes negative connotation"
+		"type": "prefix",
+		"entries": [
+			{
+				"word": "mire-",
+				"meaning": "half, in the middle of",
+				"extra": []
+			},
+			{
+				"word": "gara-",
+				"meaning": "all/every",
+				"extra": []
+			},
+			{
+				"word": "coko-",
+				"meaning": "some",
+				"extra": []
+			},
+			{
+				"word": "boro-",
+				"meaning": "any",
+				"extra": []
+			},
+			{
+				"word": "ni-",
+				"meaning": "negation, other than",
+				"extra": []
+			},
+			{
+				"word": "mo-",
+				"meaning": "inversion, contrary meaning",
+				"extra": []
+			},
+			{
+				"word": "wu-",
+				"meaning": "denotes positive connotation",
+				"extra": []
+			},
+			{
+				"word": "di-",
+				"meaning": "denotes negative connotation",
+				"extra": []
+			}
+		]
 	}
 ]

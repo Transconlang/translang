@@ -1,14 +1,22 @@
 [
 	{
-		"word": "pum",
-		"meaning": "and"
-	},
-	{
-		"word": "ron",
-		"meaning": "or"
-	},
-	{
-		"word": "no",
-		"meaning": "but"
+		"type": "conjunction",
+		"entries": [
+			{
+				"word": "pum",
+				"meaning": "and",
+				"extra": []
+			},
+			{
+				"word": "ron",
+				"meaning": "or",
+				"extra": []
+			},
+			{
+				"word": "no",
+				"meaning": "but",
+				"extra": []
+			}
+		]
 	}
 ]

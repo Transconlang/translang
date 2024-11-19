@@ -25,7 +25,8 @@ for (const file of Files) {
 		.map(v => v.trim())
 		.filter(
 			v =>
-				!v.includes('Spelling | Definition') && !v.includes('Word | Meaning') &&
+				!v.includes('Spelling | Definition') &&
+				!v.includes('Word | Meaning') &&
 				v.replaceAll(/[\|\s\-]/g, '').length > 0 &&
 				(/^\| [^|]+ \|( [^|]+ \|)+$/.test(v) || /^## [a-zA-Z\s]+$/.test(v))
 		);

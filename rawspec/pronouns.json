@@ -1,58 +1,100 @@
 [
 	{
-		"word": "—",
-		"meaning": "li"
+		"type": "pronoun",
+		"title": "Indefinite Pronouns",
+		"entries": [
+			{
+				"word": "—",
+				"meaning": "li",
+				"extra": [
+					"animate, unspecified, 1st person"
+				]
+			},
+			{
+				"word": "mid",
+				"meaning": "mida",
+				"extra": [
+					"animate, unspecified, 2nd person"
+				]
+			},
+			{
+				"word": "—",
+				"meaning": "da",
+				"extra": [
+					"animate, unspecified, 3rd person"
+				]
+			},
+			{
+				"word": "—",
+				"meaning": "dase",
+				"extra": [
+					"animate, feminine, 3rd person"
+				]
+			},
+			{
+				"word": "—",
+				"meaning": "dake",
+				"extra": [
+					"animate, androfem, 3rd person"
+				]
+			},
+			{
+				"word": "—",
+				"meaning": "daka",
+				"extra": [
+					"animate, androgynous, 3rd person"
+				]
+			},
+			{
+				"word": "—",
+				"meaning": "daki",
+				"extra": [
+					"animate, andromasc, 3rd person"
+				]
+			},
+			{
+				"word": "—",
+				"meaning": "daci",
+				"extra": [
+					"animate, masculine, 3rd person"
+				]
+			}
+		]
 	},
 	{
-		"word": "mid",
-		"meaning": "mida"
-	},
-	{
-		"word": "—",
-		"meaning": "da"
-	},
-	{
-		"word": "—",
-		"meaning": "dase"
-	},
-	{
-		"word": "—",
-		"meaning": "dake"
-	},
-	{
-		"word": "—",
-		"meaning": "daka"
-	},
-	{
-		"word": "—",
-		"meaning": "daki"
-	},
-	{
-		"word": "—",
-		"meaning": "daci"
-	},
-	{
-		"word": "reda",
-		"meaning": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence"
-	},
-	{
-		"word": "toransu",
-		"meaning": "other"
-	},
-	{
-		"word": "gara",
-		"meaning": "all/every"
-	},
-	{
-		"word": "coko",
-		"meaning": "some"
-	},
-	{
-		"word": "boro",
-		"meaning": "any"
-	},
-	{
-		"word": "mire",
-		"meaning": "half"
+		"type": "pronoun",
+		"title": "Demonstrative Pronouns",
+		"entries": [
+			{
+				"word": "reda",
+				"meaning": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence",
+				"extra": []
+			},
+			{
+				"word": "toransu",
+				"meaning": "other",
+				"extra": []
+			},
+			{
+				"word": "gara",
+				"meaning": "all/every",
+				"extra": []
+			},
+			{
+				"word": "coko",
+				"meaning": "some",
+				"extra": []
+			},
+			{
+				"word": "boro",
+				"meaning": "any",
+				"extra": []
+			},
+			{
+				"word": "mire",
+				"meaning": "half",
+				"extra": []
+			}
+		]
 	}
 ]
