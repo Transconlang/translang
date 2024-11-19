@@ -1,38 +1,62 @@
 [
 	{
-		"word": "sim",
-		"meaning": "yes"
-	},
-	{
-		"word": "nen",
-		"meaning": "no"
-	},
-	{
-		"word": "henlo",
-		"meaning": "hello"
-	},
-	{
-		"word": "na",
-		"meaning": "hi"
-	},
-	{
-		"word": "konba",
-		"meaning": "goodbye"
-	},
-	{
-		"word": "3",
-		"meaning": "cute!"
-	},
-	{
-		"word": "ke",
-		"meaning": "ok"
-	},
-	{
-		"word": "biwe",
-		"meaning": "thanks"
-	},
-	{
-		"word": "hihi",
-		"meaning": "laughter"
+		"type": "interjection",
+		"title": null,
+		"headers": [
+			"Word",
+			"Meaning"
+		],
+		"entries": [
+			{
+				"word": "Spelling",
+				"meaning": "Definition",
+				"extra": []
+			},
+			{
+				"word": "sim",
+				"meaning": "yes",
+				"extra": []
+			},
+			{
+				"word": "nen",
+				"meaning": "no",
+				"extra": []
+			},
+			{
+				"word": "henlo",
+				"meaning": "hello",
+				"extra": []
+			},
+			{
+				"word": "na",
+				"meaning": "hi",
+				"extra": []
+			},
+			{
+				"word": "konba",
+				"meaning": "goodbye",
+				"extra": []
+			},
+			{
+				"word": "3",
+				"meaning": "cute!",
+				"extra": []
+			},
+			{
+				"word": "ke",
+				"meaning": "ok",
+				"extra": []
+			},
+			{
+				"word": "biwe",
+				"meaning": "thanks",
+				"extra": []
+			},
+			{
+				"word": "hihi",
+				"meaning": "laughter",
+				"extra": []
+			}
+		]
 	}
 ]

@@ -1,102 +1,142 @@
 [
 	{
-		"word": "mawa",
-		"meaning": "kiss"
-	},
-	{
-		"word": "binta",
-		"meaning": "eat"
-	},
-	{
-		"word": "sanu",
-		"meaning": "be"
-	},
-	{
-		"word": "tenco",
-		"meaning": "have"
-	},
-	{
-		"word": "somo",
-		"meaning": "sleep"
-	},
-	{
-		"word": "cosi",
-		"meaning": "choose, vote"
-	},
-	{
-		"word": "falo",
-		"meaning": "speak, say, tell"
-	},
-	{
-		"word": "toransu",
-		"meaning": "differ"
-	},
-	{
-		"word": "mahen",
-		"meaning": "make, create"
-	},
-	{
-		"word": "sekiso",
-		"meaning": "have sex, fuck"
-	},
-	{
-		"word": "deja",
-		"meaning": "do, act"
-	},
-	{
-		"word": "gade",
-		"meaning": "guess"
-	},
-	{
-		"word": "nem",
-		"meaning": "think"
-	},
-	{
-		"word": "pen",
-		"meaning": "move"
-	},
-	{
-		"word": "nepen",
-		"meaning": "feel"
-	},
-	{
-		"word": "gurati",
-		"meaning": "induce negative freedom, reduce cost to none"
-	},
-	{
-		"word": "lifeta",
-		"meaning": "induce positive freedom"
-	},
-	{
-		"word": "jala",
-		"meaning": "can, be able to"
-	},
-	{
-		"word": "meta",
-		"meaning": "measure"
-	},
-	{
-		"word": "core",
-		"meaning": "want"
-	},
-	{
-		"word": "jore",
-		"meaning": "need"
-	},
-	{
-		"word": "pora",
-		"meaning": "to add, to increase"
-	},
-	{
-		"word": "mina",
-		"meaning": "to subtract, to decrease, to remove"
-	},
-	{
-		"word": "mulipa",
-		"meaning": "to multiply"
-	},
-	{
-		"word": "cipan",
-		"meaning": "to divide, to split"
+		"type": "verb",
+		"title": null,
+		"headers": [
+			"Word",
+			"Meaning"
+		],
+		"entries": [
+			{
+				"word": "Spelling",
+				"meaning": "Definition",
+				"extra": []
+			},
+			{
+				"word": "mawa",
+				"meaning": "kiss",
+				"extra": []
+			},
+			{
+				"word": "binta",
+				"meaning": "eat",
+				"extra": []
+			},
+			{
+				"word": "sanu",
+				"meaning": "be",
+				"extra": []
+			},
+			{
+				"word": "tenco",
+				"meaning": "have",
+				"extra": []
+			},
+			{
+				"word": "somo",
+				"meaning": "sleep",
+				"extra": []
+			},
+			{
+				"word": "cosi",
+				"meaning": "choose, vote",
+				"extra": []
+			},
+			{
+				"word": "falo",
+				"meaning": "speak, say, tell",
+				"extra": []
+			},
+			{
+				"word": "toransu",
+				"meaning": "differ",
+				"extra": []
+			},
+			{
+				"word": "mahen",
+				"meaning": "make, create",
+				"extra": []
+			},
+			{
+				"word": "sekiso",
+				"meaning": "have sex, fuck",
+				"extra": []
+			},
+			{
+				"word": "deja",
+				"meaning": "do, act",
+				"extra": []
+			},
+			{
+				"word": "gade",
+				"meaning": "guess",
+				"extra": []
+			},
+			{
+				"word": "nem",
+				"meaning": "think",
+				"extra": []
+			},
+			{
+				"word": "pen",
+				"meaning": "move",
+				"extra": []
+			},
+			{
+				"word": "nepen",
+				"meaning": "feel",
+				"extra": []
+			},
+			{
+				"word": "gurati",
+				"meaning": "induce negative freedom, reduce cost to none",
+				"extra": []
+			},
+			{
+				"word": "lifeta",
+				"meaning": "induce positive freedom",
+				"extra": []
+			},
+			{
+				"word": "jala",
+				"meaning": "can, be able to",
+				"extra": []
+			},
+			{
+				"word": "meta",
+				"meaning": "measure",
+				"extra": []
+			},
+			{
+				"word": "core",
+				"meaning": "want",
+				"extra": []
+			},
+			{
+				"word": "jore",
+				"meaning": "need",
+				"extra": []
+			},
+			{
+				"word": "pora",
+				"meaning": "to add, to increase",
+				"extra": []
+			},
+			{
+				"word": "mina",
+				"meaning": "to subtract, to decrease, to remove",
+				"extra": []
+			},
+			{
+				"word": "mulipa",
+				"meaning": "to multiply",
+				"extra": []
+			},
+			{
+				"word": "cipan",
+				"meaning": "to divide, to split",
+				"extra": []
+			}
+		]
 	}
 ]

@@ -24,11 +24,11 @@
 | boro | any |
 | mire | half |
 
-## Demonstrative Pronouns
+## Demonstrative Pronouns \_
 
 
 <table>
-  
+
   <thead>
     <tr>
       <th rowspan="2"">&nbsp;&nbsp;Use&nbsp;case&nbsp;&nbsp;</th>
@@ -49,7 +49,7 @@
       <th>(english&nbsp;equivalent)</th>
     </tr>
   </thead>
-  
+
   <tbody>
     <tr>
       <td>Prefixes:</td>
@@ -113,3 +113,32 @@
   </tbody>
 
 </table>
+
+The above HTML table is re-arranged in several vanilla Markdown tables for the parser to understand:
+
+## Demonstrative Pronouns (Close To Speaker)
+
+| Word | Meaning | English Equivalent |
+| ---- | ------- | ------------------ |
+| tano | this | this + n. |
+| tani | this | this + adj. |
+| tatu | this way | as such, in this manner |
+| talo | such | such, this kind of |
+
+## Demonstrative Pronouns (Far From Speaker)
+
+| Word | Meaning | English Equivalent |
+| ---- | ------- | ------------------ |
+| kano | that | that + n. |
+| kani | that | that + adj. |
+| katu | that way | as such, in that manner |
+| kal | such | such, that kind of |
+
+## Demonstrative Pronouns (Interrogative Form)
+
+| Word | Meaning | English Equivalent |
+| ---- | ------- | ------------------ |
+| sono | that | what |
+| soni | that | which |
+| sotu | that way | how |
+| solo | such | what kind of |

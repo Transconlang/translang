@@ -1,5 +1,294 @@
 [
 	{
+		"type": "noun",
+		"title": null,
+		"headers": [
+			"Word",
+			"Meaning"
+		],
+		"entries": [
+			{
+				"word": "Spelling",
+				"meaning": "Definition",
+				"extra": []
+			},
+			{
+				"word": "kase",
+				"meaning": "cat",
+				"extra": []
+			},
+			{
+				"word": "hun",
+				"meaning": "dog",
+				"extra": []
+			},
+			{
+				"word": "luma",
+				"meaning": "person",
+				"extra": []
+			},
+			{
+				"word": "mawa",
+				"meaning": "kiss",
+				"extra": []
+			},
+			{
+				"word": "lanmi",
+				"meaning": "food",
+				"extra": []
+			},
+			{
+				"word": "topi",
+				"meaning": "god, deity",
+				"extra": []
+			},
+			{
+				"word": "wantu",
+				"meaning": "number",
+				"extra": []
+			},
+			{
+				"word": "cosi",
+				"meaning": "choice, vote",
+				"extra": []
+			},
+			{
+				"word": "falo",
+				"meaning": "speech, discussion, chat",
+				"extra": []
+			},
+			{
+				"word": "linwa",
+				"meaning": "language",
+				"extra": []
+			},
+			{
+				"word": "keso",
+				"meaning": "cheese",
+				"extra": []
+			},
+			{
+				"word": "sekiso",
+				"meaning": "sex, act of fucking",
+				"extra": []
+			},
+			{
+				"word": "lumaba",
+				"meaning": "friend",
+				"extra": []
+			},
+			{
+				"word": "deja",
+				"meaning": "action",
+				"extra": []
+			},
+			{
+				"word": "gade",
+				"meaning": "guess",
+				"extra": []
+			},
+			{
+				"word": "tempu",
+				"meaning": "time",
+				"extra": []
+			},
+			{
+				"word": "cikondu",
+				"meaning": "second",
+				"extra": []
+			},
+			{
+				"word": "minedu",
+				"meaning": "minute",
+				"extra": []
+			},
+			{
+				"word": "haweru",
+				"meaning": "hour",
+				"extra": []
+			},
+			{
+				"word": "dawu",
+				"meaning": "day",
+				"extra": []
+			},
+			{
+				"word": "natu",
+				"meaning": "night",
+				"extra": []
+			},
+			{
+				"word": "murinu",
+				"meaning": "morning",
+				"extra": []
+			},
+			{
+				"word": "ebeninku",
+				"meaning": "evening",
+				"extra": []
+			},
+			{
+				"word": "monadu",
+				"meaning": "month",
+				"extra": []
+			},
+			{
+				"word": "siconu",
+				"meaning": "season",
+				"extra": []
+			},
+			{
+				"word": "waru",
+				"meaning": "year",
+				"extra": []
+			},
+			{
+				"word": "diwaru",
+				"meaning": "decade",
+				"extra": []
+			},
+			{
+				"word": "huwaru",
+				"meaning": "century",
+				"extra": []
+			},
+			{
+				"word": "newaru",
+				"meaning": "millenium",
+				"extra": []
+			},
+			{
+				"word": "nem",
+				"meaning": "mind",
+				"extra": []
+			},
+			{
+				"word": "pen",
+				"meaning": "movement",
+				"extra": []
+			},
+			{
+				"word": "nepen",
+				"meaning": "feeling",
+				"extra": []
+			},
+			{
+				"word": "gurati",
+				"meaning": "negative freedom",
+				"extra": []
+			},
+			{
+				"word": "lifeta",
+				"meaning": "positive freedom",
+				"extra": []
+			},
+			{
+				"word": "kumi",
+				"meaning": "trans(gender)ness",
+				"extra": []
+			},
+			{
+				"word": "jala",
+				"meaning": "ability",
+				"extra": []
+			},
+			{
+				"word": "mire",
+				"meaning": "half, middle",
+				"extra": []
+			},
+			{
+				"word": "misu",
+				"meaning": "liquid",
+				"extra": []
+			},
+			{
+				"word": "lufi",
+				"meaning": "gas",
+				"extra": []
+			},
+			{
+				"word": "ten",
+				"meaning": "solid",
+				"extra": []
+			},
+			{
+				"word": "kin",
+				"meaning": "thing",
+				"extra": []
+			},
+			{
+				"word": "meta",
+				"meaning": "measurment",
+				"extra": []
+			},
+			{
+				"word": "core",
+				"meaning": "desire",
+				"extra": []
+			},
+			{
+				"word": "jore",
+				"meaning": "need",
+				"extra": []
+			},
+			{
+				"word": "lonki",
+				"meaning": "field of knowledge/study",
+				"extra": []
+			},
+			{
+				"word": "tori",
+				"meaning": "kindness, love",
+				"extra": []
+			},
+			{
+				"word": "toba",
+				"meaning": "word",
+				"extra": []
+			},
+			{
+				"word": "bencun",
+				"meaning": "book",
+				"extra": []
+			},
+			{
+				"word": "gucun",
+				"meaning": "story",
+				"extra": []
+			},
+			{
+				"word": "bengu",
+				"meaning": "storybook",
+				"extra": []
+			},
+			{
+				"word": "cikaran",
+				"meaning": "physical strength",
+				"extra": []
+			},
+			{
+				"word": "cikaranem",
+				"meaning": "mental strength",
+				"extra": []
+			},
+			{
+				"word": "canwa",
+				"meaning": "result",
+				"extra": []
+			},
+			{
+				"word": "wucan",
+				"meaning": "victory",
+				"extra": []
+			},
+			{
+				"word": "dican",
+				"meaning": "defeat",
+				"extra": []
+			}
+		]
+=======
 		"word": "kase",
 		"meaning": "cat"
 	},

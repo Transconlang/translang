@@ -1,78 +1,182 @@
 [
 	{
-		"word": "-lu",
-		"meaning": "defines an agent noun"
+		"type": "suffix",
+		"title": "Verb suffixes",
+		"entries": [
+			{
+				"word": "Spelling",
+				"meaning": "Definition",
+				"extra": [
+					"English equivalents"
+				]
+			},
+			{
+				"word": "-lu",
+				"meaning": "defines an agent noun",
+				"extra": [
+					"-er , -ist"
+				]
+			},
+			{
+				"word": "-sa",
+				"meaning": "indicates plurality",
+				"extra": [
+					"-s, -es"
+				]
+			},
+			{
+				"word": "-ri",
+				"meaning": "establishes a place/event",
+				"extra": [
+					"-ery"
+				]
+			},
+			{
+				"word": "-dufen",
+				"meaning": "refers to an entity or construct that performs a specific action or function",
+				"extra": [
+					"-ifier, -inator"
+				]
+			},
+			{
+				"word": "-fe",
+				"meaning": "connotes opposition",
+				"extra": [
+					"\"against\" , \"in opposition to\"",
+					"—"
+				]
+			},
+			{
+				"word": "-se",
+				"meaning": "establishes feminine characteristics/gender",
+				"extra": [
+					"—"
+				]
+			},
+			{
+				"word": "-ke",
+				"meaning": "establishes androfeminine characteristics/gender",
+				"extra": [
+					"—"
+				]
+			},
+			{
+				"word": "-ka",
+				"meaning": "establishes androgynous characteristics/gender",
+				"extra": [
+					"—"
+				]
+			},
+			{
+				"word": "-ki",
+				"meaning": "establishes andromasc characteristics/gender",
+				"extra": [
+					"—"
+				]
+			},
+			{
+				"word": "-ci",
+				"meaning": "establishes masculine characteristics/gender",
+				"extra": [
+					"—"
+				]
+			},
+			{
+				"word": "-pa",
+				"meaning": "marks word as possessive",
+				"extra": [
+					"-'s"
+				]
+			},
+			{
+				"word": "-lonki",
+				"meaning": "refers to a field of knowledge/study",
+				"extra": [
+					"-ology, -graphy, -nomy, -ics"
+				]
+			},
+			{
+				"word": "-falo",
+				"meaning": "indicates manner or characteristic of speech ",
+				"extra": [
+					"-speak, -talk"
+				]
+			}
+		],
+		"headers": [
+			"Word",
+			"Meaning"
+		]
 	},
 	{
-		"word": "-sa",
-		"meaning": "indicates plurality"
+		"type": "suffix",
+		"title": "Adjective suffixes",
+		"entries": [
+			{
+				"word": "-da",
+				"meaning": "refers to the past tense form of a verb",
+				"extra": [
+					"-ed"
+				]
+			},
+			{
+				"word": "-ne",
+				"meaning": "refers to the present tense form of a verb",
+				"extra": [
+					"-ing"
+				]
+			},
+			{
+				"word": "-lo",
+				"meaning": "refers to the future tense form of a verb",
+				"extra": [
+					"\"will\", \"shall\""
+				]
+			},
+			{
+				"word": "Spelling",
+				"meaning": "Definition",
+				"extra": [
+					"English equivalents"
+				]
+			},
+			{
+				"word": "-ku",
+				"meaning": "establishes verb as uncertain/questioning",
+				"extra": [
+					"—"
+				]
+			},
+			{
+				"word": "-do",
+				"meaning": "establishes verb as imperative",
+				"extra": [
+					"\"should\", \"ought to\""
+				]
+			}
+		],
+		"headers": [
+			"Spelling",
+			"Definition",
+			"English equivalents"
+		]
 	},
 	{
-		"word": "-ri",
-		"meaning": "establishes a place/event"
-	},
-	{
-		"word": "-dufen",
-		"meaning": "refers to an entity or construct that performs a specific action or function"
-	},
-	{
-		"word": "-fe",
-		"meaning": "connotes opposition"
-	},
-	{
-		"word": "-se",
-		"meaning": "establishes feminine characteristics/gender"
-	},
-	{
-		"word": "-ke",
-		"meaning": "establishes androfeminine characteristics/gender"
-	},
-	{
-		"word": "-ka",
-		"meaning": "establishes androgynous characteristics/gender"
-	},
-	{
-		"word": "-ki",
-		"meaning": "establishes andromasc characteristics/gender"
-	},
-	{
-		"word": "-ci",
-		"meaning": "establishes masculine characteristics/gender"
-	},
-	{
-		"word": "-pa",
-		"meaning": "marks word as possessive"
-	},
-	{
-		"word": "-lonki",
-		"meaning": "refers to a field of knowledge/study"
-	},
-	{
-		"word": "-falo",
-		"meaning": "indicates manner or characteristic of speech "
-	},
-	{
-		"word": "-da",
-		"meaning": "refers to the past tense form of a verb"
-	},
-	{
-		"word": "-ne",
-		"meaning": "refers to the present tense form of a verb"
-	},
-	{
-		"word": "-lo",
-		"meaning": "refers to the future tense form of a verb"
-	},
-	{
-		"word": "-ku",
-		"meaning": "establishes verb as uncertain/questioning"
-	},
-	{
-		"word": "-do",
-		"meaning": "establishes verb as imperative"
-	},
-	{
-		"word": "-jala",
-		"meaning": "denotes ability or capacity"
+		"type": "suffix",
+		"title": "Adjective suffixes",
+		"headers": [
+			"Spelling",
+			"Definition",
+			"English equivalents"
+		],
+		"entries": [
+			{
+				"word": "-jala",
+				"meaning": "denotes ability or capacity",
+				"extra": [
+					"-able , -ible , \"capable of\""
+				]
+			}
+		]
 	}
 ]
