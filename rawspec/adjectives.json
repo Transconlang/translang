@@ -1,7 +1,17 @@
 [
 	{
 		"type": "adjective",
+		"title": null,
+		"headers": [
+			"Word",
+			"Meaning"
+		],
 		"entries": [
+			{
+				"word": "Spelling",
+				"meaning": "Definition",
+				"extra": []
+			},
 			{
 				"word": "mi",
 				"meaning": "cute",

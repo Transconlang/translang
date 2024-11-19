@@ -59,11 +59,16 @@
 					"animate, masculine, 3rd person"
 				]
 			}
+		],
+		"headers": [
+			"Spelling (nonextended — original)",
+			"Spelling",
+			"Definition"
 		]
 	},
 	{
 		"type": "pronoun",
-		"title": "Demonstrative Pronouns",
+		"title": "Demonstrative Pronouns \\_",
 		"entries": [
 			{
 				"word": "reda",
@@ -94,6 +99,127 @@
 				"word": "mire",
 				"meaning": "half",
 				"extra": []
+			}
+		],
+		"headers": [
+			"Spelling",
+			"Definition"
+		]
+	},
+	{
+		"type": "pronoun",
+		"title": "Demonstrative Pronouns (Far From Speaker)",
+		"entries": [
+			{
+				"word": "tano",
+				"meaning": "this",
+				"extra": [
+					"this + n."
+				]
+			},
+			{
+				"word": "tani",
+				"meaning": "this",
+				"extra": [
+					"this + adj."
+				]
+			},
+			{
+				"word": "tatu",
+				"meaning": "this way",
+				"extra": [
+					"as such, in this manner"
+				]
+			},
+			{
+				"word": "talo",
+				"meaning": "such",
+				"extra": [
+					"such, this kind of"
+				]
+			}
+		],
+		"headers": [
+			"Word",
+			"Meaning",
+			"English Equivalent"
+		]
+	},
+	{
+		"type": "pronoun",
+		"title": "Demonstrative Pronouns (Interrogative Form)",
+		"entries": [
+			{
+				"word": "kano",
+				"meaning": "that",
+				"extra": [
+					"that + n."
+				]
+			},
+			{
+				"word": "kani",
+				"meaning": "that",
+				"extra": [
+					"that + adj."
+				]
+			},
+			{
+				"word": "katu",
+				"meaning": "that way",
+				"extra": [
+					"as such, in that manner"
+				]
+			},
+			{
+				"word": "kal",
+				"meaning": "such",
+				"extra": [
+					"such, that kind of"
+				]
+			}
+		],
+		"headers": [
+			"Word",
+			"Meaning",
+			"English Equivalent"
+		]
+	},
+	{
+		"type": "pronoun",
+		"title": "Demonstrative Pronouns (Interrogative Form)",
+		"headers": [
+			"Word",
+			"Meaning",
+			"English Equivalent"
+		],
+		"entries": [
+			{
+				"word": "sono",
+				"meaning": "that",
+				"extra": [
+					"what"
+				]
+			},
+			{
+				"word": "soni",
+				"meaning": "that",
+				"extra": [
+					"which"
+				]
+			},
+			{
+				"word": "sotu",
+				"meaning": "that way",
+				"extra": [
+					"how"
+				]
+			},
+			{
+				"word": "solo",
+				"meaning": "such",
+				"extra": [
+					"what kind of"
+				]
 			}
 		]
 	}

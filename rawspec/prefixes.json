@@ -1,7 +1,17 @@
 [
 	{
 		"type": "prefix",
+		"title": null,
+		"headers": [
+			"Word",
+			"Meaning"
+		],
 		"entries": [
+			{
+				"word": "Spelling",
+				"meaning": "Definition",
+				"extra": []
+			},
 			{
 				"word": "mire-",
 				"meaning": "half, in the middle of",

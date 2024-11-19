@@ -1,7 +1,17 @@
 [
 	{
 		"type": "interjection",
+		"title": null,
+		"headers": [
+			"Word",
+			"Meaning"
+		],
 		"entries": [
+			{
+				"word": "Spelling",
+				"meaning": "Definition",
+				"extra": []
+			},
 			{
 				"word": "sim",
 				"meaning": "yes",

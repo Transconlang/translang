@@ -4,6 +4,13 @@
 		"title": "Verb suffixes",
 		"entries": [
 			{
+				"word": "Spelling",
+				"meaning": "Definition",
+				"extra": [
+					"English equivalents"
+				]
+			},
+			{
 				"word": "-lu",
 				"meaning": "defines an agent noun",
 				"extra": [
@@ -95,6 +102,10 @@
 					"-speak, -talk"
 				]
 			}
+		],
+		"headers": [
+			"Word",
+			"Meaning"
 		]
 	},
 	{
@@ -123,6 +134,13 @@
 				]
 			},
 			{
+				"word": "Spelling",
+				"meaning": "Definition",
+				"extra": [
+					"English equivalents"
+				]
+			},
+			{
 				"word": "-ku",
 				"meaning": "establishes verb as uncertain/questioning",
 				"extra": [
@@ -136,11 +154,21 @@
 					"\"should\", \"ought to\""
 				]
 			}
+		],
+		"headers": [
+			"Spelling",
+			"Definition",
+			"English equivalents"
 		]
 	},
 	{
 		"type": "suffix",
 		"title": "Adjective suffixes",
+		"headers": [
+			"Spelling",
+			"Definition",
+			"English equivalents"
+		],
 		"entries": [
 			{
 				"word": "-jala",

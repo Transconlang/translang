@@ -1,7 +1,17 @@
 [
 	{
 		"type": "conjunction",
+		"title": null,
+		"headers": [
+			"Word",
+			"Meaning"
+		],
 		"entries": [
+			{
+				"word": "Spelling",
+				"meaning": "Definition",
+				"extra": []
+			},
 			{
 				"word": "pum",
 				"meaning": "and",

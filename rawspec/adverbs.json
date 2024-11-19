@@ -28,6 +28,10 @@
 				"meaning": "how",
 				"extra": []
 			}
+		],
+		"headers": [
+			"Spelling",
+			"Definition"
 		]
 	},
 	{
@@ -49,11 +53,19 @@
 				"meaning": "when",
 				"extra": []
 			}
+		],
+		"headers": [
+			"Spelling",
+			"Definition"
 		]
 	},
 	{
 		"type": "adverb",
 		"title": "Demonstrative adverbs",
+		"headers": [
+			"Spelling",
+			"Definition"
+		],
 		"entries": [
 			{
 				"word": "tawa",

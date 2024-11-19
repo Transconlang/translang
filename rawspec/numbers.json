@@ -1,6 +1,11 @@
 [
 	{
 		"type": "number",
+		"title": null,
+		"headers": [
+			"Word",
+			"Meaning"
+		],
 		"entries": [
 			{
 				"word": "Word",
