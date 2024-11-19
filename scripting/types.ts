@@ -1,6 +1,7 @@
 export interface Section {
-	title?: string;
+	title: string | null;
 	type: WordType;
+	headers: string[];
 	entries: Entry[];
 }
 
