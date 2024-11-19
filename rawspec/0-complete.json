@@ -1095,76 +1095,6 @@
 		"type": "preposition"
 	},
 	{
-		"word": "—",
-		"meaning": "li",
-		"type": "pronoun"
-	},
-	{
-		"word": "mid",
-		"meaning": "mida",
-		"type": "pronoun"
-	},
-	{
-		"word": "—",
-		"meaning": "da",
-		"type": "pronoun"
-	},
-	{
-		"word": "—",
-		"meaning": "dase",
-		"type": "pronoun"
-	},
-	{
-		"word": "—",
-		"meaning": "dake",
-		"type": "pronoun"
-	},
-	{
-		"word": "—",
-		"meaning": "daka",
-		"type": "pronoun"
-	},
-	{
-		"word": "—",
-		"meaning": "daki",
-		"type": "pronoun"
-	},
-	{
-		"word": "—",
-		"meaning": "daci",
-		"type": "pronoun"
-	},
-	{
-		"word": "reda",
-		"meaning": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence",
-		"type": "pronoun"
-	},
-	{
-		"word": "toransu",
-		"meaning": "other",
-		"type": "pronoun"
-	},
-	{
-		"word": "gara",
-		"meaning": "all/every",
-		"type": "pronoun"
-	},
-	{
-		"word": "coko",
-		"meaning": "some",
-		"type": "pronoun"
-	},
-	{
-		"word": "boro",
-		"meaning": "any",
-		"type": "pronoun"
-	},
-	{
-		"word": "mire",
-		"meaning": "half",
-		"type": "pronoun"
-	},
-	{
 		"word": "-lu",
 		"meaning": "defines an agent noun",
 		"type": "suffix"
@@ -1226,7 +1156,7 @@
 	},
 	{
 		"word": "-falo",
-		"meaning": "indicates manner or characteristic of speech ",
+		"meaning": "indicates manner or characteristic of speech",
 		"type": "suffix"
 	},
 	{

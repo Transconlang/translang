@@ -19,7 +19,7 @@ const Files = await readdir(SourceDirectory);
 
 const CompleteDictionaryStack: FullEntry[] = [];
 
-function parsetablehtml(content: string): Entry[] {
+function parseHTMLTable(content: string): Entry[] {
 	const dom = new JSDOM(content);
 	const table = dom.window.document.querySelector('table');
 	if (!table) return [];
@@ -27,8 +27,8 @@ function parsetablehtml(content: string): Entry[] {
 	const rows = Array.from(table.querySelectorAll('tbody tr'));
 	const entries: Entry[] = [];
 	for (const row of rows) {
-		const cells = Array.from(row.querySelectorAll('td')).map((cell) =>
-			cell.textContent?.trim() || ''
+		const cells = Array.from(row.querySelectorAll('td')).map(
+			cell => cell.textContent?.trim() || ''
 		);
 		if (cells.length < 2) continue;
 		const [useCase, termination, ...others] = cells;
@@ -44,45 +44,46 @@ for (const file of Files) {
 	let data: Entry[] = [];
 	if (content.includes('<table')) {
 		data = parseHTMLTable(content);
-	}
-	else {
+	} else {
 		const rows = content
 			.split('\n')
 			.map(v => v.trim())
 			.filter(
 				v =>
-					!v.includes('Spelling | Definition') && !v.includes('Word | Meaning') &&
+					!v.includes('Spelling | Definition') &&
+					!v.includes('Word | Meaning') &&
 					v.replaceAll(/[\|\s\-]/g, '').length > 0 &&
 					/^\| [^|]+ \|( [^|]+ \|)+$/.test(v)
 			);
-		
-	// console.log(file, rows);
+
+		// console.log(file, rows);
 		const map = rows.map(row =>
 			row
 				.slice(1, -1)
 				.split('|')
 				.map(v => v.trim())
 		);
-	// console.log(file, map);
-	const data: Entry[] = map.map(([word, meaning]) => ({ word, meaning }));
+		// console.log(file, map);
+		const data: Entry[] = map.map(([word, meaning]) => ({ word, meaning }));
 
-	const wordType = (() => {
-		const asdf = file.toLowerCase().replace(/s\.md$/, '');
-		if (asdf === 'prefixe') return 'prefix';
-		if (asdf === 'suffixe') return 'suffix';
-		else return asdf;
-	})() as WordType;
+		const wordType = (() => {
+			const asdf = file.toLowerCase().replace(/s\.md$/, '');
+			if (asdf === 'prefixe') return 'prefix';
+			if (asdf === 'suffixe') return 'suffix';
+			else return asdf;
+		})() as WordType;
 
-	const targetFile = join(
-		TargetDirectory,
-		file.toLowerCase().replace(/\.md$/, '.json')
-	);
+		const targetFile = join(
+			TargetDirectory,
+			file.toLowerCase().replace(/\.md$/, '.json')
+		);
 
-	await writeFile(targetFile, JSON.stringify(data, null, '	'), 'utf-8');
+		await writeFile(targetFile, JSON.stringify(data, null, '	'), 'utf-8');
 
-	CompleteDictionaryStack.push(
-		...data.map(entry => ({ ...entry, type: wordType }) satisfies FullEntry)
-	);
+		CompleteDictionaryStack.push(
+			...data.map(entry => ({ ...entry, type: wordType }) satisfies FullEntry)
+		);
+	}
 }
 
 await writeFile(
