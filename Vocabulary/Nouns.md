@@ -54,3 +54,6 @@
 | bengu | storybook |
 | cikaran | physical strength |
 | cikaranem | mental strength |
+| canwa | result |
+| wucan | victory |
+| dican | defeat |
