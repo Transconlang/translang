@@ -160,6 +160,11 @@
 		"type": "conjunction"
 	},
 	{
+		"word": "sim",
+		"meaning": "yes",
+		"type": "interjection"
+	},
+	{
 		"word": "nen",
 		"meaning": "no",
 		"type": "interjection"
@@ -457,6 +462,21 @@
 	{
 		"word": "cikaranem",
 		"meaning": "mental strength",
+		"type": "noun"
+	},
+	{
+		"word": "canwa",
+		"meaning": "result",
+		"type": "noun"
+	},
+	{
+		"word": "wucan",
+		"meaning": "victory",
+		"type": "noun"
+	},
+	{
+		"word": "dican",
+		"meaning": "defeat",
 		"type": "noun"
 	},
 	{
@@ -1137,11 +1157,6 @@
 	{
 		"word": "mire",
 		"meaning": "half",
-		"type": "pronoun"
-	},
-	{
-		"word": "Prefix for:",
-		"meaning": "—",
 		"type": "pronoun"
 	},
 	{

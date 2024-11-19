@@ -26,19 +26,6 @@
 
 ## Demonstrative Pronouns
 
-<!---
-
-| Use case | Termination | Close to speaker (nonextended — original) \| English equivalent | Close to speaker \| English equivalent | Far from speaker (nonextended — original) \| English equivalent | Far from speaker \| English equivalent | Interrogative form (nonextended — original) \| English equivalent | Interrogative form \| English equivalent |
-|----------|-------------|----------------------------------------------------------------|---------------------------------------|---------------------------------------------------------------|---------------------------------------|------------------------------------------------------------------|-----------------------------------------|
-| Prefix for: | — | ta- | — | ka- | — | so- | — |
-| this/that + n. | -no | — | tano \| this + n. | — | kano \| that | — | sono \| what |
-| this/that + adj. | -ni | — | tani \| this + adj. | — | kani \|that + adj. | — | soni \| which |
-| this/that way | -tu | — | tatu \| as such, so ("this way", "in this manner") | — | katu \| as such, so ("that way", "in that manner") | — | sotu \| how ("which way", "in which manner") |
-| such/what kind | -lo | tal \| such ("this kind of") | talo \| such ("this kind of") | kal \| such ("that kind of") | kalo \| such ("that kind of") | sol \| ("what kind of") | solo \| ("what kind of") |
-
--->
-
-[this is the best I could make in just pure markdown. since the formatting and readability is terrible, the table i made includes html code as an exception:]::
 
 <table>
   

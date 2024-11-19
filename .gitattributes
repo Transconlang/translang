@@ -1,0 +1,19 @@
+*.md linguist-vendored=false
+*.md linguist-generated=false
+*.md linguist-documentation=false
+*.md linguist-detectable=true
+
+*.json linguist-vendored=false
+*.json linguist-generated=false
+*.json linguist-documentation=false
+*.json linguist-detectable=true
+
+*.yml linguist-vendored=false
+*.yml linguist-generated=false
+*.yml linguist-documentation=false
+*.yml linguist-detectable=true
+
+*.ts linguist-vendored=false
+*.ts linguist-generated=false
+*.ts linguist-documentation=false
+*.ts linguist-detectable=true
