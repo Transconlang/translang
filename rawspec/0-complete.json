@@ -1,11 +1,5 @@
 [
 	{
-		"word": "Spelling",
-		"meaning": "Definition",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
 		"word": "mi",
 		"meaning": "cute",
 		"extra": [],
@@ -393,12 +387,6 @@
 		"type": "adverb"
 	},
 	{
-		"word": "Spelling",
-		"meaning": "Definition",
-		"extra": [],
-		"type": "conjunction"
-	},
-	{
 		"word": "pum",
 		"meaning": "and",
 		"extra": [],
@@ -439,12 +427,6 @@
 		"meaning": "but",
 		"extra": [],
 		"type": "conjunction"
-	},
-	{
-		"word": "Spelling",
-		"meaning": "Definition",
-		"extra": [],
-		"type": "interjection"
 	},
 	{
 		"word": "sim",
@@ -559,12 +541,6 @@
 		"meaning": "laughter",
 		"extra": [],
 		"type": "interjection"
-	},
-	{
-		"word": "Spelling",
-		"meaning": "Definition",
-		"extra": [],
-		"type": "noun"
 	},
 	{
 		"word": "kase",
@@ -1243,12 +1219,6 @@
 		"meaning": "comfort, safety, euphoria",
 		"extra": [],
 		"type": "noun"
-	},
-	{
-		"word": "Word",
-		"meaning": "Number",
-		"extra": [],
-		"type": "number"
 	},
 	{
 		"word": "**sero**",
@@ -2469,12 +2439,6 @@
 		"type": "number"
 	},
 	{
-		"word": "Spelling",
-		"meaning": "Definition",
-		"extra": [],
-		"type": "prefix"
-	},
-	{
 		"word": "mire-",
 		"meaning": "half, in the middle of",
 		"extra": [],
@@ -2575,12 +2539,6 @@
 		"meaning": "denotes negative connotation",
 		"extra": [],
 		"type": "prefix"
-	},
-	{
-		"word": "Spelling",
-		"meaning": "Definition",
-		"extra": [],
-		"type": "preposition"
 	},
 	{
 		"word": "ra",
@@ -3193,14 +3151,6 @@
 		"type": "pronoun"
 	},
 	{
-		"word": "Spelling",
-		"meaning": "Definition",
-		"extra": [
-			"English equivalents"
-		],
-		"type": "suffix"
-	},
-	{
 		"word": "-lu",
 		"meaning": "defines an agent noun",
 		"extra": [
@@ -3555,12 +3505,6 @@
 			"-able , -ible , \"capable of\""
 		],
 		"type": "suffix"
-	},
-	{
-		"word": "Spelling",
-		"meaning": "Definition",
-		"extra": [],
-		"type": "verb"
 	},
 	{
 		"word": "mawa",

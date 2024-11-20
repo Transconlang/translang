@@ -3,15 +3,10 @@
 		"type": "verb",
 		"title": null,
 		"headers": [
-			"Word",
-			"Meaning"
+			"Spelling",
+			"Definition"
 		],
 		"entries": [
-			{
-				"word": "Spelling",
-				"meaning": "Definition",
-				"extra": []
-			},
 			{
 				"word": "mawa",
 				"meaning": "kiss",

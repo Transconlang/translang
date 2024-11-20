@@ -3,15 +3,10 @@
 		"type": "interjection",
 		"title": null,
 		"headers": [
-			"Word",
-			"Meaning"
+			"Spelling",
+			"Definition"
 		],
 		"entries": [
-			{
-				"word": "Spelling",
-				"meaning": "Definition",
-				"extra": []
-			},
 			{
 				"word": "sim",
 				"meaning": "yes",

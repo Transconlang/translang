@@ -3,15 +3,10 @@
 		"type": "noun",
 		"title": null,
 		"headers": [
-			"Word",
-			"Meaning"
+			"Spelling",
+			"Definition"
 		],
 		"entries": [
-			{
-				"word": "Spelling",
-				"meaning": "Definition",
-				"extra": []
-			},
 			{
 				"word": "kase",
 				"meaning": "cat",

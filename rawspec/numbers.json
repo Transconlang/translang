@@ -4,14 +4,9 @@
 		"title": null,
 		"headers": [
 			"Word",
-			"Meaning"
+			"Number"
 		],
 		"entries": [
-			{
-				"word": "Word",
-				"meaning": "Number",
-				"extra": []
-			},
 			{
 				"word": "**sero**",
 				"meaning": "0",

@@ -4,13 +4,6 @@
 		"title": "Verb suffixes",
 		"entries": [
 			{
-				"word": "Spelling",
-				"meaning": "Definition",
-				"extra": [
-					"English equivalents"
-				]
-			},
-			{
 				"word": "-lu",
 				"meaning": "defines an agent noun",
 				"extra": [
@@ -104,8 +97,9 @@
 			}
 		],
 		"headers": [
-			"Word",
-			"Meaning"
+			"Spelling",
+			"Definition",
+			"English equivalents"
 		]
 	},
 	{
