@@ -36,6 +36,7 @@
 | -ku | establishes verb as uncertain/questioning | — |
 | -do | establishes verb as imperative | "should", "ought to" |
 | -kuka | establishes verb as politely questioning/requesting | "please" |
+| -zim | establishes verb as infinitive | "to ___" |
 
 ## Adjective suffixes
 
