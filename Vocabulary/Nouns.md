@@ -58,3 +58,6 @@
 | wucan | victory |
 | dican | defeat |
 | bulohaji | comfort, safety, euphoria |
+| hason | sound |
+| hasontoba | pronunciation |
+| miku | idol |

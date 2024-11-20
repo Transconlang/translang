@@ -96,6 +96,26 @@
 				"word": "lufi",
 				"meaning": "gaseous",
 				"extra": []
+			},
+			{
+				"word": "cinda",
+				"meaning": "new",
+				"extra": []
+			},
+			{
+				"word": "gunda",
+				"meaning": "old",
+				"extra": []
+			},
+			{
+				"word": "cindajin",
+				"meaning": "modern",
+				"extra": []
+			},
+			{
+				"word": "gundajin",
+				"meaning": "ancient",
+				"extra": []
 			}
 		]
 	}

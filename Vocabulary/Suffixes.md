@@ -17,6 +17,7 @@
 | -pa | marks word as possessive | -'s |
 | -lonki | refers to a field of knowledge/study | -ology, -graphy, -nomy, -ics |
 | -falo | indicates manner or characteristic of speech  | -speak, -talk |
+| -bani | for numbers, indicates ordinality | -th |
 
 ## Verb suffixes
 
@@ -26,6 +27,7 @@
 | -da | refers to the past tense form of a verb | -ed |
 | -ne | refers to the present tense form of a verb | -ing |
 | -lo | refers to the future tense form of a verb | "will", "shall" |
+| -ja | refers to that a verb is in progress or incomplete | "yet", "so far" |
 
 ### Other verb suffixes
 
@@ -33,9 +35,11 @@
 |----------|------------|---------------------|
 | -ku | establishes verb as uncertain/questioning | — |
 | -do | establishes verb as imperative | "should", "ought to" |
+| -kuka | establishes verb as politely questioning/requesting | "please" |
 
 ## Adjective suffixes
 
 | Spelling | Definition | English equivalents |
 |----------|------------|---------------------|
 | -jala | denotes ability or capacity | -able , -ible , "capable of" |
+| -wan | denotes superlative adjectives | -est |

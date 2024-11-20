@@ -94,6 +94,13 @@
 				"extra": [
 					"-speak, -talk"
 				]
+			},
+			{
+				"word": "-bani",
+				"meaning": "for numbers, indicates ordinality",
+				"extra": [
+					"-th"
+				]
 			}
 		],
 		"headers": [
@@ -128,6 +135,13 @@
 				]
 			},
 			{
+				"word": "-ja",
+				"meaning": "refers to that a verb is in progress or incomplete",
+				"extra": [
+					"\"yet\", \"so far\""
+				]
+			},
+			{
 				"word": "Spelling",
 				"meaning": "Definition",
 				"extra": [
@@ -146,6 +160,13 @@
 				"meaning": "establishes verb as imperative",
 				"extra": [
 					"\"should\", \"ought to\""
+				]
+			},
+			{
+				"word": "-kuka",
+				"meaning": "establishes verb as politely questioning/requesting",
+				"extra": [
+					"\"please\""
 				]
 			}
 		],
@@ -169,6 +190,13 @@
 				"meaning": "denotes ability or capacity",
 				"extra": [
 					"-able , -ible , \"capable of\""
+				]
+			},
+			{
+				"word": "-wan",
+				"meaning": "denotes superlative adjectives",
+				"extra": [
+					"-est"
 				]
 			}
 		]
