@@ -44,7 +44,7 @@ for (const file of Files) {
 	let subSectionStack: Entry[] = [];
 	let title = null;
 	let headers: string[] = ['Word', 'Meaning'];
-	let justStartedNewSection = false;
+	let justStartedNewSection = true;
 	for (const row of rows) {
 		if (h2Matcher.test(row)) {
 			title = row.slice(3);
@@ -60,6 +60,7 @@ for (const file of Files) {
 			if (justStartedNewSection) {
 				headers = [word, meaning, ...extra];
 				justStartedNewSection = false;
+				console.log({ headers, file });
 			} else {
 				subSectionStack.push({ word, meaning, extra });
 				CompleteDictionaryStack.push({
