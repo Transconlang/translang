@@ -20,3 +20,7 @@
 | misu | liquid, fluid |
 | ten | solid, rigid |
 | lufi | gaseous |
+| cinda | new |
+| gunda | old |
+| cindajin | modern |
+| gundajin | ancient |
