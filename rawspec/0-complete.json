@@ -630,8 +630,6 @@
 		"type": "noun"
 	},
 	{
-		"word": "Spelling",
-		"meaning": "Definition",
 		"word": "**sero**",
 		"meaning": "0",
 		"extra": [],
@@ -992,14 +990,6 @@
 		"type": "number"
 	},
 	{
-		"word": "qanzi",
-		"meaning": "paper",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "**sero**",
-		"meaning": "0",
 		"word": "cinolono",
 		"meaning": "6'000'000",
 		"extra": [],
