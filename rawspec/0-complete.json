@@ -18,6 +18,18 @@
 		"type": "adjective"
 	},
 	{
+		"word": "nepetori",
+		"meaning": "to love, to feel love towards",
+		"extra": [],
+		"type": "verb"
+	},
+	{
+		"word": "-zim",
+		"meaning": "establishes a verb to be infinitive",
+		"extra": [],
+		"type": "suffix"
+	},
+	{
 		"word": "nen",
 		"meaning": "not",
 		"extra": [],
