@@ -945,6 +945,12 @@
 		"type": "noun"
 	},
 	{
+		"word": "qanzi",
+		"meaning": "paper",
+		"extra": [],
+		"type": "noun"
+	},
+	{
 		"word": "Spelling",
 		"meaning": "Definition",
 		"extra": [],
@@ -1301,6 +1307,12 @@
 	{
 		"word": "miku",
 		"meaning": "idol",
+		"extra": [],
+		"type": "noun"
+	},
+	{
+		"word": "qanzi",
+		"meaning": "paper",
 		"extra": [],
 		"type": "noun"
 	},
