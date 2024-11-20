@@ -60,7 +60,6 @@ for (const file of Files) {
 			if (justStartedNewSection) {
 				headers = [word, meaning, ...extra];
 				justStartedNewSection = false;
-				console.log({ headers, file });
 			} else {
 				subSectionStack.push({ word, meaning, extra });
 				CompleteDictionaryStack.push({

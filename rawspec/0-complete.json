@@ -108,6 +108,30 @@
 		"type": "adjective"
 	},
 	{
+		"word": "cinda",
+		"meaning": "new",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "gunda",
+		"meaning": "old",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "cindajin",
+		"meaning": "modern",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "gundajin",
+		"meaning": "ancient",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
 		"word": "Spelling",
 		"meaning": "Definition",
 		"extra": [],
@@ -218,6 +242,30 @@
 	{
 		"word": "lufi",
 		"meaning": "gaseous",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "cinda",
+		"meaning": "new",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "gunda",
+		"meaning": "old",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "cindajin",
+		"meaning": "modern",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "gundajin",
+		"meaning": "ancient",
 		"extra": [],
 		"type": "adjective"
 	},
@@ -879,6 +927,24 @@
 		"type": "noun"
 	},
 	{
+		"word": "hason",
+		"meaning": "sound",
+		"extra": [],
+		"type": "noun"
+	},
+	{
+		"word": "hasontoba",
+		"meaning": "pronunciation",
+		"extra": [],
+		"type": "noun"
+	},
+	{
+		"word": "miku",
+		"meaning": "idol",
+		"extra": [],
+		"type": "noun"
+	},
+	{
 		"word": "Spelling",
 		"meaning": "Definition",
 		"extra": [],
@@ -1217,6 +1283,24 @@
 	{
 		"word": "bulohaji",
 		"meaning": "comfort, safety, euphoria",
+		"extra": [],
+		"type": "noun"
+	},
+	{
+		"word": "hason",
+		"meaning": "sound",
+		"extra": [],
+		"type": "noun"
+	},
+	{
+		"word": "hasontoba",
+		"meaning": "pronunciation",
+		"extra": [],
+		"type": "noun"
+	},
+	{
+		"word": "miku",
+		"meaning": "idol",
 		"extra": [],
 		"type": "noun"
 	},
@@ -3256,6 +3340,14 @@
 		"type": "suffix"
 	},
 	{
+		"word": "-bani",
+		"meaning": "for numbers, indicates ordinality",
+		"extra": [
+			"-th"
+		],
+		"type": "suffix"
+	},
+	{
 		"word": "-da",
 		"meaning": "refers to the past tense form of a verb",
 		"extra": [
@@ -3276,6 +3368,14 @@
 		"meaning": "refers to the future tense form of a verb",
 		"extra": [
 			"\"will\", \"shall\""
+		],
+		"type": "suffix"
+	},
+	{
+		"word": "-ja",
+		"meaning": "refers to that a verb is in progress or incomplete",
+		"extra": [
+			"\"yet\", \"so far\""
 		],
 		"type": "suffix"
 	},
@@ -3304,10 +3404,26 @@
 		"type": "suffix"
 	},
 	{
+		"word": "-kuka",
+		"meaning": "establishes verb as politely questioning/requesting",
+		"extra": [
+			"\"please\""
+		],
+		"type": "suffix"
+	},
+	{
 		"word": "-jala",
 		"meaning": "denotes ability or capacity",
 		"extra": [
 			"-able , -ible , \"capable of\""
+		],
+		"type": "suffix"
+	},
+	{
+		"word": "-wan",
+		"meaning": "denotes superlative adjectives",
+		"extra": [
+			"-est"
 		],
 		"type": "suffix"
 	},
@@ -3425,6 +3541,14 @@
 		"type": "suffix"
 	},
 	{
+		"word": "-bani",
+		"meaning": "for numbers, indicates ordinality",
+		"extra": [
+			"-th"
+		],
+		"type": "suffix"
+	},
+	{
 		"word": " Verb suffix",
 		"extra": [],
 		"type": "suffix"
@@ -3462,6 +3586,14 @@
 		"type": "suffix"
 	},
 	{
+		"word": "-ja",
+		"meaning": "refers to that a verb is in progress or incomplete",
+		"extra": [
+			"\"yet\", \"so far\""
+		],
+		"type": "suffix"
+	},
+	{
 		"word": "Spelling",
 		"meaning": "Definition",
 		"extra": [
@@ -3486,6 +3618,14 @@
 		"type": "suffix"
 	},
 	{
+		"word": "-kuka",
+		"meaning": "establishes verb as politely questioning/requesting",
+		"extra": [
+			"\"please\""
+		],
+		"type": "suffix"
+	},
+	{
 		"word": " Adjective suffix",
 		"extra": [],
 		"type": "suffix"
@@ -3503,6 +3643,14 @@
 		"meaning": "denotes ability or capacity",
 		"extra": [
 			"-able , -ible , \"capable of\""
+		],
+		"type": "suffix"
+	},
+	{
+		"word": "-wan",
+		"meaning": "denotes superlative adjectives",
+		"extra": [
+			"-est"
 		],
 		"type": "suffix"
 	},
