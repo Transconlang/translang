@@ -114,6 +114,30 @@
 		"type": "adjective"
 	},
 	{
+		"word": "cinda",
+		"meaning": "new",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "gunda",
+		"meaning": "old",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "cindajin",
+		"meaning": "modern",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "gundajin",
+		"meaning": "ancient",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
 		"word": "Spelling",
 		"meaning": "Definition",
 		"extra": [],
@@ -224,6 +248,30 @@
 	{
 		"word": "lufi",
 		"meaning": "gaseous",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "cinda",
+		"meaning": "new",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "gunda",
+		"meaning": "old",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "cindajin",
+		"meaning": "modern",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "gundajin",
+		"meaning": "ancient",
 		"extra": [],
 		"type": "adjective"
 	},
