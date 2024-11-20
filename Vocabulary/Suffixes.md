@@ -1,6 +1,6 @@
 # Suffixes
 
-### (Pro)noun suffixes
+## (Pro)noun suffixes
 
 | Spelling | Definition | English equivalents |
 |----------|------------|---------------------|
@@ -18,16 +18,14 @@
 | -lonki | refers to a field of knowledge/study | -ology, -graphy, -nomy, -ics |
 | -falo | indicates manner or characteristic of speech  | -speak, -talk |
 
-## Verb suffixes
-
-### Temporal suffixes
+## Temporal verb suffixes
 | Spelling | Definition | English equivalents |
 |----------|------------|---------------------|
 | -da | refers to the past tense form of a verb | -ed |
 | -ne | refers to the present tense form of a verb | -ing |
 | -lo | refers to the future tense form of a verb | "will", "shall" |
 
-### Other verb suffixes
+## Other verb suffixes
 
 | Spelling | Definition | English equivalents |
 |----------|------------|---------------------|
