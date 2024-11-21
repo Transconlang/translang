@@ -116,6 +116,51 @@
 				"word": "gundajin",
 				"meaning": "ancient",
 				"extra": []
+			},
+			{
+				"word": "cingun",
+				"meaning": "physically light",
+				"extra": []
+			},
+			{
+				"word": "cingunem",
+				"meaning": "psychologically light",
+				"extra": []
+			},
+			{
+				"word": "qongun",
+				"meaning": "physically heavy",
+				"extra": []
+			},
+			{
+				"word": "qongunem",
+				"meaning": "psychologically heavy",
+				"extra": []
+			},
+			{
+				"word": "anoman",
+				"meaning": "angry",
+				"extra": []
+			},
+			{
+				"word": "teto",
+				"meaning": "large",
+				"extra": []
+			},
+			{
+				"word": "ciki",
+				"meaning": "short",
+				"extra": []
+			},
+			{
+				"word": "kanacin",
+				"meaning": "sad",
+				"extra": []
+			},
+			{
+				"word": "tanocin",
+				"meaning": "happy",
+				"extra": []
 			}
 		]
 	}

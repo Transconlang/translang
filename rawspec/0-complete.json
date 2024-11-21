@@ -132,6 +132,60 @@
 		"type": "adjective"
 	},
 	{
+		"word": "cingun",
+		"meaning": "physically light",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "cingunem",
+		"meaning": "psychologically light",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "qongun",
+		"meaning": "physically heavy",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "qongunem",
+		"meaning": "psychologically heavy",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "anoman",
+		"meaning": "angry",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "teto",
+		"meaning": "large",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "ciki",
+		"meaning": "short",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "kanacin",
+		"meaning": "sad",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "tanocin",
+		"meaning": "happy",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
 		"word": "nen",
 		"meaning": "no",
 		"extra": [],
