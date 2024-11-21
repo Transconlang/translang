@@ -24,3 +24,12 @@
 | gunda | old |
 | cindajin | modern |
 | gundajin | ancient |
+| cingun | physically light |
+| cingunem | psychologically light |
+| qongun | physically heavy |
+| qongunem | psychologically heavy |
+| anoman | angry |
+| teto | large |
+| ciki | short |
+| kanacin | sad | 
+| tanocin | happy |
