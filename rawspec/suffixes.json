@@ -11,13 +11,6 @@
 				]
 			},
 			{
-				"word": "-zim",
-				"meaning": "establishes a vern to be infinitive",
-				"extra": [
-					
-				]
-			},
-			{
 				"word": "-sa",
 				"meaning": "indicates plurality",
 				"extra": [
@@ -146,6 +139,13 @@
 				"meaning": "refers to that a verb is in progress or incomplete",
 				"extra": [
 					"\"yet\", \"so far\""
+				]
+			},
+			{
+				"word": "-zim",
+				"meaning": "establishes verb as infinitive",
+				"extra": [
+					"\"to ___\""
 				]
 			}
 		],

@@ -18,18 +18,6 @@
 		"type": "adjective"
 	},
 	{
-		"word": "nepetori",
-		"meaning": "to love, to feel love towards",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "-zim",
-		"meaning": "establishes a verb to be infinitive",
-		"extra": [],
-		"type": "suffix"
-	},
-	{
 		"word": "nen",
 		"meaning": "not",
 		"extra": [],
@@ -690,8 +678,8 @@
 		"type": "noun"
 	},
 	{
-		"word": "qanzi",
-		"meaning": "paper",
+		"word": "muna",
+		"meaning": "egg",
 		"extra": [],
 		"type": "noun"
 	},
@@ -1763,6 +1751,14 @@
 		"type": "suffix"
 	},
 	{
+		"word": "-zim",
+		"meaning": "establishes verb as infinitive",
+		"extra": [
+			"\"to ___\""
+		],
+		"type": "suffix"
+	},
+	{
 		"word": "-ku",
 		"meaning": "establishes verb as uncertain/questioning",
 		"extra": [
@@ -1949,6 +1945,12 @@
 	{
 		"word": "cipan",
 		"meaning": "to divide, to split",
+		"extra": [],
+		"type": "verb"
+	},
+	{
+		"word": "nepetori",
+		"meaning": "to love, to feel love towards",
 		"extra": [],
 		"type": "verb"
 	}
