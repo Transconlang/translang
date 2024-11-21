@@ -26,7 +26,6 @@
 
 ## Demonstrative Pronouns \_
 
-
 <table>
 
   <thead>
