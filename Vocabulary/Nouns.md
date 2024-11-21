@@ -61,3 +61,4 @@
 | hason | sound |
 | hasontoba | pronunciation |
 | miku | idol |
+| muna | egg |
