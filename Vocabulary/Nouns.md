@@ -61,4 +61,7 @@
 | hason | sound |
 | hasontoba | pronunciation |
 | miku | idol |
-| qanzi | paper |
+| qanzi | paper
+| muna | egg |
+
+

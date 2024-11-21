@@ -27,3 +27,4 @@
 | mina | to subtract, to decrease, to remove |
 | mulipa | to multiply |
 | cipan | to divide, to split |
+| nepetori | to love, to feel love towards |
