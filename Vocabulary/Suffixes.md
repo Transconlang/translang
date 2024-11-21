@@ -28,6 +28,7 @@
 | -ne | refers to the present tense form of a verb | -ing |
 | -lo | refers to the future tense form of a verb | "will", "shall" |
 | -ja | refers to that a verb is in progress or incomplete | "yet", "so far" |
+| -zim | establishes verb as infinitive | "to ___" |
 
 ### Other verb suffixes
 
@@ -36,7 +37,7 @@
 | -ku | establishes verb as uncertain/questioning | — |
 | -do | establishes verb as imperative | "should", "ought to" |
 | -kuka | establishes verb as politely questioning/requesting | "please" |
-| -zim | establishes verb as infinitive | "to ___" |
+
 
 ## Adjective suffixes
 
