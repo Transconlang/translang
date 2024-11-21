@@ -1,3 +1,6 @@
+/**
+ * The type of the entry in each separated file (i.e. verbs.json)
+ */
 export interface Section {
 	title: string | null;
 	type: WordType;
@@ -5,9 +8,6 @@ export interface Section {
 	entries: Entry[];
 }
 
-/**
- * The type of the entry in each separated file (i.e. verbs.json)
- */
 export interface Entry {
 	word: string;
 	meaning: string;

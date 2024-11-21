@@ -1,7 +1,7 @@
 [
 	{
 		"type": "suffix",
-		"title": "Verb suffixes",
+		"title": "Temporal verb suffixes",
 		"entries": [
 			{
 				"word": "-lu",
@@ -118,7 +118,7 @@
 	},
 	{
 		"type": "suffix",
-		"title": "Adjective suffixes",
+		"title": "Other verb suffixes",
 		"entries": [
 			{
 				"word": "-da",
@@ -147,14 +147,18 @@
 				"extra": [
 					"\"yet\", \"so far\""
 				]
-			},
-			{
-				"word": "Spelling",
-				"meaning": "Definition",
-				"extra": [
-					"English equivalents"
-				]
-			},
+			}
+		],
+		"headers": [
+			"Spelling",
+			"Definition",
+			"English equivalents"
+		]
+	},
+	{
+		"type": "suffix",
+		"title": "Adjective suffixes",
+		"entries": [
 			{
 				"word": "-ku",
 				"meaning": "establishes verb as uncertain/questioning",

@@ -1,6 +1,6 @@
 # Suffixes
 
-### (Pro)noun suffixes
+## (Pro)noun suffixes
 
 | Spelling | Definition | English equivalents |
 |----------|------------|---------------------|
@@ -19,9 +19,7 @@
 | -falo | indicates manner or characteristic of speech  | -speak, -talk |
 | -bani | for numbers, indicates ordinality | -th |
 
-## Verb suffixes
-
-### Temporal suffixes
+## Temporal verb suffixes
 | Spelling | Definition | English equivalents |
 |----------|------------|---------------------|
 | -da | refers to the past tense form of a verb | -ed |
@@ -30,7 +28,7 @@
 | -ja | refers to that a verb is in progress or incomplete | "yet", "so far" |
 | -zim | establishes verb as infinitive | "to ___" |
 
-### Other verb suffixes
+## Other verb suffixes
 
 | Spelling | Definition | English equivalents |
 |----------|------------|---------------------|

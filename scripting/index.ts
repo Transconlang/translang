@@ -16,7 +16,6 @@ const TargetDirectory = join(
 );
 
 const Files = await readdir(SourceDirectory);
-
 const CompleteDictionaryStack: FullEntry[] = [];
 
 const h2Matcher = /^## [A-z\s!-,]+$/;
@@ -74,26 +73,12 @@ for (const file of Files) {
 	subSectionStack.length > 0 &&
 		sectionStack.push({ type, title, headers, entries: subSectionStack });
 
-	const map = rows.map(row =>
-		row
-			.slice(1, -1)
-			.split('|')
-			.map(v => v.slice(1, -1))
-	);
-
 	const targetFile = join(
 		TargetDirectory,
 		file.toLowerCase().replace(/\.md$/, '.json')
 	);
 
 	await writeFile(targetFile, JSON.stringify(sectionStack, null, '	'), 'utf-8');
-
-	CompleteDictionaryStack.push(
-		...map.map(
-			([word, meaning, ...extra]) =>
-				({ word, meaning, extra, type }) satisfies FullEntry
-		)
-	);
 }
 
 await writeFile(
