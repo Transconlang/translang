@@ -33,3 +33,12 @@
 | ciki | short |
 | kanacin | sad | 
 | tanocin | happy |
+| cangi | long |
+| dangi | short |
+| tenza | tall |
+| kenki | short |
+| suci | intelligent |
+| mimi | adorable |
+| dakun | black, dark |
+| lajito | white, light, bright |
+
