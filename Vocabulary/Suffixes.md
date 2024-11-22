@@ -18,6 +18,7 @@
 | -lonki | refers to a field of knowledge/study | -ology, -graphy, -nomy, -ics |
 | -falo | indicates manner or characteristic of speech  | -speak, -talk |
 | -bani | for numbers, indicates ordinality | -th |
+| -ra | converts to adjective | -like |
 
 ## Temporal verb suffixes
 | Spelling | Definition | English equivalents |
