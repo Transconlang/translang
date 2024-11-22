@@ -186,6 +186,54 @@
 		"type": "adjective"
 	},
 	{
+		"word": "cangi",
+		"meaning": "long",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "dangi",
+		"meaning": "short",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "tenza",
+		"meaning": "tall",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "kenki",
+		"meaning": "short",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "suci",
+		"meaning": "intelligent",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "mimi",
+		"meaning": "adorable",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "dakun",
+		"meaning": "black, dark",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
+		"word": "lajito",
+		"meaning": "white, light, bright",
+		"extra": [],
+		"type": "adjective"
+	},
+	{
 		"word": "nen",
 		"meaning": "no",
 		"extra": [],
@@ -1715,6 +1763,14 @@
 		"meaning": "for numbers, indicates ordinality",
 		"extra": [
 			"-th"
+		],
+		"type": "suffix"
+	},
+	{
+		"word": "-ra",
+		"meaning": "converts to adjective",
+		"extra": [
+			"-like"
 		],
 		"type": "suffix"
 	},

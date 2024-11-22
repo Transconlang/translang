@@ -101,6 +101,13 @@
 				"extra": [
 					"-th"
 				]
+			},
+			{
+				"word": "-ra",
+				"meaning": "converts to adjective",
+				"extra": [
+					"-like"
+				]
 			}
 		],
 		"headers": [
