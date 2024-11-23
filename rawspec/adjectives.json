@@ -4,203 +4,23 @@
 		"title": null,
 		"headers": [
 			"Spelling",
-			"Definition"
+			"English Equivalent",
+			"Implication / Definition / Used as"
 		],
 		"entries": [
 			{
-				"word": "mi",
-				"meaning": "cute",
-				"extra": []
-			},
-			{
-				"word": "wusita",
-				"meaning": "good",
-				"extra": []
-			},
-			{
-				"word": "disita",
-				"meaning": "bad",
-				"extra": []
-			},
-			{
-				"word": "nen",
-				"meaning": "not",
-				"extra": []
-			},
-			{
-				"word": "toransu",
-				"meaning": "different, other",
-				"extra": []
-			},
-			{
-				"word": "somo",
-				"meaning": "sleepy",
-				"extra": []
-			},
-			{
-				"word": "sekiso",
-				"meaning": "sexy, fuckable",
-				"extra": []
-			},
-			{
-				"word": "deja",
-				"meaning": "active",
-				"extra": []
-			},
-			{
-				"word": "gara",
-				"meaning": "all",
-				"extra": []
-			},
-			{
-				"word": "coko",
-				"meaning": "some",
-				"extra": []
-			},
-			{
-				"word": "boro",
-				"meaning": "any",
-				"extra": []
-			},
-			{
 				"word": "gurati",
-				"meaning": "negative freedom, free (price)",
-				"extra": []
+				"meaning": "free (price), autonomous, non-interfered-with",
+				"extra": [
+					"negative freedom"
+				]
 			},
 			{
 				"word": "lifeta",
-				"meaning": "positive freedom, liberated",
-				"extra": []
-			},
-			{
-				"word": "jala",
-				"meaning": "able, capable of",
-				"extra": []
-			},
-			{
-				"word": "mire",
-				"meaning": "mid, average",
-				"extra": []
-			},
-			{
-				"word": "misu",
-				"meaning": "liquid, fluid",
-				"extra": []
-			},
-			{
-				"word": "ten",
-				"meaning": "solid, rigid",
-				"extra": []
-			},
-			{
-				"word": "lufi",
-				"meaning": "gaseous",
-				"extra": []
-			},
-			{
-				"word": "cinda",
-				"meaning": "new",
-				"extra": []
-			},
-			{
-				"word": "gunda",
-				"meaning": "old",
-				"extra": []
-			},
-			{
-				"word": "cindajin",
-				"meaning": "modern",
-				"extra": []
-			},
-			{
-				"word": "gundajin",
-				"meaning": "ancient",
-				"extra": []
-			},
-			{
-				"word": "cingun",
-				"meaning": "physically light",
-				"extra": []
-			},
-			{
-				"word": "cingunem",
-				"meaning": "psychologically light",
-				"extra": []
-			},
-			{
-				"word": "qongun",
-				"meaning": "physically heavy",
-				"extra": []
-			},
-			{
-				"word": "qongunem",
-				"meaning": "psychologically heavy",
-				"extra": []
-			},
-			{
-				"word": "anoman",
-				"meaning": "angry",
-				"extra": []
-			},
-			{
-				"word": "teto",
-				"meaning": "large",
-				"extra": []
-			},
-			{
-				"word": "ciki",
-				"meaning": "short",
-				"extra": []
-			},
-			{
-				"word": "kanacin",
-				"meaning": "sad",
-				"extra": []
-			},
-			{
-				"word": "tanocin",
-				"meaning": "happy",
-				"extra": []
-			},
-			{
-				"word": "cangi",
-				"meaning": "long",
-				"extra": []
-			},
-			{
-				"word": "dangi",
-				"meaning": "short",
-				"extra": []
-			},
-			{
-				"word": "tenza",
-				"meaning": "tall",
-				"extra": []
-			},
-			{
-				"word": "kenki",
-				"meaning": "short",
-				"extra": []
-			},
-			{
-				"word": "suci",
-				"meaning": "intelligent",
-				"extra": []
-			},
-			{
-				"word": "mimi",
-				"meaning": "adorable",
-				"extra": []
-			},
-			{
-				"word": "dakun",
-				"meaning": "black, dark",
-				"extra": []
-			},
-			{
-				"word": "lajito",
-				"meaning": "white, light, bright",
-				"extra": []
+				"meaning": "liberated",
+				"extra": [
+					"positive freedom"
+				]
 			}
 		]
 	}

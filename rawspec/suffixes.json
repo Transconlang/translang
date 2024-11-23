@@ -5,115 +5,79 @@
 		"entries": [
 			{
 				"word": "-lu",
-				"meaning": "defines an agent noun",
+				"meaning": "-er , -ist",
 				"extra": [
-					"-er , -ist"
+					"defines an agent noun"
 				]
 			},
 			{
 				"word": "-sa",
-				"meaning": "indicates plurality",
+				"meaning": "-s, -es",
 				"extra": [
-					"-s, -es"
+					"indicates plurality"
 				]
 			},
 			{
 				"word": "-ri",
-				"meaning": "establishes a place/event",
+				"meaning": "-ery",
 				"extra": [
-					"-ery"
+					"establishes a place/event"
 				]
 			},
 			{
 				"word": "-dufen",
-				"meaning": "refers to an entity or construct that performs a specific action or function",
+				"meaning": "-ifier, -inator",
 				"extra": [
-					"-ifier, -inator"
+					"refers to an entity or construct that performs a specific action or function"
 				]
 			},
 			{
 				"word": "-fe",
-				"meaning": "connotes opposition",
+				"meaning": "\"against\" , \"in opposition to\"",
 				"extra": [
-					"\"against\" , \"in opposition to\"",
-					"—"
-				]
-			},
-			{
-				"word": "-se",
-				"meaning": "establishes feminine characteristics/gender",
-				"extra": [
-					"—"
-				]
-			},
-			{
-				"word": "-ke",
-				"meaning": "establishes androfeminine characteristics/gender",
-				"extra": [
-					"—"
-				]
-			},
-			{
-				"word": "-ka",
-				"meaning": "establishes androgynous characteristics/gender",
-				"extra": [
-					"—"
-				]
-			},
-			{
-				"word": "-ki",
-				"meaning": "establishes andromasc characteristics/gender",
-				"extra": [
-					"—"
-				]
-			},
-			{
-				"word": "-ci",
-				"meaning": "establishes masculine characteristics/gender",
-				"extra": [
-					"—"
+					"connotes opposition"
 				]
 			},
 			{
 				"word": "-pa",
-				"meaning": "marks word as possessive",
+				"meaning": "-'s",
 				"extra": [
-					"-'s"
+					"marks word as possessive"
 				]
 			},
 			{
 				"word": "-lonki",
-				"meaning": "refers to a field of knowledge/study",
+				"meaning": "-ology, -graphy, -nomy, -ics",
 				"extra": [
-					"-ology, -graphy, -nomy, -ics"
+					"refers to a field of knowledge/study"
 				]
 			},
 			{
 				"word": "-falo",
-				"meaning": "indicates manner or characteristic of speech ",
+				"meaning": "-speak, -talk",
 				"extra": [
-					"-speak, -talk"
+					"indicates manner or characteristic of speech"
 				]
 			},
 			{
 				"word": "-bani",
-				"meaning": "for numbers, indicates ordinality",
+				"meaning": "-th",
 				"extra": [
-					"-th"
+					"for numbers, indicates ordinality"
 				]
 			},
 			{
 				"word": "-ra",
-				"meaning": "converts to adjective",
+				"meaning": "-like, -ern",
 				"extra": [
-					"-like"
+					"converts to adjective"
 				]
 			}
 		],
 		"headers": [
 			"Spelling",
-			"Definition",
-			"English equivalents"
+			"English Equivalent",
+			"Implication / Definition / Used as"
 		]
 	},
 	{
@@ -122,44 +86,44 @@
 		"entries": [
 			{
 				"word": "-da",
-				"meaning": "refers to the past tense form of a verb",
+				"meaning": "-ed",
 				"extra": [
-					"-ed"
+					"refers to the past tense form of a verb"
 				]
 			},
 			{
 				"word": "-ne",
-				"meaning": "refers to the present tense form of a verb",
+				"meaning": "-ing",
 				"extra": [
-					"-ing"
+					"refers to the present tense form of a verb"
 				]
 			},
 			{
 				"word": "-lo",
-				"meaning": "refers to the future tense form of a verb",
+				"meaning": "\"will\", \"shall\"",
 				"extra": [
-					"\"will\", \"shall\""
+					"refers to the future tense form of a verb"
 				]
 			},
 			{
 				"word": "-ja",
-				"meaning": "refers to that a verb is in progress or incomplete",
+				"meaning": "\"yet\", \"so far\"",
 				"extra": [
-					"\"yet\", \"so far\""
+					"refers to that a verb is in progress or incomplete"
 				]
 			},
 			{
 				"word": "-zim",
-				"meaning": "establishes verb as infinitive",
+				"meaning": "\"to ___\"",
 				"extra": [
-					"\"to ___\""
+					"establishes verb as infinitive"
 				]
 			}
 		],
 		"headers": [
 			"Spelling",
-			"Definition",
-			"English equivalents"
+			"English Equivalent",
+			"Implication / Definition / Used as"
 		]
 	},
 	{
@@ -167,31 +131,24 @@
 		"title": "Adjective suffixes",
 		"entries": [
 			{
-				"word": "-ku",
-				"meaning": "establishes verb as uncertain/questioning",
-				"extra": [
-					"—"
-				]
-			},
-			{
 				"word": "-do",
-				"meaning": "establishes verb as imperative",
+				"meaning": "\"should\", \"ought to\"",
 				"extra": [
-					"\"should\", \"ought to\""
+					"establishes verb as imperative"
 				]
 			},
 			{
 				"word": "-kuka",
-				"meaning": "establishes verb as politely questioning/requesting",
+				"meaning": "\"please\"",
 				"extra": [
-					"\"please\""
+					"establishes verb as politely questioning/requesting"
 				]
 			}
 		],
 		"headers": [
 			"Spelling",
-			"Definition",
-			"English equivalents"
+			"English Equivalent",
+			"Implication / Definition / Used as"
 		]
 	},
 	{
@@ -199,29 +156,22 @@
 		"title": "Adjective suffixes",
 		"headers": [
 			"Spelling",
-			"Definition",
-			"English equivalents"
+			"English Equivalent",
+			"Implication / Definition / Used as"
 		],
 		"entries": [
 			{
 				"word": "-jala",
-				"meaning": "denotes ability or capacity",
+				"meaning": "-able , -ible , \"capable of\"",
 				"extra": [
-					"-able , -ible , \"capable of\""
+					"denotes ability or capacity"
 				]
 			},
 			{
 				"word": "-wan",
-				"meaning": "denotes superlative adjectives",
+				"meaning": "-est",
 				"extra": [
-					"-est"
-				]
-			},
-			{
-				"word": "-kin",
-				"meaning": "conversion to noun",
-				"extra": [
-					"—"
+					"denotes superlative adjectives"
 				]
 			}
 		]

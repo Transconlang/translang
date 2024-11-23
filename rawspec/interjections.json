@@ -4,53 +4,16 @@
 		"title": null,
 		"headers": [
 			"Spelling",
-			"Definition"
+			"English Equivalent",
+			"Implication / Definition / Used as"
 		],
 		"entries": [
 			{
-				"word": "sim",
-				"meaning": "yes",
-				"extra": []
-			},
-			{
-				"word": "nen",
-				"meaning": "no",
-				"extra": []
-			},
-			{
-				"word": "henlo",
-				"meaning": "hello",
-				"extra": []
-			},
-			{
-				"word": "na",
-				"meaning": "hi",
-				"extra": []
-			},
-			{
-				"word": "konba",
-				"meaning": "goodbye",
-				"extra": []
-			},
-			{
-				"word": "3",
-				"meaning": "cute!",
-				"extra": []
-			},
-			{
 				"word": "ke",
 				"meaning": "ok",
-				"extra": []
-			},
-			{
-				"word": "biwe",
-				"meaning": "thanks",
-				"extra": []
-			},
-			{
-				"word": "hihi",
-				"meaning": "laughter",
-				"extra": []
+				"extra": [
+					"confirmation, acknowledgement"
+				]
 			}
 		]
 	}

@@ -4,48 +4,51 @@
 		"title": null,
 		"headers": [
 			"Spelling",
-			"Definition"
+			"Translation (English)",
+			"Implication / Definition / Used as"
 		],
 		"entries": [
 			{
 				"word": "mire-",
-				"meaning": "half, in the middle of",
-				"extra": []
+				"meaning": "semi-",
+				"extra": [
+					"semi"
+				]
 			},
 			{
 				"word": "gara-",
-				"meaning": "all/every",
-				"extra": []
+				"meaning": "all-/every-",
+				"extra": [
+					"all/every"
+				]
 			},
 			{
 				"word": "coko-",
-				"meaning": "some",
-				"extra": []
+				"meaning": "some-",
+				"extra": [
+					"some"
+				]
 			},
 			{
 				"word": "boro-",
-				"meaning": "any",
-				"extra": []
+				"meaning": "any-",
+				"extra": [
+					"any"
+				]
 			},
 			{
 				"word": "ni-",
-				"meaning": "negation, other than",
-				"extra": []
+				"meaning": "non-",
+				"extra": [
+					"negation, other than"
+				]
 			},
 			{
-				"word": "mo-",
-				"meaning": "inversion, contrary meaning",
-				"extra": []
-			},
-			{
-				"word": "wu-",
-				"meaning": "denotes positive connotation",
-				"extra": []
-			},
-			{
-				"word": "di-",
-				"meaning": "denotes negative connotation",
-				"extra": []
+				"word": "deja-",
+				"meaning": "-doing",
+				"extra": [
+					"the doing of"
+				]
 			}
 		]
 	}

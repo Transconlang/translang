@@ -4,23 +4,30 @@
 		"title": null,
 		"headers": [
 			"Spelling",
-			"Definition"
+			"English Equivalent",
+			"Implication / Definition / Used as"
 		],
 		"entries": [
 			{
 				"word": "pum",
 				"meaning": "and",
-				"extra": []
+				"extra": [
+					"logical conjunction"
+				]
 			},
 			{
 				"word": "ron",
 				"meaning": "or",
-				"extra": []
+				"extra": [
+					"logical disjunction"
+				]
 			},
 			{
 				"word": "no",
 				"meaning": "but",
-				"extra": []
+				"extra": [
+					"logical implication"
+				]
 			}
 		]
 	}

@@ -6,82 +6,34 @@
 			{
 				"word": "nen",
 				"meaning": "no",
+				"extra": [
+					"logical negation"
+				]
+			},
+			{
+				"word": "why",
+				"meaning": "interrogative question of cause",
 				"extra": []
 			},
 			{
-				"word": "con",
-				"meaning": "soon",
-				"extra": []
-			},
-			{
-				"word": "huba",
-				"meaning": "overly",
-				"extra": []
-			},
-			{
-				"word": "sun",
-				"meaning": "why",
-				"extra": []
+				"word": "tun",
+				"meaning": "because",
+				"extra": [
+					"statement of cause"
+				]
 			},
 			{
 				"word": "saci",
 				"meaning": "how",
-				"extra": []
+				"extra": [
+					"interrogative question of methodology"
+				]
 			}
 		],
 		"headers": [
 			"Spelling",
-			"Definition"
-		]
-	},
-	{
-		"type": "adverb",
-		"title": "Demonstrative adverbs",
-		"entries": [
-			{
-				"word": "tahi",
-				"meaning": "now",
-				"extra": []
-			},
-			{
-				"word": "kahi",
-				"meaning": "then",
-				"extra": []
-			},
-			{
-				"word": "sohi",
-				"meaning": "when",
-				"extra": []
-			}
-		],
-		"headers": [
-			"Spelling",
-			"Definition"
-		]
-	},
-	{
-		"type": "adverb",
-		"title": "Demonstrative adverbs",
-		"headers": [
-			"Spelling",
-			"Definition"
-		],
-		"entries": [
-			{
-				"word": "tawa",
-				"meaning": "here",
-				"extra": []
-			},
-			{
-				"word": "kawa",
-				"meaning": "there",
-				"extra": []
-			},
-			{
-				"word": "sowa",
-				"meaning": "where",
-				"extra": []
-			}
+			"English Equivalent",
+			"Implication / Definition / Used as"
 		]
 	}
 ]

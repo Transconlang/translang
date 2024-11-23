@@ -1,224 +1,76 @@
 [
 	{
 		"type": "pronoun",
-		"title": "Indefinite Pronouns",
+		"title": "Demonstrative Pronouns (Far from speaker)",
 		"entries": [
-			{
-				"word": "—",
-				"meaning": "li",
-				"extra": [
-					"animate, unspecified, 1st person"
-				]
-			},
-			{
-				"word": "mid",
-				"meaning": "mida",
-				"extra": [
-					"animate, unspecified, 2nd person"
-				]
-			},
-			{
-				"word": "—",
-				"meaning": "da",
-				"extra": [
-					"animate, unspecified, 3rd person"
-				]
-			},
-			{
-				"word": "—",
-				"meaning": "dase",
-				"extra": [
-					"animate, feminine, 3rd person"
-				]
-			},
-			{
-				"word": "—",
-				"meaning": "dake",
-				"extra": [
-					"animate, androfem, 3rd person"
-				]
-			},
-			{
-				"word": "—",
-				"meaning": "daka",
-				"extra": [
-					"animate, androgynous, 3rd person"
-				]
-			},
-			{
-				"word": "—",
-				"meaning": "daki",
-				"extra": [
-					"animate, andromasc, 3rd person"
-				]
-			},
-			{
-				"word": "—",
-				"meaning": "daci",
-				"extra": [
-					"animate, masculine, 3rd person"
-				]
-			}
-		],
-		"headers": [
-			"Spelling (nonextended — original)",
-			"Spelling",
-			"Definition"
-		]
-	},
-	{
-		"type": "pronoun",
-		"title": "Demonstrative Pronouns \\_",
-		"entries": [
-			{
-				"word": "reda",
-				"meaning": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence",
-				"extra": []
-			},
-			{
-				"word": "toransu",
-				"meaning": "other",
-				"extra": []
-			},
-			{
-				"word": "gara",
-				"meaning": "all/every",
-				"extra": []
-			},
-			{
-				"word": "coko",
-				"meaning": "some",
-				"extra": []
-			},
-			{
-				"word": "boro",
-				"meaning": "any",
-				"extra": []
-			},
-			{
-				"word": "mire",
-				"meaning": "half",
-				"extra": []
-			}
-		],
-		"headers": [
-			"Spelling",
-			"Definition"
-		]
-	},
-	{
-		"type": "pronoun",
-		"title": "Demonstrative Pronouns (Far From Speaker)",
-		"entries": [
-			{
-				"word": "tano",
-				"meaning": "this",
-				"extra": [
-					"this + n."
-				]
-			},
-			{
-				"word": "tani",
-				"meaning": "this",
-				"extra": [
-					"this + adj."
-				]
-			},
 			{
 				"word": "tatu",
-				"meaning": "this way",
+				"meaning": "as such, so",
 				"extra": [
-					"as such, in this manner"
+					"\"this way\", \"in this manner\""
 				]
 			},
 			{
 				"word": "talo",
 				"meaning": "such",
 				"extra": [
-					"such, this kind of"
+					"\"this kind of\""
 				]
 			}
 		],
 		"headers": [
-			"Word",
-			"Meaning",
-			"English Equivalent"
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
 		]
 	},
 	{
 		"type": "pronoun",
-		"title": "Demonstrative Pronouns (Interrogative Form)",
+		"title": "Demonstrative Pronouns (Interrogative form)",
 		"entries": [
 			{
-				"word": "kano",
-				"meaning": "that",
-				"extra": [
-					"that + n."
-				]
-			},
-			{
 				"word": "kani",
-				"meaning": "that",
-				"extra": [
-					"that + adj."
-				]
+				"meaning": "that + adj.",
+				"extra": []
 			},
 			{
 				"word": "katu",
-				"meaning": "that way",
+				"meaning": "as such, so",
 				"extra": [
-					"as such, in that manner"
+					"\"that way\", \"in that manner\""
 				]
 			},
 			{
-				"word": "kal",
+				"word": "kalo",
 				"meaning": "such",
 				"extra": [
-					"such, that kind of"
+					"\"that kind of\""
 				]
 			}
 		],
 		"headers": [
-			"Word",
-			"Meaning",
-			"English Equivalent"
+			"kano",
+			"that + n."
 		]
 	},
 	{
 		"type": "pronoun",
-		"title": "Demonstrative Pronouns (Interrogative Form)",
+		"title": "Demonstrative Pronouns (Interrogative form)",
 		"headers": [
-			"Word",
-			"Meaning",
-			"English Equivalent"
+			"sono",
+			"what"
 		],
 		"entries": [
 			{
-				"word": "sono",
-				"meaning": "that",
-				"extra": [
-					"what"
-				]
-			},
-			{
 				"word": "soni",
-				"meaning": "that",
-				"extra": [
-					"which"
-				]
+				"meaning": "which",
+				"extra": []
 			},
 			{
 				"word": "sotu",
-				"meaning": "that way",
+				"meaning": "how",
 				"extra": [
-					"how"
-				]
-			},
-			{
-				"word": "solo",
-				"meaning": "such",
-				"extra": [
-					"what kind of"
+					"\"which way\", \"in which manner\""
 				]
 			}
 		]

@@ -3,8 +3,8 @@
 		"type": "number",
 		"title": null,
 		"headers": [
-			"Word",
-			"Number"
+			"Spelling",
+			"Hindu-Arabic Numeral"
 		],
 		"entries": [
 			{
@@ -448,7 +448,7 @@
 				"extra": []
 			},
 			{
-				"word": "hukolono",
+				"word": "hubolono",
 				"meaning": "100'000'000'000'000'000'000'000",
 				"extra": []
 			},

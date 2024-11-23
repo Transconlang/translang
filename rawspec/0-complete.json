@@ -1,734 +1,96 @@
 [
 	{
-		"word": "mi",
-		"meaning": "cute",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "wusita",
-		"meaning": "good",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "disita",
-		"meaning": "bad",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "nen",
-		"meaning": "not",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "toransu",
-		"meaning": "different, other",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "somo",
-		"meaning": "sleepy",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "sekiso",
-		"meaning": "sexy, fuckable",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "deja",
-		"meaning": "active",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "gara",
-		"meaning": "all",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "coko",
-		"meaning": "some",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "boro",
-		"meaning": "any",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
 		"word": "gurati",
-		"meaning": "negative freedom, free (price)",
-		"extra": [],
+		"meaning": "free (price), autonomous, non-interfered-with",
+		"extra": [
+			"negative freedom"
+		],
 		"type": "adjective"
 	},
 	{
 		"word": "lifeta",
-		"meaning": "positive freedom, liberated",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "jala",
-		"meaning": "able, capable of",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "mire",
-		"meaning": "mid, average",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "misu",
-		"meaning": "liquid, fluid",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "ten",
-		"meaning": "solid, rigid",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "lufi",
-		"meaning": "gaseous",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "cinda",
-		"meaning": "new",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "gunda",
-		"meaning": "old",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "cindajin",
-		"meaning": "modern",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "gundajin",
-		"meaning": "ancient",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "cingun",
-		"meaning": "physically light",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "cingunem",
-		"meaning": "psychologically light",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "qongun",
-		"meaning": "physically heavy",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "qongunem",
-		"meaning": "psychologically heavy",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "anoman",
-		"meaning": "angry",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "teto",
-		"meaning": "large",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "ciki",
-		"meaning": "short",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "kanacin",
-		"meaning": "sad",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "tanocin",
-		"meaning": "happy",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "cangi",
-		"meaning": "long",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "dangi",
-		"meaning": "short",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "tenza",
-		"meaning": "tall",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "kenki",
-		"meaning": "short",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "suci",
-		"meaning": "intelligent",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "mimi",
-		"meaning": "adorable",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "dakun",
-		"meaning": "black, dark",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
-		"word": "lajito",
-		"meaning": "white, light, bright",
-		"extra": [],
+		"meaning": "liberated",
+		"extra": [
+			"positive freedom"
+		],
 		"type": "adjective"
 	},
 	{
 		"word": "nen",
 		"meaning": "no",
+		"extra": [
+			"logical negation"
+		],
+		"type": "adverb"
+	},
+	{
+		"word": "why",
+		"meaning": "interrogative question of cause",
 		"extra": [],
 		"type": "adverb"
 	},
 	{
-		"word": "con",
-		"meaning": "soon",
-		"extra": [],
-		"type": "adverb"
-	},
-	{
-		"word": "huba",
-		"meaning": "overly",
-		"extra": [],
-		"type": "adverb"
-	},
-	{
-		"word": "sun",
-		"meaning": "why",
-		"extra": [],
+		"word": "tun",
+		"meaning": "because",
+		"extra": [
+			"statement of cause"
+		],
 		"type": "adverb"
 	},
 	{
 		"word": "saci",
 		"meaning": "how",
-		"extra": [],
-		"type": "adverb"
-	},
-	{
-		"word": "tahi",
-		"meaning": "now",
-		"extra": [],
-		"type": "adverb"
-	},
-	{
-		"word": "kahi",
-		"meaning": "then",
-		"extra": [],
-		"type": "adverb"
-	},
-	{
-		"word": "sohi",
-		"meaning": "when",
-		"extra": [],
-		"type": "adverb"
-	},
-	{
-		"word": "tawa",
-		"meaning": "here",
-		"extra": [],
-		"type": "adverb"
-	},
-	{
-		"word": "kawa",
-		"meaning": "there",
-		"extra": [],
-		"type": "adverb"
-	},
-	{
-		"word": "sowa",
-		"meaning": "where",
-		"extra": [],
+		"extra": [
+			"interrogative question of methodology"
+		],
 		"type": "adverb"
 	},
 	{
 		"word": "pum",
 		"meaning": "and",
-		"extra": [],
+		"extra": [
+			"logical conjunction"
+		],
 		"type": "conjunction"
 	},
 	{
 		"word": "ron",
 		"meaning": "or",
-		"extra": [],
+		"extra": [
+			"logical disjunction"
+		],
 		"type": "conjunction"
 	},
 	{
 		"word": "no",
 		"meaning": "but",
-		"extra": [],
+		"extra": [
+			"logical implication"
+		],
 		"type": "conjunction"
-	},
-	{
-		"word": "sim",
-		"meaning": "yes",
-		"extra": [],
-		"type": "interjection"
-	},
-	{
-		"word": "nen",
-		"meaning": "no",
-		"extra": [],
-		"type": "interjection"
-	},
-	{
-		"word": "henlo",
-		"meaning": "hello",
-		"extra": [],
-		"type": "interjection"
-	},
-	{
-		"word": "na",
-		"meaning": "hi",
-		"extra": [],
-		"type": "interjection"
-	},
-	{
-		"word": "konba",
-		"meaning": "goodbye",
-		"extra": [],
-		"type": "interjection"
-	},
-	{
-		"word": "3",
-		"meaning": "cute!",
-		"extra": [],
-		"type": "interjection"
 	},
 	{
 		"word": "ke",
 		"meaning": "ok",
-		"extra": [],
+		"extra": [
+			"confirmation, acknowledgement"
+		],
 		"type": "interjection"
-	},
-	{
-		"word": "biwe",
-		"meaning": "thanks",
-		"extra": [],
-		"type": "interjection"
-	},
-	{
-		"word": "hihi",
-		"meaning": "laughter",
-		"extra": [],
-		"type": "interjection"
-	},
-	{
-		"word": "kase",
-		"meaning": "cat",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "hun",
-		"meaning": "dog",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "luma",
-		"meaning": "person",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "mawa",
-		"meaning": "kiss",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "lanmi",
-		"meaning": "food",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "topi",
-		"meaning": "god, deity",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "wantu",
-		"meaning": "number",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "cosi",
-		"meaning": "choice, vote",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "falo",
-		"meaning": "speech, discussion, chat",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "linwa",
-		"meaning": "language",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "keso",
-		"meaning": "cheese",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "sekiso",
-		"meaning": "sex, act of fucking",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "lumaba",
-		"meaning": "friend",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "deja",
-		"meaning": "action",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "gade",
-		"meaning": "guess",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "tempu",
-		"meaning": "time",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "cikondu",
-		"meaning": "second",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "minedu",
-		"meaning": "minute",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "haweru",
-		"meaning": "hour",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "dawu",
-		"meaning": "day",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "natu",
-		"meaning": "night",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "murinu",
-		"meaning": "morning",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "ebeninku",
-		"meaning": "evening",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "monadu",
-		"meaning": "month",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "siconu",
-		"meaning": "season",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "waru",
-		"meaning": "year",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "diwaru",
-		"meaning": "decade",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "huwaru",
-		"meaning": "century",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "newaru",
-		"meaning": "millenium",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "nem",
-		"meaning": "mind",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "pen",
-		"meaning": "movement",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "nepen",
-		"meaning": "feeling",
-		"extra": [],
-		"type": "noun"
 	},
 	{
 		"word": "gurati",
-		"meaning": "negative freedom",
-		"extra": [],
+		"meaning": "non-intervention",
+		"extra": [
+			"negative freedom"
+		],
 		"type": "noun"
 	},
 	{
 		"word": "lifeta",
-		"meaning": "positive freedom",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "kumi",
-		"meaning": "trans(gender)ness",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "jala",
-		"meaning": "ability",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "mire",
-		"meaning": "half, middle",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "misu",
-		"meaning": "liquid",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "lufi",
-		"meaning": "gas",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "ten",
-		"meaning": "solid",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "kin",
-		"meaning": "thing",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "meta",
-		"meaning": "measurment",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "core",
-		"meaning": "desire",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "jore",
-		"meaning": "need",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "lonki",
-		"meaning": "field of knowledge/study",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "tori",
-		"meaning": "kindness, love",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "toba",
-		"meaning": "word",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "bencun",
-		"meaning": "book",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "gucun",
-		"meaning": "story",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "bengu",
-		"meaning": "storybook",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "cikaran",
-		"meaning": "physical strength",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "cikaranem",
-		"meaning": "mental strength",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "canwa",
-		"meaning": "result",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "wucan",
-		"meaning": "victory",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "dican",
-		"meaning": "defeat",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "bulohaji",
-		"meaning": "comfort, safety, euphoria",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "hason",
-		"meaning": "sound",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "hasontoba",
-		"meaning": "pronunciation",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "miku",
-		"meaning": "idol",
-		"extra": [],
-		"type": "noun"
-	},
-	{
-		"word": "muna",
-		"meaning": "egg",
-		"extra": [],
+		"meaning": "(positive) freedom",
+		"extra": [
+			"positive freedom"
+		],
 		"type": "noun"
 	},
 	{
@@ -1260,7 +622,7 @@
 		"type": "number"
 	},
 	{
-		"word": "hukolono",
+		"word": "hubolono",
 		"meaning": "100'000'000'000'000'000'000'000",
 		"extra": [],
 		"type": "number"
@@ -1339,245 +701,65 @@
 	},
 	{
 		"word": "mire-",
-		"meaning": "half, in the middle of",
-		"extra": [],
+		"meaning": "semi-",
+		"extra": [
+			"semi"
+		],
 		"type": "prefix"
 	},
 	{
 		"word": "gara-",
-		"meaning": "all/every",
-		"extra": [],
+		"meaning": "all-/every-",
+		"extra": [
+			"all/every"
+		],
 		"type": "prefix"
 	},
 	{
 		"word": "coko-",
-		"meaning": "some",
-		"extra": [],
+		"meaning": "some-",
+		"extra": [
+			"some"
+		],
 		"type": "prefix"
 	},
 	{
 		"word": "boro-",
-		"meaning": "any",
-		"extra": [],
+		"meaning": "any-",
+		"extra": [
+			"any"
+		],
 		"type": "prefix"
 	},
 	{
 		"word": "ni-",
-		"meaning": "negation, other than",
-		"extra": [],
+		"meaning": "non-",
+		"extra": [
+			"negation, other than"
+		],
 		"type": "prefix"
 	},
 	{
-		"word": "mo-",
-		"meaning": "inversion, contrary meaning",
-		"extra": [],
-		"type": "prefix"
-	},
-	{
-		"word": "wu-",
-		"meaning": "denotes positive connotation",
-		"extra": [],
-		"type": "prefix"
-	},
-	{
-		"word": "di-",
-		"meaning": "denotes negative connotation",
-		"extra": [],
+		"word": "deja-",
+		"meaning": "-doing",
+		"extra": [
+			"the doing of"
+		],
 		"type": "prefix"
 	},
 	{
 		"word": "ra",
 		"meaning": "in",
-		"extra": [],
-		"type": "preposition"
-	},
-	{
-		"word": "para",
-		"meaning": "for",
-		"extra": [],
-		"type": "preposition"
-	},
-	{
-		"word": "de",
-		"meaning": "of",
-		"extra": [],
-		"type": "preposition"
-	},
-	{
-		"word": "no",
-		"meaning": "but",
-		"extra": [],
-		"type": "preposition"
-	},
-	{
-		"word": "gon",
-		"meaning": "on",
-		"extra": [],
-		"type": "preposition"
-	},
-	{
-		"word": "huba",
-		"meaning": "over",
-		"extra": [],
-		"type": "preposition"
-	},
-	{
-		"word": "wuba",
-		"meaning": "under",
-		"extra": [],
-		"type": "preposition"
-	},
-	{
-		"word": "faba",
-		"meaning": "in front of",
-		"extra": [],
-		"type": "preposition"
-	},
-	{
-		"word": "caba",
-		"meaning": "behind",
-		"extra": [],
-		"type": "preposition"
-	},
-	{
-		"word": "tamba",
-		"meaning": "next to",
-		"extra": [],
-		"type": "preposition"
-	},
-	{
-		"word": "taba",
-		"meaning": "near",
-		"extra": [],
-		"type": "preposition"
-	},
-	{
-		"word": "kaba",
-		"meaning": "far",
-		"extra": [],
-		"type": "preposition"
-	},
-	{
-		"word": "—",
-		"meaning": "li",
 		"extra": [
-			"animate, unspecified, 1st person"
+			"is part of, contained or located in"
 		],
-		"type": "pronoun"
-	},
-	{
-		"word": "mid",
-		"meaning": "mida",
-		"extra": [
-			"animate, unspecified, 2nd person"
-		],
-		"type": "pronoun"
-	},
-	{
-		"word": "—",
-		"meaning": "da",
-		"extra": [
-			"animate, unspecified, 3rd person"
-		],
-		"type": "pronoun"
-	},
-	{
-		"word": "—",
-		"meaning": "dase",
-		"extra": [
-			"animate, feminine, 3rd person"
-		],
-		"type": "pronoun"
-	},
-	{
-		"word": "—",
-		"meaning": "dake",
-		"extra": [
-			"animate, androfem, 3rd person"
-		],
-		"type": "pronoun"
-	},
-	{
-		"word": "—",
-		"meaning": "daka",
-		"extra": [
-			"animate, androgynous, 3rd person"
-		],
-		"type": "pronoun"
-	},
-	{
-		"word": "—",
-		"meaning": "daki",
-		"extra": [
-			"animate, andromasc, 3rd person"
-		],
-		"type": "pronoun"
-	},
-	{
-		"word": "—",
-		"meaning": "daci",
-		"extra": [
-			"animate, masculine, 3rd person"
-		],
-		"type": "pronoun"
-	},
-	{
-		"word": "reda",
-		"meaning": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence",
-		"extra": [],
-		"type": "pronoun"
-	},
-	{
-		"word": "toransu",
-		"meaning": "other",
-		"extra": [],
-		"type": "pronoun"
-	},
-	{
-		"word": "gara",
-		"meaning": "all/every",
-		"extra": [],
-		"type": "pronoun"
-	},
-	{
-		"word": "coko",
-		"meaning": "some",
-		"extra": [],
-		"type": "pronoun"
-	},
-	{
-		"word": "boro",
-		"meaning": "any",
-		"extra": [],
-		"type": "pronoun"
-	},
-	{
-		"word": "mire",
-		"meaning": "half",
-		"extra": [],
-		"type": "pronoun"
-	},
-	{
-		"word": "tano",
-		"meaning": "this",
-		"extra": [
-			"this + n."
-		],
-		"type": "pronoun"
-	},
-	{
-		"word": "tani",
-		"meaning": "this",
-		"extra": [
-			"this + adj."
-		],
-		"type": "pronoun"
+		"type": "preposition"
 	},
 	{
 		"word": "tatu",
-		"meaning": "this way",
+		"meaning": "as such, so",
 		"extra": [
-			"as such, in this manner"
+			"\"this way\", \"in this manner\""
 		],
 		"type": "pronoun"
 	},
@@ -1585,437 +767,196 @@
 		"word": "talo",
 		"meaning": "such",
 		"extra": [
-			"such, this kind of"
-		],
-		"type": "pronoun"
-	},
-	{
-		"word": "kano",
-		"meaning": "that",
-		"extra": [
-			"that + n."
+			"\"this kind of\""
 		],
 		"type": "pronoun"
 	},
 	{
 		"word": "kani",
-		"meaning": "that",
-		"extra": [
-			"that + adj."
-		],
+		"meaning": "that + adj.",
+		"extra": [],
 		"type": "pronoun"
 	},
 	{
 		"word": "katu",
-		"meaning": "that way",
+		"meaning": "as such, so",
 		"extra": [
-			"as such, in that manner"
+			"\"that way\", \"in that manner\""
 		],
 		"type": "pronoun"
 	},
 	{
-		"word": "kal",
+		"word": "kalo",
 		"meaning": "such",
 		"extra": [
-			"such, that kind of"
-		],
-		"type": "pronoun"
-	},
-	{
-		"word": "sono",
-		"meaning": "that",
-		"extra": [
-			"what"
+			"\"that kind of\""
 		],
 		"type": "pronoun"
 	},
 	{
 		"word": "soni",
-		"meaning": "that",
-		"extra": [
-			"which"
-		],
+		"meaning": "which",
+		"extra": [],
 		"type": "pronoun"
 	},
 	{
 		"word": "sotu",
-		"meaning": "that way",
+		"meaning": "how",
 		"extra": [
-			"how"
-		],
-		"type": "pronoun"
-	},
-	{
-		"word": "solo",
-		"meaning": "such",
-		"extra": [
-			"what kind of"
+			"\"which way\", \"in which manner\""
 		],
 		"type": "pronoun"
 	},
 	{
 		"word": "-lu",
-		"meaning": "defines an agent noun",
+		"meaning": "-er , -ist",
 		"extra": [
-			"-er , -ist"
+			"defines an agent noun"
 		],
 		"type": "suffix"
 	},
 	{
 		"word": "-sa",
-		"meaning": "indicates plurality",
+		"meaning": "-s, -es",
 		"extra": [
-			"-s, -es"
+			"indicates plurality"
 		],
 		"type": "suffix"
 	},
 	{
 		"word": "-ri",
-		"meaning": "establishes a place/event",
+		"meaning": "-ery",
 		"extra": [
-			"-ery"
+			"establishes a place/event"
 		],
 		"type": "suffix"
 	},
 	{
 		"word": "-dufen",
-		"meaning": "refers to an entity or construct that performs a specific action or function",
+		"meaning": "-ifier, -inator",
 		"extra": [
-			"-ifier, -inator"
+			"refers to an entity or construct that performs a specific action or function"
 		],
 		"type": "suffix"
 	},
 	{
 		"word": "-fe",
-		"meaning": "connotes opposition",
+		"meaning": "\"against\" , \"in opposition to\"",
 		"extra": [
-			"\"against\" , \"in opposition to\"",
-			"—"
-		],
-		"type": "suffix"
-	},
-	{
-		"word": "-se",
-		"meaning": "establishes feminine characteristics/gender",
-		"extra": [
-			"—"
-		],
-		"type": "suffix"
-	},
-	{
-		"word": "-ke",
-		"meaning": "establishes androfeminine characteristics/gender",
-		"extra": [
-			"—"
-		],
-		"type": "suffix"
-	},
-	{
-		"word": "-ka",
-		"meaning": "establishes androgynous characteristics/gender",
-		"extra": [
-			"—"
-		],
-		"type": "suffix"
-	},
-	{
-		"word": "-ki",
-		"meaning": "establishes andromasc characteristics/gender",
-		"extra": [
-			"—"
-		],
-		"type": "suffix"
-	},
-	{
-		"word": "-ci",
-		"meaning": "establishes masculine characteristics/gender",
-		"extra": [
-			"—"
+			"connotes opposition"
 		],
 		"type": "suffix"
 	},
 	{
 		"word": "-pa",
-		"meaning": "marks word as possessive",
+		"meaning": "-'s",
 		"extra": [
-			"-'s"
+			"marks word as possessive"
 		],
 		"type": "suffix"
 	},
 	{
 		"word": "-lonki",
-		"meaning": "refers to a field of knowledge/study",
+		"meaning": "-ology, -graphy, -nomy, -ics",
 		"extra": [
-			"-ology, -graphy, -nomy, -ics"
+			"refers to a field of knowledge/study"
 		],
 		"type": "suffix"
 	},
 	{
 		"word": "-falo",
-		"meaning": "indicates manner or characteristic of speech ",
+		"meaning": "-speak, -talk",
 		"extra": [
-			"-speak, -talk"
+			"indicates manner or characteristic of speech"
 		],
 		"type": "suffix"
 	},
 	{
 		"word": "-bani",
-		"meaning": "for numbers, indicates ordinality",
+		"meaning": "-th",
 		"extra": [
-			"-th"
+			"for numbers, indicates ordinality"
 		],
 		"type": "suffix"
 	},
 	{
 		"word": "-ra",
-		"meaning": "converts to adjective",
+		"meaning": "-like, -ern",
 		"extra": [
-			"-like"
+			"converts to adjective"
 		],
 		"type": "suffix"
 	},
 	{
 		"word": "-da",
-		"meaning": "refers to the past tense form of a verb",
+		"meaning": "-ed",
 		"extra": [
-			"-ed"
+			"refers to the past tense form of a verb"
 		],
 		"type": "suffix"
 	},
 	{
 		"word": "-ne",
-		"meaning": "refers to the present tense form of a verb",
+		"meaning": "-ing",
 		"extra": [
-			"-ing"
+			"refers to the present tense form of a verb"
 		],
 		"type": "suffix"
 	},
 	{
 		"word": "-lo",
-		"meaning": "refers to the future tense form of a verb",
+		"meaning": "\"will\", \"shall\"",
 		"extra": [
-			"\"will\", \"shall\""
+			"refers to the future tense form of a verb"
 		],
 		"type": "suffix"
 	},
 	{
 		"word": "-ja",
-		"meaning": "refers to that a verb is in progress or incomplete",
+		"meaning": "\"yet\", \"so far\"",
 		"extra": [
-			"\"yet\", \"so far\""
+			"refers to that a verb is in progress or incomplete"
 		],
 		"type": "suffix"
 	},
 	{
 		"word": "-zim",
-		"meaning": "establishes verb as infinitive",
+		"meaning": "\"to ___\"",
 		"extra": [
-			"\"to ___\""
-		],
-		"type": "suffix"
-	},
-	{
-		"word": "-ku",
-		"meaning": "establishes verb as uncertain/questioning",
-		"extra": [
-			"—"
+			"establishes verb as infinitive"
 		],
 		"type": "suffix"
 	},
 	{
 		"word": "-do",
-		"meaning": "establishes verb as imperative",
+		"meaning": "\"should\", \"ought to\"",
 		"extra": [
-			"\"should\", \"ought to\""
+			"establishes verb as imperative"
 		],
 		"type": "suffix"
 	},
 	{
 		"word": "-kuka",
-		"meaning": "establishes verb as politely questioning/requesting",
+		"meaning": "\"please\"",
 		"extra": [
-			"\"please\""
+			"establishes verb as politely questioning/requesting"
 		],
 		"type": "suffix"
 	},
 	{
 		"word": "-jala",
-		"meaning": "denotes ability or capacity",
+		"meaning": "-able , -ible , \"capable of\"",
 		"extra": [
-			"-able , -ible , \"capable of\""
+			"denotes ability or capacity"
 		],
 		"type": "suffix"
 	},
 	{
 		"word": "-wan",
-		"meaning": "denotes superlative adjectives",
+		"meaning": "-est",
 		"extra": [
-			"-est"
+			"denotes superlative adjectives"
 		],
 		"type": "suffix"
-	},
-	{
-		"word": "-kin",
-		"meaning": "conversion to noun",
-		"extra": [
-			"—"
-		],
-		"type": "suffix"
-	},
-	{
-		"word": "mawa",
-		"meaning": "kiss",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "binta",
-		"meaning": "eat",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "sanu",
-		"meaning": "be",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "tenco",
-		"meaning": "have",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "somo",
-		"meaning": "sleep",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "cosi",
-		"meaning": "choose, vote",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "falo",
-		"meaning": "speak, say, tell",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "toransu",
-		"meaning": "differ",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "mahen",
-		"meaning": "make, create",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "sekiso",
-		"meaning": "have sex, fuck",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "deja",
-		"meaning": "do, act",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "gade",
-		"meaning": "guess",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "nem",
-		"meaning": "think",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "pen",
-		"meaning": "move",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "nepen",
-		"meaning": "feel",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "gurati",
-		"meaning": "induce negative freedom, reduce cost to none",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "lifeta",
-		"meaning": "induce positive freedom",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "jala",
-		"meaning": "can, be able to",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "meta",
-		"meaning": "measure",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "core",
-		"meaning": "want",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "jore",
-		"meaning": "need",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "pora",
-		"meaning": "to add, to increase",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "mina",
-		"meaning": "to subtract, to decrease, to remove",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "mulipa",
-		"meaning": "to multiply",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "cipan",
-		"meaning": "to divide, to split",
-		"extra": [],
-		"type": "verb"
-	},
-	{
-		"word": "nepetori",
-		"meaning": "to love, to feel love towards",
-		"extra": [],
-		"type": "verb"
 	}
 ]
