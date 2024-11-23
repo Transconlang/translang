@@ -44,3 +44,4 @@
 |----------|------------|---------------------|
 | -jala | denotes ability or capacity | -able , -ible , "capable of" |
 | -wan | denotes superlative adjectives | -est |
+| -kin | conversion to noun | — |
