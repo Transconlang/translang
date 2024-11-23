@@ -169,12 +169,12 @@
 			},
 			{
 				"word": "gurati",
-				"meaning": "negative freedom",
+				"meaning": "free (price), without cost",
 				"extra": []
 			},
 			{
 				"word": "lifeta",
-				"meaning": "positive freedom",
+				"meaning": "liberation, liberty",
 				"extra": []
 			},
 			{
@@ -303,8 +303,18 @@
 				"extra": []
 			},
 			{
+				"word": "qanzi",
+				"meaning": "paper",
+				"extra": []
+			},
+			{
 				"word": "muna",
 				"meaning": "egg",
+				"extra": []
+			},
+			{
+				"word": "suntu",
+				"meaning": "dumbass, idiot",
 				"extra": []
 			}
 		]
