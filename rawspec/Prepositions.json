@@ -1,0 +1,86 @@
+[
+	{
+		"strascii": "ra",
+		"type": "preposition",
+		"eng_trans": "in",
+		"def": "is part of, contained or located in",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "para",
+		"type": "preposition",
+		"eng_trans": "for",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "de",
+		"type": "preposition",
+		"eng_trans": "of",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "no",
+		"type": "preposition",
+		"eng_trans": "but",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "gon",
+		"type": "preposition",
+		"eng_trans": "on",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "huba",
+		"type": "preposition",
+		"eng_trans": "over",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "wuba",
+		"type": "preposition",
+		"eng_trans": "under",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "faba",
+		"type": "preposition",
+		"eng_trans": "in front of",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "caba",
+		"type": "preposition",
+		"eng_trans": "behind",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "tamba",
+		"type": "preposition",
+		"eng_trans": "next to",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "taba",
+		"type": "preposition",
+		"eng_trans": "near",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "kaba",
+		"type": "preposition",
+		"eng_trans": "far",
+		"def": "",
+		"strascii_obscure": ""
+	}
+]
