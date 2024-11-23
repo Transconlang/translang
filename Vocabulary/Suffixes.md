@@ -18,7 +18,6 @@
 | -lonki | refers to a field of knowledge/study | -ology, -graphy, -nomy, -ics |
 | -falo | indicates manner or characteristic of speech  | -speak, -talk |
 | -bani | for numbers, indicates ordinality | -th |
-| -ra | converts to adjective | -like |
 
 ## Temporal verb suffixes
 | Spelling | Definition | English equivalents |
@@ -44,3 +43,9 @@
 |----------|------------|---------------------|
 | -jala | denotes ability or capacity | -able , -ible , "capable of" |
 | -wan | denotes superlative adjectives | -est |
+
+## Conversion suffixes
+
+| Spelling | Definition | English equivalents |
+| -ra | converts to adjective | -like |
+| -kin | converts to noun | - |
