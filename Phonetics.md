@@ -4,7 +4,6 @@
 
 | Symbol | Phoneme (IPA) | Accepted allophones (IPA) | Anglicized (main cases) |
 ---------|---------------|---------------------------|-------------------------|
-| 3 | /mi/ | — | "**me**" as in "**me**" |
 | w | /w/ | [w] | "**w**" as in "**w**ater" |
 | n | /n/ | [n\~ɳ] | "**n**" as in "**n**o" |
 | m | /m/ | [m\~ɱ] | "**m**" as in "**m**ean" |
