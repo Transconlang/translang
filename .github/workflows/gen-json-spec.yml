@@ -4,7 +4,7 @@ name: Generate JSON language specification
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "parser-test" ]
   workflow_dispatch:
 
 jobs:
