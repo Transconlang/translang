@@ -1855,6 +1855,14 @@
 		"type": "suffix"
 	},
 	{
+		"word": "-kin",
+		"meaning": "conversion to noun",
+		"extra": [
+			"—"
+		],
+		"type": "suffix"
+	},
+	{
 		"word": "mawa",
 		"meaning": "kiss",
 		"extra": [],
