@@ -7,7 +7,7 @@
 | henlo | hello |
 | na | hi |
 | konba | goodbye |
-| 3 | cute! |
+| mi | cute! |
 | ke | ok |
 | biwe | thanks |
 | hihi | laughter |
