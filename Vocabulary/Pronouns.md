@@ -35,7 +35,7 @@
 
 ## Demonstrative Pronouns (Far from speaker)
 
-| Spelling (far from speaker) | English Equivalent |Implication / Definition / Used as |
+| Spelling (far from speaker) | English Equivalent | Implication / Definition / Used as |
 |-----------------------------|--------------------|------------------------------------|
 | kano | that + n. |
 | kani | that + adj. |
@@ -44,7 +44,7 @@
 
 ## Demonstrative Pronouns (Interrogative form)
 
-| Spelling (interrogative form) | English Equivalent |Implication / Definition / Used as |
+| Spelling (interrogative form) | English Equivalent | Implication / Definition / Used as |
 |-----------------------------|--------------------|------------------------------------|
 | sono | what |
 | soni | which |
