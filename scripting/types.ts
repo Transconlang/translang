@@ -3,6 +3,7 @@
  */
 export interface Section {
 	title: string;
+	type: WordType;
 	description?: string;
 	entries: Entry[];
 }
