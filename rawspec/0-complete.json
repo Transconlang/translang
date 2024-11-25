@@ -1819,14 +1819,6 @@
 		"type": "suffix"
 	},
 	{
-		"word": "-zim",
-		"meaning": "establishes verb as infinitive",
-		"extra": [
-			"\"to ___\""
-		],
-		"type": "suffix"
-	},
-	{
 		"word": "-ku",
 		"meaning": "establishes verb as uncertain/questioning",
 		"extra": [
