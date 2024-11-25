@@ -35,7 +35,7 @@
 
 ## Demonstrative Pronouns (Far from speaker)
 
-| Spelling (far from spealer) | English Equivalent |Implication / Definition / Used as |
+| Spelling (far from speaker) | English Equivalent |Implication / Definition / Used as |
 |-----------------------------|--------------------|------------------------------------|
 | kano | that + n. |
 | kani | that + adj. |
