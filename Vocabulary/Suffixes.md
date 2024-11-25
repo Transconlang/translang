@@ -21,13 +21,14 @@
 | -ra | converts to adjective | -like |
 
 ## Temporal verb suffixes
+
 | Spelling | Definition | English equivalents |
 |----------|------------|---------------------|
 | -da | refers to the past tense form of a verb | -ed |
 | -ne | refers to the present tense form of a verb | -ing |
 | -lo | refers to the future tense form of a verb | "will", "shall" |
 | -ja | refers to that a verb is in progress or incomplete | "yet", "so far" |
-| -zim | establishes verb as infinitive | "to ___" |
+| -zi | implies indefinite action of verb without defined beginning or end |  |
 
 ## Other verb suffixes
 
