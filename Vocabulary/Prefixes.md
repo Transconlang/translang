@@ -1,13 +1,13 @@
 # Prefixes
 
-| Spelling | Definition |
-| -------- | ---------- |
-| mire- | half, in the middle of |
-| gara- | all/every |
-| coko- | some |
-| boro- | any |
-| ni- | negation, other than |
-| mo- | inversion, contrary meaning |
-| wu- | denotes positive connotation |
-| di- | denotes negative connotation |
-| deja- | like "-doing"
+| Spelling | Translation (English) | Implication / Definition / Used as |
+|----------|-----------------------|------------------------------------|
+| mire- | semi- | semi |   
+| gara- | all-/every- | all/every |
+| coko- | some- | some |
+| boro- | any- | any |
+| ni- | non- | negation, other than |
+| mo- |  | inversion, contrary meaning |
+| wu- |  | positive connotation |
+| di- |  | negative connotation |
+| deja- | -doing | the doing of |

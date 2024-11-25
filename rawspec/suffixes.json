@@ -1,229 +1,205 @@
 [
 	{
-		"type": "suffix",
-		"title": "Temporal verb suffixes",
-		"entries": [
-			{
-				"word": "-lu",
-				"meaning": "defines an agent noun",
-				"extra": [
-					"-er , -ist"
-				]
-			},
-			{
-				"word": "-sa",
-				"meaning": "indicates plurality",
-				"extra": [
-					"-s, -es"
-				]
-			},
-			{
-				"word": "-ri",
-				"meaning": "establishes a place/event",
-				"extra": [
-					"-ery"
-				]
-			},
-			{
-				"word": "-dufen",
-				"meaning": "refers to an entity or construct that performs a specific action or function",
-				"extra": [
-					"-ifier, -inator"
-				]
-			},
-			{
-				"word": "-fe",
-				"meaning": "connotes opposition",
-				"extra": [
-					"\"against\" , \"in opposition to\"",
-					"—"
-				]
-			},
-			{
-				"word": "-se",
-				"meaning": "establishes feminine characteristics/gender",
-				"extra": [
-					"—"
-				]
-			},
-			{
-				"word": "-ke",
-				"meaning": "establishes androfeminine characteristics/gender",
-				"extra": [
-					"—"
-				]
-			},
-			{
-				"word": "-ka",
-				"meaning": "establishes androgynous characteristics/gender",
-				"extra": [
-					"—"
-				]
-			},
-			{
-				"word": "-ki",
-				"meaning": "establishes andromasc characteristics/gender",
-				"extra": [
-					"—"
-				]
-			},
-			{
-				"word": "-ci",
-				"meaning": "establishes masculine characteristics/gender",
-				"extra": [
-					"—"
-				]
-			},
-			{
-				"word": "-pa",
-				"meaning": "marks word as possessive",
-				"extra": [
-					"-'s"
-				]
-			},
-			{
-				"word": "-lonki",
-				"meaning": "refers to a field of knowledge/study",
-				"extra": [
-					"-ology, -graphy, -nomy, -ics"
-				]
-			},
-			{
-				"word": "-falo",
-				"meaning": "indicates manner or characteristic of speech ",
-				"extra": [
-					"-speak, -talk"
-				]
-			},
-			{
-				"word": "-bani",
-				"meaning": "for numbers, indicates ordinality",
-				"extra": [
-					"-th"
-				]
-			},
-			{
-				"word": "-ra",
-				"meaning": "converts to adjective",
-				"extra": [
-					"-like"
-				]
-			}
-		],
-		"headers": [
-			"Spelling",
-			"Definition",
-			"English equivalents"
-		]
+		"strascii": "-lu",
+		"type": "suffixe",
+		"eng_trans": "-er , -ist",
+		"def": "defines an agent noun",
+		"strascii_obscure": ""
 	},
 	{
-		"type": "suffix",
-		"title": "Other verb suffixes",
-		"entries": [
-			{
-				"word": "-da",
-				"meaning": "refers to the past tense form of a verb",
-				"extra": [
-					"-ed"
-				]
-			},
-			{
-				"word": "-ne",
-				"meaning": "refers to the present tense form of a verb",
-				"extra": [
-					"-ing"
-				]
-			},
-			{
-				"word": "-lo",
-				"meaning": "refers to the future tense form of a verb",
-				"extra": [
-					"\"will\", \"shall\""
-				]
-			},
-			{
-				"word": "-ja",
-				"meaning": "refers to that a verb is in progress or incomplete",
-				"extra": [
-					"\"yet\", \"so far\""
-				]
-			},
-			{
-				"word": "-zim",
-				"meaning": "establishes verb as infinitive",
-				"extra": [
-					"\"to ___\""
-				]
-			}
-		],
-		"headers": [
-			"Spelling",
-			"Definition",
-			"English equivalents"
-		]
+		"strascii": "-sa",
+		"type": "suffixe",
+		"eng_trans": "-s, -es",
+		"def": "indicates plurality",
+		"strascii_obscure": ""
 	},
 	{
-		"type": "suffix",
-		"title": "Adjective suffixes",
-		"entries": [
-			{
-				"word": "-ku",
-				"meaning": "establishes verb as uncertain/questioning",
-				"extra": [
-					"—"
-				]
-			},
-			{
-				"word": "-do",
-				"meaning": "establishes verb as imperative",
-				"extra": [
-					"\"should\", \"ought to\""
-				]
-			},
-			{
-				"word": "-kuka",
-				"meaning": "establishes verb as politely questioning/requesting",
-				"extra": [
-					"\"please\""
-				]
-			}
-		],
-		"headers": [
-			"Spelling",
-			"Definition",
-			"English equivalents"
-		]
+		"strascii": "-ri",
+		"type": "suffixe",
+		"eng_trans": "-ery",
+		"def": "establishes a place/event",
+		"strascii_obscure": "-r"
 	},
 	{
-		"type": "suffix",
-		"title": "Adjective suffixes",
-		"headers": [
-			"Spelling",
-			"Definition",
-			"English equivalents"
-		],
-		"entries": [
-			{
-				"word": "-jala",
-				"meaning": "denotes ability or capacity",
-				"extra": [
-					"-able , -ible , \"capable of\""
-				]
-			},
-			{
-				"word": "-wan",
-				"meaning": "denotes superlative adjectives",
-				"extra": [
-					"-est"
-				]
-			},
-			{
-				"word": "-kin",
-				"meaning": "conversion to noun",
-				"extra": [
-					"—"
-				]
-			}
-		]
+		"strascii": "-dufen",
+		"type": "suffixe",
+		"eng_trans": "-ifier, -inator",
+		"def": "refers to an entity or construct that performs a specific action or function",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "-fe",
+		"type": "suffixe",
+		"eng_trans": "\"against\" , \"in opposition to\"",
+		"def": "connotes opposition",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "-se",
+		"type": "suffixe",
+		"eng_trans": "",
+		"def": "establishes feminine characteristics/gender",
+		"strascii_obscure": "-s"
+	},
+	{
+		"strascii": "-ke",
+		"type": "suffixe",
+		"eng_trans": "",
+		"def": "establishes androfeminine characteristics/gender",
+		"strascii_obscure": "-k"
+	},
+	{
+		"strascii": "-ka",
+		"type": "suffixe",
+		"eng_trans": "",
+		"def": "establishes androgynous characteristics/gender",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "-ki",
+		"type": "suffixe",
+		"eng_trans": "",
+		"def": "establishes andromasc characteristics/gender",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "-ci",
+		"type": "suffixe",
+		"eng_trans": "",
+		"def": "establishes masculine characteristics/gender",
+		"strascii_obscure": "-c"
+	},
+	{
+		"strascii": "-pa",
+		"type": "suffixe",
+		"eng_trans": "-'s",
+		"def": "marks word as possessive",
+		"strascii_obscure": "-p"
+	},
+	{
+		"strascii": "-lonki",
+		"type": "suffixe",
+		"eng_trans": "-ology, -graphy, -nomy, -ics",
+		"def": "refers to a field of knowledge/study",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "-falo",
+		"type": "suffixe",
+		"eng_trans": "-speak, -talk",
+		"def": "indicates manner or characteristic of speech",
+		"strascii_obscure": "-fal"
+	},
+	{
+		"strascii": "-bani",
+		"type": "suffixe",
+		"eng_trans": "-th",
+		"def": "for numbers, indicates ordinality",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "-ra",
+		"type": "suffixe",
+		"eng_trans": "-like, -ern",
+		"def": "converts to adjective",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "Spelling",
+		"type": "suffixe",
+		"eng_trans": "English Equivalent",
+		"def": "Implication / Definition / Used as",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "-da",
+		"type": "suffixe",
+		"eng_trans": "-ed",
+		"def": "refers to the past tense form of a verb",
+		"strascii_obscure": "-d"
+	},
+	{
+		"strascii": "-ne",
+		"type": "suffixe",
+		"eng_trans": "-ing",
+		"def": "refers to the present tense form of a verb",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "-lo",
+		"type": "suffixe",
+		"eng_trans": "\"will\", \"shall\"",
+		"def": "refers to the future tense form of a verb",
+		"strascii_obscure": "-l"
+	},
+	{
+		"strascii": "-ja",
+		"type": "suffixe",
+		"eng_trans": "\"yet\", \"so far\"",
+		"def": "refers to that a verb is in progress or incomplete",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "-zim",
+		"type": "suffixe",
+		"eng_trans": "\"to ___\"",
+		"def": "establishes verb as infinitive",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "Spelling",
+		"type": "suffixe",
+		"eng_trans": "English Equivalent",
+		"def": "Implication / Definition / Used as",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "-ku",
+		"type": "suffixe",
+		"eng_trans": "",
+		"def": "establishes verb as uncertain/questioning",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "-do",
+		"type": "suffixe",
+		"eng_trans": "\"should\", \"ought to\"",
+		"def": "establishes verb as imperative",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "-kuka",
+		"type": "suffixe",
+		"eng_trans": "\"please\"",
+		"def": "establishes verb as politely questioning/requesting",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "Spelling",
+		"type": "suffixe",
+		"eng_trans": "English Equivalent",
+		"def": "Implication / Definition / Used as",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "-jala",
+		"type": "suffixe",
+		"eng_trans": "-able , -ible , \"capable of\"",
+		"def": "denotes ability or capacity",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "-wan",
+		"type": "suffixe",
+		"eng_trans": "-est",
+		"def": "denotes superlative adjectives",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "-kin",
+		"type": "suffixe",
+		"eng_trans": "",
+		"def": "denotes conversion to noun",
+		"strascii_obscure": ""
 	}
 ]

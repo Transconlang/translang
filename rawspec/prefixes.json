@@ -1,52 +1,65 @@
 [
 	{
-		"type": "prefix",
-		"title": null,
-		"headers": [
-			"Spelling",
-			"Definition"
-		],
-		"entries": [
-			{
-				"word": "mire-",
-				"meaning": "half, in the middle of",
-				"extra": []
-			},
-			{
-				"word": "gara-",
-				"meaning": "all/every",
-				"extra": []
-			},
-			{
-				"word": "coko-",
-				"meaning": "some",
-				"extra": []
-			},
-			{
-				"word": "boro-",
-				"meaning": "any",
-				"extra": []
-			},
-			{
-				"word": "ni-",
-				"meaning": "negation, other than",
-				"extra": []
-			},
-			{
-				"word": "mo-",
-				"meaning": "inversion, contrary meaning",
-				"extra": []
-			},
-			{
-				"word": "wu-",
-				"meaning": "denotes positive connotation",
-				"extra": []
-			},
-			{
-				"word": "di-",
-				"meaning": "denotes negative connotation",
-				"extra": []
-			}
-		]
+		"strascii": "mire-",
+		"type": "prefixe",
+		"eng_trans": "semi-",
+		"def": "semi",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "gara-",
+		"type": "prefixe",
+		"eng_trans": "all-/every-",
+		"def": "all/every",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "coko-",
+		"type": "prefixe",
+		"eng_trans": "some-",
+		"def": "some",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "boro-",
+		"type": "prefixe",
+		"eng_trans": "any-",
+		"def": "any",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "ni-",
+		"type": "prefixe",
+		"eng_trans": "non-",
+		"def": "negation, other than",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "mo-",
+		"type": "prefixe",
+		"eng_trans": "",
+		"def": "inversion, contrary meaning",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "wu-",
+		"type": "prefixe",
+		"eng_trans": "",
+		"def": "positive connotation",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "di-",
+		"type": "prefixe",
+		"eng_trans": "",
+		"def": "negative connotation",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "deja-",
+		"type": "prefixe",
+		"eng_trans": "-doing",
+		"def": "the doing of",
+		"strascii_obscure": ""
 	}
 ]

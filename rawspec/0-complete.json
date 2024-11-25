@@ -1,2033 +1,2347 @@
 [
 	{
-		"word": "mi",
-		"meaning": "cute",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "mi",
+		"type": "adjective",
+		"eng_trans": "cute",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "wusita",
-		"meaning": "good",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "wusita",
+		"type": "adjective",
+		"eng_trans": "good",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "disita",
-		"meaning": "bad",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "disita",
+		"type": "adjective",
+		"eng_trans": "bad",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "nen",
-		"meaning": "not",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "nen",
+		"type": "adjective",
+		"eng_trans": "not",
+		"def": "",
+		"strascii_obscure": "nen'"
 	},
 	{
-		"word": "toransu",
-		"meaning": "different, other",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "toransu",
+		"type": "adjective",
+		"eng_trans": "different, other",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "somo",
-		"meaning": "sleepy",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "somo",
+		"type": "adjective",
+		"eng_trans": "sleepy",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "sekiso",
-		"meaning": "sexy, fuckable",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "sekiso",
+		"type": "adjective",
+		"eng_trans": "sexy, fuckable",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "deja",
-		"meaning": "active",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "deja",
+		"type": "adjective",
+		"eng_trans": "active",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "gara",
-		"meaning": "all",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "gara",
+		"type": "adjective",
+		"eng_trans": "all",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "coko",
-		"meaning": "some",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "coko",
+		"type": "adjective",
+		"eng_trans": "some",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "boro",
-		"meaning": "any",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "boro",
+		"type": "adjective",
+		"eng_trans": "any",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "gurati",
-		"meaning": "negative freedom, free (price)",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "gurati",
+		"type": "adjective",
+		"eng_trans": "free (price), autonomous, non-interfered-with",
+		"def": "negative freedom",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "lifeta",
-		"meaning": "positive freedom, liberated",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "lifeta",
+		"type": "adjective",
+		"eng_trans": "liberated",
+		"def": "positive freedom",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "jala",
-		"meaning": "able, capable of",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "jala",
+		"type": "adjective",
+		"eng_trans": "able, capable of",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "mire",
-		"meaning": "mid, average",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "mire",
+		"type": "adjective",
+		"eng_trans": "mid, average",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "misu",
-		"meaning": "liquid, fluid",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "misu",
+		"type": "adjective",
+		"eng_trans": "liquid, fluid",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "ten",
-		"meaning": "solid, rigid",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "ten",
+		"type": "adjective",
+		"eng_trans": "solid, rigid",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "lufi",
-		"meaning": "gaseous",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "lufi",
+		"type": "adjective",
+		"eng_trans": "gaseous",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "cinda",
-		"meaning": "new",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "cinda",
+		"type": "adjective",
+		"eng_trans": "new",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "gunda",
-		"meaning": "old",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "gunda",
+		"type": "adjective",
+		"eng_trans": "old",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "cindajin",
-		"meaning": "modern",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "cindajin",
+		"type": "adjective",
+		"eng_trans": "modern",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "gundajin",
-		"meaning": "ancient",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "gundajin",
+		"type": "adjective",
+		"eng_trans": "ancient",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "cingun",
-		"meaning": "physically light",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "cingun",
+		"type": "adjective",
+		"eng_trans": "physically light",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "cingunem",
-		"meaning": "psychologically light",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "cingunem",
+		"type": "adjective",
+		"eng_trans": "psychologically light",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "qongun",
-		"meaning": "physically heavy",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "qongun",
+		"type": "adjective",
+		"eng_trans": "physically heavy",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "qongunem",
-		"meaning": "psychologically heavy",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "qongunem",
+		"type": "adjective",
+		"eng_trans": "psychologically heavy",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "anoman",
-		"meaning": "angry",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "anoman",
+		"type": "adjective",
+		"eng_trans": "angry",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "teto",
-		"meaning": "large",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "teto",
+		"type": "adjective",
+		"eng_trans": "large",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "ciki",
-		"meaning": "short",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "ciki",
+		"type": "adjective",
+		"eng_trans": "short",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "kanacin",
-		"meaning": "sad",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "kanacin",
+		"type": "adjective",
+		"eng_trans": "sad",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "tanocin",
-		"meaning": "happy",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "tanocin",
+		"type": "adjective",
+		"eng_trans": "happy",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "cangi",
-		"meaning": "long",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "cangi",
+		"type": "adjective",
+		"eng_trans": "long",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "dangi",
-		"meaning": "short",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "dangi",
+		"type": "adjective",
+		"eng_trans": "short",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "tenza",
-		"meaning": "tall",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "tenza",
+		"type": "adjective",
+		"eng_trans": "tall",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "kenki",
-		"meaning": "short",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "kenki",
+		"type": "adjective",
+		"eng_trans": "short",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "suci",
-		"meaning": "intelligent",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "suci",
+		"type": "adjective",
+		"eng_trans": "intelligent",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "mimi",
-		"meaning": "adorable",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "mimi",
+		"type": "adjective",
+		"eng_trans": "adorable",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "dakun",
-		"meaning": "black, dark",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "dakun",
+		"type": "adjective",
+		"eng_trans": "black, dark",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "lajito",
-		"meaning": "white, light, bright",
-		"extra": [],
-		"type": "adjective"
+		"strascii": "lajito",
+		"type": "adjective",
+		"eng_trans": "white, light, bright",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "nen",
-		"meaning": "no",
-		"extra": [],
-		"type": "adverb"
+		"strascii": "nen",
+		"type": "adverb",
+		"eng_trans": "no",
+		"def": "logical negation",
+		"strascii_obscure": "nen'"
 	},
 	{
-		"word": "con",
-		"meaning": "soon",
-		"extra": [],
-		"type": "adverb"
+		"strascii": "con",
+		"type": "adverb",
+		"eng_trans": "soon",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "huba",
-		"meaning": "overly",
-		"extra": [],
-		"type": "adverb"
+		"strascii": "huba",
+		"type": "adverb",
+		"eng_trans": "overly",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "sun",
-		"meaning": "why",
-		"extra": [],
-		"type": "adverb"
+		"strascii": "why",
+		"type": "adverb",
+		"eng_trans": "interrogative question of cause",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "saci",
-		"meaning": "how",
-		"extra": [],
-		"type": "adverb"
+		"strascii": "tun",
+		"type": "adverb",
+		"eng_trans": "because",
+		"def": "statement of cause",
+		"strascii_obscure": "tun'"
 	},
 	{
-		"word": "tahi",
-		"meaning": "now",
-		"extra": [],
-		"type": "adverb"
+		"strascii": "saci",
+		"type": "adverb",
+		"eng_trans": "how",
+		"def": "interrogative question of methodology",
+		"strascii_obscure": "sac"
 	},
 	{
-		"word": "kahi",
-		"meaning": "then",
-		"extra": [],
-		"type": "adverb"
+		"strascii": "taci",
+		"type": "adverb",
+		"eng_trans": "",
+		"def": "description of methodology",
+		"strascii_obscure": "tac"
 	},
 	{
-		"word": "sohi",
-		"meaning": "when",
-		"extra": [],
-		"type": "adverb"
+		"strascii": "Spelling",
+		"type": "adverb",
+		"eng_trans": "English Equivalent",
+		"def": "Implication / Definition / Used as",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "tawa",
-		"meaning": "here",
-		"extra": [],
-		"type": "adverb"
+		"strascii": "tahi",
+		"type": "adverb",
+		"eng_trans": "now",
+		"def": "",
+		"strascii_obscure": "tah"
 	},
 	{
-		"word": "kawa",
-		"meaning": "there",
-		"extra": [],
-		"type": "adverb"
+		"strascii": "kahi",
+		"type": "adverb",
+		"eng_trans": "then",
+		"def": "",
+		"strascii_obscure": "kah"
 	},
 	{
-		"word": "sowa",
-		"meaning": "where",
-		"extra": [],
-		"type": "adverb"
+		"strascii": "sohi",
+		"type": "adverb",
+		"eng_trans": "when",
+		"def": "",
+		"strascii_obscure": "soh"
 	},
 	{
-		"word": "pum",
-		"meaning": "and",
-		"extra": [],
-		"type": "conjunction"
+		"strascii": "Spelling",
+		"type": "adverb",
+		"eng_trans": "English Equivalent",
+		"def": "Implication / Definition / Used as",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "ron",
-		"meaning": "or",
-		"extra": [],
-		"type": "conjunction"
+		"strascii": "tawa",
+		"type": "adverb",
+		"eng_trans": "here",
+		"def": "",
+		"strascii_obscure": "taw"
 	},
 	{
-		"word": "no",
-		"meaning": "but",
-		"extra": [],
-		"type": "conjunction"
+		"strascii": "kawa",
+		"type": "adverb",
+		"eng_trans": "there",
+		"def": "",
+		"strascii_obscure": "kaw"
 	},
 	{
-		"word": "sim",
-		"meaning": "yes",
-		"extra": [],
-		"type": "interjection"
+		"strascii": "sowa",
+		"type": "adverb",
+		"eng_trans": "where",
+		"def": "",
+		"strascii_obscure": "sow"
 	},
 	{
-		"word": "nen",
-		"meaning": "no",
-		"extra": [],
-		"type": "interjection"
+		"strascii": "pum",
+		"type": "conjunction",
+		"eng_trans": "and",
+		"def": "logical conjunction",
+		"strascii_obscure": "plu"
 	},
 	{
-		"word": "henlo",
-		"meaning": "hello",
-		"extra": [],
-		"type": "interjection"
+		"strascii": "ron",
+		"type": "conjunction",
+		"eng_trans": "or",
+		"def": "logical disjunction",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "na",
-		"meaning": "hi",
-		"extra": [],
-		"type": "interjection"
+		"strascii": "no",
+		"type": "conjunction",
+		"eng_trans": "but",
+		"def": "logical implication",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "konba",
-		"meaning": "goodbye",
-		"extra": [],
-		"type": "interjection"
+		"strascii": "sim",
+		"type": "interjection",
+		"eng_trans": "yes",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "mi",
-		"meaning": "cute!",
-		"extra": [],
-		"type": "interjection"
+		"strascii": "nen",
+		"type": "interjection",
+		"eng_trans": "no",
+		"def": "",
+		"strascii_obscure": "nen'"
 	},
 	{
-		"word": "ke",
-		"meaning": "ok",
-		"extra": [],
-		"type": "interjection"
+		"strascii": "henlo",
+		"type": "interjection",
+		"eng_trans": "hello",
+		"def": "",
+		"strascii_obscure": "hnl"
 	},
 	{
-		"word": "biwe",
-		"meaning": "thanks",
-		"extra": [],
-		"type": "interjection"
+		"strascii": "na",
+		"type": "interjection",
+		"eng_trans": "hi",
+		"def": "",
+		"strascii_obscure": "n"
 	},
 	{
-		"word": "hihi",
-		"meaning": "laughter",
-		"extra": [],
-		"type": "interjection"
+		"strascii": "konba",
+		"type": "interjection",
+		"eng_trans": "goodbye",
+		"def": "",
+		"strascii_obscure": "kon'ba"
 	},
 	{
-		"word": "kase",
-		"meaning": "cat",
-		"extra": [],
-		"type": "noun"
+		"strascii": "mi",
+		"type": "interjection",
+		"eng_trans": "cute",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "hun",
-		"meaning": "dog",
-		"extra": [],
-		"type": "noun"
+		"strascii": "ke",
+		"type": "interjection",
+		"eng_trans": "ok",
+		"def": "confirmation, acknowledgement",
+		"strascii_obscure": "k"
 	},
 	{
-		"word": "luma",
-		"meaning": "person",
-		"extra": [],
-		"type": "noun"
+		"strascii": "biwe",
+		"type": "interjection",
+		"eng_trans": "thanks",
+		"def": "",
+		"strascii_obscure": "bwe"
 	},
 	{
-		"word": "mawa",
-		"meaning": "kiss",
-		"extra": [],
-		"type": "noun"
+		"strascii": "hihi",
+		"type": "interjection",
+		"eng_trans": "laughter",
+		"def": "",
+		"strascii_obscure": "hh"
 	},
 	{
-		"word": "lanmi",
-		"meaning": "food",
-		"extra": [],
-		"type": "noun"
+		"strascii": "kase",
+		"type": "noun",
+		"eng_trans": "cat",
+		"def": "",
+		"strascii_obscure": "kas"
 	},
 	{
-		"word": "topi",
-		"meaning": "god, deity",
-		"extra": [],
-		"type": "noun"
+		"strascii": "hun",
+		"type": "noun",
+		"eng_trans": "dog",
+		"def": "",
+		"strascii_obscure": "hn'"
 	},
 	{
-		"word": "wantu",
-		"meaning": "number",
-		"extra": [],
-		"type": "noun"
+		"strascii": "luma",
+		"type": "noun",
+		"eng_trans": "person",
+		"def": "",
+		"strascii_obscure": "lm"
 	},
 	{
-		"word": "cosi",
-		"meaning": "choice, vote",
-		"extra": [],
-		"type": "noun"
+		"strascii": "mawa",
+		"type": "noun",
+		"eng_trans": "kiss",
+		"def": "",
+		"strascii_obscure": "mw"
 	},
 	{
-		"word": "falo",
-		"meaning": "speech, discussion, chat",
-		"extra": [],
-		"type": "noun"
+		"strascii": "lanmi",
+		"type": "noun",
+		"eng_trans": "food",
+		"def": "",
+		"strascii_obscure": "ln'mi"
 	},
 	{
-		"word": "linwa",
-		"meaning": "language",
-		"extra": [],
-		"type": "noun"
+		"strascii": "topi",
+		"type": "noun",
+		"eng_trans": "god, deity",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "keso",
-		"meaning": "cheese",
-		"extra": [],
-		"type": "noun"
+		"strascii": "wantu",
+		"type": "noun",
+		"eng_trans": "number",
+		"def": "",
+		"strascii_obscure": "wn'tu"
 	},
 	{
-		"word": "sekiso",
-		"meaning": "sex, act of fucking",
-		"extra": [],
-		"type": "noun"
+		"strascii": "cosi",
+		"type": "noun",
+		"eng_trans": "choice, vote",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "lumaba",
-		"meaning": "friend",
-		"extra": [],
-		"type": "noun"
+		"strascii": "falo",
+		"type": "noun",
+		"eng_trans": "speech, discussion, chat",
+		"def": "",
+		"strascii_obscure": "fal"
 	},
 	{
-		"word": "deja",
-		"meaning": "action",
-		"extra": [],
-		"type": "noun"
+		"strascii": "linwa",
+		"type": "noun",
+		"eng_trans": "language",
+		"def": "",
+		"strascii_obscure": "ln'wa"
 	},
 	{
-		"word": "gade",
-		"meaning": "guess",
-		"extra": [],
-		"type": "noun"
+		"strascii": "keso",
+		"type": "noun",
+		"eng_trans": "cheese",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "tempu",
-		"meaning": "time",
-		"extra": [],
-		"type": "noun"
+		"strascii": "sekiso",
+		"type": "noun",
+		"eng_trans": "sex, act of fucking",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "cikondu",
-		"meaning": "second",
-		"extra": [],
-		"type": "noun"
+		"strascii": "lumaba",
+		"type": "noun",
+		"eng_trans": "friend",
+		"def": "",
+		"strascii_obscure": "cn'ku"
 	},
 	{
-		"word": "minedu",
-		"meaning": "minute",
-		"extra": [],
-		"type": "noun"
+		"strascii": "deja",
+		"type": "noun",
+		"eng_trans": "action",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "haweru",
-		"meaning": "hour",
-		"extra": [],
-		"type": "noun"
+		"strascii": "gade",
+		"type": "noun",
+		"eng_trans": "guess",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "dawu",
-		"meaning": "day",
-		"extra": [],
-		"type": "noun"
+		"strascii": "tempu",
+		"type": "noun",
+		"eng_trans": "time",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "natu",
-		"meaning": "night",
-		"extra": [],
-		"type": "noun"
+		"strascii": "cikondu",
+		"type": "noun",
+		"eng_trans": "second",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "murinu",
-		"meaning": "morning",
-		"extra": [],
-		"type": "noun"
+		"strascii": "minedu",
+		"type": "noun",
+		"eng_trans": "minute",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "ebeninku",
-		"meaning": "evening",
-		"extra": [],
-		"type": "noun"
+		"strascii": "haweru",
+		"type": "noun",
+		"eng_trans": "hour",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "monadu",
-		"meaning": "month",
-		"extra": [],
-		"type": "noun"
+		"strascii": "dawu",
+		"type": "noun",
+		"eng_trans": "day",
+		"def": "",
+		"strascii_obscure": "dwu"
 	},
 	{
-		"word": "siconu",
-		"meaning": "season",
-		"extra": [],
-		"type": "noun"
+		"strascii": "natu",
+		"type": "noun",
+		"eng_trans": "night",
+		"def": "",
+		"strascii_obscure": "ntu"
 	},
 	{
-		"word": "waru",
-		"meaning": "year",
-		"extra": [],
-		"type": "noun"
+		"strascii": "murinu",
+		"type": "noun",
+		"eng_trans": "morning",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "diwaru",
-		"meaning": "decade",
-		"extra": [],
-		"type": "noun"
+		"strascii": "ebeninku",
+		"type": "noun",
+		"eng_trans": "evening",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "huwaru",
-		"meaning": "century",
-		"extra": [],
-		"type": "noun"
+		"strascii": "monadu",
+		"type": "noun",
+		"eng_trans": "month",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "newaru",
-		"meaning": "millenium",
-		"extra": [],
-		"type": "noun"
+		"strascii": "siconu",
+		"type": "noun",
+		"eng_trans": "season",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "nem",
-		"meaning": "mind",
-		"extra": [],
-		"type": "noun"
+		"strascii": "waru",
+		"type": "noun",
+		"eng_trans": "year",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "pen",
-		"meaning": "movement",
-		"extra": [],
-		"type": "noun"
+		"strascii": "diwaru",
+		"type": "noun",
+		"eng_trans": "decade",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "nepen",
-		"meaning": "feeling",
-		"extra": [],
-		"type": "noun"
+		"strascii": "huwaru",
+		"type": "noun",
+		"eng_trans": "century",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "gurati",
-		"meaning": "free (price), without cost",
-		"extra": [],
-		"type": "noun"
+		"strascii": "newaru",
+		"type": "noun",
+		"eng_trans": "millenium",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "lifeta",
-		"meaning": "liberation, liberty",
-		"extra": [],
-		"type": "noun"
+		"strascii": "nem",
+		"type": "noun",
+		"eng_trans": "mind",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "kumi",
-		"meaning": "trans(gender)ness",
-		"extra": [],
-		"type": "noun"
+		"strascii": "pen",
+		"type": "noun",
+		"eng_trans": "movement",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "jala",
-		"meaning": "ability",
-		"extra": [],
-		"type": "noun"
+		"strascii": "nepen",
+		"type": "noun",
+		"eng_trans": "feeling",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "mire",
-		"meaning": "half, middle",
-		"extra": [],
-		"type": "noun"
+		"strascii": "gurati",
+		"type": "noun",
+		"eng_trans": "non-intervention",
+		"def": "free (price), without cost",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "misu",
-		"meaning": "liquid",
-		"extra": [],
-		"type": "noun"
+		"strascii": "lifeta",
+		"type": "noun",
+		"eng_trans": "(positive) freedom",
+		"def": "liberation, liberty",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "lufi",
-		"meaning": "gas",
-		"extra": [],
-		"type": "noun"
+		"strascii": "kumi",
+		"type": "noun",
+		"eng_trans": "trans(gender)ness",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "ten",
-		"meaning": "solid",
-		"extra": [],
-		"type": "noun"
+		"strascii": "jala",
+		"type": "noun",
+		"eng_trans": "ability",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "kin",
-		"meaning": "thing",
-		"extra": [],
-		"type": "noun"
+		"strascii": "mire",
+		"type": "noun",
+		"eng_trans": "half, middle",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "meta",
-		"meaning": "measurment",
-		"extra": [],
-		"type": "noun"
+		"strascii": "misu",
+		"type": "noun",
+		"eng_trans": "liquid",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "core",
-		"meaning": "desire",
-		"extra": [],
-		"type": "noun"
+		"strascii": "lufi",
+		"type": "noun",
+		"eng_trans": "gas",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "jore",
-		"meaning": "need",
-		"extra": [],
-		"type": "noun"
+		"strascii": "ten",
+		"type": "noun",
+		"eng_trans": "solid",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "lonki",
-		"meaning": "field of knowledge/study",
-		"extra": [],
-		"type": "noun"
+		"strascii": "kin",
+		"type": "noun",
+		"eng_trans": "thing",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "tori",
-		"meaning": "kindness, love",
-		"extra": [],
-		"type": "noun"
+		"strascii": "meta",
+		"type": "noun",
+		"eng_trans": "measurment",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "toba",
-		"meaning": "word",
-		"extra": [],
-		"type": "noun"
+		"strascii": "core",
+		"type": "noun",
+		"eng_trans": "desire",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "bencun",
-		"meaning": "book",
-		"extra": [],
-		"type": "noun"
+		"strascii": "jore",
+		"type": "noun",
+		"eng_trans": "need",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "gucun",
-		"meaning": "story",
-		"extra": [],
-		"type": "noun"
+		"strascii": "lonki",
+		"type": "noun",
+		"eng_trans": "field of knowledge/study",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "bengu",
-		"meaning": "storybook",
-		"extra": [],
-		"type": "noun"
+		"strascii": "tori",
+		"type": "noun",
+		"eng_trans": "kindness, love",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "cikaran",
-		"meaning": "physical strength",
-		"extra": [],
-		"type": "noun"
+		"strascii": "toba",
+		"type": "noun",
+		"eng_trans": "word",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "cikaranem",
-		"meaning": "mental strength",
-		"extra": [],
-		"type": "noun"
+		"strascii": "bencun",
+		"type": "noun",
+		"eng_trans": "book",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "canwa",
-		"meaning": "result",
-		"extra": [],
-		"type": "noun"
+		"strascii": "gucun",
+		"type": "noun",
+		"eng_trans": "story",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "wucan",
-		"meaning": "victory",
-		"extra": [],
-		"type": "noun"
+		"strascii": "bengu",
+		"type": "noun",
+		"eng_trans": "storybook",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "dican",
-		"meaning": "defeat",
-		"extra": [],
-		"type": "noun"
+		"strascii": "cikaran",
+		"type": "noun",
+		"eng_trans": "physical strength",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "bulohaji",
-		"meaning": "comfort, safety, euphoria",
-		"extra": [],
-		"type": "noun"
+		"strascii": "cikaranem",
+		"type": "noun",
+		"eng_trans": "mental strength",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "hason",
-		"meaning": "sound",
-		"extra": [],
-		"type": "noun"
+		"strascii": "canwa",
+		"type": "noun",
+		"eng_trans": "result",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "hasontoba",
-		"meaning": "pronunciation",
-		"extra": [],
-		"type": "noun"
+		"strascii": "wucan",
+		"type": "noun",
+		"eng_trans": "victory",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "miku",
-		"meaning": "idol",
-		"extra": [],
-		"type": "noun"
+		"strascii": "dican",
+		"type": "noun",
+		"eng_trans": "defeat",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "qanzi",
-		"meaning": "paper",
-		"extra": [],
-		"type": "noun"
+		"strascii": "bulohaji",
+		"type": "noun",
+		"eng_trans": "comfort, safety, euphoria",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "muna",
-		"meaning": "egg",
-		"extra": [],
-		"type": "noun"
+		"strascii": "hason",
+		"type": "noun",
+		"eng_trans": "sound",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "suntu",
-		"meaning": "dumbass, idiot",
-		"extra": [],
-		"type": "noun"
+		"strascii": "hasontoba",
+		"type": "noun",
+		"eng_trans": "pronunciation",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**sero**",
-		"meaning": "0",
-		"extra": [],
-		"type": "number"
+		"strascii": "miku",
+		"type": "noun",
+		"eng_trans": "idol",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**wano**",
-		"meaning": "1",
-		"extra": [],
-		"type": "number"
+		"strascii": "qanzi",
+		"type": "noun",
+		"eng_trans": "paper",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**duwo**",
-		"meaning": "2",
-		"extra": [],
-		"type": "number"
+		"strascii": "muna",
+		"type": "noun",
+		"eng_trans": "egg",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**tero**",
-		"meaning": "3",
-		"extra": [],
-		"type": "number"
+		"strascii": "suntu",
+		"type": "noun",
+		"eng_trans": "dumbass, idiot",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**karo**",
-		"meaning": "4",
-		"extra": [],
-		"type": "number"
+		"strascii": "**sero**",
+		"type": "number",
+		"eng_trans": "0",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**bimo**",
-		"meaning": "5",
-		"extra": [],
-		"type": "number"
+		"strascii": "**wano**",
+		"type": "number",
+		"eng_trans": "1",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**ciko**",
-		"meaning": "6",
-		"extra": [],
-		"type": "number"
+		"strascii": "**duwo**",
+		"type": "number",
+		"eng_trans": "2",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**sebo**",
-		"meaning": "7",
-		"extra": [],
-		"type": "number"
+		"strascii": "**tero**",
+		"type": "number",
+		"eng_trans": "3",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**wonto**",
-		"meaning": "8",
-		"extra": [],
-		"type": "number"
+		"strascii": "**karo**",
+		"type": "number",
+		"eng_trans": "4",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**ninto**",
-		"meaning": "9",
-		"extra": [],
-		"type": "number"
+		"strascii": "**bimo**",
+		"type": "number",
+		"eng_trans": "5",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**dinko**",
-		"meaning": "10",
-		"extra": [],
-		"type": "number"
+		"strascii": "**ciko**",
+		"type": "number",
+		"eng_trans": "6",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "dunko",
-		"meaning": "20",
-		"extra": [],
-		"type": "number"
+		"strascii": "**sebo**",
+		"type": "number",
+		"eng_trans": "7",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "tenko",
-		"meaning": "30",
-		"extra": [],
-		"type": "number"
+		"strascii": "**wonto**",
+		"type": "number",
+		"eng_trans": "8",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "kanko",
-		"meaning": "40",
-		"extra": [],
-		"type": "number"
+		"strascii": "**ninto**",
+		"type": "number",
+		"eng_trans": "9",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "binko",
-		"meaning": "50",
-		"extra": [],
-		"type": "number"
+		"strascii": "**dinko**",
+		"type": "number",
+		"eng_trans": "10",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "cinko",
-		"meaning": "60",
-		"extra": [],
-		"type": "number"
+		"strascii": "dunko",
+		"type": "number",
+		"eng_trans": "20",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "senko",
-		"meaning": "70",
-		"extra": [],
-		"type": "number"
+		"strascii": "tenko",
+		"type": "number",
+		"eng_trans": "30",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "wonko",
-		"meaning": "80",
-		"extra": [],
-		"type": "number"
+		"strascii": "kanko",
+		"type": "number",
+		"eng_trans": "40",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "ninko",
-		"meaning": "90",
-		"extra": [],
-		"type": "number"
+		"strascii": "binko",
+		"type": "number",
+		"eng_trans": "50",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**hundo**",
-		"meaning": "100",
-		"extra": [],
-		"type": "number"
+		"strascii": "cinko",
+		"type": "number",
+		"eng_trans": "60",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "dundo",
-		"meaning": "200",
-		"extra": [],
-		"type": "number"
+		"strascii": "senko",
+		"type": "number",
+		"eng_trans": "70",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "tendo",
-		"meaning": "300",
-		"extra": [],
-		"type": "number"
+		"strascii": "wonko",
+		"type": "number",
+		"eng_trans": "80",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "kando",
-		"meaning": "400",
-		"extra": [],
-		"type": "number"
+		"strascii": "ninko",
+		"type": "number",
+		"eng_trans": "90",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "bindo",
-		"meaning": "500",
-		"extra": [],
-		"type": "number"
+		"strascii": "**hundo**",
+		"type": "number",
+		"eng_trans": "100",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "cindo",
-		"meaning": "600",
-		"extra": [],
-		"type": "number"
+		"strascii": "dundo",
+		"type": "number",
+		"eng_trans": "200",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "sendo",
-		"meaning": "700",
-		"extra": [],
-		"type": "number"
+		"strascii": "tendo",
+		"type": "number",
+		"eng_trans": "300",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "wondo",
-		"meaning": "800",
-		"extra": [],
-		"type": "number"
+		"strascii": "kando",
+		"type": "number",
+		"eng_trans": "400",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "nindo",
-		"meaning": "900",
-		"extra": [],
-		"type": "number"
+		"strascii": "bindo",
+		"type": "number",
+		"eng_trans": "500",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**neko**",
-		"meaning": "1000",
-		"extra": [],
-		"type": "number"
+		"strascii": "cindo",
+		"type": "number",
+		"eng_trans": "600",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "duko",
-		"meaning": "2000",
-		"extra": [],
-		"type": "number"
+		"strascii": "sendo",
+		"type": "number",
+		"eng_trans": "700",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "teko",
-		"meaning": "3000",
-		"extra": [],
-		"type": "number"
+		"strascii": "wondo",
+		"type": "number",
+		"eng_trans": "800",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "keko",
-		"meaning": "4000",
-		"extra": [],
-		"type": "number"
+		"strascii": "nindo",
+		"type": "number",
+		"eng_trans": "900",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "biko",
-		"meaning": "5000",
-		"extra": [],
-		"type": "number"
+		"strascii": "**neko**",
+		"type": "number",
+		"eng_trans": "1000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "ciko",
-		"meaning": "6000",
-		"extra": [],
-		"type": "number"
+		"strascii": "duko",
+		"type": "number",
+		"eng_trans": "2000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "seko",
-		"meaning": "7000",
-		"extra": [],
-		"type": "number"
+		"strascii": "teko",
+		"type": "number",
+		"eng_trans": "3000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "woko",
-		"meaning": "8000",
-		"extra": [],
-		"type": "number"
+		"strascii": "keko",
+		"type": "number",
+		"eng_trans": "4000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "niko",
-		"meaning": "9000",
-		"extra": [],
-		"type": "number"
+		"strascii": "biko",
+		"type": "number",
+		"eng_trans": "5000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "diko",
-		"meaning": "10'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "ciko",
+		"type": "number",
+		"eng_trans": "6000",
+		"def": "",
+		"strascii_obscure": "cko"
 	},
 	{
-		"word": "dudiko",
-		"meaning": "20'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "seko",
+		"type": "number",
+		"eng_trans": "7000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "tediko",
-		"meaning": "30'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "woko",
+		"type": "number",
+		"eng_trans": "8000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "kadiko",
-		"meaning": "40'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "niko",
+		"type": "number",
+		"eng_trans": "9000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "bidiko",
-		"meaning": "50'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "diko",
+		"type": "number",
+		"eng_trans": "10'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "cidiko",
-		"meaning": "60'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "dudiko",
+		"type": "number",
+		"eng_trans": "20'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "sediko",
-		"meaning": "70'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "tediko",
+		"type": "number",
+		"eng_trans": "30'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "wodiko",
-		"meaning": "80'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "kadiko",
+		"type": "number",
+		"eng_trans": "40'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "nidiko",
-		"meaning": "90'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "bidiko",
+		"type": "number",
+		"eng_trans": "50'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "huko",
-		"meaning": "100'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "cidiko",
+		"type": "number",
+		"eng_trans": "60'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "duhuko",
-		"meaning": "200'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "sediko",
+		"type": "number",
+		"eng_trans": "70'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "tehuko",
-		"meaning": "300'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "wodiko",
+		"type": "number",
+		"eng_trans": "80'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "kahuko",
-		"meaning": "400'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "nidiko",
+		"type": "number",
+		"eng_trans": "90'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "bihuko",
-		"meaning": "500'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "huko",
+		"type": "number",
+		"eng_trans": "100'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "cihuko",
-		"meaning": "600'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "duhuko",
+		"type": "number",
+		"eng_trans": "200'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "sehuko",
-		"meaning": "700'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "tehuko",
+		"type": "number",
+		"eng_trans": "300'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "wohuko",
-		"meaning": "800'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "kahuko",
+		"type": "number",
+		"eng_trans": "400'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "nihuko",
-		"meaning": "900'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "bihuko",
+		"type": "number",
+		"eng_trans": "500'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**ranolono**",
-		"meaning": "1'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "cihuko",
+		"type": "number",
+		"eng_trans": "600'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "dunolono",
-		"meaning": "2'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "sehuko",
+		"type": "number",
+		"eng_trans": "700'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "tenolono",
-		"meaning": "3'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "wohuko",
+		"type": "number",
+		"eng_trans": "800'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "kenolono",
-		"meaning": "4'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "nihuko",
+		"type": "number",
+		"eng_trans": "900'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "binolono",
-		"meaning": "5'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "**ranolono**",
+		"type": "number",
+		"eng_trans": "1'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "cinolono",
-		"meaning": "6'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "dunolono",
+		"type": "number",
+		"eng_trans": "2'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "senolono",
-		"meaning": "7'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "tenolono",
+		"type": "number",
+		"eng_trans": "3'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "wonolono",
-		"meaning": "8'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "kenolono",
+		"type": "number",
+		"eng_trans": "4'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "ninolono",
-		"meaning": "9'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "binolono",
+		"type": "number",
+		"eng_trans": "5'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "dinolono",
-		"meaning": "10'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "cinolono",
+		"type": "number",
+		"eng_trans": "6'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "dudinolono",
-		"meaning": "20'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "senolono",
+		"type": "number",
+		"eng_trans": "7'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "tedinolono",
-		"meaning": "30'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "wonolono",
+		"type": "number",
+		"eng_trans": "8'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "kadinolono",
-		"meaning": "40'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "ninolono",
+		"type": "number",
+		"eng_trans": "9'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "bidinolono",
-		"meaning": "50'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "dinolono",
+		"type": "number",
+		"eng_trans": "10'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "cidinolono",
-		"meaning": "60'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "dudinolono",
+		"type": "number",
+		"eng_trans": "20'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "sedinolono",
-		"meaning": "70'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "tedinolono",
+		"type": "number",
+		"eng_trans": "30'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "wodinolono",
-		"meaning": "80'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "kadinolono",
+		"type": "number",
+		"eng_trans": "40'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "nidinolono",
-		"meaning": "90'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "bidinolono",
+		"type": "number",
+		"eng_trans": "50'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "hunolono",
-		"meaning": "100'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "cidinolono",
+		"type": "number",
+		"eng_trans": "60'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**rawolono**",
-		"meaning": "1'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "sedinolono",
+		"type": "number",
+		"eng_trans": "70'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "diwolono",
-		"meaning": "10'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "wodinolono",
+		"type": "number",
+		"eng_trans": "80'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "huwolono",
-		"meaning": "100'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "nidinolono",
+		"type": "number",
+		"eng_trans": "90'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**rerolono**",
-		"meaning": "1'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "hunolono",
+		"type": "number",
+		"eng_trans": "100'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "dirolono",
-		"meaning": "10'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "**rawolono**",
+		"type": "number",
+		"eng_trans": "1'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "hurolono",
-		"meaning": "100'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "diwolono",
+		"type": "number",
+		"eng_trans": "10'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**ragolono**",
-		"meaning": "1'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "huwolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "digolono",
-		"meaning": "10'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "**rerolono**",
+		"type": "number",
+		"eng_trans": "1'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "hugolono",
-		"meaning": "100'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "dirolono",
+		"type": "number",
+		"eng_trans": "10'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**rimolono**",
-		"meaning": "1'000'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "hurolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "dimolono",
-		"meaning": "10'000'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "**ragolono**",
+		"type": "number",
+		"eng_trans": "1'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "humolono",
-		"meaning": "100'000'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "digolono",
+		"type": "number",
+		"eng_trans": "10'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**rikolono**",
-		"meaning": "1'000'000'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "hugolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "dikolono",
-		"meaning": "10'000'000'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "**rimolono**",
+		"type": "number",
+		"eng_trans": "1'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "hukolono",
-		"meaning": "100'000'000'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "dimolono",
+		"type": "number",
+		"eng_trans": "10'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**rebolono**",
-		"meaning": "1'000'000'000'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "humolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "dibolono",
-		"meaning": "10'000'000'000'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "**rikolono**",
+		"type": "number",
+		"eng_trans": "1'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "hubolono",
-		"meaning": "100'000'000'000'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "dikolono",
+		"type": "number",
+		"eng_trans": "10'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**rontolono**",
-		"meaning": "1'000'000'000'000'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "hubolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "dintolono",
-		"meaning": "10'000'000'000'000'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "**rebolono**",
+		"type": "number",
+		"eng_trans": "1'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "huntolono",
-		"meaning": "100'000'000'000'000'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "dibolono",
+		"type": "number",
+		"eng_trans": "10'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**rinolono**",
-		"meaning": "1'000'000'000'000'000'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "hubolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "dimpolono",
-		"meaning": "10'000'000'000'000'000'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "**rontolono**",
+		"type": "number",
+		"eng_trans": "1'000'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "humpolono",
-		"meaning": "100'000'000'000'000'000'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "dintolono",
+		"type": "number",
+		"eng_trans": "10'000'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "**rinkolono**",
-		"meaning": "1'000'000'000'000'000'000'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "huntolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "dinkolono",
-		"meaning": "100'000'000'000'000'000'000'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "**rinolono**",
+		"type": "number",
+		"eng_trans": "1'000'000'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "hunkolono",
-		"meaning": "100'000'000'000'000'000'000'000'000'000'000'000",
-		"extra": [],
-		"type": "number"
+		"strascii": "dimpolono",
+		"type": "number",
+		"eng_trans": "10'000'000'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "mire-",
-		"meaning": "half, in the middle of",
-		"extra": [],
-		"type": "prefix"
+		"strascii": "humpolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "gara-",
-		"meaning": "all/every",
-		"extra": [],
-		"type": "prefix"
+		"strascii": "**rinkolono**",
+		"type": "number",
+		"eng_trans": "1'000'000'000'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "coko-",
-		"meaning": "some",
-		"extra": [],
-		"type": "prefix"
+		"strascii": "dinkolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "boro-",
-		"meaning": "any",
-		"extra": [],
-		"type": "prefix"
+		"strascii": "hunkolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "ni-",
-		"meaning": "negation, other than",
-		"extra": [],
-		"type": "prefix"
+		"strascii": "mire-",
+		"type": "prefixe",
+		"eng_trans": "semi-",
+		"def": "semi",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "mo-",
-		"meaning": "inversion, contrary meaning",
-		"extra": [],
-		"type": "prefix"
+		"strascii": "gara-",
+		"type": "prefixe",
+		"eng_trans": "all-/every-",
+		"def": "all/every",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "wu-",
-		"meaning": "denotes positive connotation",
-		"extra": [],
-		"type": "prefix"
+		"strascii": "coko-",
+		"type": "prefixe",
+		"eng_trans": "some-",
+		"def": "some",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "di-",
-		"meaning": "denotes negative connotation",
-		"extra": [],
-		"type": "prefix"
+		"strascii": "boro-",
+		"type": "prefixe",
+		"eng_trans": "any-",
+		"def": "any",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "ra",
-		"meaning": "in",
-		"extra": [],
-		"type": "preposition"
+		"strascii": "ni-",
+		"type": "prefixe",
+		"eng_trans": "non-",
+		"def": "negation, other than",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "para",
-		"meaning": "for",
-		"extra": [],
-		"type": "preposition"
+		"strascii": "mo-",
+		"type": "prefixe",
+		"eng_trans": "",
+		"def": "inversion, contrary meaning",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "de",
-		"meaning": "of",
-		"extra": [],
-		"type": "preposition"
+		"strascii": "wu-",
+		"type": "prefixe",
+		"eng_trans": "",
+		"def": "positive connotation",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "no",
-		"meaning": "but",
-		"extra": [],
-		"type": "preposition"
+		"strascii": "di-",
+		"type": "prefixe",
+		"eng_trans": "",
+		"def": "negative connotation",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "gon",
-		"meaning": "on",
-		"extra": [],
-		"type": "preposition"
+		"strascii": "deja-",
+		"type": "prefixe",
+		"eng_trans": "-doing",
+		"def": "the doing of",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "huba",
-		"meaning": "over",
-		"extra": [],
-		"type": "preposition"
+		"strascii": "ra",
+		"type": "preposition",
+		"eng_trans": "in",
+		"def": "is part of, contained or located in",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "wuba",
-		"meaning": "under",
-		"extra": [],
-		"type": "preposition"
+		"strascii": "para",
+		"type": "preposition",
+		"eng_trans": "for",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "faba",
-		"meaning": "in front of",
-		"extra": [],
-		"type": "preposition"
+		"strascii": "de",
+		"type": "preposition",
+		"eng_trans": "of",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "caba",
-		"meaning": "behind",
-		"extra": [],
-		"type": "preposition"
+		"strascii": "no",
+		"type": "preposition",
+		"eng_trans": "but",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "tamba",
-		"meaning": "next to",
-		"extra": [],
-		"type": "preposition"
+		"strascii": "gon",
+		"type": "preposition",
+		"eng_trans": "on",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "taba",
-		"meaning": "near",
-		"extra": [],
-		"type": "preposition"
+		"strascii": "huba",
+		"type": "preposition",
+		"eng_trans": "over",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "kaba",
-		"meaning": "far",
-		"extra": [],
-		"type": "preposition"
+		"strascii": "wuba",
+		"type": "preposition",
+		"eng_trans": "under",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "—",
-		"meaning": "li",
-		"extra": [
-			"animate, unspecified, 1st person"
-		],
-		"type": "pronoun"
+		"strascii": "faba",
+		"type": "preposition",
+		"eng_trans": "in front of",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "mid",
-		"meaning": "mida",
-		"extra": [
-			"animate, unspecified, 2nd person"
-		],
-		"type": "pronoun"
+		"strascii": "caba",
+		"type": "preposition",
+		"eng_trans": "behind",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "—",
-		"meaning": "da",
-		"extra": [
-			"animate, unspecified, 3rd person"
-		],
-		"type": "pronoun"
+		"strascii": "tamba",
+		"type": "preposition",
+		"eng_trans": "next to",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "—",
-		"meaning": "dase",
-		"extra": [
-			"animate, feminine, 3rd person"
-		],
-		"type": "pronoun"
+		"strascii": "taba",
+		"type": "preposition",
+		"eng_trans": "near",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "—",
-		"meaning": "dake",
-		"extra": [
-			"animate, androfem, 3rd person"
-		],
-		"type": "pronoun"
+		"strascii": "kaba",
+		"type": "preposition",
+		"eng_trans": "far",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "—",
-		"meaning": "daka",
-		"extra": [
-			"animate, androgynous, 3rd person"
-		],
-		"type": "pronoun"
+		"strascii": "li",
+		"type": "pronoun",
+		"eng_trans": "",
+		"def": "animate, unspecified, 1st person",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "—",
-		"meaning": "daki",
-		"extra": [
-			"animate, andromasc, 3rd person"
-		],
-		"type": "pronoun"
+		"strascii": "mida",
+		"type": "pronoun",
+		"eng_trans": "",
+		"def": "animate, unspecified, 2nd person",
+		"strascii_obscure": "mid"
 	},
 	{
-		"word": "—",
-		"meaning": "daci",
-		"extra": [
-			"animate, masculine, 3rd person"
-		],
-		"type": "pronoun"
+		"strascii": "da",
+		"type": "pronoun",
+		"eng_trans": "",
+		"def": "animate, unspecified, 3rd person",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "reda",
-		"meaning": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence",
-		"extra": [],
-		"type": "pronoun"
+		"strascii": "dase",
+		"type": "pronoun",
+		"eng_trans": "",
+		"def": "animate, feminine, 3rd person",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "toransu",
-		"meaning": "other",
-		"extra": [],
-		"type": "pronoun"
+		"strascii": "dake",
+		"type": "pronoun",
+		"eng_trans": "",
+		"def": "animate, androfem, 3rd person",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "gara",
-		"meaning": "all/every",
-		"extra": [],
-		"type": "pronoun"
+		"strascii": "daka",
+		"type": "pronoun",
+		"eng_trans": "",
+		"def": "animate, androgynous, 3rd person",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "coko",
-		"meaning": "some",
-		"extra": [],
-		"type": "pronoun"
+		"strascii": "daki",
+		"type": "pronoun",
+		"eng_trans": "",
+		"def": "animate, andromasc, 3rd person",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "boro",
-		"meaning": "any",
-		"extra": [],
-		"type": "pronoun"
+		"strascii": "daci",
+		"type": "pronoun",
+		"eng_trans": "",
+		"def": "animate, masculine, 3rd person",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "mire",
-		"meaning": "half",
-		"extra": [],
-		"type": "pronoun"
+		"strascii": "Spelling",
+		"type": "pronoun",
+		"eng_trans": "English Equivalent",
+		"def": "Implication / Definition / Used as",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "tano",
-		"meaning": "this",
-		"extra": [
-			"this + n."
-		],
-		"type": "pronoun"
+		"strascii": "reda",
+		"type": "pronoun",
+		"eng_trans": "",
+		"def": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "tani",
-		"meaning": "this",
-		"extra": [
-			"this + adj."
-		],
-		"type": "pronoun"
+		"strascii": "toransu",
+		"type": "pronoun",
+		"eng_trans": "other",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "tatu",
-		"meaning": "this way",
-		"extra": [
-			"as such, in this manner"
-		],
-		"type": "pronoun"
+		"strascii": "gara",
+		"type": "pronoun",
+		"eng_trans": "all/every",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "talo",
-		"meaning": "such",
-		"extra": [
-			"such, this kind of"
-		],
-		"type": "pronoun"
+		"strascii": "coko",
+		"type": "pronoun",
+		"eng_trans": "some",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "kano",
-		"meaning": "that",
-		"extra": [
-			"that + n."
-		],
-		"type": "pronoun"
+		"strascii": "boro",
+		"type": "pronoun",
+		"eng_trans": "any",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "kani",
-		"meaning": "that",
-		"extra": [
-			"that + adj."
-		],
-		"type": "pronoun"
+		"strascii": "mire",
+		"type": "pronoun",
+		"eng_trans": "half",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "katu",
-		"meaning": "that way",
-		"extra": [
-			"as such, in that manner"
-		],
-		"type": "pronoun"
+		"strascii": "Spelling",
+		"type": "pronoun",
+		"eng_trans": "English Equivalent",
+		"def": "Implication / Definition / Used as",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "kal",
-		"meaning": "such",
-		"extra": [
-			"such, that kind of"
-		],
-		"type": "pronoun"
+		"strascii": "tano",
+		"type": "pronoun",
+		"eng_trans": "this + n.",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "sono",
-		"meaning": "that",
-		"extra": [
-			"what"
-		],
-		"type": "pronoun"
+		"strascii": "tani",
+		"type": "pronoun",
+		"eng_trans": "this + adj.",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "soni",
-		"meaning": "that",
-		"extra": [
-			"which"
-		],
-		"type": "pronoun"
+		"strascii": "tatu",
+		"type": "pronoun",
+		"eng_trans": "as such, so",
+		"def": "\"this way\", \"in this manner\"",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "sotu",
-		"meaning": "that way",
-		"extra": [
-			"how"
-		],
-		"type": "pronoun"
+		"strascii": "talo",
+		"type": "pronoun",
+		"eng_trans": "such",
+		"def": "\"this kind of\"",
+		"strascii_obscure": "tal"
 	},
 	{
-		"word": "solo",
-		"meaning": "such",
-		"extra": [
-			"what kind of"
-		],
-		"type": "pronoun"
+		"strascii": "Spelling (far from spealer)",
+		"type": "pronoun",
+		"eng_trans": "English Equivalent",
+		"def": "Implication / Definition / Used as",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "-lu",
-		"meaning": "defines an agent noun",
-		"extra": [
-			"-er , -ist"
-		],
-		"type": "suffix"
+		"strascii": "kano",
+		"type": "pronoun",
+		"eng_trans": "that + n.",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "-sa",
-		"meaning": "indicates plurality",
-		"extra": [
-			"-s, -es"
-		],
-		"type": "suffix"
+		"strascii": "kani",
+		"type": "pronoun",
+		"eng_trans": "that + adj.",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "-ri",
-		"meaning": "establishes a place/event",
-		"extra": [
-			"-ery"
-		],
-		"type": "suffix"
+		"strascii": "katu",
+		"type": "pronoun",
+		"eng_trans": "as such, so",
+		"def": "\"that way\", \"in that manner\"",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "-dufen",
-		"meaning": "refers to an entity or construct that performs a specific action or function",
-		"extra": [
-			"-ifier, -inator"
-		],
-		"type": "suffix"
+		"strascii": "kalo",
+		"type": "pronoun",
+		"eng_trans": "such",
+		"def": "\"that kind of\"",
+		"strascii_obscure": "kal"
 	},
 	{
-		"word": "-fe",
-		"meaning": "connotes opposition",
-		"extra": [
-			"\"against\" , \"in opposition to\"",
-			"—"
-		],
-		"type": "suffix"
+		"strascii": "Spelling (interrogative form)",
+		"type": "pronoun",
+		"eng_trans": "English Equivalent",
+		"def": "Implication / Definition / Used as",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "-se",
-		"meaning": "establishes feminine characteristics/gender",
-		"extra": [
-			"—"
-		],
-		"type": "suffix"
+		"strascii": "sono",
+		"type": "pronoun",
+		"eng_trans": "what",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "-ke",
-		"meaning": "establishes androfeminine characteristics/gender",
-		"extra": [
-			"—"
-		],
-		"type": "suffix"
+		"strascii": "soni",
+		"type": "pronoun",
+		"eng_trans": "which",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "-ka",
-		"meaning": "establishes androgynous characteristics/gender",
-		"extra": [
-			"—"
-		],
-		"type": "suffix"
+		"strascii": "sotu",
+		"type": "pronoun",
+		"eng_trans": "how",
+		"def": "\"which way\", \"in which manner\"",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "-ki",
-		"meaning": "establishes andromasc characteristics/gender",
-		"extra": [
-			"—"
-		],
-		"type": "suffix"
+		"strascii": "solo",
+		"type": "pronoun",
+		"eng_trans": "",
+		"def": "\"what kind of\"",
+		"strascii_obscure": "sol"
 	},
 	{
-		"word": "-ci",
-		"meaning": "establishes masculine characteristics/gender",
-		"extra": [
-			"—"
-		],
-		"type": "suffix"
+		"strascii": "-lu",
+		"type": "suffixe",
+		"eng_trans": "-er , -ist",
+		"def": "defines an agent noun",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "-pa",
-		"meaning": "marks word as possessive",
-		"extra": [
-			"-'s"
-		],
-		"type": "suffix"
+		"strascii": "-sa",
+		"type": "suffixe",
+		"eng_trans": "-s, -es",
+		"def": "indicates plurality",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "-lonki",
-		"meaning": "refers to a field of knowledge/study",
-		"extra": [
-			"-ology, -graphy, -nomy, -ics"
-		],
-		"type": "suffix"
+		"strascii": "-ri",
+		"type": "suffixe",
+		"eng_trans": "-ery",
+		"def": "establishes a place/event",
+		"strascii_obscure": "-r"
 	},
 	{
-		"word": "-falo",
-		"meaning": "indicates manner or characteristic of speech ",
-		"extra": [
-			"-speak, -talk"
-		],
-		"type": "suffix"
+		"strascii": "-dufen",
+		"type": "suffixe",
+		"eng_trans": "-ifier, -inator",
+		"def": "refers to an entity or construct that performs a specific action or function",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "-bani",
-		"meaning": "for numbers, indicates ordinality",
-		"extra": [
-			"-th"
-		],
-		"type": "suffix"
+		"strascii": "-fe",
+		"type": "suffixe",
+		"eng_trans": "\"against\" , \"in opposition to\"",
+		"def": "connotes opposition",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "-ra",
-		"meaning": "converts to adjective",
-		"extra": [
-			"-like"
-		],
-		"type": "suffix"
+		"strascii": "-se",
+		"type": "suffixe",
+		"eng_trans": "",
+		"def": "establishes feminine characteristics/gender",
+		"strascii_obscure": "-s"
 	},
 	{
-		"word": "-da",
-		"meaning": "refers to the past tense form of a verb",
-		"extra": [
-			"-ed"
-		],
-		"type": "suffix"
+		"strascii": "-ke",
+		"type": "suffixe",
+		"eng_trans": "",
+		"def": "establishes androfeminine characteristics/gender",
+		"strascii_obscure": "-k"
 	},
 	{
-		"word": "-ne",
-		"meaning": "refers to the present tense form of a verb",
-		"extra": [
-			"-ing"
-		],
-		"type": "suffix"
+		"strascii": "-ka",
+		"type": "suffixe",
+		"eng_trans": "",
+		"def": "establishes androgynous characteristics/gender",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "-lo",
-		"meaning": "refers to the future tense form of a verb",
-		"extra": [
-			"\"will\", \"shall\""
-		],
-		"type": "suffix"
+		"strascii": "-ki",
+		"type": "suffixe",
+		"eng_trans": "",
+		"def": "establishes andromasc characteristics/gender",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "-ja",
-		"meaning": "refers to that a verb is in progress or incomplete",
-		"extra": [
-			"\"yet\", \"so far\""
-		],
-		"type": "suffix"
+		"strascii": "-ci",
+		"type": "suffixe",
+		"eng_trans": "",
+		"def": "establishes masculine characteristics/gender",
+		"strascii_obscure": "-c"
 	},
 	{
-		"word": "-zim",
-		"meaning": "establishes verb as infinitive",
-		"extra": [
-			"\"to ___\""
-		],
-		"type": "suffix"
+		"strascii": "-pa",
+		"type": "suffixe",
+		"eng_trans": "-'s",
+		"def": "marks word as possessive",
+		"strascii_obscure": "-p"
 	},
 	{
-		"word": "-ku",
-		"meaning": "establishes verb as uncertain/questioning",
-		"extra": [
-			"—"
-		],
-		"type": "suffix"
+		"strascii": "-lonki",
+		"type": "suffixe",
+		"eng_trans": "-ology, -graphy, -nomy, -ics",
+		"def": "refers to a field of knowledge/study",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "-do",
-		"meaning": "establishes verb as imperative",
-		"extra": [
-			"\"should\", \"ought to\""
-		],
-		"type": "suffix"
+		"strascii": "-falo",
+		"type": "suffixe",
+		"eng_trans": "-speak, -talk",
+		"def": "indicates manner or characteristic of speech",
+		"strascii_obscure": "-fal"
 	},
 	{
-		"word": "-kuka",
-		"meaning": "establishes verb as politely questioning/requesting",
-		"extra": [
-			"\"please\""
-		],
-		"type": "suffix"
+		"strascii": "-bani",
+		"type": "suffixe",
+		"eng_trans": "-th",
+		"def": "for numbers, indicates ordinality",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "-jala",
-		"meaning": "denotes ability or capacity",
-		"extra": [
-			"-able , -ible , \"capable of\""
-		],
-		"type": "suffix"
+		"strascii": "-ra",
+		"type": "suffixe",
+		"eng_trans": "-like, -ern",
+		"def": "converts to adjective",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "-wan",
-		"meaning": "denotes superlative adjectives",
-		"extra": [
-			"-est"
-		],
-		"type": "suffix"
+		"strascii": "Spelling",
+		"type": "suffixe",
+		"eng_trans": "English Equivalent",
+		"def": "Implication / Definition / Used as",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "-kin",
-		"meaning": "conversion to noun",
-		"extra": [
-			"—"
-		],
-		"type": "suffix"
+		"strascii": "-da",
+		"type": "suffixe",
+		"eng_trans": "-ed",
+		"def": "refers to the past tense form of a verb",
+		"strascii_obscure": "-d"
 	},
 	{
-		"word": "mawa",
-		"meaning": "kiss",
-		"extra": [],
-		"type": "verb"
+		"strascii": "-ne",
+		"type": "suffixe",
+		"eng_trans": "-ing",
+		"def": "refers to the present tense form of a verb",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "binta",
-		"meaning": "eat",
-		"extra": [],
-		"type": "verb"
+		"strascii": "-lo",
+		"type": "suffixe",
+		"eng_trans": "\"will\", \"shall\"",
+		"def": "refers to the future tense form of a verb",
+		"strascii_obscure": "-l"
 	},
 	{
-		"word": "sanu",
-		"meaning": "be",
-		"extra": [],
-		"type": "verb"
+		"strascii": "-ja",
+		"type": "suffixe",
+		"eng_trans": "\"yet\", \"so far\"",
+		"def": "refers to that a verb is in progress or incomplete",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "tenco",
-		"meaning": "have",
-		"extra": [],
-		"type": "verb"
+		"strascii": "-zim",
+		"type": "suffixe",
+		"eng_trans": "\"to ___\"",
+		"def": "establishes verb as infinitive",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "somo",
-		"meaning": "sleep",
-		"extra": [],
-		"type": "verb"
+		"strascii": "Spelling",
+		"type": "suffixe",
+		"eng_trans": "English Equivalent",
+		"def": "Implication / Definition / Used as",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "cosi",
-		"meaning": "choose, vote",
-		"extra": [],
-		"type": "verb"
+		"strascii": "-ku",
+		"type": "suffixe",
+		"eng_trans": "",
+		"def": "establishes verb as uncertain/questioning",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "falo",
-		"meaning": "speak, say, tell",
-		"extra": [],
-		"type": "verb"
+		"strascii": "-do",
+		"type": "suffixe",
+		"eng_trans": "\"should\", \"ought to\"",
+		"def": "establishes verb as imperative",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "toransu",
-		"meaning": "differ",
-		"extra": [],
-		"type": "verb"
+		"strascii": "-kuka",
+		"type": "suffixe",
+		"eng_trans": "\"please\"",
+		"def": "establishes verb as politely questioning/requesting",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "mahen",
-		"meaning": "make, create",
-		"extra": [],
-		"type": "verb"
+		"strascii": "Spelling",
+		"type": "suffixe",
+		"eng_trans": "English Equivalent",
+		"def": "Implication / Definition / Used as",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "sekiso",
-		"meaning": "have sex, fuck",
-		"extra": [],
-		"type": "verb"
+		"strascii": "-jala",
+		"type": "suffixe",
+		"eng_trans": "-able , -ible , \"capable of\"",
+		"def": "denotes ability or capacity",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "deja",
-		"meaning": "do, act",
-		"extra": [],
-		"type": "verb"
+		"strascii": "-wan",
+		"type": "suffixe",
+		"eng_trans": "-est",
+		"def": "denotes superlative adjectives",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "gade",
-		"meaning": "guess",
-		"extra": [],
-		"type": "verb"
+		"strascii": "-kin",
+		"type": "suffixe",
+		"eng_trans": "",
+		"def": "denotes conversion to noun",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "nem",
-		"meaning": "think",
-		"extra": [],
-		"type": "verb"
+		"strascii": "mawa",
+		"type": "verb",
+		"eng_trans": "kiss",
+		"def": "",
+		"strascii_obscure": "mw"
 	},
 	{
-		"word": "pen",
-		"meaning": "move",
-		"extra": [],
-		"type": "verb"
+		"strascii": "binta",
+		"type": "verb",
+		"eng_trans": "eat",
+		"def": "",
+		"strascii_obscure": "bn'ta"
 	},
 	{
-		"word": "nepen",
-		"meaning": "feel",
-		"extra": [],
-		"type": "verb"
+		"strascii": "sanu",
+		"type": "verb",
+		"eng_trans": "be",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "gurati",
-		"meaning": "induce negative freedom, reduce cost to none",
-		"extra": [],
-		"type": "verb"
+		"strascii": "tenco",
+		"type": "verb",
+		"eng_trans": "have",
+		"def": "",
+		"strascii_obscure": "ten'co"
 	},
 	{
-		"word": "lifeta",
-		"meaning": "induce positive freedom",
-		"extra": [],
-		"type": "verb"
+		"strascii": "somo",
+		"type": "verb",
+		"eng_trans": "sleep",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "jala",
-		"meaning": "can, be able to",
-		"extra": [],
-		"type": "verb"
+		"strascii": "cosi",
+		"type": "verb",
+		"eng_trans": "choose, vote",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "meta",
-		"meaning": "measure",
-		"extra": [],
-		"type": "verb"
+		"strascii": "falo",
+		"type": "verb",
+		"eng_trans": "speak, say, tell",
+		"def": "",
+		"strascii_obscure": "fal"
 	},
 	{
-		"word": "core",
-		"meaning": "want",
-		"extra": [],
-		"type": "verb"
+		"strascii": "toransu",
+		"type": "verb",
+		"eng_trans": "differ",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "jore",
-		"meaning": "need",
-		"extra": [],
-		"type": "verb"
+		"strascii": "mahen",
+		"type": "verb",
+		"eng_trans": "make, create",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "pora",
-		"meaning": "to add, to increase",
-		"extra": [],
-		"type": "verb"
+		"strascii": "sekiso",
+		"type": "verb",
+		"eng_trans": "have sex, fuck",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "mina",
-		"meaning": "to subtract, to decrease, to remove",
-		"extra": [],
-		"type": "verb"
+		"strascii": "deja",
+		"type": "verb",
+		"eng_trans": "do, act",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "mulipa",
-		"meaning": "to multiply",
-		"extra": [],
-		"type": "verb"
+		"strascii": "gade",
+		"type": "verb",
+		"eng_trans": "guess",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "cipan",
-		"meaning": "to divide, to split",
-		"extra": [],
-		"type": "verb"
+		"strascii": "nem",
+		"type": "verb",
+		"eng_trans": "think",
+		"def": "",
+		"strascii_obscure": ""
 	},
 	{
-		"word": "nepetori",
-		"meaning": "to love, to feel love towards",
-		"extra": [],
-		"type": "verb"
+		"strascii": "pen",
+		"type": "verb",
+		"eng_trans": "move",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "nepen",
+		"type": "verb",
+		"eng_trans": "feel",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "gurati",
+		"type": "verb",
+		"eng_trans": "induce negative freedom, reduce cost to none",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "lifeta",
+		"type": "verb",
+		"eng_trans": "induce positive freedom",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "jala",
+		"type": "verb",
+		"eng_trans": "can, be able to",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "meta",
+		"type": "verb",
+		"eng_trans": "measure",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "core",
+		"type": "verb",
+		"eng_trans": "want",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "jore",
+		"type": "verb",
+		"eng_trans": "need",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "pora",
+		"type": "verb",
+		"eng_trans": "to add, to increase",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "mina",
+		"type": "verb",
+		"eng_trans": "to subtract, to decrease, to remove",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "mulipa",
+		"type": "verb",
+		"eng_trans": "to multiply",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "cipan",
+		"type": "verb",
+		"eng_trans": "to divide, to split",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "nepetori",
+		"type": "verb",
+		"eng_trans": "to love, to feel love towards",
+		"def": "",
+		"strascii_obscure": ""
 	}
 ]

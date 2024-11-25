@@ -1,142 +1,184 @@
 [
 	{
+		"strascii": "mawa",
 		"type": "verb",
-		"title": null,
-		"headers": [
-			"Spelling",
-			"Definition"
-		],
-		"entries": [
-			{
-				"word": "mawa",
-				"meaning": "kiss",
-				"extra": []
-			},
-			{
-				"word": "binta",
-				"meaning": "eat",
-				"extra": []
-			},
-			{
-				"word": "sanu",
-				"meaning": "be",
-				"extra": []
-			},
-			{
-				"word": "tenco",
-				"meaning": "have",
-				"extra": []
-			},
-			{
-				"word": "somo",
-				"meaning": "sleep",
-				"extra": []
-			},
-			{
-				"word": "cosi",
-				"meaning": "choose, vote",
-				"extra": []
-			},
-			{
-				"word": "falo",
-				"meaning": "speak, say, tell",
-				"extra": []
-			},
-			{
-				"word": "toransu",
-				"meaning": "differ",
-				"extra": []
-			},
-			{
-				"word": "mahen",
-				"meaning": "make, create",
-				"extra": []
-			},
-			{
-				"word": "sekiso",
-				"meaning": "have sex, fuck",
-				"extra": []
-			},
-			{
-				"word": "deja",
-				"meaning": "do, act",
-				"extra": []
-			},
-			{
-				"word": "gade",
-				"meaning": "guess",
-				"extra": []
-			},
-			{
-				"word": "nem",
-				"meaning": "think",
-				"extra": []
-			},
-			{
-				"word": "pen",
-				"meaning": "move",
-				"extra": []
-			},
-			{
-				"word": "nepen",
-				"meaning": "feel",
-				"extra": []
-			},
-			{
-				"word": "gurati",
-				"meaning": "induce negative freedom, reduce cost to none",
-				"extra": []
-			},
-			{
-				"word": "lifeta",
-				"meaning": "induce positive freedom",
-				"extra": []
-			},
-			{
-				"word": "jala",
-				"meaning": "can, be able to",
-				"extra": []
-			},
-			{
-				"word": "meta",
-				"meaning": "measure",
-				"extra": []
-			},
-			{
-				"word": "core",
-				"meaning": "want",
-				"extra": []
-			},
-			{
-				"word": "jore",
-				"meaning": "need",
-				"extra": []
-			},
-			{
-				"word": "pora",
-				"meaning": "to add, to increase",
-				"extra": []
-			},
-			{
-				"word": "mina",
-				"meaning": "to subtract, to decrease, to remove",
-				"extra": []
-			},
-			{
-				"word": "mulipa",
-				"meaning": "to multiply",
-				"extra": []
-			},
-			{
-				"word": "cipan",
-				"meaning": "to divide, to split",
-				"extra": []
-			},
-			{
-				"word": "nepetori",
-				"meaning": "to love, to feel love towards",
-				"extra": []
-			}
-		]
+		"eng_trans": "kiss",
+		"def": "",
+		"strascii_obscure": "mw"
+	},
+	{
+		"strascii": "binta",
+		"type": "verb",
+		"eng_trans": "eat",
+		"def": "",
+		"strascii_obscure": "bn'ta"
+	},
+	{
+		"strascii": "sanu",
+		"type": "verb",
+		"eng_trans": "be",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "tenco",
+		"type": "verb",
+		"eng_trans": "have",
+		"def": "",
+		"strascii_obscure": "ten'co"
+	},
+	{
+		"strascii": "somo",
+		"type": "verb",
+		"eng_trans": "sleep",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "cosi",
+		"type": "verb",
+		"eng_trans": "choose, vote",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "falo",
+		"type": "verb",
+		"eng_trans": "speak, say, tell",
+		"def": "",
+		"strascii_obscure": "fal"
+	},
+	{
+		"strascii": "toransu",
+		"type": "verb",
+		"eng_trans": "differ",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "mahen",
+		"type": "verb",
+		"eng_trans": "make, create",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "sekiso",
+		"type": "verb",
+		"eng_trans": "have sex, fuck",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "deja",
+		"type": "verb",
+		"eng_trans": "do, act",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "gade",
+		"type": "verb",
+		"eng_trans": "guess",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "nem",
+		"type": "verb",
+		"eng_trans": "think",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "pen",
+		"type": "verb",
+		"eng_trans": "move",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "nepen",
+		"type": "verb",
+		"eng_trans": "feel",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "gurati",
+		"type": "verb",
+		"eng_trans": "induce negative freedom, reduce cost to none",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "lifeta",
+		"type": "verb",
+		"eng_trans": "induce positive freedom",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "jala",
+		"type": "verb",
+		"eng_trans": "can, be able to",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "meta",
+		"type": "verb",
+		"eng_trans": "measure",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "core",
+		"type": "verb",
+		"eng_trans": "want",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "jore",
+		"type": "verb",
+		"eng_trans": "need",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "pora",
+		"type": "verb",
+		"eng_trans": "to add, to increase",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "mina",
+		"type": "verb",
+		"eng_trans": "to subtract, to decrease, to remove",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "mulipa",
+		"type": "verb",
+		"eng_trans": "to multiply",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "cipan",
+		"type": "verb",
+		"eng_trans": "to divide, to split",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "nepetori",
+		"type": "verb",
+		"eng_trans": "to love, to feel love towards",
+		"def": "",
+		"strascii_obscure": ""
 	}
 ]

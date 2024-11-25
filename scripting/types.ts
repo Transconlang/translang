@@ -2,16 +2,18 @@
  * The type of the entry in each separated file (i.e. verbs.json)
  */
 export interface Section {
-	title: string | null;
+	title: string;
 	type: WordType;
-	headers: string[];
+	description?: string;
 	entries: Entry[];
 }
 
 export interface Entry {
-	word: string;
-	meaning: string;
-	extra?: string[];
+	strascii: string;
+	type: WordType;
+	eng_trans: string;
+	def: string;
+	strascii_obscure: string;
 }
 
 /**
@@ -19,6 +21,13 @@ export interface Entry {
  * @extends Entry Also contains the properties from the Entry type
  */
 export interface FullEntry extends Entry {
+	section?: string;
+	section_description?: string;
+}
+
+export interface ObscureEntry {
+	standard: string;
+	obscure: string;
 	type: WordType;
 }
 
@@ -36,4 +45,5 @@ export type WordType =
 	| 'preposition'
 	| 'pronoun'
 	| 'suffix'
-	| 'verb';
+	| 'verb'
+	| 'article';
