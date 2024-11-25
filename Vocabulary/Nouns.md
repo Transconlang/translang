@@ -34,8 +34,8 @@
 | nem | mind |  |
 | pen | movement |  |
 | nepen | feeling |  |
-| gurati | non-intervention | negative freedom |
-| lifeta | (positive) freedom | positive freedom |
+| gurati | non-intervention | free (price), without cost |
+| lifeta | (positive) freedom | liberation, liberty |
 | kumi | trans(gender)ness |  |
 | jala | ability |  |
 | mire | half, middle |  |
@@ -61,5 +61,6 @@
 | hason | sound |  |
 | hasontoba | pronunciation |  |
 | miku | idol |  |
-| qanzi | paper |  |
+| qanzi | paper |  | |
 | muna | egg |  |
+| suntu | dumbass, idiot | |

@@ -15,7 +15,6 @@ export interface Entry {
 	strascii_obscure: string;
 }
 
-
 /**
  * The type of entry in the complete dictionary (0-complete.json)
  * @extends Entry Also contains the properties from the Entry type

@@ -1,34 +1,23 @@
 [
 	{
+		"strascii": "pum",
 		"type": "conjunction",
-		"title": null,
-		"headers": [
-			"Spelling",
-			"English Equivalent",
-			"Implication / Definition / Used as"
-		],
-		"entries": [
-			{
-				"word": "pum",
-				"meaning": "and",
-				"extra": [
-					"logical conjunction"
-				]
-			},
-			{
-				"word": "ron",
-				"meaning": "or",
-				"extra": [
-					"logical disjunction"
-				]
-			},
-			{
-				"word": "no",
-				"meaning": "but",
-				"extra": [
-					"logical implication"
-				]
-			}
-		]
+		"eng_trans": "and",
+		"def": "logical conjunction",
+		"strascii_obscure": "plu"
+	},
+	{
+		"strascii": "ron",
+		"type": "conjunction",
+		"eng_trans": "or",
+		"def": "logical disjunction",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "no",
+		"type": "conjunction",
+		"eng_trans": "but",
+		"def": "logical implication",
+		"strascii_obscure": ""
 	}
 ]

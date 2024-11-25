@@ -1,27 +1,436 @@
 [
 	{
+		"strascii": "kase",
 		"type": "noun",
-		"title": null,
-		"headers": [
-			"Spelling",
-			"English Equivalent",
-			"Implication / Definition / Used as"
-		],
-		"entries": [
-			{
-				"word": "gurati",
-				"meaning": "non-intervention",
-				"extra": [
-					"negative freedom"
-				]
-			},
-			{
-				"word": "lifeta",
-				"meaning": "(positive) freedom",
-				"extra": [
-					"positive freedom"
-				]
-			}
-		]
+		"eng_trans": "cat",
+		"def": "",
+		"strascii_obscure": "kas"
+	},
+	{
+		"strascii": "hun",
+		"type": "noun",
+		"eng_trans": "dog",
+		"def": "",
+		"strascii_obscure": "hn'"
+	},
+	{
+		"strascii": "luma",
+		"type": "noun",
+		"eng_trans": "person",
+		"def": "",
+		"strascii_obscure": "lm"
+	},
+	{
+		"strascii": "mawa",
+		"type": "noun",
+		"eng_trans": "kiss",
+		"def": "",
+		"strascii_obscure": "mw"
+	},
+	{
+		"strascii": "lanmi",
+		"type": "noun",
+		"eng_trans": "food",
+		"def": "",
+		"strascii_obscure": "ln'mi"
+	},
+	{
+		"strascii": "topi",
+		"type": "noun",
+		"eng_trans": "god, deity",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "wantu",
+		"type": "noun",
+		"eng_trans": "number",
+		"def": "",
+		"strascii_obscure": "wn'tu"
+	},
+	{
+		"strascii": "cosi",
+		"type": "noun",
+		"eng_trans": "choice, vote",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "falo",
+		"type": "noun",
+		"eng_trans": "speech, discussion, chat",
+		"def": "",
+		"strascii_obscure": "fal"
+	},
+	{
+		"strascii": "linwa",
+		"type": "noun",
+		"eng_trans": "language",
+		"def": "",
+		"strascii_obscure": "ln'wa"
+	},
+	{
+		"strascii": "keso",
+		"type": "noun",
+		"eng_trans": "cheese",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "sekiso",
+		"type": "noun",
+		"eng_trans": "sex, act of fucking",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "lumaba",
+		"type": "noun",
+		"eng_trans": "friend",
+		"def": "",
+		"strascii_obscure": "cn'ku"
+	},
+	{
+		"strascii": "deja",
+		"type": "noun",
+		"eng_trans": "action",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "gade",
+		"type": "noun",
+		"eng_trans": "guess",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "tempu",
+		"type": "noun",
+		"eng_trans": "time",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "cikondu",
+		"type": "noun",
+		"eng_trans": "second",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "minedu",
+		"type": "noun",
+		"eng_trans": "minute",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "haweru",
+		"type": "noun",
+		"eng_trans": "hour",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dawu",
+		"type": "noun",
+		"eng_trans": "day",
+		"def": "",
+		"strascii_obscure": "dwu"
+	},
+	{
+		"strascii": "natu",
+		"type": "noun",
+		"eng_trans": "night",
+		"def": "",
+		"strascii_obscure": "ntu"
+	},
+	{
+		"strascii": "murinu",
+		"type": "noun",
+		"eng_trans": "morning",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "ebeninku",
+		"type": "noun",
+		"eng_trans": "evening",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "monadu",
+		"type": "noun",
+		"eng_trans": "month",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "siconu",
+		"type": "noun",
+		"eng_trans": "season",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "waru",
+		"type": "noun",
+		"eng_trans": "year",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "diwaru",
+		"type": "noun",
+		"eng_trans": "decade",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "huwaru",
+		"type": "noun",
+		"eng_trans": "century",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "newaru",
+		"type": "noun",
+		"eng_trans": "millenium",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "nem",
+		"type": "noun",
+		"eng_trans": "mind",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "pen",
+		"type": "noun",
+		"eng_trans": "movement",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "nepen",
+		"type": "noun",
+		"eng_trans": "feeling",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "gurati",
+		"type": "noun",
+		"eng_trans": "non-intervention",
+		"def": "free (price), without cost",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "lifeta",
+		"type": "noun",
+		"eng_trans": "(positive) freedom",
+		"def": "liberation, liberty",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "kumi",
+		"type": "noun",
+		"eng_trans": "trans(gender)ness",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "jala",
+		"type": "noun",
+		"eng_trans": "ability",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "mire",
+		"type": "noun",
+		"eng_trans": "half, middle",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "misu",
+		"type": "noun",
+		"eng_trans": "liquid",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "lufi",
+		"type": "noun",
+		"eng_trans": "gas",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "ten",
+		"type": "noun",
+		"eng_trans": "solid",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "kin",
+		"type": "noun",
+		"eng_trans": "thing",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "meta",
+		"type": "noun",
+		"eng_trans": "measurment",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "core",
+		"type": "noun",
+		"eng_trans": "desire",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "jore",
+		"type": "noun",
+		"eng_trans": "need",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "lonki",
+		"type": "noun",
+		"eng_trans": "field of knowledge/study",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "tori",
+		"type": "noun",
+		"eng_trans": "kindness, love",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "toba",
+		"type": "noun",
+		"eng_trans": "word",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "bencun",
+		"type": "noun",
+		"eng_trans": "book",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "gucun",
+		"type": "noun",
+		"eng_trans": "story",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "bengu",
+		"type": "noun",
+		"eng_trans": "storybook",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "cikaran",
+		"type": "noun",
+		"eng_trans": "physical strength",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "cikaranem",
+		"type": "noun",
+		"eng_trans": "mental strength",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "canwa",
+		"type": "noun",
+		"eng_trans": "result",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "wucan",
+		"type": "noun",
+		"eng_trans": "victory",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dican",
+		"type": "noun",
+		"eng_trans": "defeat",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "bulohaji",
+		"type": "noun",
+		"eng_trans": "comfort, safety, euphoria",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "hason",
+		"type": "noun",
+		"eng_trans": "sound",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "hasontoba",
+		"type": "noun",
+		"eng_trans": "pronunciation",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "miku",
+		"type": "noun",
+		"eng_trans": "idol",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "qanzi",
+		"type": "noun",
+		"eng_trans": "paper",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "muna",
+		"type": "noun",
+		"eng_trans": "egg",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "suntu",
+		"type": "noun",
+		"eng_trans": "dumbass, idiot",
+		"def": "",
+		"strascii_obscure": ""
 	}
 ]

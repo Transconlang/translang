@@ -689,14 +689,14 @@
 		"strascii": "gurati",
 		"type": "noun",
 		"eng_trans": "non-intervention",
-		"def": "negative freedom",
+		"def": "free (price), without cost",
 		"strascii_obscure": ""
 	},
 	{
 		"strascii": "lifeta",
 		"type": "noun",
 		"eng_trans": "(positive) freedom",
-		"def": "positive freedom",
+		"def": "liberation, liberty",
 		"strascii_obscure": ""
 	},
 	{
@@ -885,6 +885,13 @@
 		"strascii": "muna",
 		"type": "noun",
 		"eng_trans": "egg",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "suntu",
+		"type": "noun",
+		"eng_trans": "dumbass, idiot",
 		"def": "",
 		"strascii_obscure": ""
 	},

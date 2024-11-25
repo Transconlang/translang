@@ -1,78 +1,212 @@
 [
 	{
+		"strascii": "li",
 		"type": "pronoun",
-		"title": "Demonstrative Pronouns (Far from speaker)",
-		"entries": [
-			{
-				"word": "tatu",
-				"meaning": "as such, so",
-				"extra": [
-					"\"this way\", \"in this manner\""
-				]
-			},
-			{
-				"word": "talo",
-				"meaning": "such",
-				"extra": [
-					"\"this kind of\""
-				]
-			}
-		],
-		"headers": [
-			"Spelling",
-			"English Equivalent",
-			"Implication / Definition / Used as"
-		]
+		"eng_trans": "",
+		"def": "animate, unspecified, 1st person",
+		"strascii_obscure": ""
 	},
 	{
+		"strascii": "mida",
 		"type": "pronoun",
-		"title": "Demonstrative Pronouns (Interrogative form)",
-		"entries": [
-			{
-				"word": "kani",
-				"meaning": "that + adj.",
-				"extra": []
-			},
-			{
-				"word": "katu",
-				"meaning": "as such, so",
-				"extra": [
-					"\"that way\", \"in that manner\""
-				]
-			},
-			{
-				"word": "kalo",
-				"meaning": "such",
-				"extra": [
-					"\"that kind of\""
-				]
-			}
-		],
-		"headers": [
-			"kano",
-			"that + n."
-		]
+		"eng_trans": "",
+		"def": "animate, unspecified, 2nd person",
+		"strascii_obscure": "mid"
 	},
 	{
+		"strascii": "da",
 		"type": "pronoun",
-		"title": "Demonstrative Pronouns (Interrogative form)",
-		"headers": [
-			"sono",
-			"what"
-		],
-		"entries": [
-			{
-				"word": "soni",
-				"meaning": "which",
-				"extra": []
-			},
-			{
-				"word": "sotu",
-				"meaning": "how",
-				"extra": [
-					"\"which way\", \"in which manner\""
-				]
-			}
-		]
+		"eng_trans": "",
+		"def": "animate, unspecified, 3rd person",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dase",
+		"type": "pronoun",
+		"eng_trans": "",
+		"def": "animate, feminine, 3rd person",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dake",
+		"type": "pronoun",
+		"eng_trans": "",
+		"def": "animate, androfem, 3rd person",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "daka",
+		"type": "pronoun",
+		"eng_trans": "",
+		"def": "animate, androgynous, 3rd person",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "daki",
+		"type": "pronoun",
+		"eng_trans": "",
+		"def": "animate, andromasc, 3rd person",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "daci",
+		"type": "pronoun",
+		"eng_trans": "",
+		"def": "animate, masculine, 3rd person",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "Spelling",
+		"type": "pronoun",
+		"eng_trans": "English Equivalent",
+		"def": "Implication / Definition / Used as",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "reda",
+		"type": "pronoun",
+		"eng_trans": "",
+		"def": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "toransu",
+		"type": "pronoun",
+		"eng_trans": "other",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "gara",
+		"type": "pronoun",
+		"eng_trans": "all/every",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "coko",
+		"type": "pronoun",
+		"eng_trans": "some",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "boro",
+		"type": "pronoun",
+		"eng_trans": "any",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "mire",
+		"type": "pronoun",
+		"eng_trans": "half",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "Spelling",
+		"type": "pronoun",
+		"eng_trans": "English Equivalent",
+		"def": "Implication / Definition / Used as",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "tano",
+		"type": "pronoun",
+		"eng_trans": "this + n.",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "tani",
+		"type": "pronoun",
+		"eng_trans": "this + adj.",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "tatu",
+		"type": "pronoun",
+		"eng_trans": "as such, so",
+		"def": "\"this way\", \"in this manner\"",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "talo",
+		"type": "pronoun",
+		"eng_trans": "such",
+		"def": "\"this kind of\"",
+		"strascii_obscure": "tal"
+	},
+	{
+		"strascii": "Spelling (far from spealer)",
+		"type": "pronoun",
+		"eng_trans": "English Equivalent",
+		"def": "Implication / Definition / Used as",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "kano",
+		"type": "pronoun",
+		"eng_trans": "that + n.",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "kani",
+		"type": "pronoun",
+		"eng_trans": "that + adj.",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "katu",
+		"type": "pronoun",
+		"eng_trans": "as such, so",
+		"def": "\"that way\", \"in that manner\"",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "kalo",
+		"type": "pronoun",
+		"eng_trans": "such",
+		"def": "\"that kind of\"",
+		"strascii_obscure": "kal"
+	},
+	{
+		"strascii": "Spelling (interrogative form)",
+		"type": "pronoun",
+		"eng_trans": "English Equivalent",
+		"def": "Implication / Definition / Used as",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "sono",
+		"type": "pronoun",
+		"eng_trans": "what",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "soni",
+		"type": "pronoun",
+		"eng_trans": "which",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "sotu",
+		"type": "pronoun",
+		"eng_trans": "how",
+		"def": "\"which way\", \"in which manner\"",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "solo",
+		"type": "pronoun",
+		"eng_trans": "",
+		"def": "\"what kind of\"",
+		"strascii_obscure": "sol"
 	}
 ]

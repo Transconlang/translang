@@ -1,27 +1,275 @@
 [
 	{
+		"strascii": "mi",
 		"type": "adjective",
-		"title": null,
-		"headers": [
-			"Spelling",
-			"English Equivalent",
-			"Implication / Definition / Used as"
-		],
-		"entries": [
-			{
-				"word": "gurati",
-				"meaning": "free (price), autonomous, non-interfered-with",
-				"extra": [
-					"negative freedom"
-				]
-			},
-			{
-				"word": "lifeta",
-				"meaning": "liberated",
-				"extra": [
-					"positive freedom"
-				]
-			}
-		]
+		"eng_trans": "cute",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "wusita",
+		"type": "adjective",
+		"eng_trans": "good",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "disita",
+		"type": "adjective",
+		"eng_trans": "bad",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "nen",
+		"type": "adjective",
+		"eng_trans": "not",
+		"def": "",
+		"strascii_obscure": "nen'"
+	},
+	{
+		"strascii": "toransu",
+		"type": "adjective",
+		"eng_trans": "different, other",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "somo",
+		"type": "adjective",
+		"eng_trans": "sleepy",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "sekiso",
+		"type": "adjective",
+		"eng_trans": "sexy, fuckable",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "deja",
+		"type": "adjective",
+		"eng_trans": "active",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "gara",
+		"type": "adjective",
+		"eng_trans": "all",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "coko",
+		"type": "adjective",
+		"eng_trans": "some",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "boro",
+		"type": "adjective",
+		"eng_trans": "any",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "gurati",
+		"type": "adjective",
+		"eng_trans": "free (price), autonomous, non-interfered-with",
+		"def": "negative freedom",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "lifeta",
+		"type": "adjective",
+		"eng_trans": "liberated",
+		"def": "positive freedom",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "jala",
+		"type": "adjective",
+		"eng_trans": "able, capable of",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "mire",
+		"type": "adjective",
+		"eng_trans": "mid, average",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "misu",
+		"type": "adjective",
+		"eng_trans": "liquid, fluid",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "ten",
+		"type": "adjective",
+		"eng_trans": "solid, rigid",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "lufi",
+		"type": "adjective",
+		"eng_trans": "gaseous",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "cinda",
+		"type": "adjective",
+		"eng_trans": "new",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "gunda",
+		"type": "adjective",
+		"eng_trans": "old",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "cindajin",
+		"type": "adjective",
+		"eng_trans": "modern",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "gundajin",
+		"type": "adjective",
+		"eng_trans": "ancient",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "cingun",
+		"type": "adjective",
+		"eng_trans": "physically light",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "cingunem",
+		"type": "adjective",
+		"eng_trans": "psychologically light",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "qongun",
+		"type": "adjective",
+		"eng_trans": "physically heavy",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "qongunem",
+		"type": "adjective",
+		"eng_trans": "psychologically heavy",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "anoman",
+		"type": "adjective",
+		"eng_trans": "angry",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "teto",
+		"type": "adjective",
+		"eng_trans": "large",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "ciki",
+		"type": "adjective",
+		"eng_trans": "short",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "kanacin",
+		"type": "adjective",
+		"eng_trans": "sad",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "tanocin",
+		"type": "adjective",
+		"eng_trans": "happy",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "cangi",
+		"type": "adjective",
+		"eng_trans": "long",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dangi",
+		"type": "adjective",
+		"eng_trans": "short",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "tenza",
+		"type": "adjective",
+		"eng_trans": "tall",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "kenki",
+		"type": "adjective",
+		"eng_trans": "short",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "suci",
+		"type": "adjective",
+		"eng_trans": "intelligent",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "mimi",
+		"type": "adjective",
+		"eng_trans": "adorable",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dakun",
+		"type": "adjective",
+		"eng_trans": "black, dark",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "lajito",
+		"type": "adjective",
+		"eng_trans": "white, light, bright",
+		"def": "",
+		"strascii_obscure": ""
 	}
 ]

@@ -1,517 +1,709 @@
 [
 	{
+		"strascii": "**sero**",
 		"type": "number",
-		"title": null,
-		"headers": [
-			"Spelling",
-			"Hindu-Arabic Numeral"
-		],
-		"entries": [
-			{
-				"word": "**sero**",
-				"meaning": "0",
-				"extra": []
-			},
-			{
-				"word": "**wano**",
-				"meaning": "1",
-				"extra": []
-			},
-			{
-				"word": "**duwo**",
-				"meaning": "2",
-				"extra": []
-			},
-			{
-				"word": "**tero**",
-				"meaning": "3",
-				"extra": []
-			},
-			{
-				"word": "**karo**",
-				"meaning": "4",
-				"extra": []
-			},
-			{
-				"word": "**bimo**",
-				"meaning": "5",
-				"extra": []
-			},
-			{
-				"word": "**ciko**",
-				"meaning": "6",
-				"extra": []
-			},
-			{
-				"word": "**sebo**",
-				"meaning": "7",
-				"extra": []
-			},
-			{
-				"word": "**wonto**",
-				"meaning": "8",
-				"extra": []
-			},
-			{
-				"word": "**ninto**",
-				"meaning": "9",
-				"extra": []
-			},
-			{
-				"word": "**dinko**",
-				"meaning": "10",
-				"extra": []
-			},
-			{
-				"word": "dunko",
-				"meaning": "20",
-				"extra": []
-			},
-			{
-				"word": "tenko",
-				"meaning": "30",
-				"extra": []
-			},
-			{
-				"word": "kanko",
-				"meaning": "40",
-				"extra": []
-			},
-			{
-				"word": "binko",
-				"meaning": "50",
-				"extra": []
-			},
-			{
-				"word": "cinko",
-				"meaning": "60",
-				"extra": []
-			},
-			{
-				"word": "senko",
-				"meaning": "70",
-				"extra": []
-			},
-			{
-				"word": "wonko",
-				"meaning": "80",
-				"extra": []
-			},
-			{
-				"word": "ninko",
-				"meaning": "90",
-				"extra": []
-			},
-			{
-				"word": "**hundo**",
-				"meaning": "100",
-				"extra": []
-			},
-			{
-				"word": "dundo",
-				"meaning": "200",
-				"extra": []
-			},
-			{
-				"word": "tendo",
-				"meaning": "300",
-				"extra": []
-			},
-			{
-				"word": "kando",
-				"meaning": "400",
-				"extra": []
-			},
-			{
-				"word": "bindo",
-				"meaning": "500",
-				"extra": []
-			},
-			{
-				"word": "cindo",
-				"meaning": "600",
-				"extra": []
-			},
-			{
-				"word": "sendo",
-				"meaning": "700",
-				"extra": []
-			},
-			{
-				"word": "wondo",
-				"meaning": "800",
-				"extra": []
-			},
-			{
-				"word": "nindo",
-				"meaning": "900",
-				"extra": []
-			},
-			{
-				"word": "**neko**",
-				"meaning": "1000",
-				"extra": []
-			},
-			{
-				"word": "duko",
-				"meaning": "2000",
-				"extra": []
-			},
-			{
-				"word": "teko",
-				"meaning": "3000",
-				"extra": []
-			},
-			{
-				"word": "keko",
-				"meaning": "4000",
-				"extra": []
-			},
-			{
-				"word": "biko",
-				"meaning": "5000",
-				"extra": []
-			},
-			{
-				"word": "ciko",
-				"meaning": "6000",
-				"extra": []
-			},
-			{
-				"word": "seko",
-				"meaning": "7000",
-				"extra": []
-			},
-			{
-				"word": "woko",
-				"meaning": "8000",
-				"extra": []
-			},
-			{
-				"word": "niko",
-				"meaning": "9000",
-				"extra": []
-			},
-			{
-				"word": "diko",
-				"meaning": "10'000",
-				"extra": []
-			},
-			{
-				"word": "dudiko",
-				"meaning": "20'000",
-				"extra": []
-			},
-			{
-				"word": "tediko",
-				"meaning": "30'000",
-				"extra": []
-			},
-			{
-				"word": "kadiko",
-				"meaning": "40'000",
-				"extra": []
-			},
-			{
-				"word": "bidiko",
-				"meaning": "50'000",
-				"extra": []
-			},
-			{
-				"word": "cidiko",
-				"meaning": "60'000",
-				"extra": []
-			},
-			{
-				"word": "sediko",
-				"meaning": "70'000",
-				"extra": []
-			},
-			{
-				"word": "wodiko",
-				"meaning": "80'000",
-				"extra": []
-			},
-			{
-				"word": "nidiko",
-				"meaning": "90'000",
-				"extra": []
-			},
-			{
-				"word": "huko",
-				"meaning": "100'000",
-				"extra": []
-			},
-			{
-				"word": "duhuko",
-				"meaning": "200'000",
-				"extra": []
-			},
-			{
-				"word": "tehuko",
-				"meaning": "300'000",
-				"extra": []
-			},
-			{
-				"word": "kahuko",
-				"meaning": "400'000",
-				"extra": []
-			},
-			{
-				"word": "bihuko",
-				"meaning": "500'000",
-				"extra": []
-			},
-			{
-				"word": "cihuko",
-				"meaning": "600'000",
-				"extra": []
-			},
-			{
-				"word": "sehuko",
-				"meaning": "700'000",
-				"extra": []
-			},
-			{
-				"word": "wohuko",
-				"meaning": "800'000",
-				"extra": []
-			},
-			{
-				"word": "nihuko",
-				"meaning": "900'000",
-				"extra": []
-			},
-			{
-				"word": "**ranolono**",
-				"meaning": "1'000'000",
-				"extra": []
-			},
-			{
-				"word": "dunolono",
-				"meaning": "2'000'000",
-				"extra": []
-			},
-			{
-				"word": "tenolono",
-				"meaning": "3'000'000",
-				"extra": []
-			},
-			{
-				"word": "kenolono",
-				"meaning": "4'000'000",
-				"extra": []
-			},
-			{
-				"word": "binolono",
-				"meaning": "5'000'000",
-				"extra": []
-			},
-			{
-				"word": "cinolono",
-				"meaning": "6'000'000",
-				"extra": []
-			},
-			{
-				"word": "senolono",
-				"meaning": "7'000'000",
-				"extra": []
-			},
-			{
-				"word": "wonolono",
-				"meaning": "8'000'000",
-				"extra": []
-			},
-			{
-				"word": "ninolono",
-				"meaning": "9'000'000",
-				"extra": []
-			},
-			{
-				"word": "dinolono",
-				"meaning": "10'000'000",
-				"extra": []
-			},
-			{
-				"word": "dudinolono",
-				"meaning": "20'000'000",
-				"extra": []
-			},
-			{
-				"word": "tedinolono",
-				"meaning": "30'000'000",
-				"extra": []
-			},
-			{
-				"word": "kadinolono",
-				"meaning": "40'000'000",
-				"extra": []
-			},
-			{
-				"word": "bidinolono",
-				"meaning": "50'000'000",
-				"extra": []
-			},
-			{
-				"word": "cidinolono",
-				"meaning": "60'000'000",
-				"extra": []
-			},
-			{
-				"word": "sedinolono",
-				"meaning": "70'000'000",
-				"extra": []
-			},
-			{
-				"word": "wodinolono",
-				"meaning": "80'000'000",
-				"extra": []
-			},
-			{
-				"word": "nidinolono",
-				"meaning": "90'000'000",
-				"extra": []
-			},
-			{
-				"word": "hunolono",
-				"meaning": "100'000'000",
-				"extra": []
-			},
-			{
-				"word": "**rawolono**",
-				"meaning": "1'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "diwolono",
-				"meaning": "10'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "huwolono",
-				"meaning": "100'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "**rerolono**",
-				"meaning": "1'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "dirolono",
-				"meaning": "10'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "hurolono",
-				"meaning": "100'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "**ragolono**",
-				"meaning": "1'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "digolono",
-				"meaning": "10'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "hugolono",
-				"meaning": "100'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "**rimolono**",
-				"meaning": "1'000'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "dimolono",
-				"meaning": "10'000'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "humolono",
-				"meaning": "100'000'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "**rikolono**",
-				"meaning": "1'000'000'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "dikolono",
-				"meaning": "10'000'000'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "hubolono",
-				"meaning": "100'000'000'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "**rebolono**",
-				"meaning": "1'000'000'000'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "dibolono",
-				"meaning": "10'000'000'000'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "hubolono",
-				"meaning": "100'000'000'000'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "**rontolono**",
-				"meaning": "1'000'000'000'000'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "dintolono",
-				"meaning": "10'000'000'000'000'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "huntolono",
-				"meaning": "100'000'000'000'000'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "**rinolono**",
-				"meaning": "1'000'000'000'000'000'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "dimpolono",
-				"meaning": "10'000'000'000'000'000'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "humpolono",
-				"meaning": "100'000'000'000'000'000'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "**rinkolono**",
-				"meaning": "1'000'000'000'000'000'000'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "dinkolono",
-				"meaning": "100'000'000'000'000'000'000'000'000'000'000'000",
-				"extra": []
-			},
-			{
-				"word": "hunkolono",
-				"meaning": "100'000'000'000'000'000'000'000'000'000'000'000",
-				"extra": []
-			}
-		]
+		"eng_trans": "0",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**wano**",
+		"type": "number",
+		"eng_trans": "1",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**duwo**",
+		"type": "number",
+		"eng_trans": "2",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**tero**",
+		"type": "number",
+		"eng_trans": "3",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**karo**",
+		"type": "number",
+		"eng_trans": "4",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**bimo**",
+		"type": "number",
+		"eng_trans": "5",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**ciko**",
+		"type": "number",
+		"eng_trans": "6",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**sebo**",
+		"type": "number",
+		"eng_trans": "7",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**wonto**",
+		"type": "number",
+		"eng_trans": "8",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**ninto**",
+		"type": "number",
+		"eng_trans": "9",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**dinko**",
+		"type": "number",
+		"eng_trans": "10",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dunko",
+		"type": "number",
+		"eng_trans": "20",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "tenko",
+		"type": "number",
+		"eng_trans": "30",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "kanko",
+		"type": "number",
+		"eng_trans": "40",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "binko",
+		"type": "number",
+		"eng_trans": "50",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "cinko",
+		"type": "number",
+		"eng_trans": "60",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "senko",
+		"type": "number",
+		"eng_trans": "70",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "wonko",
+		"type": "number",
+		"eng_trans": "80",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "ninko",
+		"type": "number",
+		"eng_trans": "90",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**hundo**",
+		"type": "number",
+		"eng_trans": "100",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dundo",
+		"type": "number",
+		"eng_trans": "200",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "tendo",
+		"type": "number",
+		"eng_trans": "300",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "kando",
+		"type": "number",
+		"eng_trans": "400",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "bindo",
+		"type": "number",
+		"eng_trans": "500",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "cindo",
+		"type": "number",
+		"eng_trans": "600",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "sendo",
+		"type": "number",
+		"eng_trans": "700",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "wondo",
+		"type": "number",
+		"eng_trans": "800",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "nindo",
+		"type": "number",
+		"eng_trans": "900",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**neko**",
+		"type": "number",
+		"eng_trans": "1000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "duko",
+		"type": "number",
+		"eng_trans": "2000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "teko",
+		"type": "number",
+		"eng_trans": "3000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "keko",
+		"type": "number",
+		"eng_trans": "4000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "biko",
+		"type": "number",
+		"eng_trans": "5000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "ciko",
+		"type": "number",
+		"eng_trans": "6000",
+		"def": "",
+		"strascii_obscure": "cko"
+	},
+	{
+		"strascii": "seko",
+		"type": "number",
+		"eng_trans": "7000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "woko",
+		"type": "number",
+		"eng_trans": "8000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "niko",
+		"type": "number",
+		"eng_trans": "9000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "diko",
+		"type": "number",
+		"eng_trans": "10'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dudiko",
+		"type": "number",
+		"eng_trans": "20'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "tediko",
+		"type": "number",
+		"eng_trans": "30'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "kadiko",
+		"type": "number",
+		"eng_trans": "40'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "bidiko",
+		"type": "number",
+		"eng_trans": "50'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "cidiko",
+		"type": "number",
+		"eng_trans": "60'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "sediko",
+		"type": "number",
+		"eng_trans": "70'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "wodiko",
+		"type": "number",
+		"eng_trans": "80'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "nidiko",
+		"type": "number",
+		"eng_trans": "90'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "huko",
+		"type": "number",
+		"eng_trans": "100'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "duhuko",
+		"type": "number",
+		"eng_trans": "200'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "tehuko",
+		"type": "number",
+		"eng_trans": "300'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "kahuko",
+		"type": "number",
+		"eng_trans": "400'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "bihuko",
+		"type": "number",
+		"eng_trans": "500'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "cihuko",
+		"type": "number",
+		"eng_trans": "600'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "sehuko",
+		"type": "number",
+		"eng_trans": "700'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "wohuko",
+		"type": "number",
+		"eng_trans": "800'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "nihuko",
+		"type": "number",
+		"eng_trans": "900'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**ranolono**",
+		"type": "number",
+		"eng_trans": "1'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dunolono",
+		"type": "number",
+		"eng_trans": "2'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "tenolono",
+		"type": "number",
+		"eng_trans": "3'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "kenolono",
+		"type": "number",
+		"eng_trans": "4'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "binolono",
+		"type": "number",
+		"eng_trans": "5'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "cinolono",
+		"type": "number",
+		"eng_trans": "6'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "senolono",
+		"type": "number",
+		"eng_trans": "7'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "wonolono",
+		"type": "number",
+		"eng_trans": "8'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "ninolono",
+		"type": "number",
+		"eng_trans": "9'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dinolono",
+		"type": "number",
+		"eng_trans": "10'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dudinolono",
+		"type": "number",
+		"eng_trans": "20'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "tedinolono",
+		"type": "number",
+		"eng_trans": "30'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "kadinolono",
+		"type": "number",
+		"eng_trans": "40'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "bidinolono",
+		"type": "number",
+		"eng_trans": "50'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "cidinolono",
+		"type": "number",
+		"eng_trans": "60'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "sedinolono",
+		"type": "number",
+		"eng_trans": "70'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "wodinolono",
+		"type": "number",
+		"eng_trans": "80'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "nidinolono",
+		"type": "number",
+		"eng_trans": "90'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "hunolono",
+		"type": "number",
+		"eng_trans": "100'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**rawolono**",
+		"type": "number",
+		"eng_trans": "1'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "diwolono",
+		"type": "number",
+		"eng_trans": "10'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "huwolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**rerolono**",
+		"type": "number",
+		"eng_trans": "1'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dirolono",
+		"type": "number",
+		"eng_trans": "10'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "hurolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**ragolono**",
+		"type": "number",
+		"eng_trans": "1'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "digolono",
+		"type": "number",
+		"eng_trans": "10'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "hugolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**rimolono**",
+		"type": "number",
+		"eng_trans": "1'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dimolono",
+		"type": "number",
+		"eng_trans": "10'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "humolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**rikolono**",
+		"type": "number",
+		"eng_trans": "1'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dikolono",
+		"type": "number",
+		"eng_trans": "10'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "hubolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**rebolono**",
+		"type": "number",
+		"eng_trans": "1'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dibolono",
+		"type": "number",
+		"eng_trans": "10'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "hubolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**rontolono**",
+		"type": "number",
+		"eng_trans": "1'000'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dintolono",
+		"type": "number",
+		"eng_trans": "10'000'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "huntolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**rinolono**",
+		"type": "number",
+		"eng_trans": "1'000'000'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dimpolono",
+		"type": "number",
+		"eng_trans": "10'000'000'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "humpolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "**rinkolono**",
+		"type": "number",
+		"eng_trans": "1'000'000'000'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "dinkolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
+	},
+	{
+		"strascii": "hunkolono",
+		"type": "number",
+		"eng_trans": "100'000'000'000'000'000'000'000'000'000'000'000",
+		"def": "",
+		"strascii_obscure": ""
 	}
 ]
