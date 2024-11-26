@@ -23,7 +23,7 @@ Column titles are not standardized, but the first column should have the Kumilin
 
 #### Labels
 
-- Issues with the `critical` label are high priority and should be addressed as soon as possible.
+- Issues with the ${\color{#FBCA04}`critical`} label are high priority and should be addressed as soon as possible.
 - Add all relevant [labels](https://github.com/Transconlang/translang/labels) please! Only maintainers may add labels such as `nyo`, `question`, `duplicate`, `incomplete`, or `DONOTMERGE`.
 - An issue should be closed and marked as not planned if it has the `nyo` label.
 
