@@ -1,2347 +1,2270 @@
 [
 	{
-		"strascii": "mi",
+		"word": "mi",
+		"meaning": "cute",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "cute",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "wusita",
+		"word": "wusita",
+		"meaning": "good",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "good",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "disita",
+		"word": "disita",
+		"meaning": "bad",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "bad",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "nen",
+		"word": "nen",
+		"meaning": "not",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "not",
-		"def": "",
-		"strascii_obscure": "nen'"
+		"obscurism": "nen'"
 	},
 	{
-		"strascii": "toransu",
+		"word": "toransu",
+		"meaning": "different, other",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "different, other",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "somo",
+		"word": "somo",
+		"meaning": "sleepy",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "sleepy",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "sekiso",
+		"word": "sekiso",
+		"meaning": "sexy, fuckable",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "sexy, fuckable",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "deja",
+		"word": "deja",
+		"meaning": "active",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "active",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "gara",
+		"word": "gara",
+		"meaning": "all",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "all",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "coko",
+		"word": "coko",
+		"meaning": "some",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "some",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "boro",
+		"word": "boro",
+		"meaning": "any",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "any",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "gurati",
+		"word": "gurati",
+		"meaning": "free (price), autonomous, non-interfered-with",
+		"english": "negative freedom",
 		"type": "adjective",
-		"eng_trans": "free (price), autonomous, non-interfered-with",
-		"def": "negative freedom",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "lifeta",
+		"word": "lifeta",
+		"meaning": "liberated",
+		"english": "positive freedom",
 		"type": "adjective",
-		"eng_trans": "liberated",
-		"def": "positive freedom",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "jala",
+		"word": "jala",
+		"meaning": "able, capable of",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "able, capable of",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "mire",
+		"word": "mire",
+		"meaning": "mid, average",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "mid, average",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "misu",
+		"word": "misu",
+		"meaning": "liquid, fluid",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "liquid, fluid",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "ten",
+		"word": "ten",
+		"meaning": "solid, rigid",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "solid, rigid",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "lufi",
+		"word": "lufi",
+		"meaning": "gaseous",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "gaseous",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "cinda",
+		"word": "cinda",
+		"meaning": "new",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "new",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "gunda",
+		"word": "gunda",
+		"meaning": "old",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "old",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "cindajin",
+		"word": "cindajin",
+		"meaning": "modern",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "modern",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "gundajin",
+		"word": "gundajin",
+		"meaning": "ancient",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "ancient",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "cingun",
+		"word": "cingun",
+		"meaning": "physically light",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "physically light",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "cingunem",
+		"word": "cingunem",
+		"meaning": "psychologically light",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "psychologically light",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "qongun",
+		"word": "qongun",
+		"meaning": "physically heavy",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "physically heavy",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "qongunem",
+		"word": "qongunem",
+		"meaning": "psychologically heavy",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "psychologically heavy",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "anoman",
+		"word": "anoman",
+		"meaning": "angry",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "angry",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "teto",
+		"word": "teto",
+		"meaning": "large",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "large",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "ciki",
+		"word": "ciki",
+		"meaning": "short",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "short",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "kanacin",
+		"word": "kanacin",
+		"meaning": "sad",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "sad",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "tanocin",
+		"word": "tanocin",
+		"meaning": "happy",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "happy",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "cangi",
+		"word": "cangi",
+		"meaning": "long",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "long",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dangi",
+		"word": "dangi",
+		"meaning": "short",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "short",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "tenza",
+		"word": "tenza",
+		"meaning": "tall",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "tall",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "kenki",
+		"word": "kenki",
+		"meaning": "short",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "short",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "suci",
+		"word": "suci",
+		"meaning": "intelligent",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "intelligent",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "mimi",
+		"word": "mimi",
+		"meaning": "adorable",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "adorable",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dakun",
+		"word": "dakun",
+		"meaning": "black, dark",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "black, dark",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "lajito",
+		"word": "lajito",
+		"meaning": "white, light, bright",
+		"english": "",
 		"type": "adjective",
-		"eng_trans": "white, light, bright",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "nen",
+		"word": "nen",
+		"meaning": "no",
+		"english": "logical negation",
 		"type": "adverb",
-		"eng_trans": "no",
-		"def": "logical negation",
-		"strascii_obscure": "nen'"
+		"obscurism": "nen'"
 	},
 	{
-		"strascii": "con",
+		"word": "con",
+		"meaning": "soon",
+		"english": "",
 		"type": "adverb",
-		"eng_trans": "soon",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "huba",
+		"word": "huba",
+		"meaning": "overly",
+		"english": "",
 		"type": "adverb",
-		"eng_trans": "overly",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "why",
+		"word": "why",
+		"meaning": "interrogative question of cause",
+		"english": null,
 		"type": "adverb",
-		"eng_trans": "interrogative question of cause",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "tun",
+		"word": "tun",
+		"meaning": "because",
+		"english": "statement of cause",
 		"type": "adverb",
-		"eng_trans": "because",
-		"def": "statement of cause",
-		"strascii_obscure": "tun'"
+		"obscurism": "tun'"
 	},
 	{
-		"strascii": "saci",
+		"word": "saci",
+		"meaning": "how",
+		"english": "interrogative question of methodology",
 		"type": "adverb",
-		"eng_trans": "how",
-		"def": "interrogative question of methodology",
-		"strascii_obscure": "sac"
+		"obscurism": "sac"
 	},
 	{
-		"strascii": "taci",
+		"word": "taci",
+		"meaning": "",
+		"english": "description of methodology",
 		"type": "adverb",
-		"eng_trans": "",
-		"def": "description of methodology",
-		"strascii_obscure": "tac"
+		"obscurism": "tac"
 	},
 	{
-		"strascii": "Spelling",
+		"word": "tahi",
+		"meaning": "now",
+		"english": "",
 		"type": "adverb",
-		"eng_trans": "English Equivalent",
-		"def": "Implication / Definition / Used as",
-		"strascii_obscure": ""
+		"obscurism": "tah"
 	},
 	{
-		"strascii": "tahi",
+		"word": "kahi",
+		"meaning": "then",
+		"english": "",
 		"type": "adverb",
-		"eng_trans": "now",
-		"def": "",
-		"strascii_obscure": "tah"
+		"obscurism": "kah"
 	},
 	{
-		"strascii": "kahi",
+		"word": "sohi",
+		"meaning": "when",
+		"english": "",
 		"type": "adverb",
-		"eng_trans": "then",
-		"def": "",
-		"strascii_obscure": "kah"
+		"obscurism": "soh"
 	},
 	{
-		"strascii": "sohi",
+		"word": "tawa",
+		"meaning": "here",
+		"english": "",
 		"type": "adverb",
-		"eng_trans": "when",
-		"def": "",
-		"strascii_obscure": "soh"
+		"obscurism": "taw"
 	},
 	{
-		"strascii": "Spelling",
+		"word": "kawa",
+		"meaning": "there",
+		"english": "",
 		"type": "adverb",
-		"eng_trans": "English Equivalent",
-		"def": "Implication / Definition / Used as",
-		"strascii_obscure": ""
+		"obscurism": "kaw"
 	},
 	{
-		"strascii": "tawa",
+		"word": "sowa",
+		"meaning": "where",
+		"english": "",
 		"type": "adverb",
-		"eng_trans": "here",
-		"def": "",
-		"strascii_obscure": "taw"
+		"obscurism": "sow"
 	},
 	{
-		"strascii": "kawa",
-		"type": "adverb",
-		"eng_trans": "there",
-		"def": "",
-		"strascii_obscure": "kaw"
-	},
-	{
-		"strascii": "sowa",
-		"type": "adverb",
-		"eng_trans": "where",
-		"def": "",
-		"strascii_obscure": "sow"
-	},
-	{
-		"strascii": "pum",
+		"word": "pum",
+		"meaning": "and",
+		"english": "logical conjunction",
 		"type": "conjunction",
-		"eng_trans": "and",
-		"def": "logical conjunction",
-		"strascii_obscure": "plu"
+		"obscurism": "plu"
 	},
 	{
-		"strascii": "ron",
+		"word": "ron",
+		"meaning": "or",
+		"english": "logical disjunction",
 		"type": "conjunction",
-		"eng_trans": "or",
-		"def": "logical disjunction",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "no",
+		"word": "no",
+		"meaning": "but",
+		"english": "logical implication",
 		"type": "conjunction",
-		"eng_trans": "but",
-		"def": "logical implication",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "sim",
+		"word": "sim",
+		"meaning": "yes",
+		"english": "",
 		"type": "interjection",
-		"eng_trans": "yes",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "nen",
+		"word": "nen",
+		"meaning": "no",
+		"english": "",
 		"type": "interjection",
-		"eng_trans": "no",
-		"def": "",
-		"strascii_obscure": "nen'"
+		"obscurism": "nen'"
 	},
 	{
-		"strascii": "henlo",
+		"word": "henlo",
+		"meaning": "hello",
+		"english": "",
 		"type": "interjection",
-		"eng_trans": "hello",
-		"def": "",
-		"strascii_obscure": "hnl"
+		"obscurism": "hnl"
 	},
 	{
-		"strascii": "na",
+		"word": "na",
+		"meaning": "hi",
+		"english": "",
 		"type": "interjection",
-		"eng_trans": "hi",
-		"def": "",
-		"strascii_obscure": "n"
+		"obscurism": "n"
 	},
 	{
-		"strascii": "konba",
+		"word": "konba",
+		"meaning": "goodbye",
+		"english": "",
 		"type": "interjection",
-		"eng_trans": "goodbye",
-		"def": "",
-		"strascii_obscure": "kon'ba"
+		"obscurism": "kon'ba"
 	},
 	{
-		"strascii": "mi",
+		"word": "mi",
+		"meaning": "cute",
+		"english": "",
 		"type": "interjection",
-		"eng_trans": "cute",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "ke",
+		"word": "ke",
+		"meaning": "ok",
+		"english": "confirmation, acknowledgement",
 		"type": "interjection",
-		"eng_trans": "ok",
-		"def": "confirmation, acknowledgement",
-		"strascii_obscure": "k"
+		"obscurism": "k"
 	},
 	{
-		"strascii": "biwe",
+		"word": "biwe",
+		"meaning": "thanks",
+		"english": "",
 		"type": "interjection",
-		"eng_trans": "thanks",
-		"def": "",
-		"strascii_obscure": "bwe"
+		"obscurism": "bwe"
 	},
 	{
-		"strascii": "hihi",
+		"word": "hihi",
+		"meaning": "laughter",
+		"english": "",
 		"type": "interjection",
-		"eng_trans": "laughter",
-		"def": "",
-		"strascii_obscure": "hh"
+		"obscurism": "hh"
 	},
 	{
-		"strascii": "kase",
+		"word": "kase",
+		"meaning": "cat",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "cat",
-		"def": "",
-		"strascii_obscure": "kas"
+		"obscurism": "kas"
 	},
 	{
-		"strascii": "hun",
+		"word": "hun",
+		"meaning": "dog",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "dog",
-		"def": "",
-		"strascii_obscure": "hn'"
+		"obscurism": "hn'"
 	},
 	{
-		"strascii": "luma",
+		"word": "luma",
+		"meaning": "person",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "person",
-		"def": "",
-		"strascii_obscure": "lm"
+		"obscurism": "lm"
 	},
 	{
-		"strascii": "mawa",
+		"word": "mawa",
+		"meaning": "kiss",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "kiss",
-		"def": "",
-		"strascii_obscure": "mw"
+		"obscurism": "mw"
 	},
 	{
-		"strascii": "lanmi",
+		"word": "lanmi",
+		"meaning": "food",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "food",
-		"def": "",
-		"strascii_obscure": "ln'mi"
+		"obscurism": "ln'mi"
 	},
 	{
-		"strascii": "topi",
+		"word": "topi",
+		"meaning": "god, deity",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "god, deity",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "wantu",
+		"word": "wantu",
+		"meaning": "number",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "number",
-		"def": "",
-		"strascii_obscure": "wn'tu"
+		"obscurism": "wn'tu"
 	},
 	{
-		"strascii": "cosi",
+		"word": "cosi",
+		"meaning": "choice, vote",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "choice, vote",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "falo",
+		"word": "falo",
+		"meaning": "speech, discussion, chat",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "speech, discussion, chat",
-		"def": "",
-		"strascii_obscure": "fal"
+		"obscurism": "fal"
 	},
 	{
-		"strascii": "linwa",
+		"word": "linwa",
+		"meaning": "language",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "language",
-		"def": "",
-		"strascii_obscure": "ln'wa"
+		"obscurism": "ln'wa"
 	},
 	{
-		"strascii": "keso",
+		"word": "keso",
+		"meaning": "cheese",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "cheese",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "sekiso",
+		"word": "sekiso",
+		"meaning": "sex, act of fucking",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "sex, act of fucking",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "lumaba",
+		"word": "lumaba",
+		"meaning": "friend",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "friend",
-		"def": "",
-		"strascii_obscure": "cn'ku"
+		"obscurism": "cn'ku"
 	},
 	{
-		"strascii": "deja",
+		"word": "deja",
+		"meaning": "action",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "action",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "gade",
+		"word": "gade",
+		"meaning": "guess",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "guess",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "tempu",
+		"word": "tempu",
+		"meaning": "time",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "time",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "cikondu",
+		"word": "cikondu",
+		"meaning": "second",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "second",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "minedu",
+		"word": "minedu",
+		"meaning": "minute",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "minute",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "haweru",
+		"word": "haweru",
+		"meaning": "hour",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "hour",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dawu",
+		"word": "dawu",
+		"meaning": "day",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "day",
-		"def": "",
-		"strascii_obscure": "dwu"
+		"obscurism": "dwu"
 	},
 	{
-		"strascii": "natu",
+		"word": "natu",
+		"meaning": "night",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "night",
-		"def": "",
-		"strascii_obscure": "ntu"
+		"obscurism": "ntu"
 	},
 	{
-		"strascii": "murinu",
+		"word": "murinu",
+		"meaning": "morning",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "morning",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "ebeninku",
+		"word": "ebeninku",
+		"meaning": "evening",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "evening",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "monadu",
+		"word": "monadu",
+		"meaning": "month",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "month",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "siconu",
+		"word": "siconu",
+		"meaning": "season",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "season",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "waru",
+		"word": "waru",
+		"meaning": "year",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "year",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "diwaru",
+		"word": "diwaru",
+		"meaning": "decade",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "decade",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "huwaru",
+		"word": "huwaru",
+		"meaning": "century",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "century",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "newaru",
+		"word": "newaru",
+		"meaning": "millenium",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "millenium",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "nem",
+		"word": "nem",
+		"meaning": "mind",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "mind",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "pen",
+		"word": "pen",
+		"meaning": "movement",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "movement",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "nepen",
+		"word": "nepen",
+		"meaning": "feeling",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "feeling",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "gurati",
+		"word": "gurati",
+		"meaning": "non-intervention",
+		"english": "free (price), without cost",
 		"type": "noun",
-		"eng_trans": "non-intervention",
-		"def": "free (price), without cost",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "lifeta",
+		"word": "lifeta",
+		"meaning": "(positive) freedom",
+		"english": "liberation, liberty",
 		"type": "noun",
-		"eng_trans": "(positive) freedom",
-		"def": "liberation, liberty",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "kumi",
+		"word": "kumi",
+		"meaning": "trans(gender)ness",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "trans(gender)ness",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "jala",
+		"word": "jala",
+		"meaning": "ability",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "ability",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "mire",
+		"word": "mire",
+		"meaning": "half, middle",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "half, middle",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "misu",
+		"word": "misu",
+		"meaning": "liquid",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "liquid",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "lufi",
+		"word": "lufi",
+		"meaning": "gas",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "gas",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "ten",
+		"word": "ten",
+		"meaning": "solid",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "solid",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "kin",
+		"word": "kin",
+		"meaning": "thing",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "thing",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "meta",
+		"word": "meta",
+		"meaning": "measurment",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "measurment",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "core",
+		"word": "core",
+		"meaning": "desire",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "desire",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "jore",
+		"word": "jore",
+		"meaning": "need",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "need",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "lonki",
+		"word": "lonki",
+		"meaning": "field of knowledge/study",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "field of knowledge/study",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "tori",
+		"word": "tori",
+		"meaning": "kindness, love",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "kindness, love",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "toba",
+		"word": "toba",
+		"meaning": "word",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "word",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "bencun",
+		"word": "bencun",
+		"meaning": "book",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "book",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "gucun",
+		"word": "gucun",
+		"meaning": "story",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "story",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "bengu",
+		"word": "bengu",
+		"meaning": "storybook",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "storybook",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "cikaran",
+		"word": "cikaran",
+		"meaning": "physical strength",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "physical strength",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "cikaranem",
+		"word": "cikaranem",
+		"meaning": "mental strength",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "mental strength",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "canwa",
+		"word": "canwa",
+		"meaning": "result",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "result",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "wucan",
+		"word": "wucan",
+		"meaning": "victory",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "victory",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dican",
+		"word": "dican",
+		"meaning": "defeat",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "defeat",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "bulohaji",
+		"word": "bulohaji",
+		"meaning": "comfort, safety, euphoria",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "comfort, safety, euphoria",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "hason",
+		"word": "hason",
+		"meaning": "sound",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "sound",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "hasontoba",
+		"word": "hasontoba",
+		"meaning": "pronunciation",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "pronunciation",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "miku",
+		"word": "miku",
+		"meaning": "idol",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "idol",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "qanzi",
+		"word": "muna",
+		"meaning": "egg",
+		"english": "",
 		"type": "noun",
-		"eng_trans": "paper",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "muna",
-		"type": "noun",
-		"eng_trans": "egg",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "suntu",
-		"type": "noun",
-		"eng_trans": "dumbass, idiot",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "**sero**",
+		"word": "**sero**",
+		"meaning": "0",
+		"english": null,
 		"type": "number",
-		"eng_trans": "0",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**wano**",
+		"word": "**wano**",
+		"meaning": "1",
+		"english": null,
 		"type": "number",
-		"eng_trans": "1",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**duwo**",
+		"word": "**duwo**",
+		"meaning": "2",
+		"english": null,
 		"type": "number",
-		"eng_trans": "2",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**tero**",
+		"word": "**tero**",
+		"meaning": "3",
+		"english": null,
 		"type": "number",
-		"eng_trans": "3",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**karo**",
+		"word": "**karo**",
+		"meaning": "4",
+		"english": null,
 		"type": "number",
-		"eng_trans": "4",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**bimo**",
+		"word": "**bimo**",
+		"meaning": "5",
+		"english": null,
 		"type": "number",
-		"eng_trans": "5",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**ciko**",
+		"word": "**ciko**",
+		"meaning": "6",
+		"english": null,
 		"type": "number",
-		"eng_trans": "6",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**sebo**",
+		"word": "**sebo**",
+		"meaning": "7",
+		"english": null,
 		"type": "number",
-		"eng_trans": "7",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**wonto**",
+		"word": "**wonto**",
+		"meaning": "8",
+		"english": null,
 		"type": "number",
-		"eng_trans": "8",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**ninto**",
+		"word": "**ninto**",
+		"meaning": "9",
+		"english": null,
 		"type": "number",
-		"eng_trans": "9",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**dinko**",
+		"word": "**dinko**",
+		"meaning": "10",
+		"english": null,
 		"type": "number",
-		"eng_trans": "10",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dunko",
+		"word": "dunko",
+		"meaning": "20",
+		"english": null,
 		"type": "number",
-		"eng_trans": "20",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "tenko",
+		"word": "tenko",
+		"meaning": "30",
+		"english": null,
 		"type": "number",
-		"eng_trans": "30",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "kanko",
+		"word": "kanko",
+		"meaning": "40",
+		"english": null,
 		"type": "number",
-		"eng_trans": "40",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "binko",
+		"word": "binko",
+		"meaning": "50",
+		"english": null,
 		"type": "number",
-		"eng_trans": "50",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "cinko",
+		"word": "cinko",
+		"meaning": "60",
+		"english": null,
 		"type": "number",
-		"eng_trans": "60",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "senko",
+		"word": "senko",
+		"meaning": "70",
+		"english": null,
 		"type": "number",
-		"eng_trans": "70",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "wonko",
+		"word": "wonko",
+		"meaning": "80",
+		"english": null,
 		"type": "number",
-		"eng_trans": "80",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "ninko",
+		"word": "ninko",
+		"meaning": "90",
+		"english": null,
 		"type": "number",
-		"eng_trans": "90",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**hundo**",
+		"word": "**hundo**",
+		"meaning": "100",
+		"english": null,
 		"type": "number",
-		"eng_trans": "100",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dundo",
+		"word": "dundo",
+		"meaning": "200",
+		"english": null,
 		"type": "number",
-		"eng_trans": "200",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "tendo",
+		"word": "tendo",
+		"meaning": "300",
+		"english": null,
 		"type": "number",
-		"eng_trans": "300",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "kando",
+		"word": "kando",
+		"meaning": "400",
+		"english": null,
 		"type": "number",
-		"eng_trans": "400",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "bindo",
+		"word": "bindo",
+		"meaning": "500",
+		"english": null,
 		"type": "number",
-		"eng_trans": "500",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "cindo",
+		"word": "cindo",
+		"meaning": "600",
+		"english": null,
 		"type": "number",
-		"eng_trans": "600",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "sendo",
+		"word": "sendo",
+		"meaning": "700",
+		"english": null,
 		"type": "number",
-		"eng_trans": "700",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "wondo",
+		"word": "wondo",
+		"meaning": "800",
+		"english": null,
 		"type": "number",
-		"eng_trans": "800",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "nindo",
+		"word": "nindo",
+		"meaning": "900",
+		"english": null,
 		"type": "number",
-		"eng_trans": "900",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**neko**",
+		"word": "**neko**",
+		"meaning": "1000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "1000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "duko",
+		"word": "duko",
+		"meaning": "2000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "2000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "teko",
+		"word": "teko",
+		"meaning": "3000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "3000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "keko",
+		"word": "keko",
+		"meaning": "4000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "4000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "biko",
+		"word": "biko",
+		"meaning": "5000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "5000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "ciko",
+		"word": "ciko",
+		"meaning": "6000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "6000",
-		"def": "",
-		"strascii_obscure": "cko"
+		"obscurism": "cko"
 	},
 	{
-		"strascii": "seko",
+		"word": "seko",
+		"meaning": "7000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "7000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "woko",
+		"word": "woko",
+		"meaning": "8000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "8000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "niko",
+		"word": "niko",
+		"meaning": "9000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "9000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "diko",
+		"word": "diko",
+		"meaning": "10'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "10'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dudiko",
+		"word": "dudiko",
+		"meaning": "20'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "20'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "tediko",
+		"word": "tediko",
+		"meaning": "30'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "30'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "kadiko",
+		"word": "kadiko",
+		"meaning": "40'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "40'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "bidiko",
+		"word": "bidiko",
+		"meaning": "50'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "50'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "cidiko",
+		"word": "cidiko",
+		"meaning": "60'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "60'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "sediko",
+		"word": "sediko",
+		"meaning": "70'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "70'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "wodiko",
+		"word": "wodiko",
+		"meaning": "80'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "80'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "nidiko",
+		"word": "nidiko",
+		"meaning": "90'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "90'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "huko",
+		"word": "huko",
+		"meaning": "100'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "100'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "duhuko",
+		"word": "duhuko",
+		"meaning": "200'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "200'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "tehuko",
+		"word": "tehuko",
+		"meaning": "300'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "300'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "kahuko",
+		"word": "kahuko",
+		"meaning": "400'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "400'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "bihuko",
+		"word": "bihuko",
+		"meaning": "500'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "500'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "cihuko",
+		"word": "cihuko",
+		"meaning": "600'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "600'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "sehuko",
+		"word": "sehuko",
+		"meaning": "700'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "700'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "wohuko",
+		"word": "wohuko",
+		"meaning": "800'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "800'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "nihuko",
+		"word": "nihuko",
+		"meaning": "900'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "900'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**ranolono**",
+		"word": "**ranolono**",
+		"meaning": "1'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "1'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dunolono",
+		"word": "dunolono",
+		"meaning": "2'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "2'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "tenolono",
+		"word": "tenolono",
+		"meaning": "3'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "3'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "kenolono",
+		"word": "kenolono",
+		"meaning": "4'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "4'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "binolono",
+		"word": "binolono",
+		"meaning": "5'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "5'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "cinolono",
+		"word": "cinolono",
+		"meaning": "6'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "6'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "senolono",
+		"word": "senolono",
+		"meaning": "7'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "7'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "wonolono",
+		"word": "wonolono",
+		"meaning": "8'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "8'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "ninolono",
+		"word": "ninolono",
+		"meaning": "9'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "9'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dinolono",
+		"word": "dinolono",
+		"meaning": "10'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "10'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dudinolono",
+		"word": "dudinolono",
+		"meaning": "20'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "20'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "tedinolono",
+		"word": "tedinolono",
+		"meaning": "30'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "30'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "kadinolono",
+		"word": "kadinolono",
+		"meaning": "40'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "40'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "bidinolono",
+		"word": "bidinolono",
+		"meaning": "50'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "50'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "cidinolono",
+		"word": "cidinolono",
+		"meaning": "60'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "60'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "sedinolono",
+		"word": "sedinolono",
+		"meaning": "70'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "70'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "wodinolono",
+		"word": "wodinolono",
+		"meaning": "80'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "80'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "nidinolono",
+		"word": "nidinolono",
+		"meaning": "90'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "90'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "hunolono",
+		"word": "hunolono",
+		"meaning": "100'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "100'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**rawolono**",
+		"word": "**rawolono**",
+		"meaning": "1'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "1'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "diwolono",
+		"word": "diwolono",
+		"meaning": "10'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "10'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "huwolono",
+		"word": "huwolono",
+		"meaning": "100'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "100'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**rerolono**",
+		"word": "**rerolono**",
+		"meaning": "1'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "1'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dirolono",
+		"word": "dirolono",
+		"meaning": "10'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "10'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "hurolono",
+		"word": "hurolono",
+		"meaning": "100'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "100'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**ragolono**",
+		"word": "**ragolono**",
+		"meaning": "1'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "1'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "digolono",
+		"word": "digolono",
+		"meaning": "10'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "10'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "hugolono",
+		"word": "hugolono",
+		"meaning": "100'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "100'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**rimolono**",
+		"word": "**rimolono**",
+		"meaning": "1'000'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "1'000'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dimolono",
+		"word": "dimolono",
+		"meaning": "10'000'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "10'000'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "humolono",
+		"word": "humolono",
+		"meaning": "100'000'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "100'000'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**rikolono**",
+		"word": "**rikolono**",
+		"meaning": "1'000'000'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "1'000'000'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dikolono",
+		"word": "dikolono",
+		"meaning": "10'000'000'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "10'000'000'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "hubolono",
+		"word": "hubolono",
+		"meaning": "100'000'000'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "100'000'000'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**rebolono**",
+		"word": "**rebolono**",
+		"meaning": "1'000'000'000'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "1'000'000'000'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dibolono",
+		"word": "dibolono",
+		"meaning": "10'000'000'000'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "10'000'000'000'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "hubolono",
+		"word": "hubolono",
+		"meaning": "100'000'000'000'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "100'000'000'000'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**rontolono**",
+		"word": "**rontolono**",
+		"meaning": "1'000'000'000'000'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "1'000'000'000'000'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dintolono",
+		"word": "dintolono",
+		"meaning": "10'000'000'000'000'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "10'000'000'000'000'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "huntolono",
+		"word": "huntolono",
+		"meaning": "100'000'000'000'000'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "100'000'000'000'000'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**rinolono**",
+		"word": "**rinolono**",
+		"meaning": "1'000'000'000'000'000'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "1'000'000'000'000'000'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dimpolono",
+		"word": "dimpolono",
+		"meaning": "10'000'000'000'000'000'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "10'000'000'000'000'000'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "humpolono",
+		"word": "humpolono",
+		"meaning": "100'000'000'000'000'000'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "100'000'000'000'000'000'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "**rinkolono**",
+		"word": "**rinkolono**",
+		"meaning": "1'000'000'000'000'000'000'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "1'000'000'000'000'000'000'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dinkolono",
+		"word": "dinkolono",
+		"meaning": "100'000'000'000'000'000'000'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "100'000'000'000'000'000'000'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "hunkolono",
+		"word": "hunkolono",
+		"meaning": "100'000'000'000'000'000'000'000'000'000'000'000",
+		"english": null,
 		"type": "number",
-		"eng_trans": "100'000'000'000'000'000'000'000'000'000'000'000",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "mire-",
-		"type": "prefixe",
-		"eng_trans": "semi-",
-		"def": "semi",
-		"strascii_obscure": ""
+		"word": "mire-",
+		"meaning": "semi-",
+		"english": "semi",
+		"type": "prefix",
+		"obscurism": null
 	},
 	{
-		"strascii": "gara-",
-		"type": "prefixe",
-		"eng_trans": "all-/every-",
-		"def": "all/every",
-		"strascii_obscure": ""
+		"word": "gara-",
+		"meaning": "all-/every-",
+		"english": "all/every",
+		"type": "prefix",
+		"obscurism": null
 	},
 	{
-		"strascii": "coko-",
-		"type": "prefixe",
-		"eng_trans": "some-",
-		"def": "some",
-		"strascii_obscure": ""
+		"word": "coko-",
+		"meaning": "some-",
+		"english": "some",
+		"type": "prefix",
+		"obscurism": null
 	},
 	{
-		"strascii": "boro-",
-		"type": "prefixe",
-		"eng_trans": "any-",
-		"def": "any",
-		"strascii_obscure": ""
+		"word": "boro-",
+		"meaning": "any-",
+		"english": "any",
+		"type": "prefix",
+		"obscurism": null
 	},
 	{
-		"strascii": "ni-",
-		"type": "prefixe",
-		"eng_trans": "non-",
-		"def": "negation, other than",
-		"strascii_obscure": ""
+		"word": "ni-",
+		"meaning": "non-",
+		"english": "negation, other than",
+		"type": "prefix",
+		"obscurism": null
 	},
 	{
-		"strascii": "mo-",
-		"type": "prefixe",
-		"eng_trans": "",
-		"def": "inversion, contrary meaning",
-		"strascii_obscure": ""
+		"word": "mo-",
+		"meaning": "",
+		"english": "inversion, contrary meaning",
+		"type": "prefix",
+		"obscurism": null
 	},
 	{
-		"strascii": "wu-",
-		"type": "prefixe",
-		"eng_trans": "",
-		"def": "positive connotation",
-		"strascii_obscure": ""
+		"word": "wu-",
+		"meaning": "",
+		"english": "positive connotation",
+		"type": "prefix",
+		"obscurism": null
 	},
 	{
-		"strascii": "di-",
-		"type": "prefixe",
-		"eng_trans": "",
-		"def": "negative connotation",
-		"strascii_obscure": ""
+		"word": "di-",
+		"meaning": "",
+		"english": "negative connotation",
+		"type": "prefix",
+		"obscurism": null
 	},
 	{
-		"strascii": "deja-",
-		"type": "prefixe",
-		"eng_trans": "-doing",
-		"def": "the doing of",
-		"strascii_obscure": ""
+		"word": "deja-",
+		"meaning": "-doing",
+		"english": "the doing of",
+		"type": "prefix",
+		"obscurism": null
 	},
 	{
-		"strascii": "ra",
+		"word": "ra",
+		"meaning": "in",
+		"english": "is part of, contained or located in",
 		"type": "preposition",
-		"eng_trans": "in",
-		"def": "is part of, contained or located in",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "para",
+		"word": "para",
+		"meaning": "for",
+		"english": "",
 		"type": "preposition",
-		"eng_trans": "for",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "de",
+		"word": "de",
+		"meaning": "of",
+		"english": "",
 		"type": "preposition",
-		"eng_trans": "of",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "no",
+		"word": "no",
+		"meaning": "but",
+		"english": "",
 		"type": "preposition",
-		"eng_trans": "but",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "gon",
+		"word": "gon",
+		"meaning": "on",
+		"english": "",
 		"type": "preposition",
-		"eng_trans": "on",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "huba",
+		"word": "huba",
+		"meaning": "over",
+		"english": "",
 		"type": "preposition",
-		"eng_trans": "over",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "wuba",
+		"word": "wuba",
+		"meaning": "under",
+		"english": "",
 		"type": "preposition",
-		"eng_trans": "under",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "faba",
+		"word": "faba",
+		"meaning": "in front of",
+		"english": "",
 		"type": "preposition",
-		"eng_trans": "in front of",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "caba",
+		"word": "caba",
+		"meaning": "behind",
+		"english": "",
 		"type": "preposition",
-		"eng_trans": "behind",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "tamba",
+		"word": "tamba",
+		"meaning": "next to",
+		"english": "",
 		"type": "preposition",
-		"eng_trans": "next to",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "taba",
+		"word": "taba",
+		"meaning": "near",
+		"english": "",
 		"type": "preposition",
-		"eng_trans": "near",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "kaba",
+		"word": "kaba",
+		"meaning": "far",
+		"english": "",
 		"type": "preposition",
-		"eng_trans": "far",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "li",
+		"word": "li",
+		"meaning": "",
+		"english": "animate, unspecified, 1st person",
 		"type": "pronoun",
-		"eng_trans": "",
-		"def": "animate, unspecified, 1st person",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "mida",
+		"word": "mida",
+		"meaning": "",
+		"english": "animate, unspecified, 2nd person",
 		"type": "pronoun",
-		"eng_trans": "",
-		"def": "animate, unspecified, 2nd person",
-		"strascii_obscure": "mid"
+		"obscurism": "mid"
 	},
 	{
-		"strascii": "da",
+		"word": "da",
+		"meaning": "",
+		"english": "animate, unspecified, 3rd person",
 		"type": "pronoun",
-		"eng_trans": "",
-		"def": "animate, unspecified, 3rd person",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dase",
+		"word": "dase",
+		"meaning": "",
+		"english": "animate, feminine, 3rd person",
 		"type": "pronoun",
-		"eng_trans": "",
-		"def": "animate, feminine, 3rd person",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "dake",
+		"word": "dake",
+		"meaning": "",
+		"english": "animate, androfem, 3rd person",
 		"type": "pronoun",
-		"eng_trans": "",
-		"def": "animate, androfem, 3rd person",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "daka",
+		"word": "daka",
+		"meaning": "",
+		"english": "animate, androgynous, 3rd person",
 		"type": "pronoun",
-		"eng_trans": "",
-		"def": "animate, androgynous, 3rd person",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "daki",
+		"word": "daki",
+		"meaning": "",
+		"english": "animate, andromasc, 3rd person",
 		"type": "pronoun",
-		"eng_trans": "",
-		"def": "animate, andromasc, 3rd person",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "daci",
+		"word": "daci",
+		"meaning": "",
+		"english": "animate, masculine, 3rd person",
 		"type": "pronoun",
-		"eng_trans": "",
-		"def": "animate, masculine, 3rd person",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "Spelling",
+		"word": "reda",
+		"meaning": "",
+		"english": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence",
 		"type": "pronoun",
-		"eng_trans": "English Equivalent",
-		"def": "Implication / Definition / Used as",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "reda",
+		"word": "toransu",
+		"meaning": "other",
+		"english": "",
 		"type": "pronoun",
-		"eng_trans": "",
-		"def": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "toransu",
+		"word": "gara",
+		"meaning": "all/every",
+		"english": "",
 		"type": "pronoun",
-		"eng_trans": "other",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "gara",
+		"word": "coko",
+		"meaning": "some",
+		"english": "",
 		"type": "pronoun",
-		"eng_trans": "all/every",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "coko",
+		"word": "boro",
+		"meaning": "any",
+		"english": "",
 		"type": "pronoun",
-		"eng_trans": "some",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "boro",
+		"word": "mire",
+		"meaning": "half",
+		"english": "",
 		"type": "pronoun",
-		"eng_trans": "any",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "mire",
+		"word": "tano",
+		"meaning": "this + n.",
+		"english": "",
 		"type": "pronoun",
-		"eng_trans": "half",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "Spelling",
+		"word": "tani",
+		"meaning": "this + adj.",
+		"english": "",
 		"type": "pronoun",
-		"eng_trans": "English Equivalent",
-		"def": "Implication / Definition / Used as",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "tano",
+		"word": "tatu",
+		"meaning": "as such, so",
+		"english": "\"this way\", \"in this manner\"",
 		"type": "pronoun",
-		"eng_trans": "this + n.",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "tani",
+		"word": "talo",
+		"meaning": "such",
+		"english": "\"this kind of\"",
 		"type": "pronoun",
-		"eng_trans": "this + adj.",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": "tal"
 	},
 	{
-		"strascii": "tatu",
+		"word": "kano",
+		"meaning": "that + n.",
+		"english": null,
 		"type": "pronoun",
-		"eng_trans": "as such, so",
-		"def": "\"this way\", \"in this manner\"",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "talo",
+		"word": "kani",
+		"meaning": "that + adj.",
+		"english": null,
 		"type": "pronoun",
-		"eng_trans": "such",
-		"def": "\"this kind of\"",
-		"strascii_obscure": "tal"
+		"obscurism": null
 	},
 	{
-		"strascii": "Spelling (far from spealer)",
+		"word": "katu",
+		"meaning": "as such, so",
+		"english": "\"that way\", \"in that manner\"",
 		"type": "pronoun",
-		"eng_trans": "English Equivalent",
-		"def": "Implication / Definition / Used as",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "kano",
+		"word": "kalo",
+		"meaning": "such",
+		"english": "\"that kind of\"",
 		"type": "pronoun",
-		"eng_trans": "that + n.",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": "kal"
 	},
 	{
-		"strascii": "kani",
+		"word": "sono",
+		"meaning": "what",
+		"english": null,
 		"type": "pronoun",
-		"eng_trans": "that + adj.",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "katu",
+		"word": "soni",
+		"meaning": "which",
+		"english": null,
 		"type": "pronoun",
-		"eng_trans": "as such, so",
-		"def": "\"that way\", \"in that manner\"",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "kalo",
+		"word": "sotu",
+		"meaning": "how",
+		"english": "\"which way\", \"in which manner\"",
 		"type": "pronoun",
-		"eng_trans": "such",
-		"def": "\"that kind of\"",
-		"strascii_obscure": "kal"
+		"obscurism": null
 	},
 	{
-		"strascii": "Spelling (interrogative form)",
+		"word": "solo",
+		"meaning": "",
+		"english": "\"what kind of\"",
 		"type": "pronoun",
-		"eng_trans": "English Equivalent",
-		"def": "Implication / Definition / Used as",
-		"strascii_obscure": ""
+		"obscurism": "sol"
 	},
 	{
-		"strascii": "sono",
-		"type": "pronoun",
-		"eng_trans": "what",
-		"def": "",
-		"strascii_obscure": ""
+		"word": "-lu",
+		"meaning": "-er , -ist",
+		"english": "defines an agent noun",
+		"type": "suffix",
+		"obscurism": null
 	},
 	{
-		"strascii": "soni",
-		"type": "pronoun",
-		"eng_trans": "which",
-		"def": "",
-		"strascii_obscure": ""
+		"word": "-sa",
+		"meaning": "-s, -es",
+		"english": "indicates plurality",
+		"type": "suffix",
+		"obscurism": null
 	},
 	{
-		"strascii": "sotu",
-		"type": "pronoun",
-		"eng_trans": "how",
-		"def": "\"which way\", \"in which manner\"",
-		"strascii_obscure": ""
+		"word": "-ri",
+		"meaning": "-ery",
+		"english": "establishes a place/event",
+		"type": "suffix",
+		"obscurism": "-r"
 	},
 	{
-		"strascii": "solo",
-		"type": "pronoun",
-		"eng_trans": "",
-		"def": "\"what kind of\"",
-		"strascii_obscure": "sol"
+		"word": "-dufen",
+		"meaning": "-ifier, -inator",
+		"english": "refers to an entity or construct that performs a specific action or function",
+		"type": "suffix",
+		"obscurism": null
 	},
 	{
-		"strascii": "-lu",
-		"type": "suffixe",
-		"eng_trans": "-er , -ist",
-		"def": "defines an agent noun",
-		"strascii_obscure": ""
+		"word": "-fe",
+		"meaning": "\"against\" , \"in opposition to\"",
+		"english": "connotes opposition",
+		"type": "suffix",
+		"obscurism": null
 	},
 	{
-		"strascii": "-sa",
-		"type": "suffixe",
-		"eng_trans": "-s, -es",
-		"def": "indicates plurality",
-		"strascii_obscure": ""
+		"word": "-se",
+		"meaning": "",
+		"english": "establishes feminine characteristics/gender",
+		"type": "suffix",
+		"obscurism": "-s"
 	},
 	{
-		"strascii": "-ri",
-		"type": "suffixe",
-		"eng_trans": "-ery",
-		"def": "establishes a place/event",
-		"strascii_obscure": "-r"
+		"word": "-ke",
+		"meaning": "",
+		"english": "establishes androfeminine characteristics/gender",
+		"type": "suffix",
+		"obscurism": "-k"
 	},
 	{
-		"strascii": "-dufen",
-		"type": "suffixe",
-		"eng_trans": "-ifier, -inator",
-		"def": "refers to an entity or construct that performs a specific action or function",
-		"strascii_obscure": ""
+		"word": "-ka",
+		"meaning": "",
+		"english": "establishes androgynous characteristics/gender",
+		"type": "suffix",
+		"obscurism": null
 	},
 	{
-		"strascii": "-fe",
-		"type": "suffixe",
-		"eng_trans": "\"against\" , \"in opposition to\"",
-		"def": "connotes opposition",
-		"strascii_obscure": ""
+		"word": "-ki",
+		"meaning": "",
+		"english": "establishes andromasc characteristics/gender",
+		"type": "suffix",
+		"obscurism": null
 	},
 	{
-		"strascii": "-se",
-		"type": "suffixe",
-		"eng_trans": "",
-		"def": "establishes feminine characteristics/gender",
-		"strascii_obscure": "-s"
+		"word": "-ci",
+		"meaning": "",
+		"english": "establishes masculine characteristics/gender",
+		"type": "suffix",
+		"obscurism": "-c"
 	},
 	{
-		"strascii": "-ke",
-		"type": "suffixe",
-		"eng_trans": "",
-		"def": "establishes androfeminine characteristics/gender",
-		"strascii_obscure": "-k"
+		"word": "-pa",
+		"meaning": "-'s",
+		"english": "marks word as possessive",
+		"type": "suffix",
+		"obscurism": "-p"
 	},
 	{
-		"strascii": "-ka",
-		"type": "suffixe",
-		"eng_trans": "",
-		"def": "establishes androgynous characteristics/gender",
-		"strascii_obscure": ""
+		"word": "-lonki",
+		"meaning": "-ology, -graphy, -nomy, -ics",
+		"english": "refers to a field of knowledge/study",
+		"type": "suffix",
+		"obscurism": null
 	},
 	{
-		"strascii": "-ki",
-		"type": "suffixe",
-		"eng_trans": "",
-		"def": "establishes andromasc characteristics/gender",
-		"strascii_obscure": ""
+		"word": "-falo",
+		"meaning": "-speak, -talk",
+		"english": "indicates manner or characteristic of speech",
+		"type": "suffix",
+		"obscurism": "-fal"
 	},
 	{
-		"strascii": "-ci",
-		"type": "suffixe",
-		"eng_trans": "",
-		"def": "establishes masculine characteristics/gender",
-		"strascii_obscure": "-c"
+		"word": "-bani",
+		"meaning": "-th",
+		"english": "for numbers, indicates ordinality",
+		"type": "suffix",
+		"obscurism": null
 	},
 	{
-		"strascii": "-pa",
-		"type": "suffixe",
-		"eng_trans": "-'s",
-		"def": "marks word as possessive",
-		"strascii_obscure": "-p"
+		"word": "-ra",
+		"meaning": "-like, -ern",
+		"english": "converts to adjective",
+		"type": "suffix",
+		"obscurism": null
 	},
 	{
-		"strascii": "-lonki",
-		"type": "suffixe",
-		"eng_trans": "-ology, -graphy, -nomy, -ics",
-		"def": "refers to a field of knowledge/study",
-		"strascii_obscure": ""
+		"word": "-da",
+		"meaning": "-ed",
+		"english": "refers to the past tense form of a verb",
+		"type": "suffix",
+		"obscurism": "-d"
 	},
 	{
-		"strascii": "-falo",
-		"type": "suffixe",
-		"eng_trans": "-speak, -talk",
-		"def": "indicates manner or characteristic of speech",
-		"strascii_obscure": "-fal"
+		"word": "-ne",
+		"meaning": "-ing",
+		"english": "refers to the present tense form of a verb",
+		"type": "suffix",
+		"obscurism": null
 	},
 	{
-		"strascii": "-bani",
-		"type": "suffixe",
-		"eng_trans": "-th",
-		"def": "for numbers, indicates ordinality",
-		"strascii_obscure": ""
+		"word": "-lo",
+		"meaning": "\"will\", \"shall\"",
+		"english": "refers to the future tense form of a verb",
+		"type": "suffix",
+		"obscurism": "-l"
 	},
 	{
-		"strascii": "-ra",
-		"type": "suffixe",
-		"eng_trans": "-like, -ern",
-		"def": "converts to adjective",
-		"strascii_obscure": ""
+		"word": "-ja",
+		"meaning": "\"yet\", \"so far\"",
+		"english": "refers to that a verb is in progress or incomplete",
+		"type": "suffix",
+		"obscurism": null
 	},
 	{
-		"strascii": "Spelling",
-		"type": "suffixe",
-		"eng_trans": "English Equivalent",
-		"def": "Implication / Definition / Used as",
-		"strascii_obscure": ""
+		"word": "-zim",
+		"meaning": "\"to ___\"",
+		"english": "establishes verb as infinitive",
+		"type": "suffix",
+		"obscurism": null
 	},
 	{
-		"strascii": "-da",
-		"type": "suffixe",
-		"eng_trans": "-ed",
-		"def": "refers to the past tense form of a verb",
-		"strascii_obscure": "-d"
+		"word": "-ku",
+		"meaning": "",
+		"english": "establishes verb as uncertain/questioning",
+		"type": "suffix",
+		"obscurism": null
 	},
 	{
-		"strascii": "-ne",
-		"type": "suffixe",
-		"eng_trans": "-ing",
-		"def": "refers to the present tense form of a verb",
-		"strascii_obscure": ""
+		"word": "-do",
+		"meaning": "\"should\", \"ought to\"",
+		"english": "establishes verb as imperative",
+		"type": "suffix",
+		"obscurism": null
 	},
 	{
-		"strascii": "-lo",
-		"type": "suffixe",
-		"eng_trans": "\"will\", \"shall\"",
-		"def": "refers to the future tense form of a verb",
-		"strascii_obscure": "-l"
+		"word": "-kuka",
+		"meaning": "\"please\"",
+		"english": "establishes verb as politely questioning/requesting",
+		"type": "suffix",
+		"obscurism": null
 	},
 	{
-		"strascii": "-ja",
-		"type": "suffixe",
-		"eng_trans": "\"yet\", \"so far\"",
-		"def": "refers to that a verb is in progress or incomplete",
-		"strascii_obscure": ""
+		"word": "-jala",
+		"meaning": "-able , -ible , \"capable of\"",
+		"english": "denotes ability or capacity",
+		"type": "suffix",
+		"obscurism": null
 	},
 	{
-		"strascii": "-zim",
-		"type": "suffixe",
-		"eng_trans": "\"to ___\"",
-		"def": "establishes verb as infinitive",
-		"strascii_obscure": ""
+		"word": "-wan",
+		"meaning": "-est",
+		"english": "denotes superlative adjectives",
+		"type": "suffix",
+		"obscurism": null
 	},
 	{
-		"strascii": "Spelling",
-		"type": "suffixe",
-		"eng_trans": "English Equivalent",
-		"def": "Implication / Definition / Used as",
-		"strascii_obscure": ""
+		"word": "-kin",
+		"meaning": "",
+		"english": "denotes conversion to noun",
+		"type": "suffix",
+		"obscurism": null
 	},
 	{
-		"strascii": "-ku",
-		"type": "suffixe",
-		"eng_trans": "",
-		"def": "establishes verb as uncertain/questioning",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "-do",
-		"type": "suffixe",
-		"eng_trans": "\"should\", \"ought to\"",
-		"def": "establishes verb as imperative",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "-kuka",
-		"type": "suffixe",
-		"eng_trans": "\"please\"",
-		"def": "establishes verb as politely questioning/requesting",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "Spelling",
-		"type": "suffixe",
-		"eng_trans": "English Equivalent",
-		"def": "Implication / Definition / Used as",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "-jala",
-		"type": "suffixe",
-		"eng_trans": "-able , -ible , \"capable of\"",
-		"def": "denotes ability or capacity",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "-wan",
-		"type": "suffixe",
-		"eng_trans": "-est",
-		"def": "denotes superlative adjectives",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "-kin",
-		"type": "suffixe",
-		"eng_trans": "",
-		"def": "denotes conversion to noun",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "mawa",
+		"word": "mawa",
+		"meaning": "kiss",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "kiss",
-		"def": "",
-		"strascii_obscure": "mw"
+		"obscurism": "mw"
 	},
 	{
-		"strascii": "binta",
+		"word": "binta",
+		"meaning": "eat",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "eat",
-		"def": "",
-		"strascii_obscure": "bn'ta"
+		"obscurism": "bn'ta"
 	},
 	{
-		"strascii": "sanu",
+		"word": "sanu",
+		"meaning": "be",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "be",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "tenco",
+		"word": "tenco",
+		"meaning": "have",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "have",
-		"def": "",
-		"strascii_obscure": "ten'co"
+		"obscurism": "ten'co"
 	},
 	{
-		"strascii": "somo",
+		"word": "somo",
+		"meaning": "sleep",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "sleep",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "cosi",
+		"word": "cosi",
+		"meaning": "choose, vote",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "choose, vote",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "falo",
+		"word": "falo",
+		"meaning": "speak, say, tell",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "speak, say, tell",
-		"def": "",
-		"strascii_obscure": "fal"
+		"obscurism": "fal"
 	},
 	{
-		"strascii": "toransu",
+		"word": "toransu",
+		"meaning": "differ",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "differ",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "mahen",
+		"word": "mahen",
+		"meaning": "make, create",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "make, create",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "sekiso",
+		"word": "sekiso",
+		"meaning": "have sex, fuck",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "have sex, fuck",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "deja",
+		"word": "deja",
+		"meaning": "do, act",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "do, act",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "gade",
+		"word": "gade",
+		"meaning": "guess",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "guess",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "nem",
+		"word": "nem",
+		"meaning": "think",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "think",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "pen",
+		"word": "pen",
+		"meaning": "move",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "move",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "nepen",
+		"word": "nepen",
+		"meaning": "feel",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "feel",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "gurati",
+		"word": "gurati",
+		"meaning": "induce negative freedom, reduce cost to none",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "induce negative freedom, reduce cost to none",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "lifeta",
+		"word": "lifeta",
+		"meaning": "induce positive freedom",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "induce positive freedom",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "jala",
+		"word": "jala",
+		"meaning": "can, be able to",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "can, be able to",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "meta",
+		"word": "meta",
+		"meaning": "measure",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "measure",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "core",
+		"word": "core",
+		"meaning": "want",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "want",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "jore",
+		"word": "jore",
+		"meaning": "need",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "need",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "pora",
+		"word": "pora",
+		"meaning": "to add, to increase",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "to add, to increase",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "mina",
+		"word": "mina",
+		"meaning": "to subtract, to decrease, to remove",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "to subtract, to decrease, to remove",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "mulipa",
+		"word": "mulipa",
+		"meaning": "to multiply",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "to multiply",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "cipan",
+		"word": "cipan",
+		"meaning": "to divide, to split",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "to divide, to split",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	},
 	{
-		"strascii": "nepetori",
+		"word": "nepetori",
+		"meaning": "to love, to feel love towards",
+		"english": "",
 		"type": "verb",
-		"eng_trans": "to love, to feel love towards",
-		"def": "",
-		"strascii_obscure": ""
+		"obscurism": null
 	}
 ]

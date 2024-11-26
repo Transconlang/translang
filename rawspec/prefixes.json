@@ -1,65 +1,62 @@
 [
 	{
-		"strascii": "mire-",
-		"type": "prefixe",
-		"eng_trans": "semi-",
-		"def": "semi",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "gara-",
-		"type": "prefixe",
-		"eng_trans": "all-/every-",
-		"def": "all/every",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "coko-",
-		"type": "prefixe",
-		"eng_trans": "some-",
-		"def": "some",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "boro-",
-		"type": "prefixe",
-		"eng_trans": "any-",
-		"def": "any",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "ni-",
-		"type": "prefixe",
-		"eng_trans": "non-",
-		"def": "negation, other than",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "mo-",
-		"type": "prefixe",
-		"eng_trans": "",
-		"def": "inversion, contrary meaning",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "wu-",
-		"type": "prefixe",
-		"eng_trans": "",
-		"def": "positive connotation",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "di-",
-		"type": "prefixe",
-		"eng_trans": "",
-		"def": "negative connotation",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "deja-",
-		"type": "prefixe",
-		"eng_trans": "-doing",
-		"def": "the doing of",
-		"strascii_obscure": ""
+		"type": "prefix",
+		"title": null,
+		"entries": [
+			{
+				"word": "mire-",
+				"meaning": "semi-",
+				"english": "semi",
+				"obscurism": null
+			},
+			{
+				"word": "gara-",
+				"meaning": "all-/every-",
+				"english": "all/every",
+				"obscurism": null
+			},
+			{
+				"word": "coko-",
+				"meaning": "some-",
+				"english": "some",
+				"obscurism": null
+			},
+			{
+				"word": "boro-",
+				"meaning": "any-",
+				"english": "any",
+				"obscurism": null
+			},
+			{
+				"word": "ni-",
+				"meaning": "non-",
+				"english": "negation, other than",
+				"obscurism": null
+			},
+			{
+				"word": "mo-",
+				"meaning": "",
+				"english": "inversion, contrary meaning",
+				"obscurism": null
+			},
+			{
+				"word": "wu-",
+				"meaning": "",
+				"english": "positive connotation",
+				"obscurism": null
+			},
+			{
+				"word": "di-",
+				"meaning": "",
+				"english": "negative connotation",
+				"obscurism": null
+			},
+			{
+				"word": "deja-",
+				"meaning": "-doing",
+				"english": "the doing of",
+				"obscurism": null
+			}
+		]
 	}
 ]

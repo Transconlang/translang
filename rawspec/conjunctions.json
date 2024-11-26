@@ -1,23 +1,26 @@
 [
 	{
-		"strascii": "pum",
 		"type": "conjunction",
-		"eng_trans": "and",
-		"def": "logical conjunction",
-		"strascii_obscure": "plu"
-	},
-	{
-		"strascii": "ron",
-		"type": "conjunction",
-		"eng_trans": "or",
-		"def": "logical disjunction",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "no",
-		"type": "conjunction",
-		"eng_trans": "but",
-		"def": "logical implication",
-		"strascii_obscure": ""
+		"title": null,
+		"entries": [
+			{
+				"word": "pum",
+				"meaning": "and",
+				"english": "logical conjunction",
+				"obscurism": "plu"
+			},
+			{
+				"word": "ron",
+				"meaning": "or",
+				"english": "logical disjunction",
+				"obscurism": null
+			},
+			{
+				"word": "no",
+				"meaning": "but",
+				"english": "logical implication",
+				"obscurism": null
+			}
+		]
 	}
 ]

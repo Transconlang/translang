@@ -1,107 +1,98 @@
 [
 	{
-		"strascii": "nen",
 		"type": "adverb",
-		"eng_trans": "no",
-		"def": "logical negation",
-		"strascii_obscure": "nen'"
+		"title": "Temporal adverbs",
+		"entries": [
+			{
+				"word": "nen",
+				"meaning": "no",
+				"english": "logical negation",
+				"obscurism": "nen'"
+			},
+			{
+				"word": "con",
+				"meaning": "soon",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "huba",
+				"meaning": "overly",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "why",
+				"meaning": "interrogative question of cause",
+				"english": null,
+				"obscurism": null
+			},
+			{
+				"word": "tun",
+				"meaning": "because",
+				"english": "statement of cause",
+				"obscurism": "tun'"
+			},
+			{
+				"word": "saci",
+				"meaning": "how",
+				"english": "interrogative question of methodology",
+				"obscurism": "sac"
+			},
+			{
+				"word": "taci",
+				"meaning": "",
+				"english": "description of methodology",
+				"obscurism": "tac"
+			}
+		]
 	},
 	{
-		"strascii": "con",
 		"type": "adverb",
-		"eng_trans": "soon",
-		"def": "",
-		"strascii_obscure": ""
+		"title": "Demonstrative adverbs",
+		"entries": [
+			{
+				"word": "tahi",
+				"meaning": "now",
+				"english": "",
+				"obscurism": "tah"
+			},
+			{
+				"word": "kahi",
+				"meaning": "then",
+				"english": "",
+				"obscurism": "kah"
+			},
+			{
+				"word": "sohi",
+				"meaning": "when",
+				"english": "",
+				"obscurism": "soh"
+			}
+		]
 	},
 	{
-		"strascii": "huba",
 		"type": "adverb",
-		"eng_trans": "overly",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "why",
-		"type": "adverb",
-		"eng_trans": "interrogative question of cause",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "tun",
-		"type": "adverb",
-		"eng_trans": "because",
-		"def": "statement of cause",
-		"strascii_obscure": "tun'"
-	},
-	{
-		"strascii": "saci",
-		"type": "adverb",
-		"eng_trans": "how",
-		"def": "interrogative question of methodology",
-		"strascii_obscure": "sac"
-	},
-	{
-		"strascii": "taci",
-		"type": "adverb",
-		"eng_trans": "",
-		"def": "description of methodology",
-		"strascii_obscure": "tac"
-	},
-	{
-		"strascii": "Spelling",
-		"type": "adverb",
-		"eng_trans": "English Equivalent",
-		"def": "Implication / Definition / Used as",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "tahi",
-		"type": "adverb",
-		"eng_trans": "now",
-		"def": "",
-		"strascii_obscure": "tah"
-	},
-	{
-		"strascii": "kahi",
-		"type": "adverb",
-		"eng_trans": "then",
-		"def": "",
-		"strascii_obscure": "kah"
-	},
-	{
-		"strascii": "sohi",
-		"type": "adverb",
-		"eng_trans": "when",
-		"def": "",
-		"strascii_obscure": "soh"
-	},
-	{
-		"strascii": "Spelling",
-		"type": "adverb",
-		"eng_trans": "English Equivalent",
-		"def": "Implication / Definition / Used as",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "tawa",
-		"type": "adverb",
-		"eng_trans": "here",
-		"def": "",
-		"strascii_obscure": "taw"
-	},
-	{
-		"strascii": "kawa",
-		"type": "adverb",
-		"eng_trans": "there",
-		"def": "",
-		"strascii_obscure": "kaw"
-	},
-	{
-		"strascii": "sowa",
-		"type": "adverb",
-		"eng_trans": "where",
-		"def": "",
-		"strascii_obscure": "sow"
+		"title": "Demonstrative adverbs",
+		"entries": [
+			{
+				"word": "tawa",
+				"meaning": "here",
+				"english": "",
+				"obscurism": "taw"
+			},
+			{
+				"word": "kawa",
+				"meaning": "there",
+				"english": "",
+				"obscurism": "kaw"
+			},
+			{
+				"word": "sowa",
+				"meaning": "where",
+				"english": "",
+				"obscurism": "sow"
+			}
+		]
 	}
 ]

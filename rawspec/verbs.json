@@ -1,184 +1,164 @@
 [
 	{
-		"strascii": "mawa",
 		"type": "verb",
-		"eng_trans": "kiss",
-		"def": "",
-		"strascii_obscure": "mw"
-	},
-	{
-		"strascii": "binta",
-		"type": "verb",
-		"eng_trans": "eat",
-		"def": "",
-		"strascii_obscure": "bn'ta"
-	},
-	{
-		"strascii": "sanu",
-		"type": "verb",
-		"eng_trans": "be",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "tenco",
-		"type": "verb",
-		"eng_trans": "have",
-		"def": "",
-		"strascii_obscure": "ten'co"
-	},
-	{
-		"strascii": "somo",
-		"type": "verb",
-		"eng_trans": "sleep",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "cosi",
-		"type": "verb",
-		"eng_trans": "choose, vote",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "falo",
-		"type": "verb",
-		"eng_trans": "speak, say, tell",
-		"def": "",
-		"strascii_obscure": "fal"
-	},
-	{
-		"strascii": "toransu",
-		"type": "verb",
-		"eng_trans": "differ",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "mahen",
-		"type": "verb",
-		"eng_trans": "make, create",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "sekiso",
-		"type": "verb",
-		"eng_trans": "have sex, fuck",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "deja",
-		"type": "verb",
-		"eng_trans": "do, act",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "gade",
-		"type": "verb",
-		"eng_trans": "guess",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "nem",
-		"type": "verb",
-		"eng_trans": "think",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "pen",
-		"type": "verb",
-		"eng_trans": "move",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "nepen",
-		"type": "verb",
-		"eng_trans": "feel",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "gurati",
-		"type": "verb",
-		"eng_trans": "induce negative freedom, reduce cost to none",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "lifeta",
-		"type": "verb",
-		"eng_trans": "induce positive freedom",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "jala",
-		"type": "verb",
-		"eng_trans": "can, be able to",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "meta",
-		"type": "verb",
-		"eng_trans": "measure",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "core",
-		"type": "verb",
-		"eng_trans": "want",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "jore",
-		"type": "verb",
-		"eng_trans": "need",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "pora",
-		"type": "verb",
-		"eng_trans": "to add, to increase",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "mina",
-		"type": "verb",
-		"eng_trans": "to subtract, to decrease, to remove",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "mulipa",
-		"type": "verb",
-		"eng_trans": "to multiply",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "cipan",
-		"type": "verb",
-		"eng_trans": "to divide, to split",
-		"def": "",
-		"strascii_obscure": ""
-	},
-	{
-		"strascii": "nepetori",
-		"type": "verb",
-		"eng_trans": "to love, to feel love towards",
-		"def": "",
-		"strascii_obscure": ""
+		"title": null,
+		"entries": [
+			{
+				"word": "mawa",
+				"meaning": "kiss",
+				"english": "",
+				"obscurism": "mw"
+			},
+			{
+				"word": "binta",
+				"meaning": "eat",
+				"english": "",
+				"obscurism": "bn'ta"
+			},
+			{
+				"word": "sanu",
+				"meaning": "be",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "tenco",
+				"meaning": "have",
+				"english": "",
+				"obscurism": "ten'co"
+			},
+			{
+				"word": "somo",
+				"meaning": "sleep",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "cosi",
+				"meaning": "choose, vote",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "falo",
+				"meaning": "speak, say, tell",
+				"english": "",
+				"obscurism": "fal"
+			},
+			{
+				"word": "toransu",
+				"meaning": "differ",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "mahen",
+				"meaning": "make, create",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "sekiso",
+				"meaning": "have sex, fuck",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "deja",
+				"meaning": "do, act",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "gade",
+				"meaning": "guess",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "nem",
+				"meaning": "think",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "pen",
+				"meaning": "move",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "nepen",
+				"meaning": "feel",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "gurati",
+				"meaning": "induce negative freedom, reduce cost to none",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "lifeta",
+				"meaning": "induce positive freedom",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "jala",
+				"meaning": "can, be able to",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "meta",
+				"meaning": "measure",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "core",
+				"meaning": "want",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "jore",
+				"meaning": "need",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "pora",
+				"meaning": "to add, to increase",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "mina",
+				"meaning": "to subtract, to decrease, to remove",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "mulipa",
+				"meaning": "to multiply",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "cipan",
+				"meaning": "to divide, to split",
+				"english": "",
+				"obscurism": null
+			},
+			{
+				"word": "nepetori",
+				"meaning": "to love, to feel love towards",
+				"english": "",
+				"obscurism": null
+			}
+		]
 	}
 ]
