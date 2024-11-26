@@ -1,5 +1,32 @@
 # Contribution Guidelines
 
+<style>
+	.label {
+		padding: 2px 4px;
+		border-radius: 12px;
+		background-clip: padding-box;
+		background-color: #fbca042e;
+	}
+	.critical {
+		color: #FBCA04;
+	}
+	.question {
+		color: #d876e3;
+	}
+	.duplicate {
+		color: #cfd3d7;
+	}
+	.nyo {
+		color: #ffffff;
+	}
+	.incomplete {
+		color: #FEF2C0;
+	}
+	.donotmerge {
+		color: #D93F0B;
+	}
+</style>
+
 ## Content
 
 ### Style & Format
@@ -23,9 +50,9 @@ Column titles are not standardized, but the first column should have the Kumilin
 
 #### Labels
 
-- Issues with the `critical` label are high priority and should be addressed as soon as possible.
-- Add all relevant [labels](https://github.com/Transconlang/translang/labels) please! Only maintainers may add labels such as `nyo`, `question`, `duplicate`, `incomplete`, or `DONOTMERGE`.
-- An issue should be closed and marked as not planned if it has the `nyo` label.
+- Issues with the <span class='label critical'>`critical`</span> label are high priority and should be addressed as soon as possible.
+- Add all relevant [labels](https://github.com/Transconlang/translang/labels) please! Only maintainers may add labels such as <span class='label nyo'>`nyo`</span>, <span class='label question'>`question`</span>, <span class='label duplicate'>`duplicate`</span>, or <span class='label incomplete'>`incomplete`</span>.
+- An issue should be closed and marked as not planned if it has the <span class='label nyo'>`nyo`</span> label.
 
 ### Pull Requests
 
@@ -35,6 +62,6 @@ Column titles are not standardized, but the first column should have the Kumilin
 
 #### Labels
 
-- Maintainers: PRs with the `critical` label should be reviewed and merged as soon as possible. These take priority over everything else.
-- Don't merge if it has the `DONOTMERGE` label. A PR should be closed if it has the `nyo` label.
+- Maintainers: PRs with the <span class='label critical'>`critical`</span> label should be reviewed and merged as soon as possible. These take priority over everything else.
+- Don't merge if it has the <span class='label donotmerge'>`DONOTMERGE`</span> label. A PR should be closed if it has the <span class='label nyo'>`nyo`</span> label.
 - Follow same label rules as issues.
