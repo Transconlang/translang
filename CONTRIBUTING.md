@@ -7,9 +7,9 @@
 All Markdown tables in `Vocabulary/` should be follow this format:
 
 ```markdown
-| Spelling | Definition |
-| -------- | ---------- |
-| foo | bar |
+| Spelling | English Usage/Implication | Definition |
+| -------- | ------------------------- | ---------- |
+| foo | bar | bas |
 ```
 
 Column titles are not standardized, but the first column should have the Kumilinwa word, and the second should contain the definition. Optional additional columns can be added to demonstrate an English equivalent or to provide additional context.
