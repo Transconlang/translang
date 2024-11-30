@@ -81,5 +81,5 @@ An empty cell denotes that the sound does not exist or does not have an IPA glyp
 
 (C signifies Consonant, V signifies Vowel, N signifies Nasal consonant (/n/, /ŋ/ , /m/ etc.), Round brackets/parentheses — `()` — indicate that what they're enclosing is optional and can thus either be there or not)
 
-* (C)V(N) for the first syllable of any and all morphemes, CV(N) for the rest of syllables
-* Stress should always be placed on the 2nd-to-last syllable
+- (C)V(N) for the first syllable of any and all morphemes, CV(N) for the rest of syllables
+- Stress should always be placed on the 2nd-to-last syllable
