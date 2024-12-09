@@ -80,21 +80,24 @@ for (const file of Files) {
 			continue;
 		}
 
-		const [word, meaning, impl] = row
+		const parsedRow = row
 			.slice(1, -1)
 			.split('|')
 			.map(v => v.slice(1, -1));
 
-		if (!word || !meaning || !impl)
+		// no using !v because it will throw an error if v is an empty string
+		if (parsedRow.some(v => v === null || v === undefined))
 			throw new Error(
 				`Invalid row (at row ${unfilteredRows.indexOf(row)} of ${file}): ${row}`
 			);
 
 		if (justStartedNewSection) {
-			headers = [word, meaning, impl];
+			headers = parsedRow;
 			justStartedNewSection = false;
 			continue;
 		}
+
+		const [word, meaning, impl] = parsedRow;
 
 		subSectionStack.push({
 			word,

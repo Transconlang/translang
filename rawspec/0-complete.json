@@ -294,10 +294,11 @@
 		"obscurism": null
 	},
 	{
-		"word": "why",
-		"meaning": "interrogative question of cause",
+		"word": "sun",
+		"meaning": "why",
+		"impl": "interrogative question of cause",
 		"type": "adverb",
-		"obscurism": null
+		"obscurism": "sun'"
 	},
 	{
 		"word": "tun",
