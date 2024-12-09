@@ -2,59 +2,64 @@
 	{
 		"type": "prefix",
 		"title": null,
+		"headers": [
+			"Spelling",
+			"Translation (English)",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "mire-",
 				"meaning": "semi-",
-				"english": "semi",
+				"impl": "semi",
 				"obscurism": null
 			},
 			{
 				"word": "gara-",
 				"meaning": "all-/every-",
-				"english": "all/every",
+				"impl": "all/every",
 				"obscurism": null
 			},
 			{
 				"word": "coko-",
 				"meaning": "some-",
-				"english": "some",
+				"impl": "some",
 				"obscurism": null
 			},
 			{
 				"word": "boro-",
 				"meaning": "any-",
-				"english": "any",
+				"impl": "any",
 				"obscurism": null
 			},
 			{
 				"word": "ni-",
 				"meaning": "non-",
-				"english": "negation, other than",
+				"impl": "negation, other than",
 				"obscurism": null
 			},
 			{
 				"word": "mo-",
 				"meaning": "",
-				"english": "inversion, contrary meaning",
+				"impl": "inversion, contrary meaning",
 				"obscurism": null
 			},
 			{
 				"word": "wu-",
 				"meaning": "",
-				"english": "positive connotation",
+				"impl": "positive connotation",
 				"obscurism": null
 			},
 			{
 				"word": "di-",
 				"meaning": "",
-				"english": "negative connotation",
+				"impl": "negative connotation",
 				"obscurism": null
 			},
 			{
 				"word": "deja-",
 				"meaning": "-doing",
-				"english": "the doing of",
+				"impl": "the doing of",
 				"obscurism": null
 			}
 		]

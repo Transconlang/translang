@@ -3,6 +3,7 @@
  */
 export interface Section {
 	title: string | null;
+	headers: string[];
 	type: WordType;
 	entries: Entry[];
 }
@@ -10,7 +11,7 @@ export interface Section {
 export interface Entry {
 	word: string;
 	meaning: string;
-	english: string | null;
+	impl: string;
 	obscurism: string | null;
 }
 

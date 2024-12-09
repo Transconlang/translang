@@ -2,71 +2,74 @@
 	{
 		"type": "adverb",
 		"title": "Temporal adverbs",
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "nen",
 				"meaning": "no",
-				"english": "logical negation",
+				"impl": "logical negation",
 				"obscurism": "nen'"
 			},
 			{
 				"word": "con",
 				"meaning": "soon",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "huba",
 				"meaning": "overly",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "why",
 				"meaning": "interrogative question of cause",
-				"english": null,
 				"obscurism": null
 			},
 			{
 				"word": "tun",
 				"meaning": "because",
-				"english": "statement of cause",
+				"impl": "statement of cause",
 				"obscurism": "tun'"
 			},
 			{
 				"word": "saci",
 				"meaning": "how",
-				"english": "interrogative question of methodology",
+				"impl": "interrogative question of methodology",
 				"obscurism": "sac"
-			},
-			{
-				"word": "taci",
-				"meaning": "",
-				"english": "description of methodology",
-				"obscurism": "tac"
 			}
 		]
 	},
 	{
 		"type": "adverb",
 		"title": "Demonstrative adverbs",
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "tahi",
 				"meaning": "now",
-				"english": "",
+				"impl": "",
 				"obscurism": "tah"
 			},
 			{
 				"word": "kahi",
 				"meaning": "then",
-				"english": "",
+				"impl": "",
 				"obscurism": "kah"
 			},
 			{
 				"word": "sohi",
 				"meaning": "when",
-				"english": "",
+				"impl": "",
 				"obscurism": "soh"
 			}
 		]
@@ -74,23 +77,28 @@
 	{
 		"type": "adverb",
 		"title": "Demonstrative adverbs",
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "tawa",
 				"meaning": "here",
-				"english": "",
+				"impl": "",
 				"obscurism": "taw"
 			},
 			{
 				"word": "kawa",
 				"meaning": "there",
-				"english": "",
+				"impl": "",
 				"obscurism": "kaw"
 			},
 			{
 				"word": "sowa",
 				"meaning": "where",
-				"english": "",
+				"impl": "",
 				"obscurism": "sow"
 			}
 		]

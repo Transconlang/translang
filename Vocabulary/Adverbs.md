@@ -10,7 +10,8 @@
 | why | interrogative question of cause |
 | tun | because | statement of cause |
 | saci | how | interrogative question of methodology |
-| taci |  | description of methodology |
+<!-- ! why was this added? see blame https://github.com/Transconlang/translang/commit/583068b99b2f309b0e37da902d19f9e8819b9a3b#diff-ae3613b99b23598774ad14d72bbd1818799111776959cc140243f6732e8e2298R13 -->
+<!-- | taci |  | description of methodology | -->
 
 ## Temporal adverbs
 

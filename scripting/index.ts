@@ -42,53 +42,6 @@ async function parseObscurisms(): Promise<Map<string, string>> {
 }
 
 const obscureMap = await parseObscurisms();
-/**
-	const files = await readdir(SourceDirectory);
-	const completeDict: Entry[] = [];
-*/
-
-/**
-	for (const file of files) {
-		if (!file.endsWith('.md')) continue;
-
-		const content = await readFile(join(SourceDirectory, file), 'utf-8');
-		const entries: Entry[] = [];
-
-		const type = file.toLowerCase().replace(/s\.md$/, '') as WordType;
-
-		const rows = content
-			.split('\n')
-			.map(v => v.trim())
-			.filter(v => v.startsWith('|') && v.endsWith('|') && !v.includes('---'));
-
-		let isHeader = true;
-		for (const row of rows) {
-			if (isHeader) {
-				isHeader = false;
-				continue;
-			}
-
-			const [strascii, eng_trans, def] = parseTableRow(row);
-
-			const entry: Entry = {
-				strascii: strascii.trim(),
-				type,
-				eng_trans: eng_trans.trim(),
-				def: def?.trim() || '',
-				strascii_obscure: obscureMap.get(strascii.trim()) || ''
-			};
-
-			entries.push(entry);
-			completeDict.push(entry);
-		}
-
-		await writeFile(
-			join(TargetDirectory, file.toLowerCase().replace(/\.md$/, '.json')),
-			JSON.stringify(entries, null, '\t'),
-			'utf-8'
-		);
-	}
-*/
 
 const Files = await readdir(SourceDirectory);
 const CompleteDictionaryStack: FullEntry[] = [];
@@ -118,22 +71,24 @@ for (const file of Files) {
 	let subSectionStack: Entry[] = [];
 	let title = null;
 	let justStartedNewSection = true;
+	let headers: string[] = [];
 	for (const row of rows) {
 		if (h2Matcher.test(row)) {
 			title = row.slice(3);
 			if (subSectionStack.length > 0)
-				sectionStack.push({ type, title, entries: subSectionStack });
+				sectionStack.push({ type, title, headers, entries: subSectionStack });
 			subSectionStack = [];
 			justStartedNewSection = true;
 			continue;
 		}
 
-		const [word, meaning, english] = row
+		const [word, meaning, impl] = row
 			.slice(1, -1)
 			.split('|')
 			.map(v => v.slice(1, -1));
 
 		if (justStartedNewSection) {
+			headers = [word, meaning, impl];
 			justStartedNewSection = false;
 			continue;
 		}
@@ -141,22 +96,24 @@ for (const file of Files) {
 		subSectionStack.push({
 			word,
 			meaning,
-			english: english ?? null,
+			impl,
 			obscurism: obscureMap.get(word) ?? null
 		} satisfies Entry);
 
 		CompleteDictionaryStack.push({
 			word,
 			meaning,
-			english: english ?? null,
+			impl,
 			type,
 			obscurism: obscureMap.get(word) ?? null
 		} satisfies FullEntry);
 	}
+
 	subSectionStack.length > 0 &&
 		sectionStack.push({
 			type,
 			title,
+			headers,
 			entries: subSectionStack
 		} satisfies Section);
 

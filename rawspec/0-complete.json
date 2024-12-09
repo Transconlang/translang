@@ -2,2268 +2,2155 @@
 	{
 		"word": "mi",
 		"meaning": "cute",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "wusita",
 		"meaning": "good",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "disita",
 		"meaning": "bad",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "nen",
 		"meaning": "not",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": "nen'"
 	},
 	{
 		"word": "toransu",
 		"meaning": "different, other",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "somo",
 		"meaning": "sleepy",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "sekiso",
 		"meaning": "sexy, fuckable",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "deja",
 		"meaning": "active",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "gara",
 		"meaning": "all",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "coko",
 		"meaning": "some",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "boro",
 		"meaning": "any",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "gurati",
 		"meaning": "free (price), autonomous, non-interfered-with",
-		"english": "negative freedom",
+		"impl": "negative freedom",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "lifeta",
 		"meaning": "liberated",
-		"english": "positive freedom",
+		"impl": "positive freedom",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "jala",
 		"meaning": "able, capable of",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "mire",
 		"meaning": "mid, average",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "misu",
 		"meaning": "liquid, fluid",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "ten",
 		"meaning": "solid, rigid",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "lufi",
 		"meaning": "gaseous",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "cinda",
 		"meaning": "new",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "gunda",
 		"meaning": "old",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "cindajin",
 		"meaning": "modern",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "gundajin",
 		"meaning": "ancient",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "cingun",
 		"meaning": "physically light",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "cingunem",
 		"meaning": "psychologically light",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "qongun",
 		"meaning": "physically heavy",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "qongunem",
 		"meaning": "psychologically heavy",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "anoman",
 		"meaning": "angry",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "teto",
 		"meaning": "large",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "ciki",
 		"meaning": "short",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "kanacin",
 		"meaning": "sad",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "tanocin",
 		"meaning": "happy",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "cangi",
 		"meaning": "long",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "dangi",
 		"meaning": "short",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "tenza",
 		"meaning": "tall",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "kenki",
 		"meaning": "short",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "suci",
 		"meaning": "intelligent",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "mimi",
 		"meaning": "adorable",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "dakun",
 		"meaning": "black, dark",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "lajito",
 		"meaning": "white, light, bright",
-		"english": "",
+		"impl": "",
 		"type": "adjective",
 		"obscurism": null
 	},
 	{
 		"word": "nen",
 		"meaning": "no",
-		"english": "logical negation",
+		"impl": "logical negation",
 		"type": "adverb",
 		"obscurism": "nen'"
 	},
 	{
 		"word": "con",
 		"meaning": "soon",
-		"english": "",
+		"impl": "",
 		"type": "adverb",
 		"obscurism": null
 	},
 	{
 		"word": "huba",
 		"meaning": "overly",
-		"english": "",
+		"impl": "",
 		"type": "adverb",
 		"obscurism": null
 	},
 	{
 		"word": "why",
 		"meaning": "interrogative question of cause",
-		"english": null,
 		"type": "adverb",
 		"obscurism": null
 	},
 	{
 		"word": "tun",
 		"meaning": "because",
-		"english": "statement of cause",
+		"impl": "statement of cause",
 		"type": "adverb",
 		"obscurism": "tun'"
 	},
 	{
 		"word": "saci",
 		"meaning": "how",
-		"english": "interrogative question of methodology",
+		"impl": "interrogative question of methodology",
 		"type": "adverb",
 		"obscurism": "sac"
 	},
 	{
-		"word": "taci",
-		"meaning": "",
-		"english": "description of methodology",
-		"type": "adverb",
-		"obscurism": "tac"
-	},
-	{
 		"word": "tahi",
 		"meaning": "now",
-		"english": "",
+		"impl": "",
 		"type": "adverb",
 		"obscurism": "tah"
 	},
 	{
 		"word": "kahi",
 		"meaning": "then",
-		"english": "",
+		"impl": "",
 		"type": "adverb",
 		"obscurism": "kah"
 	},
 	{
 		"word": "sohi",
 		"meaning": "when",
-		"english": "",
+		"impl": "",
 		"type": "adverb",
 		"obscurism": "soh"
 	},
 	{
 		"word": "tawa",
 		"meaning": "here",
-		"english": "",
+		"impl": "",
 		"type": "adverb",
 		"obscurism": "taw"
 	},
 	{
 		"word": "kawa",
 		"meaning": "there",
-		"english": "",
+		"impl": "",
 		"type": "adverb",
 		"obscurism": "kaw"
 	},
 	{
 		"word": "sowa",
 		"meaning": "where",
-		"english": "",
+		"impl": "",
 		"type": "adverb",
 		"obscurism": "sow"
 	},
 	{
 		"word": "pum",
 		"meaning": "and",
-		"english": "logical conjunction",
+		"impl": "logical conjunction",
 		"type": "conjunction",
 		"obscurism": "plu"
 	},
 	{
 		"word": "ron",
 		"meaning": "or",
-		"english": "logical disjunction",
+		"impl": "logical disjunction",
 		"type": "conjunction",
 		"obscurism": null
 	},
 	{
 		"word": "no",
 		"meaning": "but",
-		"english": "logical implication",
+		"impl": "logical implication",
 		"type": "conjunction",
 		"obscurism": null
 	},
 	{
 		"word": "sim",
 		"meaning": "yes",
-		"english": "",
+		"impl": "",
 		"type": "interjection",
 		"obscurism": null
 	},
 	{
 		"word": "nen",
 		"meaning": "no",
-		"english": "",
+		"impl": "",
 		"type": "interjection",
 		"obscurism": "nen'"
 	},
 	{
 		"word": "henlo",
 		"meaning": "hello",
-		"english": "",
+		"impl": "",
 		"type": "interjection",
 		"obscurism": "hnl"
 	},
 	{
 		"word": "na",
 		"meaning": "hi",
-		"english": "",
+		"impl": "",
 		"type": "interjection",
 		"obscurism": "n"
 	},
 	{
 		"word": "konba",
 		"meaning": "goodbye",
-		"english": "",
+		"impl": "",
 		"type": "interjection",
 		"obscurism": "kon'ba"
 	},
 	{
 		"word": "mi",
 		"meaning": "cute",
-		"english": "",
+		"impl": "",
 		"type": "interjection",
 		"obscurism": null
 	},
 	{
 		"word": "ke",
 		"meaning": "ok",
-		"english": "confirmation, acknowledgement",
+		"impl": "confirmation, acknowledgement",
 		"type": "interjection",
 		"obscurism": "k"
 	},
 	{
 		"word": "biwe",
 		"meaning": "thanks",
-		"english": "",
+		"impl": "",
 		"type": "interjection",
 		"obscurism": "bwe"
 	},
 	{
 		"word": "hihi",
 		"meaning": "laughter",
-		"english": "",
+		"impl": "",
 		"type": "interjection",
 		"obscurism": "hh"
 	},
 	{
 		"word": "kase",
 		"meaning": "cat",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": "kas"
 	},
 	{
 		"word": "hun",
 		"meaning": "dog",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": "hn'"
 	},
 	{
 		"word": "luma",
 		"meaning": "person",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": "lm"
 	},
 	{
 		"word": "mawa",
 		"meaning": "kiss",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": "mw"
 	},
 	{
 		"word": "lanmi",
 		"meaning": "food",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": "ln'mi"
 	},
 	{
 		"word": "topi",
 		"meaning": "god, deity",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "wantu",
 		"meaning": "number",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": "wn'tu"
 	},
 	{
 		"word": "cosi",
 		"meaning": "choice, vote",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "falo",
 		"meaning": "speech, discussion, chat",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": "fal"
 	},
 	{
 		"word": "linwa",
 		"meaning": "language",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": "ln'wa"
 	},
 	{
 		"word": "keso",
 		"meaning": "cheese",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "sekiso",
 		"meaning": "sex, act of fucking",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "lumaba",
 		"meaning": "friend",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": "cn'ku"
 	},
 	{
 		"word": "deja",
 		"meaning": "action",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "gade",
 		"meaning": "guess",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "tempu",
 		"meaning": "time",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "cikondu",
 		"meaning": "second",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "minedu",
 		"meaning": "minute",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "haweru",
 		"meaning": "hour",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "dawu",
 		"meaning": "day",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": "dwu"
 	},
 	{
 		"word": "natu",
 		"meaning": "night",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": "ntu"
 	},
 	{
 		"word": "murinu",
 		"meaning": "morning",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "ebeninku",
 		"meaning": "evening",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "monadu",
 		"meaning": "month",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "siconu",
 		"meaning": "season",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "waru",
 		"meaning": "year",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "diwaru",
 		"meaning": "decade",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "huwaru",
 		"meaning": "century",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "newaru",
 		"meaning": "millenium",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "nem",
 		"meaning": "mind",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "pen",
 		"meaning": "movement",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "nepen",
 		"meaning": "feeling",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "gurati",
 		"meaning": "non-intervention",
-		"english": "free (price), without cost",
+		"impl": "free (price), without cost",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "lifeta",
 		"meaning": "(positive) freedom",
-		"english": "liberation, liberty",
+		"impl": "liberation, liberty",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "kumi",
 		"meaning": "trans(gender)ness",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "jala",
 		"meaning": "ability",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "mire",
 		"meaning": "half, middle",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "misu",
 		"meaning": "liquid",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "lufi",
 		"meaning": "gas",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "ten",
 		"meaning": "solid",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "kin",
 		"meaning": "thing",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "meta",
 		"meaning": "measurment",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "core",
 		"meaning": "desire",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "jore",
 		"meaning": "need",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "lonki",
 		"meaning": "field of knowledge/study",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "tori",
 		"meaning": "kindness, love",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "toba",
 		"meaning": "word",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "bencun",
 		"meaning": "book",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "gucun",
 		"meaning": "story",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "bengu",
 		"meaning": "storybook",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "cikaran",
 		"meaning": "physical strength",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "cikaranem",
 		"meaning": "mental strength",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "canwa",
 		"meaning": "result",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "wucan",
 		"meaning": "victory",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "dican",
 		"meaning": "defeat",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "bulohaji",
 		"meaning": "comfort, safety, euphoria",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "hason",
 		"meaning": "sound",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "hasontoba",
 		"meaning": "pronunciation",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "miku",
 		"meaning": "idol",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "muna",
 		"meaning": "egg",
-		"english": "",
+		"impl": "",
 		"type": "noun",
 		"obscurism": null
 	},
 	{
 		"word": "**sero**",
 		"meaning": "0",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**wano**",
 		"meaning": "1",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**duwo**",
 		"meaning": "2",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**tero**",
 		"meaning": "3",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**karo**",
 		"meaning": "4",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**bimo**",
 		"meaning": "5",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**ciko**",
 		"meaning": "6",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**sebo**",
 		"meaning": "7",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**wonto**",
 		"meaning": "8",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**ninto**",
 		"meaning": "9",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**dinko**",
 		"meaning": "10",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "dunko",
 		"meaning": "20",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "tenko",
 		"meaning": "30",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "kanko",
 		"meaning": "40",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "binko",
 		"meaning": "50",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "cinko",
 		"meaning": "60",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "senko",
 		"meaning": "70",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "wonko",
 		"meaning": "80",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "ninko",
 		"meaning": "90",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**hundo**",
 		"meaning": "100",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "dundo",
 		"meaning": "200",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "tendo",
 		"meaning": "300",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "kando",
 		"meaning": "400",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "bindo",
 		"meaning": "500",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "cindo",
 		"meaning": "600",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "sendo",
 		"meaning": "700",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "wondo",
 		"meaning": "800",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "nindo",
 		"meaning": "900",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**neko**",
 		"meaning": "1000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "duko",
 		"meaning": "2000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "teko",
 		"meaning": "3000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "keko",
 		"meaning": "4000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "biko",
 		"meaning": "5000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "ciko",
 		"meaning": "6000",
-		"english": null,
 		"type": "number",
 		"obscurism": "cko"
 	},
 	{
 		"word": "seko",
 		"meaning": "7000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "woko",
 		"meaning": "8000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "niko",
 		"meaning": "9000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "diko",
 		"meaning": "10'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "dudiko",
 		"meaning": "20'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "tediko",
 		"meaning": "30'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "kadiko",
 		"meaning": "40'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "bidiko",
 		"meaning": "50'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "cidiko",
 		"meaning": "60'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "sediko",
 		"meaning": "70'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "wodiko",
 		"meaning": "80'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "nidiko",
 		"meaning": "90'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "huko",
 		"meaning": "100'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "duhuko",
 		"meaning": "200'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "tehuko",
 		"meaning": "300'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "kahuko",
 		"meaning": "400'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "bihuko",
 		"meaning": "500'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "cihuko",
 		"meaning": "600'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "sehuko",
 		"meaning": "700'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "wohuko",
 		"meaning": "800'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "nihuko",
 		"meaning": "900'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**ranolono**",
 		"meaning": "1'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "dunolono",
 		"meaning": "2'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "tenolono",
 		"meaning": "3'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "kenolono",
 		"meaning": "4'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "binolono",
 		"meaning": "5'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "cinolono",
 		"meaning": "6'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "senolono",
 		"meaning": "7'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "wonolono",
 		"meaning": "8'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "ninolono",
 		"meaning": "9'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "dinolono",
 		"meaning": "10'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "dudinolono",
 		"meaning": "20'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "tedinolono",
 		"meaning": "30'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "kadinolono",
 		"meaning": "40'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "bidinolono",
 		"meaning": "50'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "cidinolono",
 		"meaning": "60'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "sedinolono",
 		"meaning": "70'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "wodinolono",
 		"meaning": "80'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "nidinolono",
 		"meaning": "90'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "hunolono",
 		"meaning": "100'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**rawolono**",
 		"meaning": "1'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "diwolono",
 		"meaning": "10'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "huwolono",
 		"meaning": "100'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**rerolono**",
 		"meaning": "1'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "dirolono",
 		"meaning": "10'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "hurolono",
 		"meaning": "100'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**ragolono**",
 		"meaning": "1'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "digolono",
 		"meaning": "10'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "hugolono",
 		"meaning": "100'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**rimolono**",
 		"meaning": "1'000'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "dimolono",
 		"meaning": "10'000'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "humolono",
 		"meaning": "100'000'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**rikolono**",
 		"meaning": "1'000'000'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "dikolono",
 		"meaning": "10'000'000'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "hubolono",
 		"meaning": "100'000'000'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**rebolono**",
 		"meaning": "1'000'000'000'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "dibolono",
 		"meaning": "10'000'000'000'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "hubolono",
 		"meaning": "100'000'000'000'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**rontolono**",
 		"meaning": "1'000'000'000'000'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "dintolono",
 		"meaning": "10'000'000'000'000'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "huntolono",
 		"meaning": "100'000'000'000'000'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**rinolono**",
 		"meaning": "1'000'000'000'000'000'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "dimpolono",
 		"meaning": "10'000'000'000'000'000'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "humpolono",
 		"meaning": "100'000'000'000'000'000'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "**rinkolono**",
 		"meaning": "1'000'000'000'000'000'000'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "dinkolono",
 		"meaning": "100'000'000'000'000'000'000'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "hunkolono",
 		"meaning": "100'000'000'000'000'000'000'000'000'000'000'000",
-		"english": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
 		"word": "mire-",
 		"meaning": "semi-",
-		"english": "semi",
+		"impl": "semi",
 		"type": "prefix",
 		"obscurism": null
 	},
 	{
 		"word": "gara-",
 		"meaning": "all-/every-",
-		"english": "all/every",
+		"impl": "all/every",
 		"type": "prefix",
 		"obscurism": null
 	},
 	{
 		"word": "coko-",
 		"meaning": "some-",
-		"english": "some",
+		"impl": "some",
 		"type": "prefix",
 		"obscurism": null
 	},
 	{
 		"word": "boro-",
 		"meaning": "any-",
-		"english": "any",
+		"impl": "any",
 		"type": "prefix",
 		"obscurism": null
 	},
 	{
 		"word": "ni-",
 		"meaning": "non-",
-		"english": "negation, other than",
+		"impl": "negation, other than",
 		"type": "prefix",
 		"obscurism": null
 	},
 	{
 		"word": "mo-",
 		"meaning": "",
-		"english": "inversion, contrary meaning",
+		"impl": "inversion, contrary meaning",
 		"type": "prefix",
 		"obscurism": null
 	},
 	{
 		"word": "wu-",
 		"meaning": "",
-		"english": "positive connotation",
+		"impl": "positive connotation",
 		"type": "prefix",
 		"obscurism": null
 	},
 	{
 		"word": "di-",
 		"meaning": "",
-		"english": "negative connotation",
+		"impl": "negative connotation",
 		"type": "prefix",
 		"obscurism": null
 	},
 	{
 		"word": "deja-",
 		"meaning": "-doing",
-		"english": "the doing of",
+		"impl": "the doing of",
 		"type": "prefix",
 		"obscurism": null
 	},
 	{
 		"word": "ra",
 		"meaning": "in",
-		"english": "is part of, contained or located in",
+		"impl": "is part of, contained or located in",
 		"type": "preposition",
 		"obscurism": null
 	},
 	{
 		"word": "para",
 		"meaning": "for",
-		"english": "",
+		"impl": "",
 		"type": "preposition",
 		"obscurism": null
 	},
 	{
 		"word": "de",
 		"meaning": "of",
-		"english": "",
+		"impl": "",
 		"type": "preposition",
 		"obscurism": null
 	},
 	{
 		"word": "no",
 		"meaning": "but",
-		"english": "",
+		"impl": "",
 		"type": "preposition",
 		"obscurism": null
 	},
 	{
 		"word": "gon",
 		"meaning": "on",
-		"english": "",
+		"impl": "",
 		"type": "preposition",
 		"obscurism": null
 	},
 	{
 		"word": "huba",
 		"meaning": "over",
-		"english": "",
+		"impl": "",
 		"type": "preposition",
 		"obscurism": null
 	},
 	{
 		"word": "wuba",
 		"meaning": "under",
-		"english": "",
+		"impl": "",
 		"type": "preposition",
 		"obscurism": null
 	},
 	{
 		"word": "faba",
 		"meaning": "in front of",
-		"english": "",
+		"impl": "",
 		"type": "preposition",
 		"obscurism": null
 	},
 	{
 		"word": "caba",
 		"meaning": "behind",
-		"english": "",
+		"impl": "",
 		"type": "preposition",
 		"obscurism": null
 	},
 	{
 		"word": "tamba",
 		"meaning": "next to",
-		"english": "",
+		"impl": "",
 		"type": "preposition",
 		"obscurism": null
 	},
 	{
 		"word": "taba",
 		"meaning": "near",
-		"english": "",
+		"impl": "",
 		"type": "preposition",
 		"obscurism": null
 	},
 	{
 		"word": "kaba",
 		"meaning": "far",
-		"english": "",
+		"impl": "",
 		"type": "preposition",
 		"obscurism": null
 	},
 	{
 		"word": "li",
 		"meaning": "",
-		"english": "animate, unspecified, 1st person",
+		"impl": "animate, unspecified, 1st person",
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "mida",
 		"meaning": "",
-		"english": "animate, unspecified, 2nd person",
+		"impl": "animate, unspecified, 2nd person",
 		"type": "pronoun",
 		"obscurism": "mid"
 	},
 	{
 		"word": "da",
 		"meaning": "",
-		"english": "animate, unspecified, 3rd person",
+		"impl": "animate, unspecified, 3rd person",
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "dase",
 		"meaning": "",
-		"english": "animate, feminine, 3rd person",
+		"impl": "animate, feminine, 3rd person",
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "dake",
 		"meaning": "",
-		"english": "animate, androfem, 3rd person",
+		"impl": "animate, androfem, 3rd person",
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "daka",
 		"meaning": "",
-		"english": "animate, androgynous, 3rd person",
+		"impl": "animate, androgynous, 3rd person",
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "daki",
 		"meaning": "",
-		"english": "animate, andromasc, 3rd person",
+		"impl": "animate, andromasc, 3rd person",
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "daci",
 		"meaning": "",
-		"english": "animate, masculine, 3rd person",
+		"impl": "animate, masculine, 3rd person",
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "reda",
 		"meaning": "",
-		"english": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence",
+		"impl": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence",
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "toransu",
 		"meaning": "other",
-		"english": "",
+		"impl": "",
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "gara",
 		"meaning": "all/every",
-		"english": "",
+		"impl": "",
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "coko",
 		"meaning": "some",
-		"english": "",
+		"impl": "",
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "boro",
 		"meaning": "any",
-		"english": "",
+		"impl": "",
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "mire",
 		"meaning": "half",
-		"english": "",
+		"impl": "",
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "tano",
 		"meaning": "this + n.",
-		"english": "",
+		"impl": "",
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "tani",
 		"meaning": "this + adj.",
-		"english": "",
+		"impl": "",
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "tatu",
 		"meaning": "as such, so",
-		"english": "\"this way\", \"in this manner\"",
+		"impl": "\"this way\", \"in this manner\"",
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "talo",
 		"meaning": "such",
-		"english": "\"this kind of\"",
+		"impl": "\"this kind of\"",
 		"type": "pronoun",
 		"obscurism": "tal"
 	},
 	{
 		"word": "kano",
 		"meaning": "that + n.",
-		"english": null,
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "kani",
 		"meaning": "that + adj.",
-		"english": null,
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "katu",
 		"meaning": "as such, so",
-		"english": "\"that way\", \"in that manner\"",
+		"impl": "\"that way\", \"in that manner\"",
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "kalo",
 		"meaning": "such",
-		"english": "\"that kind of\"",
+		"impl": "\"that kind of\"",
 		"type": "pronoun",
 		"obscurism": "kal"
 	},
 	{
 		"word": "sono",
 		"meaning": "what",
-		"english": null,
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "soni",
 		"meaning": "which",
-		"english": null,
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "sotu",
 		"meaning": "how",
-		"english": "\"which way\", \"in which manner\"",
+		"impl": "\"which way\", \"in which manner\"",
 		"type": "pronoun",
 		"obscurism": null
 	},
 	{
 		"word": "solo",
 		"meaning": "",
-		"english": "\"what kind of\"",
+		"impl": "\"what kind of\"",
 		"type": "pronoun",
 		"obscurism": "sol"
 	},
 	{
 		"word": "-lu",
 		"meaning": "-er , -ist",
-		"english": "defines an agent noun",
+		"impl": "defines an agent noun",
 		"type": "suffix",
 		"obscurism": null
 	},
 	{
 		"word": "-sa",
 		"meaning": "-s, -es",
-		"english": "indicates plurality",
+		"impl": "indicates plurality",
 		"type": "suffix",
 		"obscurism": null
 	},
 	{
 		"word": "-ri",
 		"meaning": "-ery",
-		"english": "establishes a place/event",
+		"impl": "establishes a place/event",
 		"type": "suffix",
 		"obscurism": "-r"
 	},
 	{
 		"word": "-dufen",
 		"meaning": "-ifier, -inator",
-		"english": "refers to an entity or construct that performs a specific action or function",
+		"impl": "refers to an entity or construct that performs a specific action or function",
 		"type": "suffix",
 		"obscurism": null
 	},
 	{
 		"word": "-fe",
 		"meaning": "\"against\" , \"in opposition to\"",
-		"english": "connotes opposition",
+		"impl": "connotes opposition",
 		"type": "suffix",
 		"obscurism": null
 	},
 	{
 		"word": "-se",
 		"meaning": "",
-		"english": "establishes feminine characteristics/gender",
+		"impl": "establishes feminine characteristics/gender",
 		"type": "suffix",
 		"obscurism": "-s"
 	},
 	{
 		"word": "-ke",
 		"meaning": "",
-		"english": "establishes androfeminine characteristics/gender",
+		"impl": "establishes androfeminine characteristics/gender",
 		"type": "suffix",
 		"obscurism": "-k"
 	},
 	{
 		"word": "-ka",
 		"meaning": "",
-		"english": "establishes androgynous characteristics/gender",
+		"impl": "establishes androgynous characteristics/gender",
 		"type": "suffix",
 		"obscurism": null
 	},
 	{
 		"word": "-ki",
 		"meaning": "",
-		"english": "establishes andromasc characteristics/gender",
+		"impl": "establishes andromasc characteristics/gender",
 		"type": "suffix",
 		"obscurism": null
 	},
 	{
 		"word": "-ci",
 		"meaning": "",
-		"english": "establishes masculine characteristics/gender",
+		"impl": "establishes masculine characteristics/gender",
 		"type": "suffix",
 		"obscurism": "-c"
 	},
 	{
 		"word": "-pa",
 		"meaning": "-'s",
-		"english": "marks word as possessive",
+		"impl": "marks word as possessive",
 		"type": "suffix",
 		"obscurism": "-p"
 	},
 	{
 		"word": "-lonki",
 		"meaning": "-ology, -graphy, -nomy, -ics",
-		"english": "refers to a field of knowledge/study",
+		"impl": "refers to a field of knowledge/study",
 		"type": "suffix",
 		"obscurism": null
 	},
 	{
 		"word": "-falo",
 		"meaning": "-speak, -talk",
-		"english": "indicates manner or characteristic of speech",
+		"impl": "indicates manner or characteristic of speech",
 		"type": "suffix",
 		"obscurism": "-fal"
 	},
 	{
 		"word": "-bani",
 		"meaning": "-th",
-		"english": "for numbers, indicates ordinality",
+		"impl": "for numbers, indicates ordinality",
 		"type": "suffix",
 		"obscurism": null
 	},
 	{
 		"word": "-ra",
 		"meaning": "-like, -ern",
-		"english": "converts to adjective",
+		"impl": "converts to adjective",
 		"type": "suffix",
 		"obscurism": null
 	},
 	{
 		"word": "-da",
 		"meaning": "-ed",
-		"english": "refers to the past tense form of a verb",
+		"impl": "refers to the past tense form of a verb",
 		"type": "suffix",
 		"obscurism": "-d"
 	},
 	{
 		"word": "-ne",
 		"meaning": "-ing",
-		"english": "refers to the present tense form of a verb",
+		"impl": "refers to the present tense form of a verb",
 		"type": "suffix",
 		"obscurism": null
 	},
 	{
 		"word": "-lo",
 		"meaning": "\"will\", \"shall\"",
-		"english": "refers to the future tense form of a verb",
+		"impl": "refers to the future tense form of a verb",
 		"type": "suffix",
 		"obscurism": "-l"
 	},
 	{
 		"word": "-ja",
 		"meaning": "\"yet\", \"so far\"",
-		"english": "refers to that a verb is in progress or incomplete",
+		"impl": "refers to that a verb is in progress or incomplete",
 		"type": "suffix",
 		"obscurism": null
 	},
 	{
 		"word": "-zim",
 		"meaning": "\"to ___\"",
-		"english": "establishes verb as infinitive",
+		"impl": "establishes verb as infinitive",
 		"type": "suffix",
 		"obscurism": null
 	},
 	{
 		"word": "-ku",
 		"meaning": "",
-		"english": "establishes verb as uncertain/questioning",
+		"impl": "establishes verb as uncertain/questioning",
 		"type": "suffix",
 		"obscurism": null
 	},
 	{
 		"word": "-do",
 		"meaning": "\"should\", \"ought to\"",
-		"english": "establishes verb as imperative",
+		"impl": "establishes verb as imperative",
 		"type": "suffix",
 		"obscurism": null
 	},
 	{
 		"word": "-kuka",
 		"meaning": "\"please\"",
-		"english": "establishes verb as politely questioning/requesting",
+		"impl": "establishes verb as politely questioning/requesting",
 		"type": "suffix",
 		"obscurism": null
 	},
 	{
 		"word": "-jala",
 		"meaning": "-able , -ible , \"capable of\"",
-		"english": "denotes ability or capacity",
+		"impl": "denotes ability or capacity",
 		"type": "suffix",
 		"obscurism": null
 	},
 	{
 		"word": "-wan",
 		"meaning": "-est",
-		"english": "denotes superlative adjectives",
+		"impl": "denotes superlative adjectives",
 		"type": "suffix",
 		"obscurism": null
 	},
 	{
 		"word": "-kin",
 		"meaning": "",
-		"english": "denotes conversion to noun",
+		"impl": "denotes conversion to noun",
 		"type": "suffix",
 		"obscurism": null
 	},
 	{
 		"word": "mawa",
 		"meaning": "kiss",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": "mw"
 	},
 	{
 		"word": "binta",
 		"meaning": "eat",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": "bn'ta"
 	},
 	{
 		"word": "sanu",
 		"meaning": "be",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "tenco",
 		"meaning": "have",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": "ten'co"
 	},
 	{
 		"word": "somo",
 		"meaning": "sleep",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "cosi",
 		"meaning": "choose, vote",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "falo",
 		"meaning": "speak, say, tell",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": "fal"
 	},
 	{
 		"word": "toransu",
 		"meaning": "differ",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "mahen",
 		"meaning": "make, create",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "sekiso",
 		"meaning": "have sex, fuck",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "deja",
 		"meaning": "do, act",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "gade",
 		"meaning": "guess",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "nem",
 		"meaning": "think",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "pen",
 		"meaning": "move",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "nepen",
 		"meaning": "feel",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "gurati",
 		"meaning": "induce negative freedom, reduce cost to none",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "lifeta",
 		"meaning": "induce positive freedom",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "jala",
 		"meaning": "can, be able to",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "meta",
 		"meaning": "measure",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "core",
 		"meaning": "want",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "jore",
 		"meaning": "need",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "pora",
 		"meaning": "to add, to increase",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "mina",
 		"meaning": "to subtract, to decrease, to remove",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "mulipa",
 		"meaning": "to multiply",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "cipan",
 		"meaning": "to divide, to split",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	},
 	{
 		"word": "nepetori",
 		"meaning": "to love, to feel love towards",
-		"english": "",
+		"impl": "",
 		"type": "verb",
 		"obscurism": null
 	}

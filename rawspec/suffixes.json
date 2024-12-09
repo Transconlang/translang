@@ -2,95 +2,100 @@
 	{
 		"type": "suffix",
 		"title": "Temporal verb suffixes",
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "-lu",
 				"meaning": "-er , -ist",
-				"english": "defines an agent noun",
+				"impl": "defines an agent noun",
 				"obscurism": null
 			},
 			{
 				"word": "-sa",
 				"meaning": "-s, -es",
-				"english": "indicates plurality",
+				"impl": "indicates plurality",
 				"obscurism": null
 			},
 			{
 				"word": "-ri",
 				"meaning": "-ery",
-				"english": "establishes a place/event",
+				"impl": "establishes a place/event",
 				"obscurism": "-r"
 			},
 			{
 				"word": "-dufen",
 				"meaning": "-ifier, -inator",
-				"english": "refers to an entity or construct that performs a specific action or function",
+				"impl": "refers to an entity or construct that performs a specific action or function",
 				"obscurism": null
 			},
 			{
 				"word": "-fe",
 				"meaning": "\"against\" , \"in opposition to\"",
-				"english": "connotes opposition",
+				"impl": "connotes opposition",
 				"obscurism": null
 			},
 			{
 				"word": "-se",
 				"meaning": "",
-				"english": "establishes feminine characteristics/gender",
+				"impl": "establishes feminine characteristics/gender",
 				"obscurism": "-s"
 			},
 			{
 				"word": "-ke",
 				"meaning": "",
-				"english": "establishes androfeminine characteristics/gender",
+				"impl": "establishes androfeminine characteristics/gender",
 				"obscurism": "-k"
 			},
 			{
 				"word": "-ka",
 				"meaning": "",
-				"english": "establishes androgynous characteristics/gender",
+				"impl": "establishes androgynous characteristics/gender",
 				"obscurism": null
 			},
 			{
 				"word": "-ki",
 				"meaning": "",
-				"english": "establishes andromasc characteristics/gender",
+				"impl": "establishes andromasc characteristics/gender",
 				"obscurism": null
 			},
 			{
 				"word": "-ci",
 				"meaning": "",
-				"english": "establishes masculine characteristics/gender",
+				"impl": "establishes masculine characteristics/gender",
 				"obscurism": "-c"
 			},
 			{
 				"word": "-pa",
 				"meaning": "-'s",
-				"english": "marks word as possessive",
+				"impl": "marks word as possessive",
 				"obscurism": "-p"
 			},
 			{
 				"word": "-lonki",
 				"meaning": "-ology, -graphy, -nomy, -ics",
-				"english": "refers to a field of knowledge/study",
+				"impl": "refers to a field of knowledge/study",
 				"obscurism": null
 			},
 			{
 				"word": "-falo",
 				"meaning": "-speak, -talk",
-				"english": "indicates manner or characteristic of speech",
+				"impl": "indicates manner or characteristic of speech",
 				"obscurism": "-fal"
 			},
 			{
 				"word": "-bani",
 				"meaning": "-th",
-				"english": "for numbers, indicates ordinality",
+				"impl": "for numbers, indicates ordinality",
 				"obscurism": null
 			},
 			{
 				"word": "-ra",
 				"meaning": "-like, -ern",
-				"english": "converts to adjective",
+				"impl": "converts to adjective",
 				"obscurism": null
 			}
 		]
@@ -98,35 +103,40 @@
 	{
 		"type": "suffix",
 		"title": "Other verb suffixes",
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "-da",
 				"meaning": "-ed",
-				"english": "refers to the past tense form of a verb",
+				"impl": "refers to the past tense form of a verb",
 				"obscurism": "-d"
 			},
 			{
 				"word": "-ne",
 				"meaning": "-ing",
-				"english": "refers to the present tense form of a verb",
+				"impl": "refers to the present tense form of a verb",
 				"obscurism": null
 			},
 			{
 				"word": "-lo",
 				"meaning": "\"will\", \"shall\"",
-				"english": "refers to the future tense form of a verb",
+				"impl": "refers to the future tense form of a verb",
 				"obscurism": "-l"
 			},
 			{
 				"word": "-ja",
 				"meaning": "\"yet\", \"so far\"",
-				"english": "refers to that a verb is in progress or incomplete",
+				"impl": "refers to that a verb is in progress or incomplete",
 				"obscurism": null
 			},
 			{
 				"word": "-zim",
 				"meaning": "\"to ___\"",
-				"english": "establishes verb as infinitive",
+				"impl": "establishes verb as infinitive",
 				"obscurism": null
 			}
 		]
@@ -134,23 +144,28 @@
 	{
 		"type": "suffix",
 		"title": "Adjective suffixes",
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "-ku",
 				"meaning": "",
-				"english": "establishes verb as uncertain/questioning",
+				"impl": "establishes verb as uncertain/questioning",
 				"obscurism": null
 			},
 			{
 				"word": "-do",
 				"meaning": "\"should\", \"ought to\"",
-				"english": "establishes verb as imperative",
+				"impl": "establishes verb as imperative",
 				"obscurism": null
 			},
 			{
 				"word": "-kuka",
 				"meaning": "\"please\"",
-				"english": "establishes verb as politely questioning/requesting",
+				"impl": "establishes verb as politely questioning/requesting",
 				"obscurism": null
 			}
 		]
@@ -158,23 +173,28 @@
 	{
 		"type": "suffix",
 		"title": "Adjective suffixes",
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "-jala",
 				"meaning": "-able , -ible , \"capable of\"",
-				"english": "denotes ability or capacity",
+				"impl": "denotes ability or capacity",
 				"obscurism": null
 			},
 			{
 				"word": "-wan",
 				"meaning": "-est",
-				"english": "denotes superlative adjectives",
+				"impl": "denotes superlative adjectives",
 				"obscurism": null
 			},
 			{
 				"word": "-kin",
 				"meaning": "",
-				"english": "denotes conversion to noun",
+				"impl": "denotes conversion to noun",
 				"obscurism": null
 			}
 		]

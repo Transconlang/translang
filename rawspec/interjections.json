@@ -2,59 +2,64 @@
 	{
 		"type": "interjection",
 		"title": null,
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "sim",
 				"meaning": "yes",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "nen",
 				"meaning": "no",
-				"english": "",
+				"impl": "",
 				"obscurism": "nen'"
 			},
 			{
 				"word": "henlo",
 				"meaning": "hello",
-				"english": "",
+				"impl": "",
 				"obscurism": "hnl"
 			},
 			{
 				"word": "na",
 				"meaning": "hi",
-				"english": "",
+				"impl": "",
 				"obscurism": "n"
 			},
 			{
 				"word": "konba",
 				"meaning": "goodbye",
-				"english": "",
+				"impl": "",
 				"obscurism": "kon'ba"
 			},
 			{
 				"word": "mi",
 				"meaning": "cute",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "ke",
 				"meaning": "ok",
-				"english": "confirmation, acknowledgement",
+				"impl": "confirmation, acknowledgement",
 				"obscurism": "k"
 			},
 			{
 				"word": "biwe",
 				"meaning": "thanks",
-				"english": "",
+				"impl": "",
 				"obscurism": "bwe"
 			},
 			{
 				"word": "hihi",
 				"meaning": "laughter",
-				"english": "",
+				"impl": "",
 				"obscurism": "hh"
 			}
 		]

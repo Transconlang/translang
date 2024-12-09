@@ -2,239 +2,244 @@
 	{
 		"type": "adjective",
 		"title": null,
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "mi",
 				"meaning": "cute",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "wusita",
 				"meaning": "good",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "disita",
 				"meaning": "bad",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "nen",
 				"meaning": "not",
-				"english": "",
+				"impl": "",
 				"obscurism": "nen'"
 			},
 			{
 				"word": "toransu",
 				"meaning": "different, other",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "somo",
 				"meaning": "sleepy",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "sekiso",
 				"meaning": "sexy, fuckable",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "deja",
 				"meaning": "active",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "gara",
 				"meaning": "all",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "coko",
 				"meaning": "some",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "boro",
 				"meaning": "any",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "gurati",
 				"meaning": "free (price), autonomous, non-interfered-with",
-				"english": "negative freedom",
+				"impl": "negative freedom",
 				"obscurism": null
 			},
 			{
 				"word": "lifeta",
 				"meaning": "liberated",
-				"english": "positive freedom",
+				"impl": "positive freedom",
 				"obscurism": null
 			},
 			{
 				"word": "jala",
 				"meaning": "able, capable of",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "mire",
 				"meaning": "mid, average",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "misu",
 				"meaning": "liquid, fluid",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "ten",
 				"meaning": "solid, rigid",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "lufi",
 				"meaning": "gaseous",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "cinda",
 				"meaning": "new",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "gunda",
 				"meaning": "old",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "cindajin",
 				"meaning": "modern",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "gundajin",
 				"meaning": "ancient",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "cingun",
 				"meaning": "physically light",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "cingunem",
 				"meaning": "psychologically light",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "qongun",
 				"meaning": "physically heavy",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "qongunem",
 				"meaning": "psychologically heavy",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "anoman",
 				"meaning": "angry",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "teto",
 				"meaning": "large",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "ciki",
 				"meaning": "short",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "kanacin",
 				"meaning": "sad",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "tanocin",
 				"meaning": "happy",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "cangi",
 				"meaning": "long",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "dangi",
 				"meaning": "short",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "tenza",
 				"meaning": "tall",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "kenki",
 				"meaning": "short",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "suci",
 				"meaning": "intelligent",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "mimi",
 				"meaning": "adorable",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "dakun",
 				"meaning": "black, dark",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			},
 			{
 				"word": "lajito",
 				"meaning": "white, light, bright",
-				"english": "",
+				"impl": "",
 				"obscurism": null
 			}
 		]

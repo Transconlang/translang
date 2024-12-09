@@ -2,23 +2,28 @@
 	{
 		"type": "conjunction",
 		"title": null,
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "pum",
 				"meaning": "and",
-				"english": "logical conjunction",
+				"impl": "logical conjunction",
 				"obscurism": "plu"
 			},
 			{
 				"word": "ron",
 				"meaning": "or",
-				"english": "logical disjunction",
+				"impl": "logical disjunction",
 				"obscurism": null
 			},
 			{
 				"word": "no",
 				"meaning": "but",
-				"english": "logical implication",
+				"impl": "logical implication",
 				"obscurism": null
 			}
 		]
