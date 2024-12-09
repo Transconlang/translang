@@ -15,12 +15,14 @@
 **For parser compatibility, each table should follow the following column format:**
 
 ```markdown
-| Spelling | Definition | English Equivalent |
-| -------- | ---------- | ------------------ |
-| foo      | bar        | (optional)         |
+| Spelling | Definition / Meaning | English Equivalent / Implication |
+| -------- | -------------------- | -------------------------------- |
+| foo      | bar                  | baz                              |
 ```
 
 (Padding data cells with spaces is not necessary.)
+
+If an entry does not have a direct translation (definition or meaning), then it **must** have an implication. No exceptions, other we have completely undefined words.
 
 ## Soft rules/guidelines
 
