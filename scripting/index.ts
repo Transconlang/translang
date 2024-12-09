@@ -51,14 +51,12 @@ const tableRowMatcher = /^\| [^|]* \|( [^|]* \|)+$/i;
 
 for (const file of Files) {
 	const content = await readFile(join(SourceDirectory, file), 'utf-8');
-	const rows = content
-		.split('\n')
-		.map(v => v.trim())
-		.filter(
-			v =>
-				v.replaceAll(/[\|\s\-]/gi, '').length > 0 &&
-				(tableRowMatcher.test(v) || h2Matcher.test(v))
-		);
+	const unfilteredRows = content.split('\n').map(v => v.trim());
+	const rows = unfilteredRows.filter(
+		v =>
+			v.replaceAll(/[\|\s\-]/gi, '').length > 0 &&
+			(tableRowMatcher.test(v) || h2Matcher.test(v))
+	);
 
 	const type = (() => {
 		const asdf = file.toLowerCase().replace(/s\.md$/, '');
@@ -86,6 +84,11 @@ for (const file of Files) {
 			.slice(1, -1)
 			.split('|')
 			.map(v => v.slice(1, -1));
+
+		if (!word || !meaning || !impl)
+			throw new Error(
+				`Invalid row (at row ${unfilteredRows.indexOf(row)} of ${file}): ${row}`
+			);
 
 		if (justStartedNewSection) {
 			headers = [word, meaning, impl];
