@@ -31,7 +31,7 @@
 | anoman | angry |
 | teto | large |
 | ciki | short |
-| kanacin | sad | 
+| kanacin | sad |
 | tanocin | happy |
 | cangi | long |
 | dangi | short |
@@ -42,4 +42,3 @@
 | dakun | black, dark |
 | lajito | white, light, bright |
 | miremire | gray |
-| mayu | very, extremely |

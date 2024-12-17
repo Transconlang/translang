@@ -7,6 +7,7 @@
 | nen | no |
 | con | soon |
 | huba | overly |
+| mayu | very, extremely |
 | sun | why |
 | saci | how |
 
