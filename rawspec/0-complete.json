@@ -240,12 +240,6 @@
 		"type": "adjective"
 	},
 	{
-		"word": "mayu",
-		"meaning": "very, extremely",
-		"extra": [],
-		"type": "adjective"
-	},
-	{
 		"word": "nen",
 		"meaning": "no",
 		"extra": [],
@@ -260,6 +254,12 @@
 	{
 		"word": "huba",
 		"meaning": "overly",
+		"extra": [],
+		"type": "adverb"
+	},
+	{
+		"word": "mayu",
+		"meaning": "very, extremely",
 		"extra": [],
 		"type": "adverb"
 	},
