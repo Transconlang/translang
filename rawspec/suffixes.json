@@ -40,31 +40,31 @@
 			},
 			{
 				"word": "-se",
-				"meaning": "",
+				"meaning": null,
 				"impl": "establishes feminine characteristics/gender",
 				"obscurism": "-s"
 			},
 			{
 				"word": "-ke",
-				"meaning": "",
+				"meaning": null,
 				"impl": "establishes androfeminine characteristics/gender",
 				"obscurism": "-k"
 			},
 			{
 				"word": "-ka",
-				"meaning": "",
+				"meaning": null,
 				"impl": "establishes androgynous characteristics/gender",
 				"obscurism": null
 			},
 			{
 				"word": "-ki",
-				"meaning": "",
+				"meaning": null,
 				"impl": "establishes andromasc characteristics/gender",
 				"obscurism": null
 			},
 			{
 				"word": "-ci",
-				"meaning": "",
+				"meaning": null,
 				"impl": "establishes masculine characteristics/gender",
 				"obscurism": "-c"
 			},
@@ -152,7 +152,7 @@
 		"entries": [
 			{
 				"word": "-ku",
-				"meaning": "",
+				"meaning": null,
 				"impl": "establishes verb as uncertain/questioning",
 				"obscurism": null
 			},
@@ -193,7 +193,7 @@
 			},
 			{
 				"word": "-kin",
-				"meaning": "",
+				"meaning": null,
 				"impl": "denotes conversion to noun",
 				"obscurism": null
 			}

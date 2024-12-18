@@ -11,37 +11,37 @@
 			{
 				"word": "sim",
 				"meaning": "yes",
-				"impl": "",
+				"impl": null,
 				"obscurism": null
 			},
 			{
 				"word": "nen",
 				"meaning": "no",
-				"impl": "",
+				"impl": null,
 				"obscurism": "nen'"
 			},
 			{
 				"word": "henlo",
 				"meaning": "hello",
-				"impl": "",
+				"impl": null,
 				"obscurism": "hnl"
 			},
 			{
 				"word": "na",
 				"meaning": "hi",
-				"impl": "",
+				"impl": null,
 				"obscurism": "n"
 			},
 			{
 				"word": "konba",
 				"meaning": "goodbye",
-				"impl": "",
+				"impl": null,
 				"obscurism": "kon'ba"
 			},
 			{
 				"word": "mi",
 				"meaning": "cute",
-				"impl": "",
+				"impl": null,
 				"obscurism": null
 			},
 			{
@@ -53,13 +53,13 @@
 			{
 				"word": "biwe",
 				"meaning": "thanks",
-				"impl": "",
+				"impl": null,
 				"obscurism": "bwe"
 			},
 			{
 				"word": "hihi",
 				"meaning": "laughter",
-				"impl": "",
+				"impl": null,
 				"obscurism": "hh"
 			}
 		]

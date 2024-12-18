@@ -17,13 +17,13 @@
 			{
 				"word": "con",
 				"meaning": "soon",
-				"impl": "",
+				"impl": null,
 				"obscurism": null
 			},
 			{
 				"word": "huba",
 				"meaning": "overly",
-				"impl": "",
+				"impl": null,
 				"obscurism": null
 			},
 			{
@@ -58,19 +58,19 @@
 			{
 				"word": "tahi",
 				"meaning": "now",
-				"impl": "",
+				"impl": null,
 				"obscurism": "tah"
 			},
 			{
 				"word": "kahi",
 				"meaning": "then",
-				"impl": "",
+				"impl": null,
 				"obscurism": "kah"
 			},
 			{
 				"word": "sohi",
 				"meaning": "when",
-				"impl": "",
+				"impl": null,
 				"obscurism": "soh"
 			}
 		]
@@ -87,19 +87,19 @@
 			{
 				"word": "tawa",
 				"meaning": "here",
-				"impl": "",
+				"impl": null,
 				"obscurism": "taw"
 			},
 			{
 				"word": "kawa",
 				"meaning": "there",
-				"impl": "",
+				"impl": null,
 				"obscurism": "kaw"
 			},
 			{
 				"word": "sowa",
 				"meaning": "where",
-				"impl": "",
+				"impl": null,
 				"obscurism": "sow"
 			}
 		]

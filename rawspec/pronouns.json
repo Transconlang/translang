@@ -10,49 +10,49 @@
 		"entries": [
 			{
 				"word": "li",
-				"meaning": "",
+				"meaning": null,
 				"impl": "animate, unspecified, 1st person",
 				"obscurism": null
 			},
 			{
 				"word": "mida",
-				"meaning": "",
+				"meaning": null,
 				"impl": "animate, unspecified, 2nd person",
 				"obscurism": "mid"
 			},
 			{
 				"word": "da",
-				"meaning": "",
+				"meaning": null,
 				"impl": "animate, unspecified, 3rd person",
 				"obscurism": null
 			},
 			{
 				"word": "dase",
-				"meaning": "",
+				"meaning": null,
 				"impl": "animate, feminine, 3rd person",
 				"obscurism": null
 			},
 			{
 				"word": "dake",
-				"meaning": "",
+				"meaning": null,
 				"impl": "animate, androfem, 3rd person",
 				"obscurism": null
 			},
 			{
 				"word": "daka",
-				"meaning": "",
+				"meaning": null,
 				"impl": "animate, androgynous, 3rd person",
 				"obscurism": null
 			},
 			{
 				"word": "daki",
-				"meaning": "",
+				"meaning": null,
 				"impl": "animate, andromasc, 3rd person",
 				"obscurism": null
 			},
 			{
 				"word": "daci",
-				"meaning": "",
+				"meaning": null,
 				"impl": "animate, masculine, 3rd person",
 				"obscurism": null
 			}
@@ -69,38 +69,38 @@
 		"entries": [
 			{
 				"word": "reda",
-				"meaning": "",
+				"meaning": null,
 				"impl": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence",
 				"obscurism": null
 			},
 			{
 				"word": "toransu",
 				"meaning": "other",
-				"impl": "",
+				"impl": null,
 				"obscurism": null
 			},
 			{
 				"word": "gara",
 				"meaning": "all/every",
-				"impl": "",
+				"impl": null,
 				"obscurism": null
 			},
 			{
 				"word": "coko",
 				"meaning": "some",
-				"impl": "",
+				"impl": null,
 				"obscurism": null
 			},
 			{
 				"word": "boro",
 				"meaning": "any",
-				"impl": "",
+				"impl": null,
 				"obscurism": null
 			},
 			{
 				"word": "mire",
 				"meaning": "half",
-				"impl": "",
+				"impl": null,
 				"obscurism": null
 			}
 		]
@@ -117,13 +117,13 @@
 			{
 				"word": "tano",
 				"meaning": "this + n.",
-				"impl": "",
+				"impl": null,
 				"obscurism": null
 			},
 			{
 				"word": "tani",
 				"meaning": "this + adj.",
-				"impl": "",
+				"impl": null,
 				"obscurism": null
 			},
 			{
@@ -152,11 +152,13 @@
 			{
 				"word": "kano",
 				"meaning": "that + n.",
+				"impl": null,
 				"obscurism": null
 			},
 			{
 				"word": "kani",
 				"meaning": "that + adj.",
+				"impl": null,
 				"obscurism": null
 			},
 			{
@@ -185,11 +187,13 @@
 			{
 				"word": "sono",
 				"meaning": "what",
+				"impl": null,
 				"obscurism": null
 			},
 			{
 				"word": "soni",
 				"meaning": "which",
+				"impl": null,
 				"obscurism": null
 			},
 			{
@@ -200,7 +204,7 @@
 			},
 			{
 				"word": "solo",
-				"meaning": "",
+				"meaning": null,
 				"impl": "\"what kind of\"",
 				"obscurism": "sol"
 			}
