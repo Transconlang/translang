@@ -97,7 +97,12 @@ for (const file of Files) {
 			continue;
 		}
 
-		const [word, meaning, impl] = parsedRow;
+		let [word, meaning, impl] = parsedRow;
+
+		// @ts-expect-error
+		meaning = meaning || null;
+		// @ts-expect-error
+		impl = impl || null;
 
 		subSectionStack.push({
 			word,

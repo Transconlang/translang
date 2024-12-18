@@ -11,6 +11,7 @@
 	"type": "module",
 	"scripts": {
 		"fmt": "prettier -w .",
-		"start": "tsx index.ts"
+		"start": "tsx index.ts",
+		"test": "tsx validate.ts"
 	}
 }

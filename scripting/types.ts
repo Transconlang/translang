@@ -10,8 +10,8 @@ export interface Section {
 
 export interface Entry {
 	word: string;
-	meaning: string;
-	impl: string;
+	meaning: string | null;
+	impl: string | null;
 	obscurism: string | null;
 }
 
