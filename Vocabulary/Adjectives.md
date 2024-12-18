@@ -43,3 +43,4 @@
 | lajito | white, light, bright |
 | miremire | gray |
 | mayu | very, extremely |
+| suranto | same |
