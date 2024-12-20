@@ -10,9 +10,9 @@
 | -dufen | refers to an entity or construct that performs a specific action or function | -ifier, -inator |
 | -fe | connotes opposition | "against" , "in opposition to" | — |
 | -se | establishes feminine characteristics/gender | — |
-| -ke | establishes androfeminine characteristics/gender | — |
+| -ke | establishes fem-leaning characteristics/gender | — |
 | -ka | establishes androgynous characteristics/gender | — |
-| -ki | establishes andromasc characteristics/gender | — |
+| -ki | establishes masc-leaning characteristics/gender | — |
 | -ci | establishes masculine characteristics/gender | — |
 | -pa | marks word as possessive | -'s |
 | -lonki | refers to a field of knowledge/study | -ology, -graphy, -nomy, -ics |
