@@ -163,13 +163,13 @@
 	},
 	{
 		"word": "teto",
-		"meaning": "large",
+		"meaning": "large (size)",
 		"extra": [],
 		"type": "adjective"
 	},
 	{
 		"word": "ciki",
-		"meaning": "short",
+		"meaning": "short (size)",
 		"extra": [],
 		"type": "adjective"
 	},
@@ -187,25 +187,25 @@
 	},
 	{
 		"word": "cangi",
-		"meaning": "long",
+		"meaning": "long (time)",
 		"extra": [],
 		"type": "adjective"
 	},
 	{
 		"word": "dangi",
-		"meaning": "short",
+		"meaning": "short (time)",
 		"extra": [],
 		"type": "adjective"
 	},
 	{
 		"word": "tenza",
-		"meaning": "tall",
+		"meaning": "tall (height)",
 		"extra": [],
 		"type": "adjective"
 	},
 	{
 		"word": "kenki",
-		"meaning": "short",
+		"meaning": "short (height)",
 		"extra": [],
 		"type": "adjective"
 	},
