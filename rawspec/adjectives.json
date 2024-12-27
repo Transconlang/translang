@@ -1,0 +1,247 @@
+[
+	{
+		"type": "adjective",
+		"title": null,
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
+		"entries": [
+			{
+				"word": "mi",
+				"meaning": "cute",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "wusita",
+				"meaning": "good",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "disita",
+				"meaning": "bad",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "nen",
+				"meaning": "not",
+				"impl": null,
+				"obscurism": "nen'"
+			},
+			{
+				"word": "toransu",
+				"meaning": "different, other",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "somo",
+				"meaning": "sleepy",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "sekiso",
+				"meaning": "sexy, fuckable",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "deja",
+				"meaning": "active",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "gara",
+				"meaning": "all",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "coko",
+				"meaning": "some",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "boro",
+				"meaning": "any",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "gurati",
+				"meaning": "free (price), autonomous, non-interfered-with",
+				"impl": "negative freedom",
+				"obscurism": null
+			},
+			{
+				"word": "lifeta",
+				"meaning": "liberated",
+				"impl": "positive freedom",
+				"obscurism": null
+			},
+			{
+				"word": "jala",
+				"meaning": "able, capable of",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "mire",
+				"meaning": "mid, average",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "misu",
+				"meaning": "liquid, fluid",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "ten",
+				"meaning": "solid, rigid",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "lufi",
+				"meaning": "gaseous",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "cinda",
+				"meaning": "new",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "gunda",
+				"meaning": "old",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "cindajin",
+				"meaning": "modern",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "gundajin",
+				"meaning": "ancient",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "cingun",
+				"meaning": "physically light",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "cingunem",
+				"meaning": "psychologically light",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "qongun",
+				"meaning": "physically heavy",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "qongunem",
+				"meaning": "psychologically heavy",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "anoman",
+				"meaning": "angry",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "teto",
+				"meaning": "large (size)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "ciki",
+				"meaning": "short (size)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "kanacin",
+				"meaning": "sad",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "tanocin",
+				"meaning": "happy",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "cangi",
+				"meaning": "long (time)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "dangi",
+				"meaning": "short (time)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "tenza",
+				"meaning": "tall (height)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "kenki",
+				"meaning": "short (height)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "suci",
+				"meaning": "intelligent",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "mimi",
+				"meaning": "adorable",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "dakun",
+				"meaning": "black, dark",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "lajito",
+				"meaning": "white, light, bright",
+				"impl": null,
+				"obscurism": null
+			}
+		]
+	}
+]

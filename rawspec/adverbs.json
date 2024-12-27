@@ -27,11 +27,6 @@
 				"obscurism": null
 			},
 			{
-				"word": "mayu",
-				"meaning": "very, extremely",
-				"extra": []
-			},
-			{
 				"word": "sun",
 				"meaning": "why",
 				"impl": "interrogative question of cause",
@@ -48,6 +43,12 @@
 				"meaning": "how",
 				"impl": "interrogative question of methodology",
 				"obscurism": "sac"
+			},
+			{
+				"word": "taci",
+				"meaning": null,
+				"impl": "description of methodology",
+				"obscurism": "tac"
 			}
 		]
 	},
