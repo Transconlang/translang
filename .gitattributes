@@ -8,6 +8,10 @@
 *.json linguist-documentation=false
 *.json linguist-detectable=true
 
+# overwrite all merge conflicts with the local version,
+# it'll be updated by automation anyways
+*.json merge=ours
+
 *.yml linguist-vendored=false
 *.yml linguist-generated=false
 *.yml linguist-documentation=false
