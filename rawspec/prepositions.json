@@ -4,68 +4,81 @@
 		"title": null,
 		"headers": [
 			"Spelling",
-			"Definition"
+			"Translation (English)",
+			"Implication / Definition / Used as"
 		],
 		"entries": [
 			{
 				"word": "ra",
 				"meaning": "in",
-				"extra": []
+				"impl": "is part of, contained or located in",
+				"obscurism": null
 			},
 			{
 				"word": "para",
 				"meaning": "for",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "de",
 				"meaning": "of",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "no",
 				"meaning": "but",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "gon",
 				"meaning": "on",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "huba",
 				"meaning": "over",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "wuba",
 				"meaning": "under",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "faba",
 				"meaning": "in front of",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "caba",
 				"meaning": "behind",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "tamba",
 				"meaning": "next to",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "taba",
 				"meaning": "near",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "kaba",
 				"meaning": "far",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			}
 		]
 	}

@@ -2,66 +2,83 @@
 	{
 		"type": "adverb",
 		"title": "Temporal adverbs",
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "nen",
 				"meaning": "no",
-				"extra": []
+				"impl": "logical negation",
+				"obscurism": "nen'"
 			},
 			{
 				"word": "con",
 				"meaning": "soon",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "huba",
 				"meaning": "overly",
-				"extra": []
-			},
-			{
-				"word": "mayu",
-				"meaning": "very, extremely",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "sun",
 				"meaning": "why",
-				"extra": []
+				"impl": "interrogative question of cause",
+				"obscurism": "sun'"
+			},
+			{
+				"word": "tun",
+				"meaning": "because",
+				"impl": "statement of cause",
+				"obscurism": "tun'"
 			},
 			{
 				"word": "saci",
 				"meaning": "how",
-				"extra": []
+				"impl": "interrogative question of methodology",
+				"obscurism": "sac"
+			},
+			{
+				"word": "taci",
+				"meaning": null,
+				"impl": "description of methodology",
+				"obscurism": "tac"
 			}
-		],
-		"headers": [
-			"Spelling",
-			"Definition"
 		]
 	},
 	{
 		"type": "adverb",
 		"title": "Demonstrative adverbs",
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "tahi",
 				"meaning": "now",
-				"extra": []
+				"impl": null,
+				"obscurism": "tah"
 			},
 			{
 				"word": "kahi",
 				"meaning": "then",
-				"extra": []
+				"impl": null,
+				"obscurism": "kah"
 			},
 			{
 				"word": "sohi",
 				"meaning": "when",
-				"extra": []
+				"impl": null,
+				"obscurism": "soh"
 			}
-		],
-		"headers": [
-			"Spelling",
-			"Definition"
 		]
 	},
 	{
@@ -69,23 +86,27 @@
 		"title": "Demonstrative adverbs",
 		"headers": [
 			"Spelling",
-			"Definition"
+			"English Equivalent",
+			"Implication / Definition / Used as"
 		],
 		"entries": [
 			{
 				"word": "tawa",
 				"meaning": "here",
-				"extra": []
+				"impl": null,
+				"obscurism": "taw"
 			},
 			{
 				"word": "kawa",
 				"meaning": "there",
-				"extra": []
+				"impl": null,
+				"obscurism": "kaw"
 			},
 			{
 				"word": "sowa",
 				"meaning": "where",
-				"extra": []
+				"impl": null,
+				"obscurism": "sow"
 			}
 		]
 	}

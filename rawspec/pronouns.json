@@ -2,224 +2,211 @@
 	{
 		"type": "pronoun",
 		"title": "Indefinite Pronouns",
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
-				"word": "—",
-				"meaning": "li",
-				"extra": [
-					"animate, unspecified, 1st person"
-				]
+				"word": "li",
+				"meaning": null,
+				"impl": "animate, unspecified, 1st person",
+				"obscurism": null
 			},
 			{
-				"word": "mid",
-				"meaning": "mida",
-				"extra": [
-					"animate, unspecified, 2nd person"
-				]
+				"word": "mida",
+				"meaning": null,
+				"impl": "animate, unspecified, 2nd person",
+				"obscurism": "mid"
 			},
 			{
-				"word": "—",
-				"meaning": "da",
-				"extra": [
-					"animate, unspecified, 3rd person"
-				]
+				"word": "da",
+				"meaning": null,
+				"impl": "animate, unspecified, 3rd person",
+				"obscurism": null
 			},
 			{
-				"word": "—",
-				"meaning": "dase",
-				"extra": [
-					"animate, feminine, 3rd person"
-				]
+				"word": "dase",
+				"meaning": null,
+				"impl": "animate, feminine, 3rd person",
+				"obscurism": null
 			},
 			{
-				"word": "—",
-				"meaning": "dake",
-				"extra": [
-					"animate, fem-leaning, 3rd person"
-				]
+				"word": "dake",
+				"meaning": null,
+				"impl": "animate, fem-leaning, 3rd person",
+				"obscurism": null
 			},
 			{
-				"word": "—",
-				"meaning": "daka",
-				"extra": [
-					"animate, androgynous, 3rd person"
-				]
+				"word": "daka",
+				"meaning": null,
+				"impl": "animate, androgynous, 3rd person",
+				"obscurism": null
 			},
 			{
-				"word": "—",
-				"meaning": "daki",
-				"extra": [
-					"animate, masc-leaning, 3rd person"
-				]
+				"word": "daki",
+				"meaning": null,
+				"impl": "animate, masc-leaning, 3rd person",
+				"obscurism": null
 			},
 			{
-				"word": "—",
-				"meaning": "daci",
-				"extra": [
-					"animate, masculine, 3rd person"
-				]
+				"word": "daci",
+				"meaning": null,
+				"impl": "animate, masculine, 3rd person",
+				"obscurism": null
 			}
-		],
-		"headers": [
-			"Spelling (nonextended — original)",
-			"Spelling",
-			"Definition"
 		]
 	},
 	{
 		"type": "pronoun",
-		"title": "Demonstrative Pronouns \\_",
+		"title": "Demonstrative Pronouns (Close to speaker)",
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "reda",
-				"meaning": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence",
-				"extra": []
+				"meaning": null,
+				"impl": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence",
+				"obscurism": null
 			},
 			{
 				"word": "toransu",
 				"meaning": "other",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "gara",
 				"meaning": "all/every",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "coko",
 				"meaning": "some",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "boro",
 				"meaning": "any",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "mire",
 				"meaning": "half",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			}
-		],
-		"headers": [
-			"Spelling",
-			"Definition"
 		]
 	},
 	{
 		"type": "pronoun",
-		"title": "Demonstrative Pronouns (Far From Speaker)",
+		"title": "Demonstrative Pronouns (Far from speaker)",
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "tano",
-				"meaning": "this",
-				"extra": [
-					"this + n."
-				]
+				"meaning": "this + n.",
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "tani",
-				"meaning": "this",
-				"extra": [
-					"this + adj."
-				]
+				"meaning": "this + adj.",
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "tatu",
-				"meaning": "this way",
-				"extra": [
-					"as such, in this manner"
-				]
+				"meaning": "as such, so",
+				"impl": "\"this way\", \"in this manner\"",
+				"obscurism": null
 			},
 			{
 				"word": "talo",
 				"meaning": "such",
-				"extra": [
-					"such, this kind of"
-				]
+				"impl": "\"this kind of\"",
+				"obscurism": "tal"
 			}
-		],
-		"headers": [
-			"Word",
-			"Meaning",
-			"English Equivalent"
 		]
 	},
 	{
 		"type": "pronoun",
-		"title": "Demonstrative Pronouns (Interrogative Form)",
+		"title": "Demonstrative Pronouns (Interrogative form)",
+		"headers": [
+			"Spelling (far from speaker)",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "kano",
-				"meaning": "that",
-				"extra": [
-					"that + n."
-				]
+				"meaning": "that + n.",
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "kani",
-				"meaning": "that",
-				"extra": [
-					"that + adj."
-				]
+				"meaning": "that + adj.",
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "katu",
-				"meaning": "that way",
-				"extra": [
-					"as such, in that manner"
-				]
+				"meaning": "as such, so",
+				"impl": "\"that way\", \"in that manner\"",
+				"obscurism": null
 			},
 			{
-				"word": "kal",
+				"word": "kalo",
 				"meaning": "such",
-				"extra": [
-					"such, that kind of"
-				]
+				"impl": "\"that kind of\"",
+				"obscurism": "kal"
 			}
-		],
-		"headers": [
-			"Word",
-			"Meaning",
-			"English Equivalent"
 		]
 	},
 	{
 		"type": "pronoun",
-		"title": "Demonstrative Pronouns (Interrogative Form)",
+		"title": "Demonstrative Pronouns (Interrogative form)",
 		"headers": [
-			"Word",
-			"Meaning",
-			"English Equivalent"
+			"Spelling (interrogative form)",
+			"English Equivalent",
+			"Implication / Definition / Used as"
 		],
 		"entries": [
 			{
 				"word": "sono",
-				"meaning": "that",
-				"extra": [
-					"what"
-				]
+				"meaning": "what",
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "soni",
-				"meaning": "that",
-				"extra": [
-					"which"
-				]
+				"meaning": "which",
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "sotu",
-				"meaning": "that way",
-				"extra": [
-					"how"
-				]
+				"meaning": "how",
+				"impl": "\"which way\", \"in which manner\"",
+				"obscurism": null
 			},
 			{
 				"word": "solo",
-				"meaning": "such",
-				"extra": [
-					"what kind of"
-				]
+				"meaning": null,
+				"impl": "\"what kind of\"",
+				"obscurism": "sol"
 			}
 		]
 	}

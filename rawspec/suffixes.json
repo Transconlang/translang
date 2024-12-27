@@ -2,189 +2,172 @@
 	{
 		"type": "suffix",
 		"title": "Temporal verb suffixes",
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "-lu",
-				"meaning": "defines an agent noun",
-				"extra": [
-					"-er , -ist"
-				]
+				"meaning": "-er , -ist",
+				"impl": "defines an agent noun",
+				"obscurism": null
 			},
 			{
 				"word": "-sa",
-				"meaning": "indicates plurality",
-				"extra": [
-					"-s, -es"
-				]
+				"meaning": "-s, -es",
+				"impl": "indicates plurality",
+				"obscurism": null
 			},
 			{
 				"word": "-ri",
-				"meaning": "establishes a place/event",
-				"extra": [
-					"-ery"
-				]
+				"meaning": "-ery",
+				"impl": "establishes a place/event",
+				"obscurism": "-r"
 			},
 			{
 				"word": "-dufen",
-				"meaning": "refers to an entity or construct that performs a specific action or function",
-				"extra": [
-					"-ifier, -inator"
-				]
+				"meaning": "-ifier, -inator",
+				"impl": "refers to an entity or construct that performs a specific action or function",
+				"obscurism": null
 			},
 			{
 				"word": "-fe",
-				"meaning": "connotes opposition",
-				"extra": [
-					"\"against\" , \"in opposition to\"",
-					"—"
-				]
+				"meaning": "\"against\" , \"in opposition to\"",
+				"impl": "connotes opposition",
+				"obscurism": null
 			},
 			{
 				"word": "-se",
-				"meaning": "establishes feminine characteristics/gender",
-				"extra": [
-					"—"
-				]
+				"meaning": null,
+				"impl": "establishes feminine characteristics/gender",
+				"obscurism": "-s"
 			},
 			{
 				"word": "-ke",
-				"meaning": "establishes fem-leaning characteristics/gender",
-				"extra": [
-					"—"
-				]
+				"meaning": null,
+				"impl": "establishes fem-leaning characteristics/gender",
+				"obscurism": "-k"
 			},
 			{
 				"word": "-ka",
-				"meaning": "establishes androgynous characteristics/gender",
-				"extra": [
-					"—"
-				]
+				"meaning": null,
+				"impl": "establishes androgynous characteristics/gender",
+				"obscurism": null
 			},
 			{
 				"word": "-ki",
-				"meaning": "establishes masc-leaning characteristics/gender",
-				"extra": [
-					"—"
-				]
+				"meaning": null,
+				"impl": "establishes masc-leaning characteristics/gender",
+				"obscurism": null
 			},
 			{
 				"word": "-ci",
-				"meaning": "establishes masculine characteristics/gender",
-				"extra": [
-					"—"
-				]
+				"meaning": null,
+				"impl": "establishes masculine characteristics/gender",
+				"obscurism": "-c"
 			},
 			{
 				"word": "-pa",
-				"meaning": "marks word as possessive",
-				"extra": [
-					"-'s"
-				]
+				"meaning": "-'s",
+				"impl": "marks word as possessive",
+				"obscurism": "-p"
 			},
 			{
 				"word": "-lonki",
-				"meaning": "refers to a field of knowledge/study",
-				"extra": [
-					"-ology, -graphy, -nomy, -ics"
-				]
+				"meaning": "-ology, -graphy, -nomy, -ics",
+				"impl": "refers to a field of knowledge/study",
+				"obscurism": null
 			},
 			{
 				"word": "-falo",
-				"meaning": "indicates manner or characteristic of speech ",
-				"extra": [
-					"-speak, -talk"
-				]
+				"meaning": "-speak, -talk",
+				"impl": "indicates manner or characteristic of speech",
+				"obscurism": "-fal"
 			},
 			{
 				"word": "-bani",
-				"meaning": "for numbers, indicates ordinality",
-				"extra": [
-					"-th"
-				]
+				"meaning": "-th",
+				"impl": "for numbers, indicates ordinality",
+				"obscurism": null
 			},
 			{
 				"word": "-ra",
-				"meaning": "converts to adjective",
-				"extra": [
-					"-like"
-				]
+				"meaning": "-like, -ern",
+				"impl": "converts to adjective",
+				"obscurism": null
 			}
-		],
-		"headers": [
-			"Spelling",
-			"Definition",
-			"English equivalents"
 		]
 	},
 	{
 		"type": "suffix",
 		"title": "Other verb suffixes",
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "-da",
-				"meaning": "refers to the past tense form of a verb",
-				"extra": [
-					"-ed"
-				]
+				"meaning": "-ed",
+				"impl": "refers to the past tense form of a verb",
+				"obscurism": "-d"
 			},
 			{
 				"word": "-ne",
-				"meaning": "refers to the present tense form of a verb",
-				"extra": [
-					"-ing"
-				]
+				"meaning": "-ing",
+				"impl": "refers to the present tense form of a verb",
+				"obscurism": null
 			},
 			{
 				"word": "-lo",
-				"meaning": "refers to the future tense form of a verb",
-				"extra": [
-					"\"will\", \"shall\""
-				]
+				"meaning": "\"will\", \"shall\"",
+				"impl": "refers to the future tense form of a verb",
+				"obscurism": "-l"
 			},
 			{
 				"word": "-ja",
-				"meaning": "refers to that a verb is in progress or incomplete",
-				"extra": [
-					"\"yet\", \"so far\""
-				]
+				"meaning": "\"yet\", \"so far\"",
+				"impl": "refers to that a verb is in progress or incomplete",
+				"obscurism": null
+			},
+			{
+				"word": "-zi",
+				"meaning": null,
+				"impl": "implies indefinite action of verb without defined beginning or end",
+				"obscurism": null
 			}
-		],
-		"headers": [
-			"Spelling",
-			"Definition",
-			"English equivalents"
 		]
 	},
 	{
 		"type": "suffix",
 		"title": "Adjective suffixes",
+		"headers": [
+			"Spelling",
+			"English Equivalent",
+			"Implication / Definition / Used as"
+		],
 		"entries": [
 			{
 				"word": "-ku",
-				"meaning": "establishes verb as uncertain/questioning",
-				"extra": [
-					"—"
-				]
+				"meaning": null,
+				"impl": "establishes verb as uncertain/questioning",
+				"obscurism": null
 			},
 			{
 				"word": "-do",
-				"meaning": "establishes verb as imperative",
-				"extra": [
-					"\"should\", \"ought to\""
-				]
+				"meaning": "\"should\", \"ought to\"",
+				"impl": "establishes verb as imperative",
+				"obscurism": null
 			},
 			{
 				"word": "-kuka",
-				"meaning": "establishes verb as politely questioning/requesting",
-				"extra": [
-					"\"please\""
-				]
+				"meaning": "\"please\"",
+				"impl": "establishes verb as politely questioning/requesting",
+				"obscurism": null
 			}
-		],
-		"headers": [
-			"Spelling",
-			"Definition",
-			"English equivalents"
 		]
 	},
 	{
@@ -192,30 +175,27 @@
 		"title": "Adjective suffixes",
 		"headers": [
 			"Spelling",
-			"Definition",
-			"English equivalents"
+			"English Equivalent",
+			"Implication / Definition / Used as"
 		],
 		"entries": [
 			{
 				"word": "-jala",
-				"meaning": "denotes ability or capacity",
-				"extra": [
-					"-able , -ible , \"capable of\""
-				]
+				"meaning": "-able , -ible , \"capable of\"",
+				"impl": "denotes ability or capacity",
+				"obscurism": null
 			},
 			{
 				"word": "-wan",
-				"meaning": "denotes superlative adjectives",
-				"extra": [
-					"-est"
-				]
+				"meaning": "-est",
+				"impl": "denotes superlative adjectives",
+				"obscurism": null
 			},
 			{
 				"word": "-kin",
-				"meaning": "conversion to noun",
-				"extra": [
-					"—"
-				]
+				"meaning": null,
+				"impl": "denotes conversion to noun",
+				"obscurism": null
 			}
 		]
 	}

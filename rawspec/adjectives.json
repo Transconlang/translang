@@ -4,218 +4,243 @@
 		"title": null,
 		"headers": [
 			"Spelling",
-			"Definition"
+			"English Equivalent",
+			"Implication / Definition / Used as"
 		],
 		"entries": [
 			{
 				"word": "mi",
 				"meaning": "cute",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "wusita",
 				"meaning": "good",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "disita",
 				"meaning": "bad",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "nen",
 				"meaning": "not",
-				"extra": []
+				"impl": null,
+				"obscurism": "nen'"
 			},
 			{
 				"word": "toransu",
 				"meaning": "different, other",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "somo",
 				"meaning": "sleepy",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "sekiso",
 				"meaning": "sexy, fuckable",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "deja",
 				"meaning": "active",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "gara",
 				"meaning": "all",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "coko",
 				"meaning": "some",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "boro",
 				"meaning": "any",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "gurati",
-				"meaning": "negative freedom, free (price)",
-				"extra": []
+				"meaning": "free (price), autonomous, non-interfered-with",
+				"impl": "negative freedom",
+				"obscurism": null
 			},
 			{
 				"word": "lifeta",
-				"meaning": "positive freedom, liberated",
-				"extra": []
+				"meaning": "liberated",
+				"impl": "positive freedom",
+				"obscurism": null
 			},
 			{
 				"word": "jala",
 				"meaning": "able, capable of",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "mire",
 				"meaning": "mid, average",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "misu",
 				"meaning": "liquid, fluid",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "ten",
 				"meaning": "solid, rigid",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "lufi",
 				"meaning": "gaseous",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "cinda",
 				"meaning": "new",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "gunda",
 				"meaning": "old",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "cindajin",
 				"meaning": "modern",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "gundajin",
 				"meaning": "ancient",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "cingun",
 				"meaning": "physically light",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "cingunem",
 				"meaning": "psychologically light",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "qongun",
 				"meaning": "physically heavy",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "qongunem",
 				"meaning": "psychologically heavy",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "anoman",
 				"meaning": "angry",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "teto",
 				"meaning": "large (size)",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "ciki",
 				"meaning": "short (size)",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "kanacin",
 				"meaning": "sad",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "tanocin",
 				"meaning": "happy",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "cangi",
 				"meaning": "long (time)",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "dangi",
 				"meaning": "short (time)",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "tenza",
 				"meaning": "tall (height)",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "kenki",
 				"meaning": "short (height)",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "suci",
 				"meaning": "intelligent",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "mimi",
 				"meaning": "adorable",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "dakun",
 				"meaning": "black, dark",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "lajito",
 				"meaning": "white, light, bright",
-				"extra": []
-			},
-			{
-				"word": "miremire",
-				"meaning": "gray",
-				"extra": []
-			},
-			{
-				"word": "mayu",
-				"meaning": "very, extremely",
-				"extra": []
-			},
-			{
-				"word": "suranto",
-				"meaning": "same",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			}
 		]
 	}

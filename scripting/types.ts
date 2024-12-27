@@ -3,15 +3,16 @@
  */
 export interface Section {
 	title: string | null;
-	type: WordType;
 	headers: string[];
+	type: WordType;
 	entries: Entry[];
 }
 
 export interface Entry {
 	word: string;
-	meaning: string;
-	extra?: string[];
+	meaning: string | null;
+	impl: string | null;
+	obscurism: string | null;
 }
 
 /**
@@ -36,4 +37,5 @@ export type WordType =
 	| 'preposition'
 	| 'pronoun'
 	| 'suffix'
-	| 'verb';
+	| 'verb'
+	| 'article';

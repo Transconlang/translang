@@ -4,53 +4,63 @@
 		"title": null,
 		"headers": [
 			"Spelling",
-			"Definition"
+			"English Equivalent",
+			"Implication / Definition / Used as"
 		],
 		"entries": [
 			{
 				"word": "sim",
 				"meaning": "yes",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "nen",
 				"meaning": "no",
-				"extra": []
+				"impl": null,
+				"obscurism": "nen'"
 			},
 			{
 				"word": "henlo",
 				"meaning": "hello",
-				"extra": []
+				"impl": null,
+				"obscurism": "hnl"
 			},
 			{
 				"word": "na",
 				"meaning": "hi",
-				"extra": []
+				"impl": null,
+				"obscurism": "n"
 			},
 			{
 				"word": "konba",
 				"meaning": "goodbye",
-				"extra": []
+				"impl": null,
+				"obscurism": "kon'ba"
 			},
 			{
 				"word": "mi",
-				"meaning": "cute!",
-				"extra": []
+				"meaning": "cute",
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "ke",
 				"meaning": "ok",
-				"extra": []
+				"impl": "confirmation, acknowledgement",
+				"obscurism": "k"
 			},
 			{
 				"word": "biwe",
 				"meaning": "thanks",
-				"extra": []
+				"impl": null,
+				"obscurism": "bwe"
 			},
 			{
 				"word": "hihi",
 				"meaning": "laughter",
-				"extra": []
+				"impl": null,
+				"obscurism": "hh"
 			}
 		]
 	}

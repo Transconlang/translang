@@ -4,48 +4,63 @@
 		"title": null,
 		"headers": [
 			"Spelling",
-			"Definition"
+			"Translation (English)",
+			"Implication / Definition / Used as"
 		],
 		"entries": [
 			{
 				"word": "mire-",
-				"meaning": "half, in the middle of",
-				"extra": []
+				"meaning": "semi-",
+				"impl": "semi",
+				"obscurism": null
 			},
 			{
 				"word": "gara-",
-				"meaning": "all/every",
-				"extra": []
+				"meaning": "all-/every-",
+				"impl": "all/every",
+				"obscurism": null
 			},
 			{
 				"word": "coko-",
-				"meaning": "some",
-				"extra": []
+				"meaning": "some-",
+				"impl": "some",
+				"obscurism": null
 			},
 			{
 				"word": "boro-",
-				"meaning": "any",
-				"extra": []
+				"meaning": "any-",
+				"impl": "any",
+				"obscurism": null
 			},
 			{
 				"word": "ni-",
-				"meaning": "negation, other than",
-				"extra": []
+				"meaning": "non-",
+				"impl": "negation, other than",
+				"obscurism": null
 			},
 			{
 				"word": "mo-",
-				"meaning": "inversion, contrary meaning",
-				"extra": []
+				"meaning": null,
+				"impl": "inversion, contrary meaning",
+				"obscurism": null
 			},
 			{
 				"word": "wu-",
-				"meaning": "denotes positive connotation",
-				"extra": []
+				"meaning": null,
+				"impl": "positive connotation",
+				"obscurism": null
 			},
 			{
 				"word": "di-",
-				"meaning": "denotes negative connotation",
-				"extra": []
+				"meaning": null,
+				"impl": "negative connotation",
+				"obscurism": null
+			},
+			{
+				"word": "deja-",
+				"meaning": "-doing",
+				"impl": "the doing of",
+				"obscurism": null
 			}
 		]
 	}

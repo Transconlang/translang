@@ -3,514 +3,615 @@
 		"type": "number",
 		"title": null,
 		"headers": [
-			"Word",
-			"Number"
+			"Spelling",
+			"Hindu-Arabic Numeral"
 		],
 		"entries": [
 			{
 				"word": "**sero**",
 				"meaning": "0",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**wano**",
 				"meaning": "1",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**duwo**",
 				"meaning": "2",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**tero**",
 				"meaning": "3",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**karo**",
 				"meaning": "4",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**bimo**",
 				"meaning": "5",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**ciko**",
 				"meaning": "6",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**sebo**",
 				"meaning": "7",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**wonto**",
 				"meaning": "8",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**ninto**",
 				"meaning": "9",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**dinko**",
 				"meaning": "10",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "dunko",
 				"meaning": "20",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "tenko",
 				"meaning": "30",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "kanko",
 				"meaning": "40",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "binko",
 				"meaning": "50",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "cinko",
 				"meaning": "60",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "senko",
 				"meaning": "70",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "wonko",
 				"meaning": "80",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "ninko",
 				"meaning": "90",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**hundo**",
 				"meaning": "100",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "dundo",
 				"meaning": "200",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "tendo",
 				"meaning": "300",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "kando",
 				"meaning": "400",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "bindo",
 				"meaning": "500",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "cindo",
 				"meaning": "600",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "sendo",
 				"meaning": "700",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "wondo",
 				"meaning": "800",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "nindo",
 				"meaning": "900",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**neko**",
 				"meaning": "1000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "duko",
 				"meaning": "2000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "teko",
 				"meaning": "3000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "keko",
 				"meaning": "4000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "biko",
 				"meaning": "5000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "ciko",
 				"meaning": "6000",
-				"extra": []
+				"impl": null,
+				"obscurism": "cko"
 			},
 			{
 				"word": "seko",
 				"meaning": "7000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "woko",
 				"meaning": "8000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "niko",
 				"meaning": "9000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "diko",
 				"meaning": "10'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "dudiko",
 				"meaning": "20'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "tediko",
 				"meaning": "30'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "kadiko",
 				"meaning": "40'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "bidiko",
 				"meaning": "50'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "cidiko",
 				"meaning": "60'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "sediko",
 				"meaning": "70'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "wodiko",
 				"meaning": "80'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "nidiko",
 				"meaning": "90'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "huko",
 				"meaning": "100'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "duhuko",
 				"meaning": "200'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "tehuko",
 				"meaning": "300'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "kahuko",
 				"meaning": "400'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "bihuko",
 				"meaning": "500'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "cihuko",
 				"meaning": "600'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "sehuko",
 				"meaning": "700'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "wohuko",
 				"meaning": "800'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "nihuko",
 				"meaning": "900'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**ranolono**",
 				"meaning": "1'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "dunolono",
 				"meaning": "2'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "tenolono",
 				"meaning": "3'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "kenolono",
 				"meaning": "4'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "binolono",
 				"meaning": "5'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "cinolono",
 				"meaning": "6'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "senolono",
 				"meaning": "7'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "wonolono",
 				"meaning": "8'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "ninolono",
 				"meaning": "9'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "dinolono",
 				"meaning": "10'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "dudinolono",
 				"meaning": "20'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "tedinolono",
 				"meaning": "30'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "kadinolono",
 				"meaning": "40'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "bidinolono",
 				"meaning": "50'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "cidinolono",
 				"meaning": "60'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "sedinolono",
 				"meaning": "70'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "wodinolono",
 				"meaning": "80'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "nidinolono",
 				"meaning": "90'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "hunolono",
 				"meaning": "100'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**rawolono**",
 				"meaning": "1'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "diwolono",
 				"meaning": "10'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "huwolono",
 				"meaning": "100'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**rerolono**",
 				"meaning": "1'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "dirolono",
 				"meaning": "10'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "hurolono",
 				"meaning": "100'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**ragolono**",
 				"meaning": "1'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "digolono",
 				"meaning": "10'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "hugolono",
 				"meaning": "100'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**rimolono**",
 				"meaning": "1'000'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "dimolono",
 				"meaning": "10'000'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "humolono",
 				"meaning": "100'000'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**rikolono**",
 				"meaning": "1'000'000'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "dikolono",
 				"meaning": "10'000'000'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
-				"word": "hukolono",
+				"word": "hubolono",
 				"meaning": "100'000'000'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**rebolono**",
 				"meaning": "1'000'000'000'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "dibolono",
 				"meaning": "10'000'000'000'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "hubolono",
 				"meaning": "100'000'000'000'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**rontolono**",
 				"meaning": "1'000'000'000'000'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "dintolono",
 				"meaning": "10'000'000'000'000'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "huntolono",
 				"meaning": "100'000'000'000'000'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**rinolono**",
 				"meaning": "1'000'000'000'000'000'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "dimpolono",
 				"meaning": "10'000'000'000'000'000'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "humpolono",
 				"meaning": "100'000'000'000'000'000'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "**rinkolono**",
 				"meaning": "1'000'000'000'000'000'000'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "dinkolono",
 				"meaning": "100'000'000'000'000'000'000'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "hunkolono",
 				"meaning": "100'000'000'000'000'000'000'000'000'000'000'000",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			}
 		]
 	}

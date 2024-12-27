@@ -3,139 +3,167 @@
 		"type": "verb",
 		"title": null,
 		"headers": [
+			"Spelling (nonextended — original)",
 			"Spelling",
-			"Definition"
+			"English Equivalent",
+			"Implication / Definition / Used as"
 		],
 		"entries": [
 			{
 				"word": "mawa",
 				"meaning": "kiss",
-				"extra": []
+				"impl": null,
+				"obscurism": "mw"
 			},
 			{
 				"word": "binta",
 				"meaning": "eat",
-				"extra": []
+				"impl": null,
+				"obscurism": "bn'ta"
 			},
 			{
 				"word": "sanu",
 				"meaning": "be",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "tenco",
 				"meaning": "have",
-				"extra": []
+				"impl": null,
+				"obscurism": "ten'co"
 			},
 			{
 				"word": "somo",
 				"meaning": "sleep",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "cosi",
 				"meaning": "choose, vote",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "falo",
 				"meaning": "speak, say, tell",
-				"extra": []
+				"impl": null,
+				"obscurism": "fal"
 			},
 			{
 				"word": "toransu",
 				"meaning": "differ",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "mahen",
 				"meaning": "make, create",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "sekiso",
 				"meaning": "have sex, fuck",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "deja",
 				"meaning": "do, act",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "gade",
 				"meaning": "guess",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "nem",
 				"meaning": "think",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "pen",
 				"meaning": "move",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "nepen",
 				"meaning": "feel",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "gurati",
 				"meaning": "induce negative freedom, reduce cost to none",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "lifeta",
 				"meaning": "induce positive freedom",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "jala",
 				"meaning": "can, be able to",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "meta",
 				"meaning": "measure",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "core",
 				"meaning": "want",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "jore",
 				"meaning": "need",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "pora",
 				"meaning": "to add, to increase",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "mina",
 				"meaning": "to subtract, to decrease, to remove",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "mulipa",
 				"meaning": "to multiply",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "cipan",
 				"meaning": "to divide, to split",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "nepetori",
 				"meaning": "to love, to feel love towards",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			}
 		]
 	}

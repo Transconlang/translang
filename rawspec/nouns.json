@@ -4,318 +4,369 @@
 		"title": null,
 		"headers": [
 			"Spelling",
-			"Definition"
+			"English Equivalent",
+			"Implication / Definition / Used as"
 		],
 		"entries": [
 			{
 				"word": "kase",
 				"meaning": "cat",
-				"extra": []
+				"impl": null,
+				"obscurism": "kas"
 			},
 			{
 				"word": "hun",
 				"meaning": "dog",
-				"extra": []
+				"impl": null,
+				"obscurism": "hn'"
 			},
 			{
 				"word": "luma",
 				"meaning": "person",
-				"extra": []
+				"impl": null,
+				"obscurism": "lm"
 			},
 			{
 				"word": "mawa",
 				"meaning": "kiss",
-				"extra": []
+				"impl": null,
+				"obscurism": "mw"
 			},
 			{
 				"word": "lanmi",
 				"meaning": "food",
-				"extra": []
+				"impl": null,
+				"obscurism": "ln'mi"
 			},
 			{
 				"word": "topi",
 				"meaning": "god, deity",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "wantu",
 				"meaning": "number",
-				"extra": []
+				"impl": null,
+				"obscurism": "wn'tu"
 			},
 			{
 				"word": "cosi",
 				"meaning": "choice, vote",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "falo",
 				"meaning": "speech, discussion, chat",
-				"extra": []
+				"impl": null,
+				"obscurism": "fal"
 			},
 			{
 				"word": "linwa",
 				"meaning": "language",
-				"extra": []
+				"impl": null,
+				"obscurism": "ln'wa"
 			},
 			{
 				"word": "keso",
 				"meaning": "cheese",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "sekiso",
 				"meaning": "sex, act of fucking",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "lumaba",
 				"meaning": "friend",
-				"extra": []
+				"impl": null,
+				"obscurism": "cn'ku"
 			},
 			{
 				"word": "deja",
 				"meaning": "action",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "gade",
 				"meaning": "guess",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "tempu",
 				"meaning": "time",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "cikondu",
 				"meaning": "second",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "minedu",
 				"meaning": "minute",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "haweru",
 				"meaning": "hour",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "dawu",
 				"meaning": "day",
-				"extra": []
+				"impl": null,
+				"obscurism": "dwu"
 			},
 			{
 				"word": "natu",
 				"meaning": "night",
-				"extra": []
+				"impl": null,
+				"obscurism": "ntu"
 			},
 			{
 				"word": "murinu",
 				"meaning": "morning",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "ebeninku",
 				"meaning": "evening",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "monadu",
 				"meaning": "month",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "siconu",
 				"meaning": "season",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "waru",
 				"meaning": "year",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "diwaru",
 				"meaning": "decade",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "huwaru",
 				"meaning": "century",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "newaru",
 				"meaning": "millenium",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "nem",
 				"meaning": "mind",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "pen",
 				"meaning": "movement",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "nepen",
 				"meaning": "feeling",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "gurati",
-				"meaning": "free (price), without cost",
-				"extra": []
+				"meaning": "non-intervention",
+				"impl": "free (price), without cost",
+				"obscurism": null
 			},
 			{
 				"word": "lifeta",
-				"meaning": "liberation, liberty",
-				"extra": []
+				"meaning": "(positive) freedom",
+				"impl": "liberation, liberty",
+				"obscurism": null
 			},
 			{
 				"word": "kumi",
 				"meaning": "trans(gender)ness",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "jala",
 				"meaning": "ability",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "mire",
 				"meaning": "half, middle",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "misu",
 				"meaning": "liquid",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "lufi",
 				"meaning": "gas",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "ten",
 				"meaning": "solid",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "kin",
 				"meaning": "thing",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "meta",
 				"meaning": "measurment",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "core",
 				"meaning": "desire",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "jore",
 				"meaning": "need",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "lonki",
 				"meaning": "field of knowledge/study",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "tori",
 				"meaning": "kindness, love",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "toba",
 				"meaning": "word",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "bencun",
 				"meaning": "book",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "gucun",
 				"meaning": "story",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "bengu",
 				"meaning": "storybook",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "cikaran",
 				"meaning": "physical strength",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "cikaranem",
 				"meaning": "mental strength",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "canwa",
 				"meaning": "result",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "wucan",
 				"meaning": "victory",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "dican",
 				"meaning": "defeat",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "bulohaji",
 				"meaning": "comfort, safety, euphoria",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "hason",
 				"meaning": "sound",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "hasontoba",
 				"meaning": "pronunciation",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "miku",
 				"meaning": "idol",
-				"extra": []
-			},
-			{
-				"word": "qanzi",
-				"meaning": "paper",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			},
 			{
 				"word": "muna",
 				"meaning": "egg",
-				"extra": []
-			},
-			{
-				"word": "suntu",
-				"meaning": "dumbass, idiot",
-				"extra": []
+				"impl": null,
+				"obscurism": null
 			}
 		]
 	}

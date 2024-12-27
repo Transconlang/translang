@@ -12,6 +12,18 @@
 - The title should be a level 1 heading, that is, the line should be preceded a `#`.
 - Sections, subsections, or n\*(sub)sections should be level 2, 3, or n headings respectively. If you need more than the 6 default headings included in standard markdown, you're probably doing something wrong.
 
+**For parser compatibility, each table should follow the following column format:**
+
+```markdown
+| Spelling | Definition / Meaning | English Equivalent / Implication |
+| -------- | -------------------- | -------------------------------- |
+| foo      | bar                  | baz                              |
+```
+
+(Padding data cells with spaces is not necessary.)
+
+If an entry does not have a direct translation (definition or meaning), then it **must** have an implication. No exceptions, other we have completely undefined words.
+
 ## Soft rules/guidelines
 
 ### Regarding the raw markdown code
