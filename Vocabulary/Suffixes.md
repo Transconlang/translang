@@ -10,9 +10,9 @@
 | -dufen | -ifier, -inator | refers to an entity or construct that performs a specific action or function |
 | -fe | "against" , "in opposition to" | connotes opposition |
 | -se |  | establishes feminine characteristics/gender |
-| -ke |  | establishes androfeminine characteristics/gender |
+| -ke |  | establishes fem-leaning characteristics/gender |
 | -ka |  | establishes androgynous characteristics/gender |
-| -ki |  | establishes andromasc characteristics/gender |
+| -ki |  | establishes masc-leaning characteristics/gender |
 | -ci |  | establishes masculine characteristics/gender |
 | -pa | -'s | marks word as possessive |
 | -lonki | -ology, -graphy, -nomy, -ics | refers to a field of knowledge/study |
@@ -28,7 +28,7 @@
 | -ne | -ing | refers to the present tense form of a verb |
 | -lo | "will", "shall" | refers to the future tense form of a verb |
 | -ja | "yet", "so far" | refers to that a verb is in progress or incomplete |
-| -zim | "to ___" | establishes verb as infinitive |
+| -zi |  | implies indefinite action of verb without defined beginning or end |
 
 ## Other verb suffixes
 
