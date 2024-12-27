@@ -273,6 +273,27 @@
 		"obscurism": null
 	},
 	{
+		"word": "miremire",
+		"meaning": "gray",
+		"impl": null,
+		"type": "adjective",
+		"obscurism": null
+	},
+	{
+		"word": "mayu",
+		"meaning": "very, extremely",
+		"impl": null,
+		"type": "adjective",
+		"obscurism": null
+	},
+	{
+		"word": "suranto",
+		"meaning": "same",
+		"impl": null,
+		"type": "adjective",
+		"obscurism": null
+	},
+	{
 		"word": "nen",
 		"meaning": "no",
 		"impl": "logical negation",
@@ -1484,7 +1505,7 @@
 		"obscurism": null
 	},
 	{
-		"word": "hubolono",
+		"word": "hukolono",
 		"meaning": "100'000'000'000'000'000'000'000",
 		"impl": null,
 		"type": "number",
