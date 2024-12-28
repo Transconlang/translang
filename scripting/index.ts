@@ -47,7 +47,7 @@ const Files = await readdir(SourceDirectory);
 const CompleteDictionaryStack: FullEntry[] = [];
 const CattedBigSectionStack: BigSection[] = [];
 
-const h2Matcher = /^## [A-z\s!-,()]+$/i;
+const h2Matcher = /^## .+$/i;
 const tableRowMatcher = /^\| [^|]* \|( [^|]* \|)+$/i;
 
 for (const file of Files) {
