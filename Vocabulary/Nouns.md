@@ -64,3 +64,8 @@
 | qanzi | paper |  | |
 | muna | egg |  |
 | suntu | dumbass, idiot | |
+| caja | adventure, journey | |
+| goca | land, country, nation | |
+| lumakapa | sibling | |
+| kawapi | water | |
+| picanam | picture, image | |
