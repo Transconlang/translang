@@ -54,9 +54,7 @@ for (const file of Files) {
 	const content = await readFile(join(SourceDirectory, file), 'utf-8');
 	const unfilteredRows = content.split('\n').map(v => v.trim());
 	const rows = unfilteredRows.filter(
-		v =>
-			v.replaceAll(/[\|\s\-]/gi, '').length > 0 &&
-			(tableRowMatcher.test(v) || h2Matcher.test(v))
+		v => tableRowMatcher.test(v) || h2Matcher.test(v)
 	);
 
 	const type = (() => {
@@ -73,9 +71,9 @@ for (const file of Files) {
 	let headers: string[] = [];
 	for (const row of rows) {
 		if (h2Matcher.test(row)) {
-			title = row.slice(3);
 			if (subSectionStack.length > 0)
 				sectionStack.push({ type, title, headers, entries: subSectionStack });
+			title = row.slice(3);
 			subSectionStack = [];
 			justStartedNewSection = true;
 			continue;
