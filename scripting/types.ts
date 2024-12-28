@@ -8,6 +8,14 @@ export interface Section {
 	entries: Entry[];
 }
 
+/**
+ * The type of each individual section in the concatenated file (0-catted.json)
+ */
+export interface BigSection {
+	title: string;
+	sections: Section[];
+}
+
 export interface Entry {
 	word: string;
 	meaning: string | null;

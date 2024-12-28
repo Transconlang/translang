@@ -1,7 +1,7 @@
 import { readdir, readFile, writeFile } from 'fs/promises';
 import { dirname, join } from 'path';
 import { fileURLToPath } from 'url';
-import { Entry, WordType, FullEntry, Section } from './types';
+import { Entry, WordType, FullEntry, Section, BigSection } from './types';
 
 const SourceDirectory = join(
 	dirname(fileURLToPath(import.meta.url)),
@@ -45,6 +45,7 @@ const obscureMap = await parseObscurisms();
 
 const Files = await readdir(SourceDirectory);
 const CompleteDictionaryStack: FullEntry[] = [];
+const CattedBigSectionStack: BigSection[] = [];
 
 const h2Matcher = /^## [A-z\s!-,()]+$/i;
 const tableRowMatcher = /^\| [^|]* \|( [^|]* \|)+$/i;
@@ -138,10 +139,21 @@ for (const file of Files) {
 		JSON.stringify(sectionStack, null, '\t'),
 		'utf-8'
 	);
+
+	CattedBigSectionStack.push({
+		title: file.replace(/\.md$/, ''),
+		sections: sectionStack
+	} satisfies BigSection);
 }
 
 await writeFile(
 	join(TargetDirectory, '0-complete.json'),
 	JSON.stringify(CompleteDictionaryStack, null, '\t'),
+	'utf-8'
+);
+
+await writeFile(
+	join(TargetDirectory, '0-catted.json'),
+	JSON.stringify(CattedBigSectionStack, null, '\t'),
 	'utf-8'
 );
