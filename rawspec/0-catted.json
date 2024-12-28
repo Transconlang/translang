@@ -272,7 +272,7 @@
 		"sections": [
 			{
 				"type": "adverb",
-				"title": "Temporal adverbs",
+				"title": "Miscellaneous adverbs",
 				"headers": [
 					"Spelling",
 					"English Equivalent",
@@ -325,7 +325,7 @@
 			},
 			{
 				"type": "adverb",
-				"title": "Demonstrative adverbs",
+				"title": "Temporal adverbs",
 				"headers": [
 					"Spelling",
 					"English Equivalent",
@@ -1647,7 +1647,7 @@
 		"sections": [
 			{
 				"type": "pronoun",
-				"title": "Indefinite Pronouns",
+				"title": "Personal Pronouns",
 				"headers": [
 					"Spelling",
 					"English Equivalent",
@@ -1706,7 +1706,7 @@
 			},
 			{
 				"type": "pronoun",
-				"title": "Demonstrative Pronouns (Close to speaker)",
+				"title": "Indefinite Pronouns",
 				"headers": [
 					"Spelling",
 					"English Equivalent",
@@ -1753,7 +1753,7 @@
 			},
 			{
 				"type": "pronoun",
-				"title": "Demonstrative Pronouns (Far from speaker)",
+				"title": "Demonstrative Pronouns (Close to speaker)",
 				"headers": [
 					"Spelling",
 					"English Equivalent",
@@ -1788,7 +1788,7 @@
 			},
 			{
 				"type": "pronoun",
-				"title": "Demonstrative Pronouns (Interrogative form)",
+				"title": "Demonstrative Pronouns (Far from speaker)",
 				"headers": [
 					"Spelling (far from speaker)",
 					"English Equivalent",
@@ -1863,7 +1863,7 @@
 		"sections": [
 			{
 				"type": "suffix",
-				"title": "Temporal verb suffixes",
+				"title": "(Pro)noun suffixes",
 				"headers": [
 					"Spelling",
 					"English Equivalent",
@@ -1964,7 +1964,7 @@
 			},
 			{
 				"type": "suffix",
-				"title": "Other verb suffixes",
+				"title": "Temporal verb suffixes",
 				"headers": [
 					"Spelling",
 					"English Equivalent",
@@ -2005,7 +2005,7 @@
 			},
 			{
 				"type": "suffix",
-				"title": "Adjective suffixes",
+				"title": "Other verb suffixes",
 				"headers": [
 					"Spelling",
 					"English Equivalent",
