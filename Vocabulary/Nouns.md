@@ -64,3 +64,4 @@
 | qanzi | paper |  | |
 | muna | egg |  |
 | suntu | dumbass, idiot | |
+| tobacun | dictionary | |
