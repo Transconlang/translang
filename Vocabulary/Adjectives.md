@@ -44,3 +44,4 @@
 | miremire | gray |
 | mayu | very, extremely |
 | suranto | same |
+| kuso | exciting |
