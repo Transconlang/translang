@@ -2045,7 +2045,7 @@
 	},
 	{
 		"word": "-ne",
-		"meaning": "-ing",
+		"meaning": null,
 		"impl": "refers to the present tense form of a verb",
 		"type": "suffix",
 		"obscurism": null
