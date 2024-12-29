@@ -294,6 +294,13 @@
 		"obscurism": null
 	},
 	{
+		"word": "kuso",
+		"meaning": "exciting",
+		"impl": null,
+		"type": "adjective",
+		"obscurism": null
+	},
+	{
 		"word": "nen",
 		"meaning": "no",
 		"impl": "logical negation",
