@@ -69,3 +69,4 @@
 | lumakapa | sibling | |
 | kawapi | water | |
 | picanam | picture, image | |
+| tobacun | dictionary | |

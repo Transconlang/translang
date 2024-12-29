@@ -1,7 +1,7 @@
 [
 	{
 		"type": "pronoun",
-		"title": "Indefinite Pronouns",
+		"title": "Personal Pronouns",
 		"headers": [
 			"Spelling",
 			"English Equivalent",
@@ -60,7 +60,7 @@
 	},
 	{
 		"type": "pronoun",
-		"title": "Demonstrative Pronouns (Close to speaker)",
+		"title": "Indefinite Pronouns",
 		"headers": [
 			"Spelling",
 			"English Equivalent",
@@ -107,7 +107,7 @@
 	},
 	{
 		"type": "pronoun",
-		"title": "Demonstrative Pronouns (Far from speaker)",
+		"title": "Demonstrative Pronouns (Close to speaker)",
 		"headers": [
 			"Spelling",
 			"English Equivalent",
@@ -142,7 +142,7 @@
 	},
 	{
 		"type": "pronoun",
-		"title": "Demonstrative Pronouns (Interrogative form)",
+		"title": "Demonstrative Pronouns (Far from speaker)",
 		"headers": [
 			"Spelling (far from speaker)",
 			"English Equivalent",

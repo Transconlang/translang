@@ -1,7 +1,7 @@
 import { readdir, readFile, writeFile } from 'fs/promises';
 import { dirname, join } from 'path';
 import { fileURLToPath } from 'url';
-import { Entry, WordType, FullEntry, Section } from './types';
+import { Entry, WordType, FullEntry, Section, BigSection } from './types';
 
 const SourceDirectory = join(
 	dirname(fileURLToPath(import.meta.url)),
@@ -45,17 +45,16 @@ const obscureMap = await parseObscurisms();
 
 const Files = await readdir(SourceDirectory);
 const CompleteDictionaryStack: FullEntry[] = [];
+const CattedBigSectionStack: BigSection[] = [];
 
-const h2Matcher = /^## [A-z\s!-,()]+$/i;
+const h2Matcher = /^## .+$/i;
 const tableRowMatcher = /^\| [^|]* \|( [^|]* \|)+$/i;
 
 for (const file of Files) {
 	const content = await readFile(join(SourceDirectory, file), 'utf-8');
 	const unfilteredRows = content.split('\n').map(v => v.trim());
 	const rows = unfilteredRows.filter(
-		v =>
-			v.replaceAll(/[\|\s\-]/gi, '').length > 0 &&
-			(tableRowMatcher.test(v) || h2Matcher.test(v))
+		v => tableRowMatcher.test(v) || h2Matcher.test(v)
 	);
 
 	const type = (() => {
@@ -72,9 +71,9 @@ for (const file of Files) {
 	let headers: string[] = [];
 	for (const row of rows) {
 		if (h2Matcher.test(row)) {
-			title = row.slice(3);
 			if (subSectionStack.length > 0)
 				sectionStack.push({ type, title, headers, entries: subSectionStack });
+			title = row.slice(3);
 			subSectionStack = [];
 			justStartedNewSection = true;
 			continue;
@@ -138,10 +137,21 @@ for (const file of Files) {
 		JSON.stringify(sectionStack, null, '\t'),
 		'utf-8'
 	);
+
+	CattedBigSectionStack.push({
+		title: file.replace(/\.md$/, ''),
+		sections: sectionStack
+	} satisfies BigSection);
 }
 
 await writeFile(
 	join(TargetDirectory, '0-complete.json'),
 	JSON.stringify(CompleteDictionaryStack, null, '\t'),
+	'utf-8'
+);
+
+await writeFile(
+	join(TargetDirectory, '0-catted.json'),
+	JSON.stringify(CattedBigSectionStack, null, '\t'),
 	'utf-8'
 );
