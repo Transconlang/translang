@@ -16,7 +16,7 @@ Roots are gender neutral by themselves and only (pro)nouns can have number and g
 
 ## Verbs
 
-To use a verb in a sentence, take the *root* (the dictionary entry) and add one of the following endings to it:
+To use a verb in a sentence, take the **root** (*the dictionary entry*) and add one of the following endings to it:
 
 | Ending | Meaning |
 |--------|---------|
