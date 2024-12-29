@@ -16,11 +16,20 @@ Roots are gender neutral by themselves and only (pro)nouns can have number and g
 
 ## Verbs
 
-Verb is formed as root followed by ending.
+To use a verb in a sentence, take the **root** (*the dictionary entry*) and add one of the following endings to it:
 
-Ending is either empty, -da for past tense, -ne for present tense, -lo for future tense, or -do for imperative mood.
+| Ending | Meaning |
+|--------|---------|
+| -ne | present tense |
+| -da | past tense |
+| -lo | future tense |
+| -do | imperative | 
+| *none* | infinitive | 
 
-It can also be postfixed by -ku to indicate uncertainty, for example "Are you sleeping?" could be worded as "?'mida somoneku".
+*The imperative is telling somebody to do something, like "take your estrogen!" in english.*
+*The infinitive is used when a verb isn't directly being done by a noun, like "eat" in "I want to eat.".*
+
+The verb can also be postfixed by -ku to indicate uncertainty, for example "Are you sleeping?" could be worded as "?'mida somoneku".
 
 ## Article
 
