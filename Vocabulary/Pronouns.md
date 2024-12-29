@@ -9,9 +9,9 @@
 | mida | you [singular] | animate, unspecified, 2nd person |
 | da | they [singular] | animate, unspecified, 3rd person |
 | dase | she | animate, feminine, 3rd person |
-| dake | *N/A* | animate, fem-leaning, 3rd person |
+| dake |  | animate, fem-leaning, 3rd person |
 | daka | they [singular] | animate, androgynous, 3rd person |
-| daki | *N/A* | animate, masc-leaning, 3rd person |
+| daki |  | animate, masc-leaning, 3rd person |
 | daci | he | animate, masculine, 3rd person |
 
 ## Indefinite Pronouns
