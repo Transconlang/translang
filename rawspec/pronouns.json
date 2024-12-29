@@ -10,25 +10,25 @@
 		"entries": [
 			{
 				"word": "li",
-				"meaning": null,
+				"meaning": "I",
 				"impl": "animate, unspecified, 1st person",
 				"obscurism": null
 			},
 			{
 				"word": "mida",
-				"meaning": null,
+				"meaning": "you [singular]",
 				"impl": "animate, unspecified, 2nd person",
 				"obscurism": "mid"
 			},
 			{
 				"word": "da",
-				"meaning": null,
+				"meaning": "they [singular]",
 				"impl": "animate, unspecified, 3rd person",
 				"obscurism": null
 			},
 			{
 				"word": "dase",
-				"meaning": null,
+				"meaning": "she",
 				"impl": "animate, feminine, 3rd person",
 				"obscurism": null
 			},
@@ -40,7 +40,7 @@
 			},
 			{
 				"word": "daka",
-				"meaning": null,
+				"meaning": "they [singular]",
 				"impl": "animate, androgynous, 3rd person",
 				"obscurism": null
 			},
@@ -52,7 +52,7 @@
 			},
 			{
 				"word": "daci",
-				"meaning": null,
+				"meaning": "he",
 				"impl": "animate, masculine, 3rd person",
 				"obscurism": null
 			}
@@ -69,13 +69,13 @@
 		"entries": [
 			{
 				"word": "reda",
-				"meaning": null,
+				"meaning": "itself/herself/etc.",
 				"impl": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence",
 				"obscurism": null
 			},
 			{
 				"word": "toransu",
-				"meaning": "other",
+				"meaning": "other/another",
 				"impl": null,
 				"obscurism": null
 			},
