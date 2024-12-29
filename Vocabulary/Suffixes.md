@@ -25,7 +25,7 @@
 | Spelling | English Equivalent | Implication / Definition / Used as |
 |----------|--------------------|------------------------------------|
 | -da | -ed | refers to the past tense form of a verb |
-| -ne | -ing | refers to the present tense form of a verb |
+| -ne | -ing | refers to a present ongoing action (present progressive) |
 | -lo | "will", "shall" | refers to the future tense form of a verb |
 | -ja | "yet", "so far" | refers to that a verb is in progress or incomplete |
 | -zi |  | implies indefinite action of verb without defined beginning or end |
