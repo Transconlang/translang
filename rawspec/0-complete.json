@@ -2294,5 +2294,264 @@
 		"impl": null,
 		"type": "verb",
 		"obscurism": null
+	},
+	{
+		"word": "muvini",
+		"meaning": "to move",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "halini",
+		"meaning": "to start",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "mirendini",
+		"meaning": "to pause/rest",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "mirehalini",
+		"meaning": "to continue",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "endini",
+		"meaning": "to stop",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "hitini",
+		"meaning": "to arrive/come",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "cini",
+		"meaning": "to leave/go",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "tenini",
+		"meaning": "to stand/rise",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "palini",
+		"meaning": "to fall",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "rumpini",
+		"meaning": "to sit",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "dawini",
+		"meaning": "to lie down",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "bujini",
+		"meaning": "to bend",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "bacini",
+		"meaning": "to walk",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "hurini",
+		"meaning": "to run",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "kanini",
+		"meaning": "to jump",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "risini",
+		"meaning": "to climb",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "lubini",
+		"meaning": "to slide",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "qipini",
+		"meaning": "to fly",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "ficini",
+		"meaning": "to swim",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "bolini",
+		"meaning": "to roll",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "karini",
+		"meaning": "to drive",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "kamuvini",
+		"meaning": "to push",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "tamuvini",
+		"meaning": "to pull",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "upimovini",
+		"meaning": "to lift",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "domovini",
+		"meaning": "to drop",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "kawufini",
+		"meaning": "to throw",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "tawufini",
+		"meaning": "to catch",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "holini",
+		"meaning": "to carry/hold/bear",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "nykini",
+		"meaning": "to take/grab",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "gabini",
+		"meaning": "to give/release",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "kuvini",
+		"meaning": "to drag",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "cinini",
+		"meaning": "to kick",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "fitini",
+		"meaning": "to strike/punch",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "panini",
+		"meaning": "to flip/do a flip",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "velorini",
+		"meaning": "to follow",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "betini",
+		"meaning": "to lead",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "xasini",
+		"meaning": "to resist",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
 	}
 ]
