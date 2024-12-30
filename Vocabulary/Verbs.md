@@ -28,3 +28,40 @@
 | mulipa | to multiply |  |
 | cipan | to divide, to split |  |
 | nepetori | to love, to feel love towards |  |
+| muvini | to move |  |
+| halini | to start |  |
+| mirendini | to pause/rest |  |
+| mirehalini | to continue |  |
+| endini | to stop |  |
+| hitini | to arrive/come |  |
+| cini | to leave/go |  |
+| tenini | to stand/rise |  |
+| palini | to fall |  |
+| rumpini | to sit |  |
+| dawini | to lie down |  |
+| bujini | to bend |  |
+| bacini | to walk |  |
+| hurini | to run |  |
+| kanini | to jump |  |
+| risini | to climb |  |
+| lubini | to slide |  |
+| qipini | to fly |  |
+| ficini | to swim |  |
+| bolini | to roll |  |
+| karini | to drive |  |
+| kamuvini | to push |  |
+| tamuvini | to pull |  |
+| upimovini | to lift |  |
+| domovini | to drop |  |
+| kawufini | to throw |  |
+| tawufini | to catch |  |
+| holini | to carry/hold/bear |  |
+| nykini | to take/grab |  |
+| gabini | to give/release |  |
+| kuvini | to drag |  |
+| cinini | to kick |  |
+| fitini | to strike/punch |  |
+| panini | to flip/do a flip |  |
+| velorini | to follow |  |
+| betini | to lead |  |
+| xasini | to resist |  |
