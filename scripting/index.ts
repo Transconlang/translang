@@ -98,6 +98,7 @@ for (const file of Files) {
 
 		let [word, meaning, impl] = parsedRow;
 
+		word = word.replace('**', '');
 		// @ts-expect-error
 		meaning = meaning || null;
 		// @ts-expect-error
