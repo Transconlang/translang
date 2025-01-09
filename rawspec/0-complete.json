@@ -896,81 +896,81 @@
 		"obscurism": null
 	},
 	{
-		"word": "sero**",
+		"word": "sero",
 		"meaning": "0",
 		"impl": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
-		"word": "wano**",
+		"word": "wano",
 		"meaning": "1",
 		"impl": null,
 		"type": "number",
-		"obscurism": null
+		"obscurism": "wno"
 	},
 	{
-		"word": "duwo**",
+		"word": "duwo",
 		"meaning": "2",
 		"impl": null,
 		"type": "number",
-		"obscurism": null
+		"obscurism": "dwu"
 	},
 	{
-		"word": "tero**",
+		"word": "tero",
 		"meaning": "3",
 		"impl": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
-		"word": "karo**",
+		"word": "karo",
 		"meaning": "4",
 		"impl": null,
 		"type": "number",
 		"obscurism": null
 	},
 	{
-		"word": "bimo**",
+		"word": "bimo",
 		"meaning": "5",
 		"impl": null,
 		"type": "number",
-		"obscurism": null
+		"obscurism": "bmo"
 	},
 	{
-		"word": "ciko**",
+		"word": "ciko",
 		"meaning": "6",
 		"impl": null,
 		"type": "number",
-		"obscurism": null
+		"obscurism": "cko"
 	},
 	{
-		"word": "sebo**",
+		"word": "sebo",
 		"meaning": "7",
 		"impl": null,
 		"type": "number",
-		"obscurism": null
+		"obscurism": "sbo"
 	},
 	{
-		"word": "wonto**",
+		"word": "wonto",
 		"meaning": "8",
 		"impl": null,
 		"type": "number",
-		"obscurism": null
+		"obscurism": "won'to"
 	},
 	{
-		"word": "ninto**",
+		"word": "ninto",
 		"meaning": "9",
 		"impl": null,
 		"type": "number",
-		"obscurism": null
+		"obscurism": "nin'to"
 	},
 	{
-		"word": "dinko**",
+		"word": "dinko",
 		"meaning": "10",
 		"impl": null,
 		"type": "number",
-		"obscurism": null
+		"obscurism": "din'ko"
 	},
 	{
 		"word": "dunko",
@@ -1029,7 +1029,7 @@
 		"obscurism": null
 	},
 	{
-		"word": "hundo**",
+		"word": "hundo",
 		"meaning": "100",
 		"impl": null,
 		"type": "number",
@@ -1092,7 +1092,7 @@
 		"obscurism": null
 	},
 	{
-		"word": "neko**",
+		"word": "neko",
 		"meaning": "1000",
 		"impl": null,
 		"type": "number",
@@ -1281,7 +1281,7 @@
 		"obscurism": null
 	},
 	{
-		"word": "ranolono**",
+		"word": "ranolono",
 		"meaning": "1'000'000",
 		"impl": null,
 		"type": "number",
@@ -1414,7 +1414,7 @@
 		"obscurism": null
 	},
 	{
-		"word": "rawolono**",
+		"word": "rawolono",
 		"meaning": "1'000'000'000",
 		"impl": null,
 		"type": "number",
@@ -1435,7 +1435,7 @@
 		"obscurism": null
 	},
 	{
-		"word": "rerolono**",
+		"word": "rerolono",
 		"meaning": "1'000'000'000'000",
 		"impl": null,
 		"type": "number",
@@ -1456,7 +1456,7 @@
 		"obscurism": null
 	},
 	{
-		"word": "ragolono**",
+		"word": "ragolono",
 		"meaning": "1'000'000'000'000'000",
 		"impl": null,
 		"type": "number",
@@ -1477,7 +1477,7 @@
 		"obscurism": null
 	},
 	{
-		"word": "rimolono**",
+		"word": "rimolono",
 		"meaning": "1'000'000'000'000'000'000",
 		"impl": null,
 		"type": "number",
@@ -1498,7 +1498,7 @@
 		"obscurism": null
 	},
 	{
-		"word": "rikolono**",
+		"word": "rikolono",
 		"meaning": "1'000'000'000'000'000'000'000",
 		"impl": null,
 		"type": "number",
@@ -1519,7 +1519,7 @@
 		"obscurism": null
 	},
 	{
-		"word": "rebolono**",
+		"word": "rebolono",
 		"meaning": "1'000'000'000'000'000'000'000'000",
 		"impl": null,
 		"type": "number",
@@ -1540,7 +1540,7 @@
 		"obscurism": null
 	},
 	{
-		"word": "rontolono**",
+		"word": "rontolono",
 		"meaning": "1'000'000'000'000'000'000'000'000'000",
 		"impl": null,
 		"type": "number",
@@ -1561,7 +1561,7 @@
 		"obscurism": null
 	},
 	{
-		"word": "rinolono**",
+		"word": "rinolono",
 		"meaning": "1'000'000'000'000'000'000'000'000'000'000",
 		"impl": null,
 		"type": "number",
@@ -1582,7 +1582,7 @@
 		"obscurism": null
 	},
 	{
-		"word": "rinkolono**",
+		"word": "rinkolono",
 		"meaning": "1'000'000'000'000'000'000'000'000'000'000'000",
 		"impl": null,
 		"type": "number",
