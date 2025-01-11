@@ -8,7 +8,7 @@
 | **tero** | 3 |
 | **karo** | 4 |
 | **bimo** | 5 |
-| **ciko** | 6 |
+| **cino** | 6 |
 | **sebo** | 7 |
 | **wonto** | 8 |
 | **ninto** | 9 |
@@ -57,7 +57,7 @@
 | sehuko | 700'000 |
 | wohuko | 800'000 |
 | nihuko | 900'000 |
-| **ranolono** | 1'000'000 |
+| **ranolono** | 1'000'000, one million |
 | dunolono | 2'000'000 |
 | tenolono | 3'000'000 |
 | kenolono | 4'000'000 |
@@ -66,7 +66,7 @@
 | senolono | 7'000'000 |
 | wonolono | 8'000'000 |
 | ninolono | 9'000'000 |
-| dinolono | 10'000'000 |
+| dinolono | 10'000'000, ten million |
 | dudinolono | 20'000'000 |
 | tedinolono | 30'000'000 |
 | kadinolono | 40'000'000 |
@@ -75,31 +75,11 @@
 | sedinolono | 70'000'000 |
 | wodinolono | 80'000'000 |
 | nidinolono | 90'000'000 |
-| hunolono | 100'000'000 |
-| **rawolono** | 1'000'000'000 |
-| diwolono | 10'000'000'000 |
-| huwolono | 100'000'000'000 |
-| **rerolono** | 1'000'000'000'000 |
-| dirolono | 10'000'000'000'000 |
-| hurolono | 100'000'000'000'000 |
-| **ragolono** | 1'000'000'000'000'000 |
-| digolono | 10'000'000'000'000'000 |
-| hugolono | 100'000'000'000'000'000 |
-| **rimolono** | 1'000'000'000'000'000'000 |
-| dimolono | 10'000'000'000'000'000'000 |
-| humolono | 100'000'000'000'000'000'000 |
-| **rikolono** | 1'000'000'000'000'000'000'000 |
-| dikolono | 10'000'000'000'000'000'000'000 |
-| hukolono | 100'000'000'000'000'000'000'000 |
-| **rebolono** | 1'000'000'000'000'000'000'000'000 |
-| dibolono | 10'000'000'000'000'000'000'000'000 |
-| hubolono | 100'000'000'000'000'000'000'000'000 |
-| **rontolono** | 1'000'000'000'000'000'000'000'000'000 |
-| dintolono | 10'000'000'000'000'000'000'000'000'000 |
-| huntolono | 100'000'000'000'000'000'000'000'000'000 |
-| **rinolono** | 1'000'000'000'000'000'000'000'000'000'000 |
-| dimpolono | 10'000'000'000'000'000'000'000'000'000'000 |
-| humpolono | 100'000'000'000'000'000'000'000'000'000'000 |
-| **rinkolono** | 1'000'000'000'000'000'000'000'000'000'000'000 |
-| dinkolono | 100'000'000'000'000'000'000'000'000'000'000'000 |
-| hunkolono | 100'000'000'000'000'000'000'000'000'000'000'000 |
+| hunolono | 100'000'000, one hundred million |
+| **rowolono** | 1'000'000'000, one billion |
+| diwolono | ten billion |
+| huwolono | one hundred billion |
+| **rontolono** | one trillion |
+| **dintolono** | ten trillion |
+| **huntolono** | one hundred trillion |
+| **rogolono** | one quadrillion |
