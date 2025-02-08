@@ -76,10 +76,20 @@
 | wodinolono | 80'000'000 |
 | nidinolono | 90'000'000 |
 | hunolono | 100'000'000, one hundred million |
+| duhunolono | 200'000'000 |
+| tehunolono | 300'000'000 |
+| kahunolono | 400'000'000 |
+| bihunolono | 500'000'000 |
+| cihunolono | 600'000'000 |
+| sehunolono | 700'000'000 |
+| wohunolono | 800'000'000 |
+| nihunolono | 900'000'000 |
 | **rowolono** | 1'000'000'000, one billion |
-| diwolono | ten billion |
-| huwolono | one hundred billion |
-| **rontolono** | one trillion |
-| **dintolono** | ten trillion |
-| **huntolono** | one hundred trillion |
-| **rogolono** | one quadrillion |
+| **rerolono** | 1'000'000'000'000, one trillion |
+| **ragolono** | 1'000'000'000'000'000, one quadrillion |
+| **rimolono** | 1'000'000'000'000'000'000, one quintillion |
+| **rikolono** | 1'000'000'000'000'000'000'000, one sextillion |
+| **rebolono** | 1'000'000'000'000'000'000'000'000, one septillion |
+| **rontolono** | 1'000'000'000'000'000'000'000'000'000, one octillion |
+| **rinolono** | 1'000'000'000'000'000'000'000'000'000'000, one nonillion |
+| **rinkolono** | 1'000'000'000'000'000'000'000'000'000'000'000, one decillion |
