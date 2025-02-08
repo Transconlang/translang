@@ -938,7 +938,7 @@
 		"obscurism": "bmo"
 	},
 	{
-		"word": "cino",
+		"word": "cido",
 		"meaning": "6",
 		"impl": null,
 		"type": "number",
@@ -1470,7 +1470,7 @@
 		"obscurism": null
 	},
 	{
-		"word": "rowolono",
+		"word": "ruwolono",
 		"meaning": "1'000'000'000, one billion",
 		"impl": null,
 		"type": "number",
@@ -1484,7 +1484,7 @@
 		"obscurism": null
 	},
 	{
-		"word": "ragolono",
+		"word": "rarolono",
 		"meaning": "1'000'000'000'000'000, one quadrillion",
 		"impl": null,
 		"type": "number",
@@ -1498,7 +1498,7 @@
 		"obscurism": null
 	},
 	{
-		"word": "rikolono",
+		"word": "ridolono",
 		"meaning": "1'000'000'000'000'000'000'000, one sextillion",
 		"impl": null,
 		"type": "number",
@@ -1519,7 +1519,7 @@
 		"obscurism": null
 	},
 	{
-		"word": "rinolono",
+		"word": "rintolono",
 		"meaning": "1'000'000'000'000'000'000'000'000'000'000, one nonillion",
 		"impl": null,
 		"type": "number",
