@@ -452,44 +452,104 @@
 				"obscurism": null
 			},
 			{
+				"word": "duhunolono",
+				"meaning": "200'000'000",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "tehunolono",
+				"meaning": "300'000'000",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "kahunolono",
+				"meaning": "400'000'000",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "bihunolono",
+				"meaning": "500'000'000",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "cihunolono",
+				"meaning": "600'000'000",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "sehunolono",
+				"meaning": "700'000'000",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "wohunolono",
+				"meaning": "800'000'000",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "nihunolono",
+				"meaning": "900'000'000",
+				"impl": null,
+				"obscurism": null
+			},
+			{
 				"word": "rowolono",
 				"meaning": "1'000'000'000, one billion",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "diwolono",
-				"meaning": "ten billion",
+				"word": "rerolono",
+				"meaning": "1'000'000'000'000, one trillion",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "huwolono",
-				"meaning": "one hundred billion",
+				"word": "ragolono",
+				"meaning": "1'000'000'000'000'000, one quadrillion",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "rimolono",
+				"meaning": "1'000'000'000'000'000'000, one quintillion",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "rikolono",
+				"meaning": "1'000'000'000'000'000'000'000, one sextillion",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "rebolono",
+				"meaning": "1'000'000'000'000'000'000'000'000, one septillion",
 				"impl": null,
 				"obscurism": null
 			},
 			{
 				"word": "rontolono",
-				"meaning": "one trillion",
+				"meaning": "1'000'000'000'000'000'000'000'000'000, one octillion",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "dintolono",
-				"meaning": "ten trillion",
+				"word": "rinolono",
+				"meaning": "1'000'000'000'000'000'000'000'000'000'000, one nonillion",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "huntolono",
-				"meaning": "one hundred trillion",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "rogolono",
-				"meaning": "one quadrillion",
+				"word": "rinkolono",
+				"meaning": "1'000'000'000'000'000'000'000'000'000'000'000, one decillion",
 				"impl": null,
 				"obscurism": null
 			}
