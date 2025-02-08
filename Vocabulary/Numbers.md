@@ -8,7 +8,7 @@
 | **tero** | 3 |
 | **karo** | 4 |
 | **bimo** | 5 |
-| **cino** | 6 |
+| **cido** | 6 |
 | **sebo** | 7 |
 | **wonto** | 8 |
 | **ninto** | 9 |
@@ -84,12 +84,12 @@
 | sehunolono | 700'000'000 |
 | wohunolono | 800'000'000 |
 | nihunolono | 900'000'000 |
-| **rowolono** | 1'000'000'000, one billion |
+| **ruwolono** | 1'000'000'000, one billion |
 | **rerolono** | 1'000'000'000'000, one trillion |
-| **ragolono** | 1'000'000'000'000'000, one quadrillion |
+| **rarolono** | 1'000'000'000'000'000, one quadrillion |
 | **rimolono** | 1'000'000'000'000'000'000, one quintillion |
-| **rikolono** | 1'000'000'000'000'000'000'000, one sextillion |
+| **ridolono** | 1'000'000'000'000'000'000'000, one sextillion |
 | **rebolono** | 1'000'000'000'000'000'000'000'000, one septillion |
 | **rontolono** | 1'000'000'000'000'000'000'000'000'000, one octillion |
-| **rinolono** | 1'000'000'000'000'000'000'000'000'000'000, one nonillion |
+| **rintolono** | 1'000'000'000'000'000'000'000'000'000'000, one nonillion |
 | **rinkolono** | 1'000'000'000'000'000'000'000'000'000'000'000, one decillion |
