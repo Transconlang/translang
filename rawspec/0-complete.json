@@ -163,13 +163,13 @@
 	},
 	{
 		"word": "teto",
-		"meaning": "large",
+		"meaning": "large (size)",
 		"extra": [],
 		"type": "adjective"
 	},
 	{
 		"word": "ciki",
-		"meaning": "short",
+		"meaning": "short (size)",
 		"extra": [],
 		"type": "adjective"
 	},
@@ -187,25 +187,25 @@
 	},
 	{
 		"word": "cangi",
-		"meaning": "long",
+		"meaning": "long (time)",
 		"extra": [],
 		"type": "adjective"
 	},
 	{
 		"word": "dangi",
-		"meaning": "short",
+		"meaning": "short (time)",
 		"extra": [],
 		"type": "adjective"
 	},
 	{
 		"word": "tenza",
-		"meaning": "tall",
+		"meaning": "tall (height)",
 		"extra": [],
 		"type": "adjective"
 	},
 	{
 		"word": "kenki",
-		"meaning": "short",
+		"meaning": "short (height)",
 		"extra": [],
 		"type": "adjective"
 	},
@@ -254,6 +254,12 @@
 	{
 		"word": "huba",
 		"meaning": "overly",
+		"extra": [],
+		"type": "adverb"
+	},
+	{
+		"word": "mayu",
+		"meaning": "very, extremely",
 		"extra": [],
 		"type": "adverb"
 	},
@@ -1511,7 +1517,7 @@
 		"word": "—",
 		"meaning": "dake",
 		"extra": [
-			"animate, androfem, 3rd person"
+			"animate, fem-leaning, 3rd person"
 		],
 		"type": "pronoun"
 	},
@@ -1527,7 +1533,7 @@
 		"word": "—",
 		"meaning": "daki",
 		"extra": [
-			"animate, andromasc, 3rd person"
+			"animate, masc-leaning, 3rd person"
 		],
 		"type": "pronoun"
 	},
@@ -1722,7 +1728,7 @@
 	},
 	{
 		"word": "-ke",
-		"meaning": "establishes androfeminine characteristics/gender",
+		"meaning": "establishes fem-leaning characteristics/gender",
 		"extra": [
 			"—"
 		],
@@ -1738,7 +1744,7 @@
 	},
 	{
 		"word": "-ki",
-		"meaning": "establishes andromasc characteristics/gender",
+		"meaning": "establishes masc-leaning characteristics/gender",
 		"extra": [
 			"—"
 		],

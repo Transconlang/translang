@@ -29,17 +29,18 @@
 | qongun | physically heavy |
 | qongunem | psychologically heavy |
 | anoman | angry |
-| teto | large |
-| ciki | short |
-| kanacin | sad | 
+| teto | large (size) |
+| ciki | short (size) |
+| kanacin | sad |
 | tanocin | happy |
-| cangi | long |
-| dangi | short |
-| tenza | tall |
-| kenki | short |
+| cangi | long (time) |
+| dangi | short (time) |
+| tenza | tall (height) |
+| kenki | short (height) |
 | suci | intelligent |
 | mimi | adorable |
 | dakun | black, dark |
 | lajito | white, light, bright |
 | miremire | gray |
 | mayu | very, extremely |
+| suranto | same |
