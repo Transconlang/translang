@@ -1,6 +1,5 @@
 # Nouns
 
-<<<<<<< HEAD
 | Spelling | English Equivalent | Implication / Definition / Used as |
 |----------|--------------------|--------------------------------|
 | kase | cat |  |
