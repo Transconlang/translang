@@ -1,5 +1,6 @@
 # Nouns
 
+<<<<<<< HEAD
 | Spelling | English Equivalent | Implication / Definition / Used as |
 |----------|--------------------|--------------------------------|
 | kase | cat |  |
@@ -70,3 +71,4 @@
 | kawapi | water | |
 | picanam | picture, image | |
 | tobacun | dictionary | |
+| molumaba | enemy |
