@@ -19,6 +19,7 @@
 | -falo | -speak, -talk | indicates manner or characteristic of speech |
 | -bani | -th | for numbers, indicates ordinality |
 | -ra | -like, -ern | converts to adjective |
+| -para | N/A | indicates that word is a loanword |
 
 ## Temporal verb suffixes
 
