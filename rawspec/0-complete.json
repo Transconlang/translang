@@ -1974,6 +1974,13 @@
 		"obscurism": null
 	},
 	{
+		"word": "-para",
+		"meaning": "N/A",
+		"impl": "indicates that word is a loanword",
+		"type": "suffix",
+		"obscurism": null
+	},
+	{
 		"word": "-da",
 		"meaning": "-ed",
 		"impl": "refers to the past tense form of a verb",

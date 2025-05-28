@@ -1911,6 +1911,12 @@
 						"meaning": "-like, -ern",
 						"impl": "converts to adjective",
 						"obscurism": null
+					},
+					{
+						"word": "-para",
+						"meaning": "N/A",
+						"impl": "indicates that word is a loanword",
+						"obscurism": null
 					}
 				]
 			},
