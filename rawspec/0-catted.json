@@ -418,6 +418,24 @@
 						"meaning": "but",
 						"impl": "logical implication",
 						"obscurism": null
+					},
+					{
+						"word": "pumfe",
+						"meaning": "nand",
+						"impl": "opposite of logical conjunction",
+						"obscurism": null
+					},
+					{
+						"word": "ronfe",
+						"meaning": "nor",
+						"impl": "opposite of logical disjunction",
+						"obscurism": null
+					},
+					{
+						"word": "xon",
+						"meaning": "xor",
+						"impl": "exclusive logical disjunction",
+						"obscurism": null
 					}
 				]
 			}
@@ -864,12 +882,6 @@
 						"meaning": "egg",
 						"impl": null,
 						"obscurism": null
-					},
-					{
-						"word": "molumaba",
-						"meaning": "enemy",
-						"impl": null,
-						"obscurism": null
 					}
 				]
 			}
@@ -886,6 +898,12 @@
 					"Hindu-Arabic Numeral"
 				],
 				"entries": [
+					{
+						"word": "X-fe",
+						"meaning": "negative X",
+						"impl": null,
+						"obscurism": null
+					},
 					{
 						"word": "sero",
 						"meaning": "0",

@@ -8,6 +8,12 @@
 		],
 		"entries": [
 			{
+				"word": "X-fe",
+				"meaning": "negative X",
+				"impl": null,
+				"obscurism": null
+			},
+			{
 				"word": "sero",
 				"meaning": "0",
 				"impl": null,

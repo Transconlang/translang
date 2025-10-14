@@ -413,6 +413,27 @@
 		"obscurism": null
 	},
 	{
+		"word": "pumfe",
+		"meaning": "nand",
+		"impl": "opposite of logical conjunction",
+		"type": "conjunction",
+		"obscurism": null
+	},
+	{
+		"word": "ronfe",
+		"meaning": "nor",
+		"impl": "opposite of logical disjunction",
+		"type": "conjunction",
+		"obscurism": null
+	},
+	{
+		"word": "xon",
+		"meaning": "xor",
+		"impl": "exclusive logical disjunction",
+		"type": "conjunction",
+		"obscurism": null
+	},
+	{
 		"word": "sim",
 		"meaning": "yes",
 		"impl": null,
@@ -896,10 +917,10 @@
 		"obscurism": null
 	},
 	{
-		"word": "molumaba",
-		"meaning": "enemy",
+		"word": "X-fe",
+		"meaning": "negative X",
 		"impl": null,
-		"type": "noun",
+		"type": "number",
 		"obscurism": null
 	},
 	{
