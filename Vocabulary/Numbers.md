@@ -2,6 +2,7 @@
 
 | Spelling | Hindu-Arabic Numeral |
 |----------|----------------------|
+| **X-fe** | negative X |
 | **sero** | 0 |
 | **wano** | 1 |
 | **duwo** | 2 |

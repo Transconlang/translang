@@ -12,6 +12,7 @@
 | tun | because | statement of cause |
 | saci | how | interrogative question of methodology |
 | taci |  | description of methodology |
+| wuroga | WLOG (without loss of generality) | |
 
 ## Temporal adverbs
 
