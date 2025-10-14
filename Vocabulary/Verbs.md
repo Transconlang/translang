@@ -65,3 +65,5 @@
 | velorini | to follow |  |
 | betini | to lead |  |
 | xasini | to resist |  |
+| repa | let | |
+| kukinkumi | QED / it is proven | |

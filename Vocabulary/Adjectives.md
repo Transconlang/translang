@@ -45,3 +45,11 @@
 | mayu | very, extremely |
 | suranto | same |
 | kuso | exciting |
+| kanpekon | perfect, complete | |
+| senakanpekon | continuous | |
+| senakanpekonfe | discrete | |
+| wanoka | most | |
+| wanofe | least | |
+| wanore | only | |
+| nidu | necessary | |
+| redu | sufficient | |
