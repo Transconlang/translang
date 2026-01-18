@@ -61,8 +61,10 @@ for (const file of Files) {
 		const asdf = file.toLowerCase().replace(/s\.md$/, '');
 		if (asdf === 'prefixe') return 'prefix';
 		if (asdf === 'suffixe') return 'suffix';
-		return asdf;
-	})() as WordType;
+		return asdf as WordType;
+	})();
+
+	console.log(`Processing ${file} as type ${type}...`);
 
 	const sectionStack: Section[] = [];
 	let subSectionStack: Entry[] = [];
@@ -82,7 +84,7 @@ for (const file of Files) {
 		const parsedRow = row
 			.slice(1, -1)
 			.split('|')
-			.map(v => v.slice(1, -1));
+			.map(v => v.trim());
 
 		// no using !v because it will throw an error if v is an empty string
 		if (parsedRow.some(v => v === null || v === undefined))
@@ -96,13 +98,11 @@ for (const file of Files) {
 			continue;
 		}
 
-		let [word, meaning, impl] = parsedRow;
+		let [word, meaningBinding, implBinding] = parsedRow;
 
 		word = word.replaceAll('**', '');
-		// @ts-expect-error
-		meaning = meaning || null;
-		// @ts-expect-error
-		impl = impl || null;
+		let meaning = meaningBinding || null;
+		let impl = implBinding || null;
 
 		subSectionStack.push({
 			word,

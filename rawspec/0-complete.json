@@ -910,8 +910,519 @@
 		"obscurism": null
 	},
 	{
+		"word": "qanzi",
+		"meaning": "paper",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
 		"word": "muna",
 		"meaning": "egg",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "suntu",
+		"meaning": "dumbass, idiot",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "caja",
+		"meaning": "adventure, journey",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "goca",
+		"meaning": "land, country, nation",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "lumakapa",
+		"meaning": "sibling",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "kawapi",
+		"meaning": "water",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "picanam",
+		"meaning": "picture, image",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "tobacun",
+		"meaning": "dictionary",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "molumaba",
+		"meaning": "enemy",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "wantulonki",
+		"meaning": "mathematics",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "kumo",
+		"meaning": "change",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "kumopen",
+		"meaning": "speed",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "gano",
+		"meaning": "simple",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "lonkicanwa",
+		"meaning": "theorem",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "lonkigade",
+		"meaning": "conjecture",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "lonkigadeciki",
+		"meaning": "lemma",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "tobapere",
+		"meaning": "claim",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "tobaperena",
+		"meaning": "converse",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "tobaperene",
+		"meaning": "inverse",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "tobaperenu",
+		"meaning": "contrapositive",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "dena",
+		"meaning": "point (mathematical)",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "sena",
+		"meaning": "line (mathematical)",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "sonara",
+		"meaning": "plane (mathematical)",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "conaro",
+		"meaning": "space (mathematical)",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "conarokanpekon",
+		"meaning": "field (mathematical)",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "mireconarokanpekon",
+		"meaning": "ring (mathematical)",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "mirekanpekon",
+		"meaning": "rng (mathematical)",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "pacuwano",
+		"meaning": "injection (mathematical)",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "pacuduwo",
+		"meaning": "bijection",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "pacufe",
+		"meaning": "surjection",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "capa",
+		"meaning": "shape",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "capa-X",
+		"meaning": "X-sided polygon",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "fero",
+		"meaning": "set",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "ferociki",
+		"meaning": "subset",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "ferocapa",
+		"meaning": "group (mathematical)",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "wantuwanora",
+		"meaning": "identity (number)",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "matuco",
+		"meaning": "matrix",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "penfero",
+		"meaning": "transformation (mathematical)",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "peca",
+		"meaning": "exponent",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "bese-X",
+		"meaning": "base-X",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "wantukumi",
+		"meaning": "variable",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "pacu",
+		"meaning": "function",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "wantukumilonki",
+		"meaning": "algebra",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "capalonki",
+		"meaning": "geometry",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "kumolonki",
+		"meaning": "calculus",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "wantuwantulonki",
+		"meaning": "number theory",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "capaterolonki",
+		"meaning": "trigonometry",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "wantukanpekon",
+		"meaning": "integer",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "wantumirekanpekon",
+		"meaning": "rational number",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "wantupacugano",
+		"meaning": "algebraic number",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "pacugano",
+		"meaning": "polynomial",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "pacuganora",
+		"meaning": "analytic function",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "wantufe",
+		"meaning": "negative number",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "kumociki",
+		"meaning": "derivative (mathematical)",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "poraciki",
+		"meaning": "integral",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "mirekumociki",
+		"meaning": "partial derivative",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "penciki",
+		"meaning": "limit (mathematical)",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "sacapatero",
+		"meaning": "sine function",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "kacapatero",
+		"meaning": "cosine function",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "tacapatero",
+		"meaning": "tangent function",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "kotacapatero",
+		"meaning": "cotangent function",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "kokacapatero",
+		"meaning": "secant function",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "kosacapatero",
+		"meaning": "cosecant function",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "logo",
+		"meaning": "logarithm function",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "cikiwanoka",
+		"meaning": "minimum",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "tetowanoka",
+		"meaning": "maximum",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "pecakin",
+		"meaning": "exponential function",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "capasero",
+		"meaning": "circle",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "funocapasero",
+		"meaning": "chord",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "kukin",
+		"meaning": "question",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "huda",
+		"meaning": "answer",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "nemlonki",
+		"meaning": "logic",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "nemlonkife",
+		"meaning": "contradiction",
 		"impl": null,
 		"type": "noun",
 		"obscurism": null
