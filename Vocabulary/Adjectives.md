@@ -53,3 +53,5 @@
 | wanore | only | |
 | nidu | necessary | |
 | redu | sufficient | |
+| cikihason | quiet, soft |  |
+| tetohason | loud |  |

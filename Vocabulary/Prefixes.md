@@ -11,3 +11,4 @@
 | wu- |  | positive connotation |
 | di- |  | negative connotation |
 | deja- | -doing | the doing of |
+| soro- | re- | repetition of an action |

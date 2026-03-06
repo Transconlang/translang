@@ -38,6 +38,8 @@
 | -ku |  | establishes verb as uncertain/questioning |
 | -do | "should", "ought to" | establishes verb as imperative |
 | -kuka | "please" | establishes verb as politely questioning/requesting |
+| -napo | from |  |
+| -lani | to |  |
 
 
 ## Adjective suffixes

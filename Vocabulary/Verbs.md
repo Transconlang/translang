@@ -66,4 +66,24 @@
 | betini | to lead |  |
 | xasini | to resist |  |
 | repa | let | |
-| kukinkumi | QED / it is proven | |
+| kukinkumi | QED / it is proven |  |
+| qina | to know |  |
+| simjala | to accept |  |
+| henlona | welcome, to welcome |  |
+| dejapora | to advance |  |
+| sorini | to find |  |
+| tesura | to adventure |  |
+| setaso | to kill (intentionally) |  |
+| setaku | to kill (unintentionally or unknown) |  |
+| ciwaci | to shoot |  |
+| cikihasonbacini | to sneak |  |
+| naki | to sense |  |
+| viconaki | to see |  |
+| hiranaki | to hear |  |
+| toritori | to guard |  |
+| kopori | to copy |  |
+| vineri | to reflect |  |
+| fonopen | to blow |  |
+| seni | to use |  |
+| nemtori | to care, to care about |  |
+| to repeat | sorosoro |  |

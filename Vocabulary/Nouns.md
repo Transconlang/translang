@@ -94,6 +94,8 @@
 | pacufe | surjection |  |
 | capa | shape |  |
 | capa-X | X-sided polygon |  |
+| X-capa | X-dimensional shape |  |
+| X-capa-Y | X-dimensional shape with Y X-1 dimensional faces | For example, 3-capa-6 is a cube. |
 | fero | set |  |
 | ferociki | subset |  |
 | ferocapa | group (mathematical) |  |
@@ -135,3 +137,27 @@
 | huda | answer |  |
 | nemlonki | logic |  |
 | nemlonkife | contradiction |  |
+| modoni | setting, mode |  |
+| sevo | server (digital) |  |
+| tawakin | location |  |
+| leba | name |  |
+| mirekukin | prompt |  |
+| qinakin | information |  |
+| mirekin | part, portion |  |
+| segan | world |  |
+| tesura | adventure |  |
+| ikiko | life |  |
+| seta | death |  |
+| ikikokin | lifeform, creature, living thing |  |
+| pacukomi | arrow |  |
+| vico | vision |  |
+| hira | hearing |  |
+| toritorikin | guard, guardian |  |
+| fono | wind |  |
+| caca | brush |  |
+| golon | goal, target |  |
+| jicuha | art |  |
+| kaji | decoration |  |
+| patolen | pot, bowl |  |
+| sorosoro | repeat |  |
+
