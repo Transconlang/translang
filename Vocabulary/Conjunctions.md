@@ -8,3 +8,4 @@
 | pumfe | nand | opposite of logical conjunction |
 | ronfe | nor | opposite of logical disjunction |
 | xon | xor | exclusive logical disjunction |
+| sumasu | in order to |  |
