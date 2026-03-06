@@ -43,6 +43,12 @@
 				"meaning": "xor",
 				"impl": "exclusive logical disjunction",
 				"obscurism": null
+			},
+			{
+				"word": "sumasu",
+				"meaning": "in order to",
+				"impl": null,
+				"obscurism": null
 			}
 		]
 	}

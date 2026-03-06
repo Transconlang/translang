@@ -301,6 +301,20 @@
 		"obscurism": null
 	},
 	{
+		"word": "cikihason",
+		"meaning": "quiet, soft",
+		"impl": null,
+		"type": "adjective",
+		"obscurism": null
+	},
+	{
+		"word": "tetohason",
+		"meaning": "loud",
+		"impl": null,
+		"type": "adjective",
+		"obscurism": null
+	},
+	{
 		"word": "nen",
 		"meaning": "no",
 		"impl": "logical negation",
@@ -430,6 +444,13 @@
 		"word": "xon",
 		"meaning": "xor",
 		"impl": "exclusive logical disjunction",
+		"type": "conjunction",
+		"obscurism": null
+	},
+	{
+		"word": "sumasu",
+		"meaning": "in order to",
+		"impl": null,
 		"type": "conjunction",
 		"obscurism": null
 	},
@@ -1141,6 +1162,20 @@
 		"obscurism": null
 	},
 	{
+		"word": "X-capa",
+		"meaning": "X-dimensional shape",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "X-capa-Y",
+		"meaning": "X-dimensional shape with Y X-1 dimensional faces",
+		"impl": "For example, 3-capa-6 is a cube.",
+		"type": "noun",
+		"obscurism": null
+	},
+	{
 		"word": "fero",
 		"meaning": "set",
 		"impl": null,
@@ -1423,6 +1458,167 @@
 	{
 		"word": "nemlonkife",
 		"meaning": "contradiction",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "modoni",
+		"meaning": "setting, mode",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "sevo",
+		"meaning": "server (digital)",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "tawakin",
+		"meaning": "location",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "leba",
+		"meaning": "name",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "mirekukin",
+		"meaning": "prompt",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "qinakin",
+		"meaning": "information",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "mirekin",
+		"meaning": "part, portion",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "segan",
+		"meaning": "world",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "tesura",
+		"meaning": "adventure",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "ikiko",
+		"meaning": "life",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "seta",
+		"meaning": "death",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "ikikokin",
+		"meaning": "lifeform, creature, living thing",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "pacukomi",
+		"meaning": "arrow",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "vico",
+		"meaning": "vision",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "hira",
+		"meaning": "hearing",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "toritorikin",
+		"meaning": "guard, guardian",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "fono",
+		"meaning": "wind",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "caca",
+		"meaning": "brush",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "golon",
+		"meaning": "goal, target",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "jicuha",
+		"meaning": "art",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "kaji",
+		"meaning": "decoration",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "patolen",
+		"meaning": "pot, bowl",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "sorosoro",
+		"meaning": "repeat",
 		"impl": null,
 		"type": "noun",
 		"obscurism": null
@@ -2135,6 +2331,13 @@
 		"obscurism": null
 	},
 	{
+		"word": "soro-",
+		"meaning": "re-",
+		"impl": "repetition of an action",
+		"type": "prefix",
+		"obscurism": null
+	},
+	{
 		"word": "ra",
 		"meaning": "in",
 		"impl": "is part of, contained or located in",
@@ -2215,6 +2418,20 @@
 		"word": "kaba",
 		"meaning": "far",
 		"impl": null,
+		"type": "preposition",
+		"obscurism": null
+	},
+	{
+		"word": "taro",
+		"meaning": "with",
+		"impl": null,
+		"type": "preposition",
+		"obscurism": null
+	},
+	{
+		"word": "se",
+		"meaning": "to",
+		"impl": "in context of \"9 to 5\" or \"I walked to the blahaj store.\"",
 		"type": "preposition",
 		"obscurism": null
 	},
@@ -2565,6 +2782,20 @@
 		"word": "-kuka",
 		"meaning": "\"please\"",
 		"impl": "establishes verb as politely questioning/requesting",
+		"type": "suffix",
+		"obscurism": null
+	},
+	{
+		"word": "-napo",
+		"meaning": "from",
+		"impl": null,
+		"type": "suffix",
+		"obscurism": null
+	},
+	{
+		"word": "-lani",
+		"meaning": "to",
+		"impl": null,
 		"type": "suffix",
 		"obscurism": null
 	},
@@ -3026,6 +3257,153 @@
 	{
 		"word": "xasini",
 		"meaning": "to resist",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "kukinkumi",
+		"meaning": "QED / it is proven",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "qina",
+		"meaning": "to know",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "simjala",
+		"meaning": "to accept",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "henlona",
+		"meaning": "welcome, to welcome",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "dejapora",
+		"meaning": "to advance",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "sorini",
+		"meaning": "to find",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "tesura",
+		"meaning": "to adventure",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "setaso",
+		"meaning": "to kill (intentionally)",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "setaku",
+		"meaning": "to kill (unintentionally or unknown)",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "ciwaci",
+		"meaning": "to shoot",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "cikihasonbacini",
+		"meaning": "to sneak",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "naki",
+		"meaning": "to sense",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "viconaki",
+		"meaning": "to see",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "hiranaki",
+		"meaning": "to hear",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "toritori",
+		"meaning": "to guard",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "kopori",
+		"meaning": "to copy",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "vineri",
+		"meaning": "to reflect",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "fonopen",
+		"meaning": "to blow",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "seni",
+		"meaning": "to use",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "nemtori",
+		"meaning": "to care, to care about",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "to repeat",
+		"meaning": "sorosoro",
 		"impl": null,
 		"type": "verb",
 		"obscurism": null

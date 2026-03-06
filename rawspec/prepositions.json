@@ -79,6 +79,18 @@
 				"meaning": "far",
 				"impl": null,
 				"obscurism": null
+			},
+			{
+				"word": "taro",
+				"meaning": "with",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "se",
+				"meaning": "to",
+				"impl": "in context of \"9 to 5\" or \"I walked to the blahaj store.\"",
+				"obscurism": null
 			}
 		]
 	}
