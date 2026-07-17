@@ -267,6 +267,54 @@
 				"obscurism": null
 			},
 			{
+				"word": "kanpekon",
+				"meaning": "perfect, complete",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "senakanpekon",
+				"meaning": "continuous",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "senakanpekonfe",
+				"meaning": "discrete",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "wanoka",
+				"meaning": "most",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "wanofe",
+				"meaning": "least",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "wanore",
+				"meaning": "only",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "nidu",
+				"meaning": "necessary",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "redu",
+				"meaning": "sufficient",
+				"impl": null,
+				"obscurism": null
+			},
+			{
 				"word": "cikihason",
 				"meaning": "quiet, soft",
 				"impl": null,
@@ -275,6 +323,30 @@
 			{
 				"word": "tetohason",
 				"meaning": "loud",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "garatempu",
+				"meaning": "eternal, everlasting, permanent",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "mani",
+				"meaning": "slow",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "caki",
+				"meaning": "fast",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "hepin",
+				"meaning": "scary",
 				"impl": null,
 				"obscurism": null
 			}

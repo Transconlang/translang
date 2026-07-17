@@ -301,6 +301,62 @@
 		"obscurism": null
 	},
 	{
+		"word": "kanpekon",
+		"meaning": "perfect, complete",
+		"impl": null,
+		"type": "adjective",
+		"obscurism": null
+	},
+	{
+		"word": "senakanpekon",
+		"meaning": "continuous",
+		"impl": null,
+		"type": "adjective",
+		"obscurism": null
+	},
+	{
+		"word": "senakanpekonfe",
+		"meaning": "discrete",
+		"impl": null,
+		"type": "adjective",
+		"obscurism": null
+	},
+	{
+		"word": "wanoka",
+		"meaning": "most",
+		"impl": null,
+		"type": "adjective",
+		"obscurism": null
+	},
+	{
+		"word": "wanofe",
+		"meaning": "least",
+		"impl": null,
+		"type": "adjective",
+		"obscurism": null
+	},
+	{
+		"word": "wanore",
+		"meaning": "only",
+		"impl": null,
+		"type": "adjective",
+		"obscurism": null
+	},
+	{
+		"word": "nidu",
+		"meaning": "necessary",
+		"impl": null,
+		"type": "adjective",
+		"obscurism": null
+	},
+	{
+		"word": "redu",
+		"meaning": "sufficient",
+		"impl": null,
+		"type": "adjective",
+		"obscurism": null
+	},
+	{
 		"word": "cikihason",
 		"meaning": "quiet, soft",
 		"impl": null,
@@ -310,6 +366,34 @@
 	{
 		"word": "tetohason",
 		"meaning": "loud",
+		"impl": null,
+		"type": "adjective",
+		"obscurism": null
+	},
+	{
+		"word": "garatempu",
+		"meaning": "eternal, everlasting, permanent",
+		"impl": null,
+		"type": "adjective",
+		"obscurism": null
+	},
+	{
+		"word": "mani",
+		"meaning": "slow",
+		"impl": null,
+		"type": "adjective",
+		"obscurism": null
+	},
+	{
+		"word": "caki",
+		"meaning": "fast",
+		"impl": null,
+		"type": "adjective",
+		"obscurism": null
+	},
+	{
+		"word": "hepin",
+		"meaning": "scary",
 		"impl": null,
 		"type": "adjective",
 		"obscurism": null
@@ -1624,6 +1708,27 @@
 		"obscurism": null
 	},
 	{
+		"word": "suka",
+		"meaning": "parent",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "capanem",
+		"meaning": "form, style",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
+		"word": "dikinem",
+		"meaning": "worry, concern",
+		"impl": null,
+		"type": "noun",
+		"obscurism": null
+	},
+	{
 		"word": "X-fe",
 		"meaning": "negative X",
 		"impl": null,
@@ -2436,6 +2541,13 @@
 		"obscurism": null
 	},
 	{
+		"word": "bi",
+		"meaning": "by",
+		"impl": "in context of \"I walked by the blahaj store.\"",
+		"type": "preposition",
+		"obscurism": null
+	},
+	{
 		"word": "li",
 		"meaning": "I",
 		"impl": "animate, unspecified, 1st person",
@@ -2796,6 +2908,13 @@
 		"word": "-lani",
 		"meaning": "to",
 		"impl": null,
+		"type": "suffix",
+		"obscurism": null
+	},
+	{
+		"word": "-cu",
+		"meaning": null,
+		"impl": "denotes conversion to passive form (\"I love you\" -> \"I am loved by you\")",
 		"type": "suffix",
 		"obscurism": null
 	},
@@ -3262,6 +3381,13 @@
 		"obscurism": null
 	},
 	{
+		"word": "repa",
+		"meaning": "let",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
 		"word": "kukinkumi",
 		"meaning": "QED / it is proven",
 		"impl": null,
@@ -3402,8 +3528,29 @@
 		"obscurism": null
 	},
 	{
-		"word": "to repeat",
-		"meaning": "sorosoro",
+		"word": "sorosoro",
+		"meaning": "to repeat",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "tetoni",
+		"meaning": "to grow, to expand",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "lajitoki",
+		"meaning": "to glow",
+		"impl": null,
+		"type": "verb",
+		"obscurism": null
+	},
+	{
+		"word": "dejanem",
+		"meaning": "to try, to attempt",
 		"impl": null,
 		"type": "verb",
 		"obscurism": null

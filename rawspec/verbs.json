@@ -4,7 +4,6 @@
 		"title": null,
 		"headers": [
 			"Spelling (nonextended — original)",
-			"Spelling",
 			"English Equivalent",
 			"Implication / Definition / Used as"
 		],
@@ -388,6 +387,12 @@
 				"obscurism": null
 			},
 			{
+				"word": "repa",
+				"meaning": "let",
+				"impl": null,
+				"obscurism": null
+			},
+			{
 				"word": "kukinkumi",
 				"meaning": "QED / it is proven",
 				"impl": null,
@@ -508,8 +513,26 @@
 				"obscurism": null
 			},
 			{
-				"word": "to repeat",
-				"meaning": "sorosoro",
+				"word": "sorosoro",
+				"meaning": "to repeat",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "tetoni",
+				"meaning": "to grow, to expand",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "lajitoki",
+				"meaning": "to glow",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "dejanem",
+				"meaning": "to try, to attempt",
 				"impl": null,
 				"obscurism": null
 			}

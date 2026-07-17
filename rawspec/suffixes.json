@@ -185,6 +185,12 @@
 				"meaning": "to",
 				"impl": null,
 				"obscurism": null
+			},
+			{
+				"word": "-cu",
+				"meaning": null,
+				"impl": "denotes conversion to passive form (\"I love you\" -> \"I am loved by you\")",
+				"obscurism": null
 			}
 		]
 	},
