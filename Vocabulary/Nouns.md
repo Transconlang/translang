@@ -160,4 +160,7 @@
 | kaji | decoration |  |
 | patolen | pot, bowl |  |
 | sorosoro | repeat |  |
+| suka | parent |  |
+| capanem | form, style |  |
+| dikinem | worry, concern |  |
 

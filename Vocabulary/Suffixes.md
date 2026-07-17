@@ -40,6 +40,7 @@
 | -kuka | "please" | establishes verb as politely questioning/requesting |
 | -napo | from |  |
 | -lani | to |  |
+| -cu |  | denotes conversion to passive form ("I love you" -> "I am loved by you") |
 
 
 ## Adjective suffixes

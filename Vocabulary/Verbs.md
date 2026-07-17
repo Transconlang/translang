@@ -1,7 +1,7 @@
 # Verbs
 
-| Spelling (nonextended — original) | Spelling | English Equivalent | Implication / Definition / Used as |
-|-----------------------------------|----------|--------------------|--------------------------------|
+| Spelling (nonextended — original) | English Equivalent | Implication / Definition / Used as |
+|-----------------------------------|--------------------|--------------------------------|
 | mawa | kiss |  |
 | binta | eat |  |
 | sanu | be |  |
@@ -65,7 +65,7 @@
 | velorini | to follow |  |
 | betini | to lead |  |
 | xasini | to resist |  |
-| repa | let | |
+| repa | let |  |
 | kukinkumi | QED / it is proven |  |
 | qina | to know |  |
 | simjala | to accept |  |
@@ -86,4 +86,7 @@
 | fonopen | to blow |  |
 | seni | to use |  |
 | nemtori | to care, to care about |  |
-| to repeat | sorosoro |  |
+| sorosoro | to repeat |  |
+| tetoni | to grow, to expand |  |
+| lajitoki | to glow |  |
+| dejanem | to try, to attempt |  |

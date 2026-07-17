@@ -41,17 +41,21 @@
 | mimi | adorable |  |
 | dakun | black, dark |  |
 | lajito | white, light, bright |  |
-| miremire | gray |
-| mayu | very, extremely |
-| suranto | same |
-| kuso | exciting |
-| kanpekon | perfect, complete | |
-| senakanpekon | continuous | |
-| senakanpekonfe | discrete | |
-| wanoka | most | |
-| wanofe | least | |
-| wanore | only | |
-| nidu | necessary | |
-| redu | sufficient | |
+| miremire | gray |  |
+| mayu | very, extremely |  |
+| suranto | same |  |
+| kuso | exciting |  |
+| kanpekon | perfect, complete |  |
+| senakanpekon | continuous |  |
+| senakanpekonfe | discrete |  |
+| wanoka | most |  |
+| wanofe | least |  |
+| wanore | only |  |
+| nidu | necessary |  |
+| redu | sufficient |  |
 | cikihason | quiet, soft |  |
 | tetohason | loud |  |
+| garatempu | eternal, everlasting, permanent |  |
+| mani | slow |  |
+| caki | fast |  |
+| hepin | scary |  |
