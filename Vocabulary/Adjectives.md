@@ -55,3 +55,7 @@
 | redu | sufficient | |
 | cikihason | quiet, soft |  |
 | tetohason | loud |  |
+| garatempu | eternal, everlasting, permanent | |
+| mani | slow | |
+| caki | fast | |
+| hepin | scary | |
