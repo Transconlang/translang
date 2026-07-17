@@ -16,3 +16,4 @@
 | kaba | far |  |
 | taro | with |  |
 | se | to | in context of "9 to 5" or "I walked to the blahaj store." |
+| bi | by | in context of "I walked by the blahaj store." |
