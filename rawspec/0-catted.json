@@ -382,6 +382,12 @@
 						"obscurism": null
 					},
 					{
+						"word": "mayu",
+						"meaning": "very, extremely",
+						"impl": null,
+						"obscurism": null
+					},
+					{
 						"word": "nen",
 						"meaning": "no",
 						"impl": "logical negation",
@@ -410,6 +416,12 @@
 						"meaning": "because",
 						"impl": "statement of cause",
 						"obscurism": "tun'"
+					},
+					{
+						"word": "wuroga",
+						"meaning": "WLOG (without loss of generality)",
+						"impl": null,
+						"obscurism": null
 					}
 				]
 			},
