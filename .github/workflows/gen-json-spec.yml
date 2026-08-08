@@ -28,7 +28,7 @@ jobs:
       - name: Add & Commit
         uses: EndBug/add-and-commit@v9.1.4
         with:
-          add: rawspec
+          add: rawspec Vocabulary
           default_author: github_actions
           fetch: true
           message: actions—generate JSON langspec
