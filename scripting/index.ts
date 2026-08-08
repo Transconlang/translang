@@ -47,15 +47,39 @@ const Files = await readdir(SourceDirectory);
 const CompleteDictionaryStack: FullEntry[] = [];
 const CattedBigSectionStack: BigSection[] = [];
 
+const h1Matcher = /^# .+$/i;
 const h2Matcher = /^## .+$/i;
-const tableRowMatcher = /^\| [^|]* \|( [^|]* \|)+$/i;
+const tableSeparatorMatcher = /^\|[-\|]+\|$/i;
+const tableRowMatcher = /^\| [^|]* \|( [^|]* \|| \|)+$/i;
 
 for (const file of Files) {
 	const content = await readFile(join(SourceDirectory, file), 'utf-8');
 	const unfilteredRows = content.split('\n').map(v => v.trim());
-	const rows = unfilteredRows.filter(
-		v => tableRowMatcher.test(v) || h2Matcher.test(v)
-	);
+
+	const nonDataRows = new Map<string, string>();
+	const rows: string[] = [];
+
+	let previousRow = unfilteredRows[0];
+	for (const row of unfilteredRows) {
+		if (
+			row.length === 0 ||
+			h1Matcher.test(row) ||
+			tableSeparatorMatcher.test(row)
+		)
+			continue;
+
+		if (tableRowMatcher.test(row)) rows.push(row);
+		else if (h2Matcher.test(row)) {
+			rows.push(row);
+			previousRow = row;
+		} else nonDataRows.set(previousRow, row);
+	}
+
+	console.log(nonDataRows);
+
+	// const rows = unfilteredRows.filter(
+	// 	v => tableRowMatcher.test(v) || h2Matcher.test(v)
+	// );
 
 	const type = (() => {
 		const asdf = file.toLowerCase().replace(/s\.md$/, '');
@@ -95,11 +119,14 @@ for (const file of Files) {
 			.split('|')
 			.map(v => v.trim());
 
-		// no using !v because it will throw an error if v is an empty string
-		if (parsedRow.some(v => v === null || v === undefined))
-			throw new Error(
-				`Invalid row (at row ${unfilteredRows.indexOf(row)} of ${file}): ${row}`
-			);
+		// What the hell is this for?
+		/**
+			// no using !v because it will throw an error if v is an empty string
+			if (parsedRow.some(v => v === null || v === undefined))
+				throw new Error(
+					`Invalid row (at row ${unfilteredRows.indexOf(row)} of ${file}): ${row}`
+				);
+		*/
 
 		if (justStartedNewSection) {
 			headers = parsedRow;
@@ -143,11 +170,18 @@ for (const file of Files) {
 
 	await writeFile(
 		join(SourceDirectory, file),
-		`# ${file.replace('.md', '')}\n\n` +
+		((unfilteredRows[0] ?? '' + '\n\n') + nonDataRows.has(unfilteredRows[0])
+			? nonDataRows.get(unfilteredRows[0]) + '\n\n'
+			: '') +
 			sectionStack
 				.map(section => {
 					let sectionString = '';
-					if (section.title) sectionString += `## ${section.title}\n\n`;
+					if (section.title) {
+						const subtitleRow = `## ${section.title}`;
+						sectionString += subtitleRow + '\n\n';
+						if (nonDataRows.has(subtitleRow))
+							sectionString += nonDataRows.get(subtitleRow) + '\n\n';
+					}
 					sectionString += `| ${section.headers.join(' | ')} |\n`;
 					sectionString += `|${section.headers.map(header => '--' + '-'.repeat(header.length)).join('|')}|\n`;
 					sectionString += section.entries
@@ -158,7 +192,8 @@ for (const file of Files) {
 						.join('\n');
 					return sectionString;
 				})
-				.join('\n\n')
+				.join('\n\n') +
+			'\n'
 	);
 
 	const targetFile = join(
