@@ -2,13 +2,13 @@
 
 | Spelling | Translation (English) | Implication / Definition / Used as |
 |----------|-----------------------|------------------------------------|
-| mire- | semi- | semi |   
-| gara- | all-/every- | all/every |
-| coko- | some- | some |
 | boro- | any- | any |
-| ni- | non- | negation, other than |
-| mo- |  | inversion, contrary meaning |
-| wu- |  | positive connotation |
-| di- |  | negative connotation |
+| coko- | some- | some |
 | deja- | -doing | the doing of |
+| di- |  | negative connotation |
+| gara- | all-/every- | all/every |
+| mire- | semi- | semi |
+| mo- |  | inversion, contrary meaning |
+| ni- | non- | negation, other than |
 | soro- | re- | repetition of an action |
+| wu- |  | positive connotation |

@@ -1,9 +1,11 @@
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
 
-name: Generate JSON language specification
+name: Generate spec and alphabetize source
 
 on:
   push:
+    branches: ['main']
+  pull_request:
     branches: ['main']
   workflow_dispatch:
 
@@ -14,19 +16,19 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           ref: ${{ github.head_ref }}
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: node
       - run: bash run-scripts.sh
-        name: Generate JSON language specification and test
+        name: Generate JSON spec and alphabetize Markdown source
       - name: Add & Commit
         uses: EndBug/add-and-commit@v9.1.4
         with:
-          add: rawspec
+          add: rawspec Vocabulary
           default_author: github_actions
           fetch: true
-          message: actions—generate JSON langspec
+          message: actions—generate JSON spec and alphabetize MD source
