@@ -1,6 +1,6 @@
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs
 
-name: Generate JSON language specification
+name: Generate spec and alphabetize source
 
 on:
   push:
@@ -24,7 +24,7 @@ jobs:
         with:
           node-version: node
       - run: bash run-scripts.sh
-        name: Generate JSON language specification and test
+        name: Generate JSON spec and alphabetize Markdown source
       - name: Add & Commit
         uses: EndBug/add-and-commit@v9.1.4
         with:
