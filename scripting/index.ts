@@ -74,7 +74,16 @@ for (const file of Files) {
 	for (const row of rows) {
 		if (h2Matcher.test(row)) {
 			if (subSectionStack.length > 0)
-				sectionStack.push({ type, title, headers, entries: subSectionStack });
+				sectionStack.push({
+					type,
+					title,
+					headers,
+					entries: subSectionStack.sort((a, b) =>
+						a.word
+							.replaceAll(/[^a-zA-Z]/g, '')
+							.localeCompare(b.word.replaceAll(/[^a-zA-Z]/g, ''))
+					)
+				} satisfies Section);
 			title = row.slice(3);
 			subSectionStack = [];
 			justStartedNewSection = true;
@@ -120,12 +129,16 @@ for (const file of Files) {
 		} satisfies FullEntry);
 	}
 
-	subSectionStack.length > 0 &&
+	if (subSectionStack.length > 0)
 		sectionStack.push({
 			type,
 			title,
 			headers,
-			entries: subSectionStack
+			entries: subSectionStack.sort((a, b) =>
+				a.word
+					.replaceAll(/[^a-zA-Z]/g, '')
+					.localeCompare(b.word.replaceAll(/[^a-zA-Z]/g, ''))
+			)
 		} satisfies Section);
 
 	const targetFile = join(
@@ -145,9 +158,16 @@ for (const file of Files) {
 	} satisfies BigSection);
 }
 
+const AlphabetizedCompleteDictionaryStack = CompleteDictionaryStack.sort(
+	(a, b) =>
+		a.word
+			.replaceAll(/[^a-zA-Z]/g, '')
+			.localeCompare(b.word.replaceAll(/[^a-zA-Z]/g, ''))
+);
+
 await writeFile(
 	join(TargetDirectory, '0-complete.json'),
-	JSON.stringify(CompleteDictionaryStack, null, '\t'),
+	JSON.stringify(AlphabetizedCompleteDictionaryStack, null, '\t'),
 	'utf-8'
 );
 
