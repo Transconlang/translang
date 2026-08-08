@@ -9,12 +9,6 @@
 		],
 		"entries": [
 			{
-				"word": "nen",
-				"meaning": "no",
-				"impl": "logical negation",
-				"obscurism": "nen'"
-			},
-			{
 				"word": "con",
 				"meaning": "soon",
 				"impl": null,
@@ -27,16 +21,10 @@
 				"obscurism": null
 			},
 			{
-				"word": "sun",
-				"meaning": "why",
-				"impl": "interrogative question of cause",
-				"obscurism": "sun'"
-			},
-			{
-				"word": "tun",
-				"meaning": "because",
-				"impl": "statement of cause",
-				"obscurism": "tun'"
+				"word": "nen",
+				"meaning": "no",
+				"impl": "logical negation",
+				"obscurism": "nen'"
 			},
 			{
 				"word": "saci",
@@ -45,10 +33,22 @@
 				"obscurism": "sac"
 			},
 			{
+				"word": "sun",
+				"meaning": "why",
+				"impl": "interrogative question of cause",
+				"obscurism": "sun'"
+			},
+			{
 				"word": "taci",
 				"meaning": null,
 				"impl": "description of methodology",
 				"obscurism": "tac"
+			},
+			{
+				"word": "tun",
+				"meaning": "because",
+				"impl": "statement of cause",
+				"obscurism": "tun'"
 			}
 		]
 	},
@@ -62,12 +62,6 @@
 		],
 		"entries": [
 			{
-				"word": "tahi",
-				"meaning": "now",
-				"impl": null,
-				"obscurism": "tah"
-			},
-			{
 				"word": "kahi",
 				"meaning": "then",
 				"impl": null,
@@ -78,6 +72,12 @@
 				"meaning": "when",
 				"impl": null,
 				"obscurism": "soh"
+			},
+			{
+				"word": "tahi",
+				"meaning": "now",
+				"impl": null,
+				"obscurism": "tah"
 			}
 		]
 	},
@@ -91,12 +91,6 @@
 		],
 		"entries": [
 			{
-				"word": "tawa",
-				"meaning": "here",
-				"impl": null,
-				"obscurism": "taw"
-			},
-			{
 				"word": "kawa",
 				"meaning": "there",
 				"impl": null,
@@ -107,6 +101,12 @@
 				"meaning": "where",
 				"impl": null,
 				"obscurism": "sow"
+			},
+			{
+				"word": "tawa",
+				"meaning": "here",
+				"impl": null,
+				"obscurism": "taw"
 			}
 		]
 	}

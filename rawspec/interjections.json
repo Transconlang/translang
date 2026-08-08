@@ -9,16 +9,10 @@
 		],
 		"entries": [
 			{
-				"word": "sim",
-				"meaning": "yes",
+				"word": "biwe",
+				"meaning": "thanks",
 				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "nen",
-				"meaning": "no",
-				"impl": null,
-				"obscurism": "nen'"
+				"obscurism": "bwe"
 			},
 			{
 				"word": "henlo",
@@ -27,10 +21,16 @@
 				"obscurism": "hnl"
 			},
 			{
-				"word": "na",
-				"meaning": "hi",
+				"word": "hihi",
+				"meaning": "laughter",
 				"impl": null,
-				"obscurism": "n"
+				"obscurism": "hh"
+			},
+			{
+				"word": "ke",
+				"meaning": "ok",
+				"impl": "confirmation, acknowledgement",
+				"obscurism": "k"
 			},
 			{
 				"word": "konba",
@@ -45,22 +45,22 @@
 				"obscurism": null
 			},
 			{
-				"word": "ke",
-				"meaning": "ok",
-				"impl": "confirmation, acknowledgement",
-				"obscurism": "k"
+				"word": "na",
+				"meaning": "hi",
+				"impl": null,
+				"obscurism": "n"
 			},
 			{
-				"word": "biwe",
-				"meaning": "thanks",
+				"word": "nen",
+				"meaning": "no",
 				"impl": null,
-				"obscurism": "bwe"
+				"obscurism": "nen'"
 			},
 			{
-				"word": "hihi",
-				"meaning": "laughter",
+				"word": "sim",
+				"meaning": "yes",
 				"impl": null,
-				"obscurism": "hh"
+				"obscurism": null
 			}
 		]
 	}

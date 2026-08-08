@@ -9,6 +9,42 @@
 		],
 		"entries": [
 			{
+				"word": "da",
+				"meaning": "they [singular]",
+				"impl": "animate, unspecified, 3rd person",
+				"obscurism": null
+			},
+			{
+				"word": "daci",
+				"meaning": "he",
+				"impl": "animate, masculine, 3rd person",
+				"obscurism": null
+			},
+			{
+				"word": "daka",
+				"meaning": "they [singular]",
+				"impl": "animate, androgynous, 3rd person",
+				"obscurism": null
+			},
+			{
+				"word": "dake",
+				"meaning": null,
+				"impl": "animate, fem-leaning, 3rd person",
+				"obscurism": null
+			},
+			{
+				"word": "daki",
+				"meaning": null,
+				"impl": "animate, masc-leaning, 3rd person",
+				"obscurism": null
+			},
+			{
+				"word": "dase",
+				"meaning": "she",
+				"impl": "animate, feminine, 3rd person",
+				"obscurism": null
+			},
+			{
 				"word": "li",
 				"meaning": "I",
 				"impl": "animate, unspecified, 1st person",
@@ -19,42 +55,6 @@
 				"meaning": "you [singular]",
 				"impl": "animate, unspecified, 2nd person",
 				"obscurism": "mid"
-			},
-			{
-				"word": "da",
-				"meaning": "they [singular]",
-				"impl": "animate, unspecified, 3rd person",
-				"obscurism": null
-			},
-			{
-				"word": "dase",
-				"meaning": "she",
-				"impl": "animate, feminine, 3rd person",
-				"obscurism": null
-			},
-			{
-				"word": "dake",
-				"meaning": null,
-				"impl": "animate, fem-leaning, 3rd person",
-				"obscurism": null
-			},
-			{
-				"word": "daka",
-				"meaning": "they [singular]",
-				"impl": "animate, androgynous, 3rd person",
-				"obscurism": null
-			},
-			{
-				"word": "daki",
-				"meaning": null,
-				"impl": "animate, masc-leaning, 3rd person",
-				"obscurism": null
-			},
-			{
-				"word": "daci",
-				"meaning": "he",
-				"impl": "animate, masculine, 3rd person",
-				"obscurism": null
 			}
 		]
 	},
@@ -68,20 +68,8 @@
 		],
 		"entries": [
 			{
-				"word": "reda",
-				"meaning": "itself/herself/etc.",
-				"impl": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence",
-				"obscurism": null
-			},
-			{
-				"word": "toransu",
-				"meaning": "other/another",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "gara",
-				"meaning": "all/every",
+				"word": "boro",
+				"meaning": "any",
 				"impl": null,
 				"obscurism": null
 			},
@@ -92,14 +80,26 @@
 				"obscurism": null
 			},
 			{
-				"word": "boro",
-				"meaning": "any",
+				"word": "gara",
+				"meaning": "all/every",
 				"impl": null,
 				"obscurism": null
 			},
 			{
 				"word": "mire",
 				"meaning": "half",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "reda",
+				"meaning": "itself/herself/etc.",
+				"impl": "reflexive pronoun, referencing to the thing(s) already mentioned in the sentence",
+				"obscurism": null
+			},
+			{
+				"word": "toransu",
+				"meaning": "other/another",
 				"impl": null,
 				"obscurism": null
 			}
@@ -115,10 +115,10 @@
 		],
 		"entries": [
 			{
-				"word": "tano",
-				"meaning": "this + n.",
-				"impl": null,
-				"obscurism": null
+				"word": "talo",
+				"meaning": "such",
+				"impl": "\"this kind of\"",
+				"obscurism": "tal"
 			},
 			{
 				"word": "tani",
@@ -127,16 +127,16 @@
 				"obscurism": null
 			},
 			{
+				"word": "tano",
+				"meaning": "this + n.",
+				"impl": null,
+				"obscurism": null
+			},
+			{
 				"word": "tatu",
 				"meaning": "as such, so",
 				"impl": "\"this way\", \"in this manner\"",
 				"obscurism": null
-			},
-			{
-				"word": "talo",
-				"meaning": "such",
-				"impl": "\"this kind of\"",
-				"obscurism": "tal"
 			}
 		]
 	},
@@ -150,10 +150,10 @@
 		],
 		"entries": [
 			{
-				"word": "kano",
-				"meaning": "that + n.",
-				"impl": null,
-				"obscurism": null
+				"word": "kalo",
+				"meaning": "such",
+				"impl": "\"that kind of\"",
+				"obscurism": "kal"
 			},
 			{
 				"word": "kani",
@@ -162,16 +162,16 @@
 				"obscurism": null
 			},
 			{
+				"word": "kano",
+				"meaning": "that + n.",
+				"impl": null,
+				"obscurism": null
+			},
+			{
 				"word": "katu",
 				"meaning": "as such, so",
 				"impl": "\"that way\", \"in that manner\"",
 				"obscurism": null
-			},
-			{
-				"word": "kalo",
-				"meaning": "such",
-				"impl": "\"that kind of\"",
-				"obscurism": "kal"
 			}
 		]
 	},
@@ -185,10 +185,10 @@
 		],
 		"entries": [
 			{
-				"word": "sono",
-				"meaning": "what",
-				"impl": null,
-				"obscurism": null
+				"word": "solo",
+				"meaning": null,
+				"impl": "\"what kind of\"",
+				"obscurism": "sol"
 			},
 			{
 				"word": "soni",
@@ -197,16 +197,16 @@
 				"obscurism": null
 			},
 			{
+				"word": "sono",
+				"meaning": "what",
+				"impl": null,
+				"obscurism": null
+			},
+			{
 				"word": "sotu",
 				"meaning": "how",
 				"impl": "\"which way\", \"in which manner\"",
 				"obscurism": null
-			},
-			{
-				"word": "solo",
-				"meaning": null,
-				"impl": "\"what kind of\"",
-				"obscurism": "sol"
 			}
 		]
 	}

@@ -9,57 +9,9 @@
 		],
 		"entries": [
 			{
-				"word": "-lu",
-				"meaning": "-er , -ist",
-				"impl": "defines an agent noun",
-				"obscurism": null
-			},
-			{
-				"word": "-sa",
-				"meaning": "-s, -es",
-				"impl": "indicates plurality",
-				"obscurism": null
-			},
-			{
-				"word": "-ri",
-				"meaning": "-ery",
-				"impl": "establishes a place/event",
-				"obscurism": "-r"
-			},
-			{
-				"word": "-dufen",
-				"meaning": "-ifier, -inator",
-				"impl": "refers to an entity or construct that performs a specific action or function",
-				"obscurism": null
-			},
-			{
-				"word": "-fe",
-				"meaning": "\"against\" , \"in opposition to\"",
-				"impl": "connotes opposition",
-				"obscurism": null
-			},
-			{
-				"word": "-se",
-				"meaning": null,
-				"impl": "establishes feminine characteristics/gender",
-				"obscurism": "-s"
-			},
-			{
-				"word": "-ke",
-				"meaning": null,
-				"impl": "establishes fem-leaning characteristics/gender",
-				"obscurism": "-k"
-			},
-			{
-				"word": "-ka",
-				"meaning": null,
-				"impl": "establishes androgynous characteristics/gender",
-				"obscurism": null
-			},
-			{
-				"word": "-ki",
-				"meaning": null,
-				"impl": "establishes masc-leaning characteristics/gender",
+				"word": "-bani",
+				"meaning": "-th",
+				"impl": "for numbers, indicates ordinality",
 				"obscurism": null
 			},
 			{
@@ -69,15 +21,9 @@
 				"obscurism": "-c"
 			},
 			{
-				"word": "-pa",
-				"meaning": "-'s",
-				"impl": "marks word as possessive",
-				"obscurism": "-p"
-			},
-			{
-				"word": "-lonki",
-				"meaning": "-ology, -graphy, -nomy, -ics",
-				"impl": "refers to a field of knowledge/study",
+				"word": "-dufen",
+				"meaning": "-ifier, -inator",
+				"impl": "refers to an entity or construct that performs a specific action or function",
 				"obscurism": null
 			},
 			{
@@ -87,9 +33,51 @@
 				"obscurism": "-fal"
 			},
 			{
-				"word": "-bani",
-				"meaning": "-th",
-				"impl": "for numbers, indicates ordinality",
+				"word": "-fe",
+				"meaning": "\"against\" , \"in opposition to\"",
+				"impl": "connotes opposition",
+				"obscurism": null
+			},
+			{
+				"word": "-ka",
+				"meaning": null,
+				"impl": "establishes androgynous characteristics/gender",
+				"obscurism": null
+			},
+			{
+				"word": "-ke",
+				"meaning": null,
+				"impl": "establishes fem-leaning characteristics/gender",
+				"obscurism": "-k"
+			},
+			{
+				"word": "-ki",
+				"meaning": null,
+				"impl": "establishes masc-leaning characteristics/gender",
+				"obscurism": null
+			},
+			{
+				"word": "-lonki",
+				"meaning": "-ology, -graphy, -nomy, -ics",
+				"impl": "refers to a field of knowledge/study",
+				"obscurism": null
+			},
+			{
+				"word": "-lu",
+				"meaning": "-er , -ist",
+				"impl": "defines an agent noun",
+				"obscurism": null
+			},
+			{
+				"word": "-pa",
+				"meaning": "-'s",
+				"impl": "marks word as possessive",
+				"obscurism": "-p"
+			},
+			{
+				"word": "-para",
+				"meaning": "N/A",
+				"impl": "indicates that word is a loanword",
 				"obscurism": null
 			},
 			{
@@ -99,10 +87,22 @@
 				"obscurism": null
 			},
 			{
-				"word": "-para",
-				"meaning": "N/A",
-				"impl": "indicates that word is a loanword",
+				"word": "-ri",
+				"meaning": "-ery",
+				"impl": "establishes a place/event",
+				"obscurism": "-r"
+			},
+			{
+				"word": "-sa",
+				"meaning": "-s, -es",
+				"impl": "indicates plurality",
 				"obscurism": null
+			},
+			{
+				"word": "-se",
+				"meaning": null,
+				"impl": "establishes feminine characteristics/gender",
+				"obscurism": "-s"
 			}
 		]
 	},
@@ -122,9 +122,9 @@
 				"obscurism": "-d"
 			},
 			{
-				"word": "-ne",
-				"meaning": null,
-				"impl": "refers to the present tense form of a verb",
+				"word": "-ja",
+				"meaning": "\"yet\", \"so far\"",
+				"impl": "refers to that a verb is in progress or incomplete",
 				"obscurism": null
 			},
 			{
@@ -134,9 +134,9 @@
 				"obscurism": "-l"
 			},
 			{
-				"word": "-ja",
-				"meaning": "\"yet\", \"so far\"",
-				"impl": "refers to that a verb is in progress or incomplete",
+				"word": "-ne",
+				"meaning": null,
+				"impl": "refers to the present tense form of a verb",
 				"obscurism": null
 			},
 			{
@@ -157,9 +157,9 @@
 		],
 		"entries": [
 			{
-				"word": "-ku",
+				"word": "-cu",
 				"meaning": null,
-				"impl": "establishes verb as uncertain/questioning",
+				"impl": "denotes conversion to passive form (\"I love you\" -> \"I am loved by you\")",
 				"obscurism": null
 			},
 			{
@@ -169,15 +169,15 @@
 				"obscurism": null
 			},
 			{
-				"word": "-kuka",
-				"meaning": "\"please\"",
-				"impl": "establishes verb as politely questioning/requesting",
+				"word": "-ku",
+				"meaning": null,
+				"impl": "establishes verb as uncertain/questioning",
 				"obscurism": null
 			},
 			{
-				"word": "-napo",
-				"meaning": "from",
-				"impl": null,
+				"word": "-kuka",
+				"meaning": "\"please\"",
+				"impl": "establishes verb as politely questioning/requesting",
 				"obscurism": null
 			},
 			{
@@ -187,9 +187,9 @@
 				"obscurism": null
 			},
 			{
-				"word": "-cu",
-				"meaning": null,
-				"impl": "denotes conversion to passive form (\"I love you\" -> \"I am loved by you\")",
+				"word": "-napo",
+				"meaning": "from",
+				"impl": null,
 				"obscurism": null
 			}
 		]
@@ -210,15 +210,15 @@
 				"obscurism": null
 			},
 			{
-				"word": "-wan",
-				"meaning": "-est",
-				"impl": "denotes superlative adjectives",
-				"obscurism": null
-			},
-			{
 				"word": "-kin",
 				"meaning": null,
 				"impl": "denotes conversion to noun",
+				"obscurism": null
+			},
+			{
+				"word": "-wan",
+				"meaning": "-est",
+				"impl": "denotes superlative adjectives",
 				"obscurism": null
 			}
 		]

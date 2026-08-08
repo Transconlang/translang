@@ -9,302 +9,80 @@
 		],
 		"entries": [
 			{
-				"word": "kase",
-				"meaning": "cat",
-				"impl": null,
-				"obscurism": "kas"
-			},
-			{
-				"word": "hun",
-				"meaning": "dog",
-				"impl": null,
-				"obscurism": "hn'"
-			},
-			{
-				"word": "luma",
-				"meaning": "person",
-				"impl": null,
-				"obscurism": "lm"
-			},
-			{
-				"word": "mawa",
-				"meaning": "kiss",
-				"impl": null,
-				"obscurism": "mw"
-			},
-			{
-				"word": "lanmi",
-				"meaning": "food",
-				"impl": null,
-				"obscurism": "ln'mi"
-			},
-			{
-				"word": "topi",
-				"meaning": "god, deity",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "wantu",
-				"meaning": "number",
-				"impl": null,
-				"obscurism": "wn'tu"
-			},
-			{
-				"word": "cosi",
-				"meaning": "choice, vote",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "falo",
-				"meaning": "speech, discussion, chat",
-				"impl": null,
-				"obscurism": "fal"
-			},
-			{
-				"word": "linwa",
-				"meaning": "language",
-				"impl": null,
-				"obscurism": "ln'wa"
-			},
-			{
-				"word": "keso",
-				"meaning": "cheese",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "sekiso",
-				"meaning": "sex, act of fucking",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "lumaba",
-				"meaning": "friend",
-				"impl": null,
-				"obscurism": "cn'ku"
-			},
-			{
-				"word": "deja",
-				"meaning": "action",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "gade",
-				"meaning": "guess",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "tempu",
-				"meaning": "time",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "cikondu",
-				"meaning": "second",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "minedu",
-				"meaning": "minute",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "haweru",
-				"meaning": "hour",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "dawu",
-				"meaning": "day",
-				"impl": null,
-				"obscurism": "dwu"
-			},
-			{
-				"word": "natu",
-				"meaning": "night",
-				"impl": null,
-				"obscurism": "ntu"
-			},
-			{
-				"word": "murinu",
-				"meaning": "morning",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "ebeninku",
-				"meaning": "evening",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "monadu",
-				"meaning": "month",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "siconu",
-				"meaning": "season",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "waru",
-				"meaning": "year",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "diwaru",
-				"meaning": "decade",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "huwaru",
-				"meaning": "century",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "newaru",
-				"meaning": "millenium",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "nem",
-				"meaning": "mind",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "pen",
-				"meaning": "movement",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "nepen",
-				"meaning": "feeling",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "gurati",
-				"meaning": "non-intervention",
-				"impl": "free (price), without cost",
-				"obscurism": null
-			},
-			{
-				"word": "lifeta",
-				"meaning": "(positive) freedom",
-				"impl": "liberation, liberty",
-				"obscurism": null
-			},
-			{
-				"word": "kumi",
-				"meaning": "trans(gender)ness",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "jala",
-				"meaning": "ability",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "mire",
-				"meaning": "half, middle",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "misu",
-				"meaning": "liquid",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "lufi",
-				"meaning": "gas",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "ten",
-				"meaning": "solid",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "kin",
-				"meaning": "thing",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "meta",
-				"meaning": "measurment",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "core",
-				"meaning": "desire",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "jore",
-				"meaning": "need",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "lonki",
-				"meaning": "field of knowledge/study",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "tori",
-				"meaning": "kindness, love",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "toba",
-				"meaning": "word",
-				"impl": null,
-				"obscurism": null
-			},
-			{
 				"word": "bencun",
 				"meaning": "book",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "gucun",
-				"meaning": "story",
+				"word": "bengu",
+				"meaning": "storybook",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "bengu",
-				"meaning": "storybook",
+				"word": "bese-X",
+				"meaning": "base-X",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "bulohaji",
+				"meaning": "comfort, safety, euphoria",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "caca",
+				"meaning": "brush",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "caja",
+				"meaning": "adventure, journey",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "canwa",
+				"meaning": "result",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "capa",
+				"meaning": "shape",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "capalonki",
+				"meaning": "geometry",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "capanem",
+				"meaning": "form, style",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "capasero",
+				"meaning": "circle",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "capaterolonki",
+				"meaning": "trigonometry",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "capa-X",
+				"meaning": "X-sided polygon",
 				"impl": null,
 				"obscurism": null
 			},
@@ -321,14 +99,56 @@
 				"obscurism": null
 			},
 			{
-				"word": "canwa",
-				"meaning": "result",
+				"word": "cikiwanoka",
+				"meaning": "minimum",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "wucan",
-				"meaning": "victory",
+				"word": "cikondu",
+				"meaning": "second",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "conaro",
+				"meaning": "space (mathematical)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "conarokanpekon",
+				"meaning": "field (mathematical)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "core",
+				"meaning": "desire",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "cosi",
+				"meaning": "choice, vote",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "dawu",
+				"meaning": "day",
+				"impl": null,
+				"obscurism": "dwu"
+			},
+			{
+				"word": "deja",
+				"meaning": "action",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "dena",
+				"meaning": "point (mathematical)",
 				"impl": null,
 				"obscurism": null
 			},
@@ -339,9 +159,93 @@
 				"obscurism": null
 			},
 			{
-				"word": "bulohaji",
-				"meaning": "comfort, safety, euphoria",
+				"word": "dikinem",
+				"meaning": "worry, concern",
 				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "diwaru",
+				"meaning": "decade",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "ebeninku",
+				"meaning": "evening",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "falo",
+				"meaning": "speech, discussion, chat",
+				"impl": null,
+				"obscurism": "fal"
+			},
+			{
+				"word": "fero",
+				"meaning": "set",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "ferocapa",
+				"meaning": "group (mathematical)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "ferociki",
+				"meaning": "subset",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "fono",
+				"meaning": "wind",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "funocapasero",
+				"meaning": "chord",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "gade",
+				"meaning": "guess",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "gano",
+				"meaning": "simple",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "goca",
+				"meaning": "land, country, nation",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "golon",
+				"meaning": "goal, target",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "gucun",
+				"meaning": "story",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "gurati",
+				"meaning": "non-intervention",
+				"impl": "free (price), without cost",
 				"obscurism": null
 			},
 			{
@@ -357,46 +261,82 @@
 				"obscurism": null
 			},
 			{
-				"word": "miku",
-				"meaning": "idol",
+				"word": "haweru",
+				"meaning": "hour",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "qanzi",
-				"meaning": "paper",
+				"word": "hira",
+				"meaning": "hearing",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "muna",
-				"meaning": "egg",
+				"word": "huda",
+				"meaning": "answer",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "suntu",
-				"meaning": "dumbass, idiot",
+				"word": "hun",
+				"meaning": "dog",
+				"impl": null,
+				"obscurism": "hn'"
+			},
+			{
+				"word": "huwaru",
+				"meaning": "century",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "caja",
-				"meaning": "adventure, journey",
+				"word": "ikiko",
+				"meaning": "life",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "goca",
-				"meaning": "land, country, nation",
+				"word": "ikikokin",
+				"meaning": "lifeform, creature, living thing",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "lumakapa",
-				"meaning": "sibling",
+				"word": "jala",
+				"meaning": "ability",
 				"impl": null,
 				"obscurism": null
+			},
+			{
+				"word": "jicuha",
+				"meaning": "art",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "jore",
+				"meaning": "need",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "kacapatero",
+				"meaning": "cosine function",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "kaji",
+				"meaning": "decoration",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "kase",
+				"meaning": "cat",
+				"impl": null,
+				"obscurism": "kas"
 			},
 			{
 				"word": "kawapi",
@@ -405,26 +345,44 @@
 				"obscurism": null
 			},
 			{
-				"word": "picanam",
-				"meaning": "picture, image",
+				"word": "keso",
+				"meaning": "cheese",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "tobacun",
-				"meaning": "dictionary",
+				"word": "kin",
+				"meaning": "thing",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "molumaba",
-				"meaning": "enemy",
+				"word": "kokacapatero",
+				"meaning": "secant function",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "wantulonki",
-				"meaning": "mathematics",
+				"word": "kosacapatero",
+				"meaning": "cosecant function",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "kotacapatero",
+				"meaning": "cotangent function",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "kukin",
+				"meaning": "question",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "kumi",
+				"meaning": "trans(gender)ness",
 				"impl": null,
 				"obscurism": null
 			},
@@ -435,14 +393,56 @@
 				"obscurism": null
 			},
 			{
+				"word": "kumociki",
+				"meaning": "derivative (mathematical)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "kumolonki",
+				"meaning": "calculus",
+				"impl": null,
+				"obscurism": null
+			},
+			{
 				"word": "kumopen",
 				"meaning": "speed",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "gano",
-				"meaning": "simple",
+				"word": "lanmi",
+				"meaning": "food",
+				"impl": null,
+				"obscurism": "ln'mi"
+			},
+			{
+				"word": "leba",
+				"meaning": "name",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "lifeta",
+				"meaning": "(positive) freedom",
+				"impl": "liberation, liberty",
+				"obscurism": null
+			},
+			{
+				"word": "linwa",
+				"meaning": "language",
+				"impl": null,
+				"obscurism": "ln'wa"
+			},
+			{
+				"word": "logo",
+				"meaning": "logarithm function",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "lonki",
+				"meaning": "field of knowledge/study",
 				"impl": null,
 				"obscurism": null
 			},
@@ -461,6 +461,384 @@
 			{
 				"word": "lonkigadeciki",
 				"meaning": "lemma",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "lufi",
+				"meaning": "gas",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "luma",
+				"meaning": "person",
+				"impl": null,
+				"obscurism": "lm"
+			},
+			{
+				"word": "lumaba",
+				"meaning": "friend",
+				"impl": null,
+				"obscurism": "cn'ku"
+			},
+			{
+				"word": "lumakapa",
+				"meaning": "sibling",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "matuco",
+				"meaning": "matrix",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "mawa",
+				"meaning": "kiss",
+				"impl": null,
+				"obscurism": "mw"
+			},
+			{
+				"word": "meta",
+				"meaning": "measurment",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "miku",
+				"meaning": "idol",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "minedu",
+				"meaning": "minute",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "mire",
+				"meaning": "half, middle",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "mireconarokanpekon",
+				"meaning": "ring (mathematical)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "mirekanpekon",
+				"meaning": "rng (mathematical)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "mirekin",
+				"meaning": "part, portion",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "mirekukin",
+				"meaning": "prompt",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "mirekumociki",
+				"meaning": "partial derivative",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "misu",
+				"meaning": "liquid",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "modoni",
+				"meaning": "setting, mode",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "molumaba",
+				"meaning": "enemy",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "monadu",
+				"meaning": "month",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "muna",
+				"meaning": "egg",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "murinu",
+				"meaning": "morning",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "natu",
+				"meaning": "night",
+				"impl": null,
+				"obscurism": "ntu"
+			},
+			{
+				"word": "nem",
+				"meaning": "mind",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "nemlonki",
+				"meaning": "logic",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "nemlonkife",
+				"meaning": "contradiction",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "nepen",
+				"meaning": "feeling",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "newaru",
+				"meaning": "millenium",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "pacu",
+				"meaning": "function",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "pacuduwo",
+				"meaning": "bijection",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "pacufe",
+				"meaning": "surjection",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "pacugano",
+				"meaning": "polynomial",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "pacuganora",
+				"meaning": "analytic function",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "pacukomi",
+				"meaning": "arrow",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "pacuwano",
+				"meaning": "injection (mathematical)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "patolen",
+				"meaning": "pot, bowl",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "peca",
+				"meaning": "exponent",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "pecakin",
+				"meaning": "exponential function",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "pen",
+				"meaning": "movement",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "penciki",
+				"meaning": "limit (mathematical)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "penfero",
+				"meaning": "transformation (mathematical)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "picanam",
+				"meaning": "picture, image",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "poraciki",
+				"meaning": "integral",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "qanzi",
+				"meaning": "paper",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "qinakin",
+				"meaning": "information",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "sacapatero",
+				"meaning": "sine function",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "segan",
+				"meaning": "world",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "sekiso",
+				"meaning": "sex, act of fucking",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "sena",
+				"meaning": "line (mathematical)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "seta",
+				"meaning": "death",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "sevo",
+				"meaning": "server (digital)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "siconu",
+				"meaning": "season",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "sonara",
+				"meaning": "plane (mathematical)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "sorosoro",
+				"meaning": "repeat",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "suka",
+				"meaning": "parent",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "suntu",
+				"meaning": "dumbass, idiot",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "tacapatero",
+				"meaning": "tangent function",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "tawakin",
+				"meaning": "location",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "tempu",
+				"meaning": "time",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "ten",
+				"meaning": "solid",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "tesura",
+				"meaning": "adventure",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "tetowanoka",
+				"meaning": "maximum",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "toba",
+				"meaning": "word",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "tobacun",
+				"meaning": "dictionary",
 				"impl": null,
 				"obscurism": null
 			},
@@ -489,134 +867,44 @@
 				"obscurism": null
 			},
 			{
-				"word": "dena",
-				"meaning": "point (mathematical)",
+				"word": "topi",
+				"meaning": "god, deity",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "sena",
-				"meaning": "line (mathematical)",
+				"word": "tori",
+				"meaning": "kindness, love",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "sonara",
-				"meaning": "plane (mathematical)",
+				"word": "toritorikin",
+				"meaning": "guard, guardian",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "conaro",
-				"meaning": "space (mathematical)",
+				"word": "vico",
+				"meaning": "vision",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "conarokanpekon",
-				"meaning": "field (mathematical)",
+				"word": "wantu",
+				"meaning": "number",
+				"impl": null,
+				"obscurism": "wn'tu"
+			},
+			{
+				"word": "wantufe",
+				"meaning": "negative number",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "mireconarokanpekon",
-				"meaning": "ring (mathematical)",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "mirekanpekon",
-				"meaning": "rng (mathematical)",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "pacuwano",
-				"meaning": "injection (mathematical)",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "pacuduwo",
-				"meaning": "bijection",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "pacufe",
-				"meaning": "surjection",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "capa",
-				"meaning": "shape",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "capa-X",
-				"meaning": "X-sided polygon",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "X-capa",
-				"meaning": "X-dimensional shape",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "X-capa-Y",
-				"meaning": "X-dimensional shape with Y X-1 dimensional faces",
-				"impl": "For example, 3-capa-6 is a cube.",
-				"obscurism": null
-			},
-			{
-				"word": "fero",
-				"meaning": "set",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "ferociki",
-				"meaning": "subset",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "ferocapa",
-				"meaning": "group (mathematical)",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "wantuwanora",
-				"meaning": "identity (number)",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "matuco",
-				"meaning": "matrix",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "penfero",
-				"meaning": "transformation (mathematical)",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "peca",
-				"meaning": "exponent",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "bese-X",
-				"meaning": "base-X",
+				"word": "wantukanpekon",
+				"meaning": "integer",
 				"impl": null,
 				"obscurism": null
 			},
@@ -627,44 +915,14 @@
 				"obscurism": null
 			},
 			{
-				"word": "pacu",
-				"meaning": "function",
-				"impl": null,
-				"obscurism": null
-			},
-			{
 				"word": "wantukumilonki",
 				"meaning": "algebra",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "capalonki",
-				"meaning": "geometry",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "kumolonki",
-				"meaning": "calculus",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "wantuwantulonki",
-				"meaning": "number theory",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "capaterolonki",
-				"meaning": "trigonometry",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "wantukanpekon",
-				"meaning": "integer",
+				"word": "wantulonki",
+				"meaning": "mathematics",
 				"impl": null,
 				"obscurism": null
 			},
@@ -681,297 +939,39 @@
 				"obscurism": null
 			},
 			{
-				"word": "pacugano",
-				"meaning": "polynomial",
+				"word": "wantuwanora",
+				"meaning": "identity (number)",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "pacuganora",
-				"meaning": "analytic function",
+				"word": "wantuwantulonki",
+				"meaning": "number theory",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "wantufe",
-				"meaning": "negative number",
+				"word": "waru",
+				"meaning": "year",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "kumociki",
-				"meaning": "derivative (mathematical)",
+				"word": "wucan",
+				"meaning": "victory",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "poraciki",
-				"meaning": "integral",
+				"word": "X-capa",
+				"meaning": "X-dimensional shape",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "mirekumociki",
-				"meaning": "partial derivative",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "penciki",
-				"meaning": "limit (mathematical)",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "sacapatero",
-				"meaning": "sine function",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "kacapatero",
-				"meaning": "cosine function",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "tacapatero",
-				"meaning": "tangent function",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "kotacapatero",
-				"meaning": "cotangent function",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "kokacapatero",
-				"meaning": "secant function",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "kosacapatero",
-				"meaning": "cosecant function",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "logo",
-				"meaning": "logarithm function",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "cikiwanoka",
-				"meaning": "minimum",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "tetowanoka",
-				"meaning": "maximum",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "pecakin",
-				"meaning": "exponential function",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "capasero",
-				"meaning": "circle",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "funocapasero",
-				"meaning": "chord",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "kukin",
-				"meaning": "question",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "huda",
-				"meaning": "answer",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "nemlonki",
-				"meaning": "logic",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "nemlonkife",
-				"meaning": "contradiction",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "modoni",
-				"meaning": "setting, mode",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "sevo",
-				"meaning": "server (digital)",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "tawakin",
-				"meaning": "location",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "leba",
-				"meaning": "name",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "mirekukin",
-				"meaning": "prompt",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "qinakin",
-				"meaning": "information",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "mirekin",
-				"meaning": "part, portion",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "segan",
-				"meaning": "world",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "tesura",
-				"meaning": "adventure",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "ikiko",
-				"meaning": "life",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "seta",
-				"meaning": "death",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "ikikokin",
-				"meaning": "lifeform, creature, living thing",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "pacukomi",
-				"meaning": "arrow",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "vico",
-				"meaning": "vision",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "hira",
-				"meaning": "hearing",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "toritorikin",
-				"meaning": "guard, guardian",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "fono",
-				"meaning": "wind",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "caca",
-				"meaning": "brush",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "golon",
-				"meaning": "goal, target",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "jicuha",
-				"meaning": "art",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "kaji",
-				"meaning": "decoration",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "patolen",
-				"meaning": "pot, bowl",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "sorosoro",
-				"meaning": "repeat",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "suka",
-				"meaning": "parent",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "capanem",
-				"meaning": "form, style",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "dikinem",
-				"meaning": "worry, concern",
-				"impl": null,
+				"word": "X-capa-Y",
+				"meaning": "X-dimensional shape with Y X-1 dimensional faces",
+				"impl": "For example, 3-capa-6 is a cube.",
 				"obscurism": null
 			}
 		]

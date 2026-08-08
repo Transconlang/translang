@@ -9,15 +9,9 @@
 		],
 		"entries": [
 			{
-				"word": "mire-",
-				"meaning": "semi-",
-				"impl": "semi",
-				"obscurism": null
-			},
-			{
-				"word": "gara-",
-				"meaning": "all-/every-",
-				"impl": "all/every",
+				"word": "boro-",
+				"meaning": "any-",
+				"impl": "any",
 				"obscurism": null
 			},
 			{
@@ -27,27 +21,9 @@
 				"obscurism": null
 			},
 			{
-				"word": "boro-",
-				"meaning": "any-",
-				"impl": "any",
-				"obscurism": null
-			},
-			{
-				"word": "ni-",
-				"meaning": "non-",
-				"impl": "negation, other than",
-				"obscurism": null
-			},
-			{
-				"word": "mo-",
-				"meaning": null,
-				"impl": "inversion, contrary meaning",
-				"obscurism": null
-			},
-			{
-				"word": "wu-",
-				"meaning": null,
-				"impl": "positive connotation",
+				"word": "deja-",
+				"meaning": "-doing",
+				"impl": "the doing of",
 				"obscurism": null
 			},
 			{
@@ -57,15 +33,39 @@
 				"obscurism": null
 			},
 			{
-				"word": "deja-",
-				"meaning": "-doing",
-				"impl": "the doing of",
+				"word": "gara-",
+				"meaning": "all-/every-",
+				"impl": "all/every",
+				"obscurism": null
+			},
+			{
+				"word": "mire-",
+				"meaning": "semi-",
+				"impl": "semi",
+				"obscurism": null
+			},
+			{
+				"word": "mo-",
+				"meaning": null,
+				"impl": "inversion, contrary meaning",
+				"obscurism": null
+			},
+			{
+				"word": "ni-",
+				"meaning": "non-",
+				"impl": "negation, other than",
 				"obscurism": null
 			},
 			{
 				"word": "soro-",
 				"meaning": "re-",
 				"impl": "repetition of an action",
+				"obscurism": null
+			},
+			{
+				"word": "wu-",
+				"meaning": null,
+				"impl": "positive connotation",
 				"obscurism": null
 			}
 		]

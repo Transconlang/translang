@@ -9,368 +9,8 @@
 		],
 		"entries": [
 			{
-				"word": "mawa",
-				"meaning": "kiss",
-				"impl": null,
-				"obscurism": "mw"
-			},
-			{
-				"word": "binta",
-				"meaning": "eat",
-				"impl": null,
-				"obscurism": "bn'ta"
-			},
-			{
-				"word": "sanu",
-				"meaning": "be",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "tenco",
-				"meaning": "have",
-				"impl": null,
-				"obscurism": "ten'co"
-			},
-			{
-				"word": "somo",
-				"meaning": "sleep",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "cosi",
-				"meaning": "choose, vote",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "falo",
-				"meaning": "speak, say, tell",
-				"impl": null,
-				"obscurism": "fal"
-			},
-			{
-				"word": "toransu",
-				"meaning": "differ",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "mahen",
-				"meaning": "make, create",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "sekiso",
-				"meaning": "have sex, fuck",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "deja",
-				"meaning": "do, act",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "gade",
-				"meaning": "guess",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "nem",
-				"meaning": "think",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "pen",
-				"meaning": "move",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "nepen",
-				"meaning": "feel",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "gurati",
-				"meaning": "induce negative freedom, reduce cost to none",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "lifeta",
-				"meaning": "induce positive freedom",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "jala",
-				"meaning": "can, be able to",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "meta",
-				"meaning": "measure",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "core",
-				"meaning": "want",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "jore",
-				"meaning": "need",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "pora",
-				"meaning": "to add, to increase",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "mina",
-				"meaning": "to subtract, to decrease, to remove",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "mulipa",
-				"meaning": "to multiply",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "cipan",
-				"meaning": "to divide, to split",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "nepetori",
-				"meaning": "to love, to feel love towards",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "muvini",
-				"meaning": "to move",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "halini",
-				"meaning": "to start",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "mirendini",
-				"meaning": "to pause/rest",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "mirehalini",
-				"meaning": "to continue",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "endini",
-				"meaning": "to stop",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "hitini",
-				"meaning": "to arrive/come",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "cini",
-				"meaning": "to leave/go",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "tenini",
-				"meaning": "to stand/rise",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "palini",
-				"meaning": "to fall",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "rumpini",
-				"meaning": "to sit",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "dawini",
-				"meaning": "to lie down",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "bujini",
-				"meaning": "to bend",
-				"impl": null,
-				"obscurism": null
-			},
-			{
 				"word": "bacini",
 				"meaning": "to walk",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "hurini",
-				"meaning": "to run",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "kanini",
-				"meaning": "to jump",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "risini",
-				"meaning": "to climb",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "lubini",
-				"meaning": "to slide",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "qipini",
-				"meaning": "to fly",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "ficini",
-				"meaning": "to swim",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "bolini",
-				"meaning": "to roll",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "karini",
-				"meaning": "to drive",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "kamuvini",
-				"meaning": "to push",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "tamuvini",
-				"meaning": "to pull",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "upimovini",
-				"meaning": "to lift",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "domovini",
-				"meaning": "to drop",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "kawufini",
-				"meaning": "to throw",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "tawufini",
-				"meaning": "to catch",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "holini",
-				"meaning": "to carry/hold/bear",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "nykini",
-				"meaning": "to take/grab",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "gabini",
-				"meaning": "to give/release",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "kuvini",
-				"meaning": "to drag",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "cinini",
-				"meaning": "to kick",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "fitini",
-				"meaning": "to strike/punch",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "panini",
-				"meaning": "to flip/do a flip",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "velorini",
-				"meaning": "to follow",
 				"impl": null,
 				"obscurism": null
 			},
@@ -381,74 +21,20 @@
 				"obscurism": null
 			},
 			{
-				"word": "xasini",
-				"meaning": "to resist",
+				"word": "binta",
+				"meaning": "eat",
+				"impl": null,
+				"obscurism": "bn'ta"
+			},
+			{
+				"word": "bolini",
+				"meaning": "to roll",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "repa",
-				"meaning": "let",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "kukinkumi",
-				"meaning": "QED / it is proven",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "qina",
-				"meaning": "to know",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "simjala",
-				"meaning": "to accept",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "henlona",
-				"meaning": "welcome, to welcome",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "dejapora",
-				"meaning": "to advance",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "sorini",
-				"meaning": "to find",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "tesura",
-				"meaning": "to adventure",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "setaso",
-				"meaning": "to kill (intentionally)",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "setaku",
-				"meaning": "to kill (unintentionally or unknown)",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "ciwaci",
-				"meaning": "to shoot",
+				"word": "bujini",
+				"meaning": "to bend",
 				"impl": null,
 				"obscurism": null
 			},
@@ -459,38 +45,92 @@
 				"obscurism": null
 			},
 			{
-				"word": "naki",
-				"meaning": "to sense",
+				"word": "cini",
+				"meaning": "to leave/go",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "viconaki",
-				"meaning": "to see",
+				"word": "cinini",
+				"meaning": "to kick",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "hiranaki",
-				"meaning": "to hear",
+				"word": "cipan",
+				"meaning": "to divide, to split",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "toritori",
-				"meaning": "to guard",
+				"word": "ciwaci",
+				"meaning": "to shoot",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "kopori",
-				"meaning": "to copy",
+				"word": "core",
+				"meaning": "want",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "vineri",
-				"meaning": "to reflect",
+				"word": "cosi",
+				"meaning": "choose, vote",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "dawini",
+				"meaning": "to lie down",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "deja",
+				"meaning": "do, act",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "dejanem",
+				"meaning": "to try, to attempt",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "dejapora",
+				"meaning": "to advance",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "domovini",
+				"meaning": "to drop",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "endini",
+				"meaning": "to stop",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "falo",
+				"meaning": "speak, say, tell",
+				"impl": null,
+				"obscurism": "fal"
+			},
+			{
+				"word": "ficini",
+				"meaning": "to swim",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "fitini",
+				"meaning": "to strike/punch",
 				"impl": null,
 				"obscurism": null
 			},
@@ -501,26 +141,110 @@
 				"obscurism": null
 			},
 			{
-				"word": "seni",
-				"meaning": "to use",
+				"word": "gabini",
+				"meaning": "to give/release",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "nemtori",
-				"meaning": "to care, to care about",
+				"word": "gade",
+				"meaning": "guess",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "sorosoro",
-				"meaning": "to repeat",
+				"word": "gurati",
+				"meaning": "induce negative freedom, reduce cost to none",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "tetoni",
-				"meaning": "to grow, to expand",
+				"word": "halini",
+				"meaning": "to start",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "henlona",
+				"meaning": "welcome, to welcome",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "hiranaki",
+				"meaning": "to hear",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "hitini",
+				"meaning": "to arrive/come",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "holini",
+				"meaning": "to carry/hold/bear",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "hurini",
+				"meaning": "to run",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "jala",
+				"meaning": "can, be able to",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "jore",
+				"meaning": "need",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "kamuvini",
+				"meaning": "to push",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "kanini",
+				"meaning": "to jump",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "karini",
+				"meaning": "to drive",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "kawufini",
+				"meaning": "to throw",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "kopori",
+				"meaning": "to copy",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "kukinkumi",
+				"meaning": "QED / it is proven",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "kuvini",
+				"meaning": "to drag",
 				"impl": null,
 				"obscurism": null
 			},
@@ -531,8 +255,284 @@
 				"obscurism": null
 			},
 			{
-				"word": "dejanem",
-				"meaning": "to try, to attempt",
+				"word": "lifeta",
+				"meaning": "induce positive freedom",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "lubini",
+				"meaning": "to slide",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "mahen",
+				"meaning": "make, create",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "mawa",
+				"meaning": "kiss",
+				"impl": null,
+				"obscurism": "mw"
+			},
+			{
+				"word": "meta",
+				"meaning": "measure",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "mina",
+				"meaning": "to subtract, to decrease, to remove",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "mirehalini",
+				"meaning": "to continue",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "mirendini",
+				"meaning": "to pause/rest",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "mulipa",
+				"meaning": "to multiply",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "muvini",
+				"meaning": "to move",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "naki",
+				"meaning": "to sense",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "nem",
+				"meaning": "think",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "nemtori",
+				"meaning": "to care, to care about",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "nepen",
+				"meaning": "feel",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "nepetori",
+				"meaning": "to love, to feel love towards",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "nykini",
+				"meaning": "to take/grab",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "palini",
+				"meaning": "to fall",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "panini",
+				"meaning": "to flip/do a flip",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "pen",
+				"meaning": "move",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "pora",
+				"meaning": "to add, to increase",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "qina",
+				"meaning": "to know",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "qipini",
+				"meaning": "to fly",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "repa",
+				"meaning": "let",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "risini",
+				"meaning": "to climb",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "rumpini",
+				"meaning": "to sit",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "sanu",
+				"meaning": "be",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "sekiso",
+				"meaning": "have sex, fuck",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "seni",
+				"meaning": "to use",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "setaku",
+				"meaning": "to kill (unintentionally or unknown)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "setaso",
+				"meaning": "to kill (intentionally)",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "simjala",
+				"meaning": "to accept",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "somo",
+				"meaning": "sleep",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "sorini",
+				"meaning": "to find",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "sorosoro",
+				"meaning": "to repeat",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "tamuvini",
+				"meaning": "to pull",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "tawufini",
+				"meaning": "to catch",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "tenco",
+				"meaning": "have",
+				"impl": null,
+				"obscurism": "ten'co"
+			},
+			{
+				"word": "tenini",
+				"meaning": "to stand/rise",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "tesura",
+				"meaning": "to adventure",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "tetoni",
+				"meaning": "to grow, to expand",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "toransu",
+				"meaning": "differ",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "toritori",
+				"meaning": "to guard",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "upimovini",
+				"meaning": "to lift",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "velorini",
+				"meaning": "to follow",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "viconaki",
+				"meaning": "to see",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "vineri",
+				"meaning": "to reflect",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "xasini",
+				"meaning": "to resist",
 				"impl": null,
 				"obscurism": null
 			}

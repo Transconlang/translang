@@ -9,14 +9,14 @@
 		],
 		"entries": [
 			{
-				"word": "ra",
-				"meaning": "in",
-				"impl": "is part of, contained or located in",
+				"word": "bi",
+				"meaning": "by",
+				"impl": "in context of \"I walked by the blahaj store.\"",
 				"obscurism": null
 			},
 			{
-				"word": "para",
-				"meaning": "for",
+				"word": "caba",
+				"meaning": "behind",
 				"impl": null,
 				"obscurism": null
 			},
@@ -27,8 +27,8 @@
 				"obscurism": null
 			},
 			{
-				"word": "no",
-				"meaning": "but",
+				"word": "faba",
+				"meaning": "in front of",
 				"impl": null,
 				"obscurism": null
 			},
@@ -45,20 +45,38 @@
 				"obscurism": null
 			},
 			{
-				"word": "wuba",
-				"meaning": "under",
+				"word": "kaba",
+				"meaning": "far",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "faba",
-				"meaning": "in front of",
+				"word": "no",
+				"meaning": "but",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "caba",
-				"meaning": "behind",
+				"word": "para",
+				"meaning": "for",
+				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "ra",
+				"meaning": "in",
+				"impl": "is part of, contained or located in",
+				"obscurism": null
+			},
+			{
+				"word": "se",
+				"meaning": "to",
+				"impl": "in context of \"9 to 5\" or \"I walked to the blahaj store.\"",
+				"obscurism": null
+			},
+			{
+				"word": "taba",
+				"meaning": "near",
 				"impl": null,
 				"obscurism": null
 			},
@@ -69,33 +87,15 @@
 				"obscurism": null
 			},
 			{
-				"word": "taba",
-				"meaning": "near",
-				"impl": null,
-				"obscurism": null
-			},
-			{
-				"word": "kaba",
-				"meaning": "far",
-				"impl": null,
-				"obscurism": null
-			},
-			{
 				"word": "taro",
 				"meaning": "with",
 				"impl": null,
 				"obscurism": null
 			},
 			{
-				"word": "se",
-				"meaning": "to",
-				"impl": "in context of \"9 to 5\" or \"I walked to the blahaj store.\"",
-				"obscurism": null
-			},
-			{
-				"word": "bi",
-				"meaning": "by",
-				"impl": "in context of \"I walked by the blahaj store.\"",
+				"word": "wuba",
+				"meaning": "under",
+				"impl": null,
 				"obscurism": null
 			}
 		]

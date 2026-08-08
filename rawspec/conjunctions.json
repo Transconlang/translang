@@ -9,27 +9,27 @@
 		],
 		"entries": [
 			{
-				"word": "pum",
-				"meaning": "and",
-				"impl": "logical conjunction",
-				"obscurism": "plu"
-			},
-			{
-				"word": "ron",
-				"meaning": "or",
-				"impl": "logical disjunction",
-				"obscurism": null
-			},
-			{
 				"word": "no",
 				"meaning": "but",
 				"impl": "logical implication",
 				"obscurism": null
 			},
 			{
+				"word": "pum",
+				"meaning": "and",
+				"impl": "logical conjunction",
+				"obscurism": "plu"
+			},
+			{
 				"word": "pumfe",
 				"meaning": "nand",
 				"impl": "opposite of logical conjunction",
+				"obscurism": null
+			},
+			{
+				"word": "ron",
+				"meaning": "or",
+				"impl": "logical disjunction",
 				"obscurism": null
 			},
 			{
@@ -39,15 +39,15 @@
 				"obscurism": null
 			},
 			{
-				"word": "xon",
-				"meaning": "xor",
-				"impl": "exclusive logical disjunction",
-				"obscurism": null
-			},
-			{
 				"word": "sumasu",
 				"meaning": "in order to",
 				"impl": null,
+				"obscurism": null
+			},
+			{
+				"word": "xon",
+				"meaning": "xor",
+				"impl": "exclusive logical disjunction",
 				"obscurism": null
 			}
 		]
