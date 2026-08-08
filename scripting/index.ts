@@ -170,9 +170,11 @@ for (const file of Files) {
 
 	await writeFile(
 		join(SourceDirectory, file),
-		((unfilteredRows[0] ?? '' + '\n\n') + nonDataRows.has(unfilteredRows[0])
-			? nonDataRows.get(unfilteredRows[0]) + '\n\n'
-			: '') +
+		unfilteredRows[0] +
+			'\n\n' +
+			(nonDataRows.has(unfilteredRows[0])
+				? nonDataRows.get(unfilteredRows[0]) + '\n\n'
+				: '') +
 			sectionStack
 				.map(section => {
 					let sectionString = '';
