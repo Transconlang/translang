@@ -141,6 +141,26 @@ for (const file of Files) {
 			)
 		} satisfies Section);
 
+	await writeFile(
+		join(SourceDirectory, file),
+		`# ${file.replace('.md', '')}\n\n` +
+			sectionStack
+				.map(section => {
+					let sectionString = '';
+					if (section.title) sectionString += `## ${section.title}\n\n`;
+					sectionString += `| ${section.headers.join(' | ')} |\n`;
+					sectionString += `|${section.headers.map(header => '--' + '-'.repeat(header.length)).join('|')}|\n`;
+					sectionString += section.entries
+						.map(
+							entry =>
+								`| ${entry.word} | ${entry.meaning ?? ''} | ${entry.impl ?? ''} |`
+						)
+						.join('\n');
+					return sectionString;
+				})
+				.join('\n\n')
+	);
+
 	const targetFile = join(
 		TargetDirectory,
 		file.toLowerCase().replace(/\.md$/, '.json')
