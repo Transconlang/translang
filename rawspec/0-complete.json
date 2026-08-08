@@ -1785,13 +1785,6 @@
 		"obscurism": null
 	},
 	{
-		"word": "mayu",
-		"meaning": "very, extremely",
-		"impl": null,
-		"type": "adverb",
-		"obscurism": null
-	},
-	{
 		"word": "meta",
 		"meaning": "measurment",
 		"impl": null,
@@ -3511,13 +3504,6 @@
 		"meaning": "victory",
 		"impl": null,
 		"type": "noun",
-		"obscurism": null
-	},
-	{
-		"word": "wuroga",
-		"meaning": "WLOG (without loss of generality)",
-		"impl": null,
-		"type": "adverb",
 		"obscurism": null
 	},
 	{

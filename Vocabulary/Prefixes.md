@@ -1,14 +1,14 @@
-undefined
+# Prefixes
 
 | Spelling | Translation (English) | Implication / Definition / Used as |
 |----------|-----------------------|------------------------------------|
-| boro- | any- | any |
-| coko- | some- | some |
-| deja- | -doing | the doing of |
-| di- |  | negative connotation |
+| mire- | semi- | semi |   
 | gara- | all-/every- | all/every |
-| mire- | semi- | semi |
-| mo- |  | inversion, contrary meaning |
+| coko- | some- | some |
+| boro- | any- | any |
 | ni- | non- | negation, other than |
-| soro- | re- | repetition of an action |
+| mo- |  | inversion, contrary meaning |
 | wu- |  | positive connotation |
+| di- |  | negative connotation |
+| deja- | -doing | the doing of |
+| soro- | re- | repetition of an action |
