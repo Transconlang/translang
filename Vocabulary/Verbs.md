@@ -1,92 +1,92 @@
 # Verbs
 
 | Spelling (nonextended — original) | English Equivalent | Implication / Definition / Used as |
-|-----------------------------------|--------------------|------------------------------------|
-| bacini | to walk |  |
-| betini | to lead |  |
-| binta | eat |  |
-| bolini | to roll |  |
-| bujini | to bend |  |
-| cikihasonbacini | to sneak |  |
-| cini | to leave/go |  |
-| cinini | to kick |  |
-| cipan | to divide, to split |  |
-| ciwaci | to shoot |  |
-| core | want |  |
-| cosi | choose, vote |  |
-| dawini | to lie down |  |
-| deja | do, act |  |
-| dejanem | to try, to attempt |  |
-| dejapora | to advance |  |
-| domovini | to drop |  |
-| endini | to stop |  |
-| falo | speak, say, tell |  |
-| ficini | to swim |  |
-| fitini | to strike/punch |  |
-| fonopen | to blow |  |
-| gabini | to give/release |  |
-| gade | guess |  |
-| gurati | induce negative freedom, reduce cost to none |  |
-| halini | to start |  |
-| henlona | welcome, to welcome |  |
-| hiranaki | to hear |  |
-| hitini | to arrive/come |  |
-| holini | to carry/hold/bear |  |
-| hurini | to run |  |
-| jala | can, be able to |  |
-| jore | need |  |
-| kamuvini | to push |  |
-| kanini | to jump |  |
-| karini | to drive |  |
-| kawufini | to throw |  |
-| kopori | to copy |  |
-| kukinkumi | QED / it is proven |  |
-| kuvini | to drag |  |
-| lajitoki | to glow |  |
-| lifeta | induce positive freedom |  |
-| lubini | to slide |  |
-| mahen | make, create |  |
+|-----------------------------------|--------------------|--------------------------------|
 | mawa | kiss |  |
-| meta | measure |  |
-| mina | to subtract, to decrease, to remove |  |
-| mirehalini | to continue |  |
-| mirendini | to pause/rest |  |
-| mulipa | to multiply |  |
-| muvini | to move |  |
-| naki | to sense |  |
-| nem | think |  |
-| nemtori | to care, to care about |  |
-| nepen | feel |  |
-| nepetori | to love, to feel love towards |  |
-| nykini | to take/grab |  |
-| palini | to fall |  |
-| panini | to flip/do a flip |  |
-| pen | move |  |
-| pora | to add, to increase |  |
-| qina | to know |  |
-| qipini | to fly |  |
-| repa | let |  |
-| risini | to climb |  |
-| rumpini | to sit |  |
+| binta | eat |  |
 | sanu | be |  |
-| sekiso | have sex, fuck |  |
-| seni | to use |  |
-| setaku | to kill (unintentionally or unknown) |  |
-| setaso | to kill (intentionally) |  |
-| simjala | to accept |  |
-| somo | sleep |  |
-| sorini | to find |  |
-| sorosoro | to repeat |  |
-| tamuvini | to pull |  |
-| tawufini | to catch |  |
 | tenco | have |  |
-| tenini | to stand/rise |  |
-| tesura | to adventure |  |
-| tetoni | to grow, to expand |  |
+| somo | sleep |  |
+| cosi | choose, vote |  |
+| falo | speak, say, tell |  |
 | toransu | differ |  |
-| toritori | to guard |  |
+| mahen | make, create |  |
+| sekiso | have sex, fuck |  |
+| deja | do, act |  |
+| gade | guess |  |
+| nem | think |  |
+| pen | move |  |
+| nepen | feel |  |
+| gurati | induce negative freedom, reduce cost to none |  |
+| lifeta | induce positive freedom |  |
+| jala | can, be able to |  |
+| meta | measure |  |
+| core | want |  |
+| jore | need |  |
+| pora | to add, to increase |  |
+| mina | to subtract, to decrease, to remove |  |
+| mulipa | to multiply |  |
+| cipan | to divide, to split |  |
+| nepetori | to love, to feel love towards |  |
+| muvini | to move |  |
+| halini | to start |  |
+| mirendini | to pause/rest |  |
+| mirehalini | to continue |  |
+| endini | to stop |  |
+| hitini | to arrive/come |  |
+| cini | to leave/go |  |
+| tenini | to stand/rise |  |
+| palini | to fall |  |
+| rumpini | to sit |  |
+| dawini | to lie down |  |
+| bujini | to bend |  |
+| bacini | to walk |  |
+| hurini | to run |  |
+| kanini | to jump |  |
+| risini | to climb |  |
+| lubini | to slide |  |
+| qipini | to fly |  |
+| ficini | to swim |  |
+| bolini | to roll |  |
+| karini | to drive |  |
+| kamuvini | to push |  |
+| tamuvini | to pull |  |
 | upimovini | to lift |  |
+| domovini | to drop |  |
+| kawufini | to throw |  |
+| tawufini | to catch |  |
+| holini | to carry/hold/bear |  |
+| nykini | to take/grab |  |
+| gabini | to give/release |  |
+| kuvini | to drag |  |
+| cinini | to kick |  |
+| fitini | to strike/punch |  |
+| panini | to flip/do a flip |  |
 | velorini | to follow |  |
-| viconaki | to see |  |
-| vineri | to reflect |  |
+| betini | to lead |  |
 | xasini | to resist |  |
+| repa | let |  |
+| kukinkumi | QED / it is proven |  |
+| qina | to know |  |
+| simjala | to accept |  |
+| henlona | welcome, to welcome |  |
+| dejapora | to advance |  |
+| sorini | to find |  |
+| tesura | to adventure |  |
+| setaso | to kill (intentionally) |  |
+| setaku | to kill (unintentionally or unknown) |  |
+| ciwaci | to shoot |  |
+| cikihasonbacini | to sneak |  |
+| naki | to sense |  |
+| viconaki | to see |  |
+| hiranaki | to hear |  |
+| toritori | to guard |  |
+| kopori | to copy |  |
+| vineri | to reflect |  |
+| fonopen | to blow |  |
+| seni | to use |  |
+| nemtori | to care, to care about |  |
+| sorosoro | to repeat |  |
+| tetoni | to grow, to expand |  |
+| lajitoki | to glow |  |
+| dejanem | to try, to attempt |  |

@@ -2,12 +2,12 @@
 
 | Spelling | English Equivalent | Implication / Definition / Used as |
 |----------|--------------------|------------------------------------|
-| biwe | thanks |  |
+| sim | yes |  |
+| nen | no |  |
 | henlo | hello |  |
-| hihi | laughter |  |
-| ke | ok | confirmation, acknowledgement |
+| na | hi |  |
 | konba | goodbye |  |
 | mi | cute |  |
-| na | hi |  |
-| nen | no |  |
-| sim | yes |  |
+| ke | ok | confirmation, acknowledgement |
+| biwe | thanks |  |
+| hihi | laughter |  |
