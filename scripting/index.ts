@@ -75,8 +75,6 @@ for (const file of Files) {
 		} else nonDataRows.set(previousRow, row);
 	}
 
-	console.log(nonDataRows);
-
 	// const rows = unfilteredRows.filter(
 	// 	v => tableRowMatcher.test(v) || h2Matcher.test(v)
 	// );
