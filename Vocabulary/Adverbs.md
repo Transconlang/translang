@@ -3,33 +3,27 @@
 ## Miscellaneous adverbs
 
 | Spelling | English Equivalent | Implication / Definition / Used as |
-|----------|--------------------|--------------------------------|
-| nen | no | logical negation |
+|----------|--------------------|------------------------------------|
 | con | soon |  |
 | huba | overly |  |
-| mayu | very, extremely | |
-| sun | why | interrogative question of cause |
-| tun | because | statement of cause |
+| nen | no | logical negation |
 | saci | how | interrogative question of methodology |
+| sun | why | interrogative question of cause |
 | taci |  | description of methodology |
-| wuroga | WLOG (without loss of generality) | |
+| tun | because | statement of cause |
 
 ## Temporal adverbs
 
-(-hi is the termination for a temporal adverb)
-
 | Spelling | English Equivalent | Implication / Definition / Used as |
-|----------|--------------------|--------------------------------|
-| tahi | now |  |
+|----------|--------------------|------------------------------------|
 | kahi | then |  |
 | sohi | when |  |
+| tahi | now |  |
 
 ## Demonstrative adverbs
 
-(-wa is the termination for a demonstrative adverb)
-
 | Spelling | English Equivalent | Implication / Definition / Used as |
-|----------|--------------------|--------------------------------|
-| tawa | here |  |
+|----------|--------------------|------------------------------------|
 | kawa | there |  |
 | sowa | where |  |
+| tawa | here |  |
