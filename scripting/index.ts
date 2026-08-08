@@ -14,6 +14,8 @@ const TargetDirectory = join(
 	'rawspec'
 );
 
+const StatsFile = join(TargetDirectory, '1-stats.json');
+
 function parseTableRow(row: string): string[] {
 	return row
 		.slice(1, -1)
@@ -229,5 +231,18 @@ await writeFile(
 await writeFile(
 	join(TargetDirectory, '0-catted.json'),
 	JSON.stringify(CattedBigSectionStack, null, '\t'),
+	'utf-8'
+);
+
+await writeFile(
+	StatsFile,
+	JSON.stringify(
+		{
+			totalEntries: CompleteDictionaryStack.length,
+			lastUpdated: new Date().toISOString()
+		},
+		null,
+		'\t'
+	),
 	'utf-8'
 );
