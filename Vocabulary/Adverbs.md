@@ -5,6 +5,7 @@
 | Spelling | English Equivalent | Implication / Definition / Used as |
 |----------|--------------------|------------------------------------|
 | con | soon |  |
+| wuroga | WLOG (without loss of generality) |  |
 | huba | overly |  |
 | mayu | very, extremely |  |
 | nen | no | logical negation |
@@ -12,7 +13,6 @@
 | sun | why | interrogative question of cause |
 | taci |  | description of methodology |
 | tun | because | statement of cause |
-| wuroga | WLOG (without loss of generality) |  |
 
 ## Temporal adverbs
 
