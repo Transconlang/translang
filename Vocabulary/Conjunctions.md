@@ -1,11 +1,11 @@
-# Conjunctions
+undefined
 
 | Spelling | English Equivalent | Implication / Definition / Used as |
 |----------|--------------------|------------------------------------|
-| pum | and | logical conjunction |
-| ron | or | logical disjunction |
 | no | but | logical implication |
+| pum | and | logical conjunction |
 | pumfe | nand | opposite of logical conjunction |
+| ron | or | logical disjunction |
 | ronfe | nor | opposite of logical disjunction |
-| xon | xor | exclusive logical disjunction |
 | sumasu | in order to |  |
+| xon | xor | exclusive logical disjunction |

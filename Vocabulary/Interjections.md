@@ -1,13 +1,13 @@
-# Interjections
+undefined
 
 | Spelling | English Equivalent | Implication / Definition / Used as |
 |----------|--------------------|------------------------------------|
-| sim | yes |  |
-| nen | no |  |
+| biwe | thanks |  |
 | henlo | hello |  |
-| na | hi |  |
+| hihi | laughter |  |
+| ke | ok | confirmation, acknowledgement |
 | konba | goodbye |  |
 | mi | cute |  |
-| ke | ok | confirmation, acknowledgement |
-| biwe | thanks |  |
-| hihi | laughter |  |
+| na | hi |  |
+| nen | no |  |
+| sim | yes |  |

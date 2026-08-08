@@ -1,61 +1,61 @@
-# Adjectives
+undefined
 
 | Spelling | English Equivalent | Implication / Definition / Used as |
-|----------|--------------------|--------------------------------|
-| mi | cute |  |
-| wusita | good |  |
-| disita | bad |  |
-| nen | not |  |
-| toransu | different, other |  |
-| somo | sleepy |  |
-| sekiso | sexy, fuckable |  |
-| deja | active |  |
-| gara | all |  |
-| coko | some |  |
+|----------|--------------------|------------------------------------|
+| anoman | angry |  |
 | boro | any |  |
-| gurati | free (price), autonomous, non-interfered-with | negative freedom |
-| lifeta | liberated | positive freedom |
-| jala | able, capable of |  |
-| mire | mid, average |  |
-| misu | liquid, fluid |  |
-| ten | solid, rigid |  |
-| lufi | gaseous |  |
+| caki | fast |  |
+| cangi | long (time) |  |
+| ciki | short (size) |  |
+| cikihason | quiet, soft |  |
 | cinda | new |  |
-| gunda | old |  |
 | cindajin | modern |  |
-| gundajin | ancient |  |
 | cingun | physically light |  |
 | cingunem | psychologically light |  |
+| coko | some |  |
+| dakun | black, dark |  |
+| dangi | short (time) |  |
+| deja | active |  |
+| disita | bad |  |
+| gara | all |  |
+| garatempu | eternal, everlasting, permanent |  |
+| gunda | old |  |
+| gundajin | ancient |  |
+| gurati | free (price), autonomous, non-interfered-with | negative freedom |
+| hepin | scary |  |
+| jala | able, capable of |  |
+| kanacin | sad |  |
+| kanpekon | perfect, complete |  |
+| kenki | short (height) |  |
+| kuso | exciting |  |
+| lajito | white, light, bright |  |
+| lifeta | liberated | positive freedom |
+| lufi | gaseous |  |
+| mani | slow |  |
+| mayu | very, extremely |  |
+| mi | cute |  |
+| mimi | adorable |  |
+| mire | mid, average |  |
+| miremire | gray |  |
+| misu | liquid, fluid |  |
+| nen | not |  |
+| nidu | necessary |  |
 | qongun | physically heavy |  |
 | qongunem | psychologically heavy |  |
-| anoman | angry |  |
-| teto | large (size) |  |
-| ciki | short (size) |  |
-| kanacin | sad |  |
-| tanocin | happy |  |
-| cangi | long (time) |  |
-| dangi | short (time) |  |
-| tenza | tall (height) |  |
-| kenki | short (height) |  |
-| suci | intelligent |  |
-| mimi | adorable |  |
-| dakun | black, dark |  |
-| lajito | white, light, bright |  |
-| miremire | gray |  |
-| mayu | very, extremely |  |
-| suranto | same |  |
-| kuso | exciting |  |
-| kanpekon | perfect, complete |  |
+| redu | sufficient |  |
+| sekiso | sexy, fuckable |  |
 | senakanpekon | continuous |  |
 | senakanpekonfe | discrete |  |
-| wanoka | most |  |
-| wanofe | least |  |
-| wanore | only |  |
-| nidu | necessary |  |
-| redu | sufficient |  |
-| cikihason | quiet, soft |  |
+| somo | sleepy |  |
+| suci | intelligent |  |
+| suranto | same |  |
+| tanocin | happy |  |
+| ten | solid, rigid |  |
+| tenza | tall (height) |  |
+| teto | large (size) |  |
 | tetohason | loud |  |
-| garatempu | eternal, everlasting, permanent |  |
-| mani | slow |  |
-| caki | fast |  |
-| hepin | scary |  |
+| toransu | different, other |  |
+| wanofe | least |  |
+| wanoka | most |  |
+| wanore | only |  |
+| wusita | good |  |
